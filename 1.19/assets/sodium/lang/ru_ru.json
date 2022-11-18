@@ -6,7 +6,7 @@
   "sodium.option_impact.varies": "Варьируется",
   "sodium.options.pages.quality": "Качество",
   "sodium.options.pages.performance": "Производительность",
-  "sodium.options.pages.advanced": "Дополнительно",
+  "sodium.options.pages.advanced": "Для продвинутых",
   "sodium.options.view_distance.tooltip": "Расстояние рендеринга определяет, насколько далеко будет отрисовываться местность. При малых значениях будет отрисовываться меньше местности, что увеличивает частоту кадров.",
   "sodium.options.simulation_distance.tooltip": "Расстояние симуляции контролирует, на каком расстоянии будут загружаться и вести подсчёт тактов местность и сущности. Малые значения могут снизить нагрузку на внутренний сервер и улучшить частоту кадров.",
   "sodium.options.brightness.tooltip": "Яркость (гамма) игры",
