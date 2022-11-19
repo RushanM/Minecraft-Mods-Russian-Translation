@@ -8,6 +8,9 @@
 Помимо самого русского языка планируется добавить и перевод на другие языки, используемые в России. Пока что среди таких языков в наборе ресурсов лишь татарский.
 
 ## Затрагиваемые модификаций
+<details>
+<summary>Раскрыть</summary>
+
 ### Эмодзи-статусы
 * ❌ — перевода нет
 * ✏️ — перевод присутствует в наборе, но недоделан
@@ -58,5 +61,10 @@
 | xaeroworldmap                | ❌ ???                | ❌ ???                | ❌ ???                |
 | YDM's Glare                  | ❌ Будет в версии 1.2 | ❌ Будет в версии 1.0 | ❌ Будет в версии 1.1 |
 | Yippee                       | ❌ Будет в версии 1.3 | ❌ Будет в версии 1.1 | ❌ Будет в версии 1.3 |
+</details>
 
-Страница в CurseForge: https://www.curseforge.com/minecraft/texture-packs/forge-mods-ru-ru
+# Ссылки
+* ВКонтакте: https://vk.com/mc4444
+* CurseForge: https://www.curseforge.com/minecraft/texture-packs/forge-mods-ru-ru
+* Modrinth: https://modrinth.com/resourcepack/mods-ru
+
