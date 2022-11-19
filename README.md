@@ -63,7 +63,7 @@
 | Yippee                       | ❌ Будет в версии 1.3 | ❌ Будет в версии 1.1 | ❌ Будет в версии 1.3 |
 </details>
 
-# Ссылки
+## Ссылки
 * ВКонтакте: https://vk.com/mc4444
 * CurseForge: https://www.curseforge.com/minecraft/texture-packs/forge-mods-ru-ru
 * Modrinth: https://modrinth.com/resourcepack/mods-ru
