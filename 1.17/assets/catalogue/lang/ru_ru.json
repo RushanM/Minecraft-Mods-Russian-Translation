@@ -1,5 +1,5 @@
 {
-    "fml.menu.mods.filter_updates": "Показывать только те модификации, для которых доступно обновление",
-    "catalogue.gui.no_selection": "Никакой мод не выбран...",
+    "fml.menu.mods.filter_updates": "Показывать только модификации с доступными обновлениями",
+    "catalogue.gui.no_selection": "Ничего не выбрано...",
     "catalogue.gui.info": "Это меню было переработано Catalogue. Нажмите здесь, чтобы открыть её страницу на CurseForge!"
 }
