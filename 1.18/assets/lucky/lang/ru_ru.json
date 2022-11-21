@@ -1,14 +1,14 @@
 {
-    "block.lucky.lucky_block": "Лаки-блок",
+    "block.lucky.lucky_block": "Блок удачи",
     "item.lucky.lucky_block.luck": "Удача",
     "item.lucky.lucky_block.customDrop": "Имеет заданные предметы для выпадения",
 
-    "item.lucky.lucky_sword": "Лаки-меч",
-    "item.lucky.lucky_bow": "Лаки-лук",
-    "item.lucky.lucky_potion": "Лаки-зелье",
+    "item.lucky.lucky_sword": "Удачный меч",
+    "item.lucky.lucky_bow": "Удачный лук",
+    "item.lucky.lucky_potion": "Удачное зелье",
 
-    "block.lucky.lucky_block.veryLucky": "Очень удачливый лаки-блок",
-    "block.lucky.lucky_block.unlucky": "Неудачливый лаки-блок",
-    "item.lucky.lucky_potion.veryLucky": "Очень удачливое лаки-зелье",
-    "item.lucky.lucky_potion.unlucky": "Неудачливое лаки-зелье"
+    "block.lucky.lucky_block.veryLucky": "Удаченосный блок",
+    "block.lucky.lucky_block.unlucky": "Бедоносный блок",
+    "item.lucky.lucky_potion.veryLucky": "Удаченосное зелье",
+    "item.lucky.lucky_potion.unlucky": "Бедоносное зелье"
 }
