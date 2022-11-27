@@ -3,7 +3,7 @@
 <a href="https://vk.com/mc4444"><img height="38" src="vk_vector.svg"></a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/forge-mods-ru-ru"><img height="38" src="curseforge_vector.svg"></a>
 <a href="https://modrinth.com/resourcepack/mods-ru"><img height="38" src="modrinth_vector.svg"></a>
-<a href="https://www.npmjs.com/package/@intergrav/devins-badges"><img height="38" src="generic-singular_vector.svg"></a>
+<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F"><img height="38" src="generic-singular_vector.svg"></a>
 </div>
 
 Русский перевод многих модификаций для Minecraft меня не устраивал, либо он вовсе отсутствовал, и поэтому я решил заняться их переводом сам.
