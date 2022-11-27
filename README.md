@@ -30,3 +30,11 @@
 | Enchantment Descriptions | ✅ Русский                 | ❌ Будет в версии 1.2 | ❌ Будет в версии 1.1 |
 
 Список будет пополняться.
+
+## Авторы
+
+#### [Рушан Мухутдинов](https://github.com/RushanM)
+Создатель проекта, делает большую часть всей работы
+
+#### [UltraStorm](https://github.com/intergrav)
+Создал дизайн [красивых кнопок](https://github.com/intergrav/devins-badges), используемых в этом README
