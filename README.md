@@ -1,7 +1,7 @@
 <div align="center">
 <img src="preview.png">
 <a href="https://vk.com/mc4444"><img height="38" src="vk_vector.svg"></a>
-<a href="https://www.curseforge.com/minecraft/texture-packs/forge-mods-ru-ru"><img height="38" src="curseforge_vector.svg"></a>
+<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru"><img height="38" src="curseforge_vector.svg"></a>
 <a href="https://modrinth.com/resourcepack/mods-ru"><img height="38" src="modrinth_vector.svg"></a>
 <a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC"><img height="38" src="generic-singular_vector.svg"></a>
 </div>
