@@ -717,7 +717,7 @@
   "jei.appliedenergistics2.missing_id": "Невозможно идентифицировать рецепт",
   "jei.appliedenergistics2.missing_items": "Недостающие предметы будут пропущены",
   "jei.appliedenergistics2.no_output": "Рецепт не имеет выхода",
-  "jei.appliedenergistics2.recipe_too_large": "Рецепт больше, чем 3x3",
+  "jei.appliedenergistics2.recipe_too_large": "Рецепт больше, чем 3 × 3",
   "jei.appliedenergistics2.requires_processing_mode": "Требуется режим обработки",
   "key.appliedenergistics2.category": "Applied Energistics 2",
   "key.toggle_focus.desc": "Переключить фокус поля поиска",
