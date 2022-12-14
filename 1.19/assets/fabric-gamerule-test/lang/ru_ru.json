@@ -1,0 +1,17 @@
+{
+  "gamerule.cardinalDirection": "Случайное кардинальное направление",
+  "gamerule.cardinalDirection.description": "Кардинальное направление. Никогда не должно быть вверх или вниз.",
+  "gamerule.cardinalDirection.north": "Северное направление",
+  "gamerule.cardinalDirection.south": "Южное направление",
+  "gamerule.cardinalDirection.east": "Восточное направление",
+  "gamerule.cardinalDirection.west": "Западное направление",
+
+  "gamerule.redSleepFailureEnum": "Почему я не лёг спать",
+  "gamerule.redSleepFailureEnum.description": "Постельные клопы — просто мерзость, чел",
+  "gamerule.redSleepFailureEnum.not_possible_here": "Не здесь",
+  "gamerule.redSleepFailureEnum.not_possible_now": "Не сейчас",
+  "gamerule.redSleepFailureEnum.too_far_away": "Слишком далеко",
+  "gamerule.redSleepFailureEnum.obstructed": "Доступ затруднён",
+  "gamerule.redSleepFailureEnum.other_problem": "Другая проблема",
+  "gamerule.redSleepFailureEnum.not_safe": "Небезопасно"
+}

@@ -1,0 +1,6 @@
+{
+  "pack.source.fabricmod": "Модификация Fabric",
+  "pack.source.builtinMod": "встроенная: %s",
+  "pack.name.fabricMod": "Модификация Fabric «%s»",
+  "pack.name.fabricMods": "Модификации Fabric"
+}
