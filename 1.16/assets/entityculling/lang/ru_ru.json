@@ -1,0 +1,6 @@
+{
+  "text.entityculling.title"                    : "EntityCulling",
+  "key.entityculling.toggle"                    : "Отладить переключение состояния выбраковки",
+  "modmenu.summaryTranslation.entityculling"    : "Использует асинхронную трассировку пути для скрытия тайлов и сущностей, которые не видны",
+  "modmenu.descriptionTranslation.entityculling": "Использует асинхронную трассировку пути для скрытия тайлов и сущностей, которые не видны"
+}

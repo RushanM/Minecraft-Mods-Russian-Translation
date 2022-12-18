@@ -67,7 +67,7 @@
   "fml.modloading.brokenfile.invalidzip": "Файл {2} не является файлом JAR",
   "fml.modloading.brokenresources": "Файл {2} не смог загрузить действительный ResourcePackInfo",
   "fml.modloading.missinglicense": "Отсутствует информация о лицензии в файле {3}",
-  "fml.resources.modresources": "Ресурсы для {0} файлов модификации",
+  "fml.resources.modresources": "\u00A77Ресурсы {0} модификаций",
   "fml.messages.artifactversion.ornotinstalled":"{0,ornull,fml.messages.artifactversion.notinstalled}",
   "fml.messages.artifactversion":"{0,ornull,fml.messages.artifactversion.none}",
   "fml.messages.artifactversion.none":"нет",

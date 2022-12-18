@@ -1,0 +1,10 @@
+{
+  "raised.title"                         : "Raised",
+  "raised.down"                          : "Передвинуть HUD выше",
+  "raised.up"                            : "Передвинуть HUD ниже",
+  "raised.offset.down"                   : "Передвинуть чат ниже",
+  "raised.offset.up"                     : "Передвинуть чат выше",
+  "raised.reset"                         : "Вернуть значения по умолчанию",
+  "modmenu.summaryTranslation.raised"    : "Поднимает HUD, чтобы не обрезался квадратик выделения!",
+  "modmenu.descriptionTranslation.raised": "Поднимает HUD, чтобы не обрезался квадратик выделения!"
+}
