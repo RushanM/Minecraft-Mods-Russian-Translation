@@ -1,17 +1,13 @@
 # Русский перевод модификаций для Minecraft Рушана Мухутдинова
 
 <div align="center">
-<img src="Разное/preview.png">
-<a href="https://vk.com/mc4444"><img height="38" src="Разное/vk.svg">
-</a>
-<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru"><img height="38" src="Разное/curseforge.svg">
-</a>
-<a href="https://modrinth.com/resourcepack/mods-ru"><img height="38" src="Разное/modrinth.svg">
-</a>
-<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC"><img height="38" src="Разное/translate.svg">
-</a>
+    <img src="Разное/preview.png">
+    <br>
+    <br>
+    <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
+        <img height="38" src="Разное/translate.svg">
+    </a>-->
 </div>
-<br>
 
 Меня не устраивало то, какой обычно бывает перевод на русский в модах для Minecraft, и поэтому я решил сам улучшить их переводы, а также добавить русский перевод туда, где его нет.
 
@@ -22,25 +18,76 @@
 ## ⚙️ Что затронуто
 
 * `1.16`, `1.17`, `1.18`, `1.19` — версии игры;
-* `1.0`, `1.1` — версии ресурспака;
 * ❌ — перевода пока нет;
 * ✅ — перевод готов;
 * ✏️ — перевод присутствует в наборе, но недоделан и пока что использует русский язык в непереведённых местах.
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 |
 | - | - | - | - | - |
-| [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ✅ Русский<br>✏️ Татарский | ❌ | ❌ |
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
+| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский | ❌ | ❌ | ❌ |
+| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
+| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский | ❌ | ❌ | ✅ Русский |
+| [Raised](https://modrinth.com/mod/raised) | ✅ Русский | ❌ | ❌ | ❌ |
+| [EntityCulling](https://modrinth.com/mod/entityculling) | ✅ Русский | ❌ | ❌ | ❌ |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский |
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ |
+| [Lucky Block](https://www.luckyblockmod.com/) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
+| [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Русский | ❌ |
+| [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ❌ |
+| [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
+| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский |
+| [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ |
 
 Список будет пополняться.
 
+## 🚀 Установка
+
+Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
+
+<a href="https://vk.com/mc4444">
+    <img height="38" src="Разное/vk.svg">
+</a>
+
+<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
+    <img height="38" src="Разное/curseforge.svg">
+</a>
+<br>
+<a href="https://modrinth.com/resourcepack/mods-ru">
+    <img height="38" src="Разное/modrinth.svg">
+</a>
+
+<br>
+
+> Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!
+
+### Версии
+
+Есть несколько версий набора и я приписываю к каждой версии свой номер. Например, «1.18-1.0» в названии набора расшифровывается как «редакция 1.0 для Minecraft 1.18». Я не могу разом перевести все модификации, и поэтому выпускаю набор этими самыми *редакциями* — пачками переводов для конкретных модификаций, которые я успел перевести. Первая редакция несёт номер 1.0, вторая 1.1, и каждая последующая редакция содержит переводы с прежней с изменениями или без, но обязательно с добавлением новых переводов.
+
+<!-- ### Скачивание
+
+Поместите скачанный архив в папку resourcepacks в папке .minecraft.
+
+Включите набор в игре. -->
+
+### Порядок
+
+Чтобы набор имел возможность изменять перевод модификаций, он должен стоять выше набора ресурсов модификаций. Например, у Forge он называется Mod Resources.
+
+<div align="center">
+    <img height="200" src="Разное/order.png">
+</div>
+
 ## 📛 Авторы
 
-* [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот ресурспак;
-* [**UltraStorm**](https://github.com/intergrav): Создал дизайн [красивых кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
+* [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот набор ресурсов;
+* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл модификации *[Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)*, *[Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)* и *[Rotten Creatures](https://modrinth.com/mod/rottencreatures)* на русский язык;
+* [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
