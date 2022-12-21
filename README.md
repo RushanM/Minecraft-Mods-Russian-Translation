@@ -13,18 +13,17 @@
 
 Это набор ресурсов, разрабатываемый для версий 1.16, 1.17, 1.18 и 1.19 Minecraft, затрагивающий перевод модов, сделанных под загрузчики Forge, Fabric и Quilt.
 
-Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России. Например, на татарский.
+Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России. Например, в некоторых из версий набора уже присутствуют переводы некоторых модификаций на татарский.
 
 ## ⚙️ Что затронуто
 
 * `1.16`, `1.17`, `1.18`, `1.19` — версии игры;
 * ❌ — перевода пока нет;
-* ✅ — перевод готов;
-* ✏️ — перевод присутствует в наборе, но недоделан и пока что использует русский язык в непереведённых местах.
+* ✅ — перевод готов.
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 |
 | - | - | - | - | - |
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский | ❌ | ❌ | ❌ |
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ |
@@ -39,12 +38,13 @@
 | [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Русский | ❌ | ❌ |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ |
-| [Lucky Block](https://www.luckyblockmod.com/) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
+| [Lucky Block](https://www.luckyblockmod.com) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Русский | ❌ |
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ❌ |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ❌ | ✅ Русский | ❌ | ❌ |
 
 Список будет пополняться.
 
@@ -89,5 +89,5 @@
 ## 📛 Авторы
 
 * [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот набор ресурсов;
-* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл модификации *[Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)*, *[Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)* и *[Rotten Creatures](https://modrinth.com/mod/rottencreatures)* на русский язык;
+* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл модификации [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) и [Rotten Creatures](https://modrinth.com/mod/rottencreatures) на русский язык;
 * [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
