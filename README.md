@@ -21,6 +21,10 @@
 
 ## ⚙️ Что затронуто
 
+<details>
+<summary>Раскрыть список</summary>
+<br>
+
 * `1.16`, `1.17`, `1.18`, `1.19` — версии игры;
 * ❌ — перевода пока нет;
 * ✅ — перевод готов.
@@ -52,6 +56,8 @@
 
 Список будет пополняться.
 
+</details>
+
 ## 🚀 Установка
 
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
@@ -59,16 +65,12 @@
 <a href="https://vk.com/mc4444">
     <img height="38" src="Разное/vk.svg">
 </a>
-
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Разное/curseforge.svg">
 </a>
-<br>
 <a href="https://modrinth.com/resourcepack/mods-ru">
     <img height="38" src="Разное/modrinth.svg">
 </a>
-
-<br>
 
 > Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!
 
@@ -95,3 +97,13 @@
 * [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот набор ресурсов;
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл модификации [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) и [Rotten Creatures](https://modrinth.com/mod/rottencreatures) на русский язык;
 * [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
+
+## 💝 Материальная поддержка
+
+Если моя работа нравится вам настолько, что вы готовы отправить мне деньги, вы можете сделать это по следующим ссылкам:
+
+* ЮMoney: <https://yoomoney.ru/to/410015215253910>;
+* QIWI: <https://qiwi.com/n/LAWEE042>;
+* VK Pay: <https://vk.me/moneysend/rushandev>.
+
+Буду благодарен за любой рубль!

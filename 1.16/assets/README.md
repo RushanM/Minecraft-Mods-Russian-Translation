@@ -4,7 +4,7 @@
 
 ### Готовые переводы на русский
 
-8 модификаций
+10 модификаций
 
 |  | Название | Кодовое | Версия |
 | - | - | - | - |
@@ -16,6 +16,8 @@
 | 6 | EntityCulling | entityculling | 1.5.2 |
 | 7 | AppleSkin | appleskin | 2.4 |
 | 8 | ChatHeads | chatheads | 0.6 |
+| 9 | Configured | configured | 1.5.3 |
+| 10 | Catalogue | catalogue | 1.6.1 |
 
 ### Переводы на русский в процессе
 
