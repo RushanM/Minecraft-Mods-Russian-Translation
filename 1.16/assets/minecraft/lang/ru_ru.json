@@ -1,5 +1,5 @@
 {
-	"controls.resetAll": "Сброс всего",
+	"controls.resetAll"          : "Сброс всего",
 	"options.biomeBlendRadius.17": "17 × 17 (большой)",
 	"options.biomeBlendRadius.19": "19 × 19 (очень большой)",
 	"options.biomeBlendRadius.21": "21 × 21 (огромный)",

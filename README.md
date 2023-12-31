@@ -13,7 +13,7 @@
 
 Это набор ресурсов, разрабатываемый для версий 1.16, 1.17, 1.18 и 1.19 Minecraft, затрагивающий перевод модов, сделанных под загрузчики Forge, Fabric и Quilt.
 
-Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России. Например, в некоторых из версий набора уже присутствуют переводы некоторых модификаций на татарский.
+Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России, Белоруссии и Украине. Так, в некоторых из версий набора уже присутствуют переводы некоторых модификаций на татарский или украинский.
 
 ## ⚙️ Что затронуто
 
@@ -29,26 +29,29 @@
 | - | - | - | - | - |
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский | ❌ | ❌ | ✅ Русский |
-| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ✅ Русский | ✅ Русский | ❌ | ❌ |
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский |
 | [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский | ❌ | ❌ | ✅ Русский |
 | [Raised](https://modrinth.com/mod/raised) | ✅ Русский | ❌ | ❌ | ❌ |
-| [EntityCulling](https://modrinth.com/mod/entityculling) | ✅ Русский | ❌ | ❌ | ❌ |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | ✅ Русский | ❌ | ❌ | ❌ |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ |
-| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ✅ Русский | ✅ Русский | ❌ | ❌ |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ Русский | ✅ Русский | ❌ | ❌ |
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ✅ Русский | ✅ Русский | ❌ | ❌ |
+| [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ✅ Русский | ✅ Русский | ❌ | ❌ |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ |
-| [Lucky Block](https://www.luckyblockmod.com) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
+| [Lucky Block](https://www.luckyblockmod.com) | ✅ Русский<br>✅ Татарский | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Русский | ✅ Русский |
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ✅ Русский |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ |
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ |
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ❌ | ✅ Русский | ❌ | ❌ |
+| [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ✅ Русский | ❌ | ❌ | ❌ |
+| [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ✅ Русский |
+
 
 Список будет пополняться.
 
@@ -92,7 +95,8 @@
 
 * [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот набор ресурсов;
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл модификации [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) и [Rotten Creatures](https://modrinth.com/mod/rottencreatures) на русский язык;
-* [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
+* [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README;
+* [**Inqurity**](https://github.com/Inqurity): Перевёл модификацию Idwtialsimmoedm на русский язык и модификацию MidnightControls на украинский.
 
 ## 💝 Материальная поддержка
 
