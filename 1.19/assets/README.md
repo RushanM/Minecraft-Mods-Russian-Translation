@@ -4,7 +4,7 @@
 
 ### Готовые переводы на русский
 
-8 модификаций
+9 модификаций
 
 | | Название | Кодовое | Версия |
 | - | - | - | - |
@@ -16,3 +16,4 @@
 | 6 | Simple Corinthium | simplecorinthium | 1.2.2 |
 | 7 | Simple Weapons for Better Combat | simple_weapons | 1.1.4 |
 | 8 | Rotten Creatures | rottencreatures | 1.0.1 |
+| 9 | I didn't want to install a library so I made my own Enchantment Descriptions mod | idwtialsimmoedm | 0.2 |
