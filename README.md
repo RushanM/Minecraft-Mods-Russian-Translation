@@ -94,8 +94,14 @@
 ## 📛 Авторы
 
 * [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот набор ресурсов;
-* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл модификации [*Simple Corinthium*](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), [*Simple Weapons for Better Combat*](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) и [*Rotten Creatures*](https://modrinth.com/mod/rottencreatures) на русский язык;
-* [**Inqurity**](https://github.com/Inqurity): Перевёл модификацию [*Idwtialsimmoedm*](https://modrinth.com/mod/idwtialsimmoedm) на русский язык и модификацию [*MidnightControls*](https://modrinth.com/mod/midnightcontrols) на украинский;
+* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский модификации 
+* * [*Simple Corinthium*](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), 
+* * [*Simple Weapons for Better Combat*](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat),
+* * [*Rotten Creatures*](https://modrinth.com/mod/rottencreatures);
+* [**Inqurity**](https://github.com/Inqurity): Перевёл на русский и украинский модификации
+* * [*Idwtialsimmoedm*](https://modrinth.com/mod/idwtialsimmoedm), 
+* * [*MidnightControls*](https://modrinth.com/mod/midnightcontrols), 
+* * [*e4mc*](https://modrinth.com/mod/e4mc);
 * [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
 
 ## 💝 Материальная поддержка
