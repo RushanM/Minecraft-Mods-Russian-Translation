@@ -4,16 +4,17 @@
 
 | Название | Кодовое | Версия |
 | - | - | - |
-| Forge | forge | 40 |
-| Mod Menu | modmenu | 3.2.5 |
-| Lucky Block | lucky | 13.1 |
-| Simple Corinthium | simplecorinthium | 1.2.2 |
 | Additional Additions | additionaladditions | 4.0.5 |
-| Simple Weapons for Better Combat | simple_weapons | 1.1.4 |
-| Rotten Creatures | rottencreatures | 1.0 |
 | Domestication Innovation | domesticationinnovation | 1.4.2 |
-| Immersive Petroleum | immersivepetroleum | 4.0-16 |
+| e4mc | e4mc_minecraft | 4.0.1 |
+| Forge | forge | 40 |
 | I didn't want to install a library so I made my own Enchantment Descriptions mod | idwtialsimmoedm | 0.1.1 |
+| Immersive Petroleum | immersivepetroleum | 4.0-16 |
+| Lucky Block | lucky | 13.1 |
+| Mod Menu | modmenu | 3.2.5 |
+| Rotten Creatures | rottencreatures | 1.0 |
+| Simple Corinthium | simplecorinthium | 1.2.2 |
+| Simple Weapons for Better Combat | simple_weapons | 1.1.4 |
 
 ### 🟢 Готовые переводы на татарский
 
