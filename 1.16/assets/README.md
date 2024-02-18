@@ -26,7 +26,6 @@
 | Название | Кодовое |
 | - | - |
 | Applied Energistics 2 | appliedenergistics2 |
-| Ice and Fire: Dragons in a whole new light! |  |
 
 ### 🟢 Готовые переводы на татарский
 
