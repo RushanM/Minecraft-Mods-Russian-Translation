@@ -1,7 +1,7 @@
 {
-    "text.e4mc_minecraft.domainAssigned": "Локальная игра публично доступна по адресу [%s]",
-    "text.e4mc_minecraft.closeServer": "Локальная игра больше публично не доступна",
-    "text.e4mc_minecraft.serverAlreadyClosed": "Сервер уже закрыт",
-    "text.e4mc_minecraft.clickToStop": " (Нажмите здесь чтобы остановить)",
-    "text.e4mc_minecraft.error": "Произошла непредвиденная ошибка e4mc"
+    "text.e4mc_minecraft.domainAssigned": "Мир открыт для всемирной сети по адресу [%s]",
+    "text.e4mc_minecraft.closeServer": "Мир закрыт от всемирной сети",
+    "text.e4mc_minecraft.serverAlreadyClosed": "Мир не размещён на сервере",
+    "text.e4mc_minecraft.clickToStop": " (Нажмите здесь, чтобы закрыть)",
+    "text.e4mc_minecraft.error": "Произошла ошибка e4mc"
 }

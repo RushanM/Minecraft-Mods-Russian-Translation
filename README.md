@@ -30,13 +30,13 @@
 | [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ❌ | ✅ Русский | ❌ | ❌ | ❌
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
+| [Automatic Tool Swap](https://modrinth.com/mod/automatic-tool-swap) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ | ❌
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
-| [Controlling](https://beta.curseforge.com/minecraft/mc-mods/controlling) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
+| [Controlling](https://modrinth.com/mod/controlling) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ | ❌
 | [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский |
@@ -93,7 +93,7 @@
 
 ## 📛 Авторы
 
-* [**Рушан Мухутдинов**](https://github.com/RushanM): Делает этот набор ресурсов;
+* [**Дефлекта**](https://github.com/RushanM) (Рушан Мухутдинов): Делает этот набор ресурсов;
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский модификации 
 * * [*Simple Corinthium*](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), 
 * * [*Simple Weapons for Better Combat*](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat),
