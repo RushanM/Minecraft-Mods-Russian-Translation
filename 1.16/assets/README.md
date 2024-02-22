@@ -32,3 +32,4 @@
 | Название | Кодовое | Синхронизирован с версией модификации |
 | - | - | - |
 | Applied Energistics 2 | appliedenergistics2 | 8.4.7 |
+| Forge | forge |  |

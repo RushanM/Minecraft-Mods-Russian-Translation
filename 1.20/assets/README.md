@@ -12,6 +12,8 @@
 | Название | Кодовое | Версия |
 | - | - | - |
 | Cobblemon | cobblemon | 1.4.1 |
+| Additional Additions | additionaladditions | 6.1.0 |
+| NeoForge | neoforge | 20.4 |
 
 ### 🟡 Готовые переводы на украинский
 

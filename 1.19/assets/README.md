@@ -15,6 +15,12 @@
 | Simple Weapons for Better Combat | simple_weapons | 1.1.4 |
 | Smooth Boot | smoothboot | 1.7.1 |
 
+### 🔴 Переводы на русский в процессе
+| Название | Кодовое | Версия |
+| - | - | - |
+| Xaero's Minimap | xaerobetterpvp<br>xaerominimap | 23.9.3 |
+| Xaero's World Map | xaeroworldmap | 1.37.8 |
+
 ### 🟡 Готовые переводы на украинский
 
 | Название | Кодовое | Версия |
