@@ -1,0 +1,8 @@
+{
+    "category.modmenu.name": "Mod Menu",
+    "key.modmenu.open_menu": "Открыть Mod Menu",
+    "modmenu.descriptionTranslation.modmenu": "Добавляет меню модификаций для просмотра списка установленных модификаций.",
+    "modmenu.loaded": "(%s загружено)",
+    "modmenu.nameTranslation.modmenu": "Mod Menu",
+    "modmenu.title": "Модификации"
+}
