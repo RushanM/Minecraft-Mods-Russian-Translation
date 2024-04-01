@@ -17,12 +17,12 @@
 | Entity Culling | entityculling | 1.6.3.1 |
 | Iris Shaders | iris | 1.6.17 |
 | Mod Menu | modmenu | 9.0 |
+| NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta |
 | NeoForge | neoforge | 20.4 |
+| Nevermore | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta |
 | Sodium | sodium | 0.5.8 |
 | Sodium Extra | sodium-extra | 0.5.4 |
 | Tech Reborn | techreborn | 5.10.3 |
-| NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta |
-| Nevermore | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta |
 
 ### 🟡 Готовые переводы на украинский
 
