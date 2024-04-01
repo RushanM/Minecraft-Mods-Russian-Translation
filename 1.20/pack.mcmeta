@@ -1,6 +1,11 @@
 {
-	"pack": {
-		"pack_format": 22,
-		"description": "\u00A77Перевод модификаций от Рушана Мухутдинова 1.20-1.0"
-	}
+    "pack": {
+        "description": "§7Автор: Дефлекта. Редакция 1.0 для Minecraft 1.20.x.",
+        "name": "Русификатор модификаций",
+        "pack_format": 22,
+        "supported_formats": {
+            "max_inclusive": 22,
+            "min_inclusive": 15
+        }
+    }
 }
