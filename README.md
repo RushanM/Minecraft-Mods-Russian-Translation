@@ -143,7 +143,7 @@
 
 Если моя работа нравится вам настолько, что вы готовы отправить мне деньги, можно сделать это по следующим ссылкам:
 
+* VK Pay: <https://vk.me/moneysend/deflecta>
 * ЮMoney: <https://yoomoney.ru/to/410015215253910>
-* VK Pay: <https://vk.me/moneysend/rushandev>
 
 Буду благодарен за каждый рубль!
