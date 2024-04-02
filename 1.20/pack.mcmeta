@@ -1,11 +1,11 @@
 {
     "pack": {
-        "description": "§7Автор: Дефлекта. Редакция 1.0 для Minecraft 1.20.x.",
+        "description": "§7Автор: Дефлекта. Редакция 1.1 для Minecraft 1.20.x.",
         "name": "Русификатор модификаций",
-        "pack_format": 22,
+        "pack_format": 15,
         "supported_formats": {
-            "max_inclusive": 22,
-            "min_inclusive": 15
+            "max_inclusive": 31,
+            "min_inclusive": 14
         }
     }
 }

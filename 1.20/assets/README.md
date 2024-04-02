@@ -5,15 +5,19 @@
 | Название | Кодовое | Версия |
 | - | - | - |
 | All the Fan Made Discs | all_the_fan_made_discs | 0.5.6 |
+| Bad Wither No Cookie - Reloaded | bwncr | 3.17 |
+| Clear Despawn | cleardespawn | 1.1.15 |
 | Cloth Config API | cloth-config2 | 13.0.121 |
+| Cosmetic Armor | cosmetic-armor | 1.6 |
 | e4mc | e4mc_minecraft | 4.0.1 |
 | Endless Music | endless_music | 1.1 |
 | Entity Culling | entityculling | 1.6.3.1 |
+| Idwtialsimmoedm | idwtialsimmoedm | 0.3 |
+| Make Bubbles Pop | make_bubbles_pop | 0.2 |
 | Mica | mica | 1.0.1 |
 | More Music Discs | morediscs | 33 |
 | Thigh highs etc. | thigh_highs_etc | 1.0.4 |
 | Tool Stats | toolstats | 16.0.7 |
-
 
 ### 🔴 В процессе перевода на русский
 
