@@ -26,6 +26,7 @@
 | NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta |
 | NeoForge | neoforge | 20.4 |
 | Nevermore! | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta |
+| Rats | rats | 8.1.2 |
 | Sodium | sodium | 0.5.8 |
 | Sodium Extra | sodium-extra | 0.5.4 |
 | Tech Reborn | techreborn | 5.10.3 |
