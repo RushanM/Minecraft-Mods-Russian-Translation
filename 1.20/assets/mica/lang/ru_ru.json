@@ -19,15 +19,15 @@
     "mica.category.general.corner_preference.type.round": "Округление",
     "mica.category.general.corner_preference.type.round_small": "Малое округление",
     "mica.category.general.system_backdrop_type": "Материал окна",
-    "mica.category.general.system_backdrop_type.description": "Позволяет выбрать системный фоновый материал для окна, доступный в Windows 11",
+    "mica.category.general.system_backdrop_type.description": "Позволяет выбрать системный фоновый материал для окна, доступный в Windows 11.",
     "mica.category.general.system_backdrop_type.description2": "(Поддерживается начиная с Windows 11 build 22621.)",
-    "mica.category.general.system_backdrop_type.type.acrylic": "Акриловый материал",
+    "mica.category.general.system_backdrop_type.type.acrylic": "Акриловый",
     "mica.category.general.system_backdrop_type.type.auto": "Автоматически",
-    "mica.category.general.system_backdrop_type.type.mica": "Материал «Мика»",
+    "mica.category.general.system_backdrop_type.type.mica": "Мика",
     "mica.category.general.system_backdrop_type.type.none": "Откл.",
     "mica.category.general.system_backdrop_type.type.tabbed": "UI с вкладками",
     "mica.category.general.use_immersive_dark_mode": "Иммерсивный тёмный режим",
-    "mica.category.general.use_immersive_dark_mode.description": "Включает «иммерсивный темный режим»",
+    "mica.category.general.use_immersive_dark_mode.description": "Включает «иммерсивный тёмный режим»",
     "mica.category.title_text": "Текст шапки",
     "mica.category.title_text.text_color": "Цвет текста шапки",
     "mica.category.title_text.text_color.description": "Позволяет изменить цвет текста шапки",
@@ -38,5 +38,5 @@
     "mica.missing_yacl.title": "YetAnotherConfigLib не установлена!!",
     "mica.unsupported_os.description": "%s доступен только начиная с версии Windows 11 21H2 (22000)",
     "mica.unsupported_os.title": "Неподдерживаемая ОС",
-    "modmenu.descriptionTranslation.mica": "Включите материал «Мика» или акрил на Windows 11 21H2 22000 и позже"
+    "modmenu.descriptionTranslation.mica": "Включает материал «Мика» или акрил на Windows 11 21H2 22000 и позже"
 }
