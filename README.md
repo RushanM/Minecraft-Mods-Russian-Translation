@@ -83,7 +83,7 @@
 
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 
-<a href="https://vk.com/mc4444">
+<a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
