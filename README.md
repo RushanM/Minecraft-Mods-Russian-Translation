@@ -48,6 +48,7 @@
 | [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ✅ Русский | ❌ | ❌ | ❌ | ✅ Русский
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ✅ Русский | ✅ Русский
@@ -73,6 +74,7 @@
 | [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Русский | ✅ Русский | ✅ Русский | ❌ В процессе
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Tool Stats](https://modrinth.com/mod/tool-stats) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 
 Список будет пополняться.

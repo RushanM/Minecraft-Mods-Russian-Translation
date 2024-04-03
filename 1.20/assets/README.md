@@ -11,12 +11,14 @@
 | Cosmetic Armor | cosmetic-armor | 1.6 |
 | e4mc | e4mc_minecraft | 4.0.1 |
 | Endless Music | endless_music | 1.1 |
+| Enhanced Attack Indicator | enhanced_attack_indicator | 1.0.4 |
 | Entity Culling | entityculling | 1.6.3.1 |
 | Idwtialsimmoedm | idwtialsimmoedm | 0.3 |
 | Make Bubbles Pop | make_bubbles_pop | 0.2 |
 | Mica | mica | 1.0.1 |
 | More Music Discs | morediscs | 33 |
 | Thigh highs etc. | thigh_highs_etc | 1.0.4 |
+| Title Fixer | titlefixer | 1.0 |
 | Tool Stats | toolstats | 16.0.7 |
 
 ### 🔴 В процессе перевода на русский

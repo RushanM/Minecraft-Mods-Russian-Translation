@@ -18,9 +18,8 @@
 ### 🔴 Переводы на русский в процессе
 | Название | Кодовое | Версия |
 | - | - | - |
+| ChoiceTheorem's Overhauled Village | ctov |  |
 | Regions Unexplored | regions_unexplored |  |
-| Xaero's Minimap | xaerobetterpvp<br>xaerominimap | 23.9.3 |
-| Xaero's World Map | xaeroworldmap | 1.37.8 |
 
 ### 🟡 Готовые переводы на украинский
 
