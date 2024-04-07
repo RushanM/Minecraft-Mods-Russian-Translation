@@ -45,6 +45,7 @@
 | [Controlling](https://modrinth.com/mod/controlling) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ | ❌
 | [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
@@ -55,6 +56,7 @@
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ✅ Русский | ✅ Русский
 | [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ✅ Русский | ❌ | ❌ | ❌ | ❌
 | [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | ❌ | ❌ | ❌ В процессе | ❌ В процессе | ❌ В процессе
 | [Litematica](https://litematica.org) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Look](https://modrinth.com/mod/look) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ✅ Русский<br>✅ Татарский | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌
@@ -64,6 +66,7 @@
 | [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский | ❌ В процессе
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [NEEPMeat](https://modrinth.com/mod/neepmeat) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Neighborly](https://www.curseforge.com/minecraft/mc-mods/neighborly) | ❌ | ❌ | ❌ | ❌ В процессе | ❌ В процессе
 | [NeoForge](https://neoforged.net) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Nevermore!](https://modrinth.com/datapack/nevermore) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Raised](https://modrinth.com/mod/raised) | ✅ Русский | ❌ | ❌ | ❌ | ❌
@@ -81,6 +84,7 @@
 | [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Tool Stats](https://modrinth.com/mod/tool-stats) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 
 Список будет пополняться.
 
