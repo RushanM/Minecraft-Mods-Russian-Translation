@@ -4,6 +4,7 @@
 
 | Название | Кодовое | Версия |
 | - | - | - |
+| AFMP: A Few More Plushies | afmp_a_few_more_plushies | 1.0.1 |
 | AppleSkin | appleskin | 2.4.1 |
 | Controlling | controlling<br>minecraft | 10+7 |
 | e4mc | e4mc_minecraft | 4.0.1 |
@@ -14,11 +15,14 @@
 | Simple Corinthium | simplecorinthium | 1.2.2 |
 | Simple Weapons for Better Combat | simple_weapons | 1.1.4 |
 | Smooth Boot | smoothboot | 1.7.1 |
+| Sulfur Based Weapon Development | sbwd | 0.0.1 |
 
 ### 🔴 Переводы на русский в процессе
 | Название | Кодовое | Версия |
 | - | - | - |
 | ChoiceTheorem's Overhauled Village | ctov |  |
+| Kawaii Dishes | kawaiidishes | 1.9 |
+| Neighborly | neighborly | 1.1 |
 | Regions Unexplored | regions_unexplored |  |
 
 ### 🟡 Готовые переводы на украинский
