@@ -30,6 +30,7 @@
 
 | Название | Кодовое | Версия |
 | - | - | - |
+| Canvas Renderer | canvas | 20.2.2641 |
 | Cobblemon | cobblemon | 1.4.1 |
 | Delightful Creators | delightfulcreators | 1.1.8 |
 | Iris Shaders | iris | 1.6.17 |
