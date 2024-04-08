@@ -27,7 +27,7 @@
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 | 1.20 |
 | - | - | - | - | - | - |
-| [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌ В процессе
+| [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ✅ Русский<br>✅ Татарский | ✅ Русский
 | [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
@@ -37,6 +37,7 @@
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
+| [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Русский | ✅ Русский
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ | ❌
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | ❌ | ❌ | ❌ | ❌ | ✅ Русский

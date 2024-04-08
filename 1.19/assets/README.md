@@ -4,8 +4,10 @@
 
 | Название | Кодовое | Версия |
 | - | - | - |
+| Additional Additions | additionaladditions | 5.3.0 |
 | AFMP: A Few More Plushies | afmp_a_few_more_plushies | 1.0.1 |
 | AppleSkin | appleskin | 2.4.1 |
+| Cave Dweller<br>Cave Dweller Evolved | cave_dweller | 1.7.0 |
 | Controlling | controlling<br>minecraft | 10+7 |
 | e4mc | e4mc_minecraft | 4.0.1 |
 | Forge | forge | 44 |
