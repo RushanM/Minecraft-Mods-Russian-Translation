@@ -7,7 +7,7 @@
 | Additional Additions | additionaladditions | 6.1 |
 | All the Fan Made Discs | all_the_fan_made_discs | 0.5.6 |
 | Bad Wither No Cookie - Reloaded | bwncr | 3.17 |
-| Cave Dweller Evolved | cave_dweller | 1.7.0 |
+| Cave Dweller<br>Cave Dweller Evolved | cave_dweller | 1.7.0 |
 | Clear Despawn | cleardespawn | 1.1.15 |
 | Cloth Config API | cloth-config2 | 13.0.121 |
 | Cosmetic Armor | cosmetic-armor | 1.6 |

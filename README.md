@@ -81,6 +81,7 @@
 | [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Русский | ✅ Русский | ✅ Русский | ❌ В процессе
 | [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Русский

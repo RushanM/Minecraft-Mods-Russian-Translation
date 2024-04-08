@@ -18,6 +18,7 @@
 | Simple Weapons for Better Combat | simple_weapons | 1.1.4 |
 | Smooth Boot | smoothboot | 1.7.1 |
 | Sulfur Based Weapon Development | sbwd | 0.0.1 |
+| The Dark Dweller | cave_dweller | 0.3 |
 
 ### 🔴 Переводы на русский в процессе
 | Название | Кодовое | Версия |
