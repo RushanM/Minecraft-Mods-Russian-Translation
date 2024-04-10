@@ -39,7 +39,7 @@
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Русский | ✅ Русский
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ | ❌
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Русский | ❌ | ❌ | ❌ | ✅ Русский
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
@@ -55,10 +55,12 @@
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ✅ Русский | ❌ | ❌ | ❌ | ✅ Русский
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ✅ Русский | ❌ | ✅ Русский | ✅ Русский | ❌
+| [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ❌ В процессе | ✅ Русский
 | [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ✅ Русский | ❌ | ❌ | ❌ | ❌
 | [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | ❌ | ❌ | ❌ В процессе | ❌ В процессе | ❌ В процессе
+| [LibJF](https://modrinth.com/mod/libjf) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Litematica](https://litematica.org) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Look](https://modrinth.com/mod/look) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ✅ Русский<br>✅ Татарский | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌
@@ -74,9 +76,11 @@
 | [Raised](https://modrinth.com/mod/raised) | ✅ Русский | ❌ | ❌ | ❌ | ❌
 | [Rats](https://modrinth.com/mod/rats) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | ❌ | ❌ | ❌ | ❌ В процессе | ❌
+| [Respackopts](https://modrinth.com/mod/respackopts) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
+| [Simply Status](https://modrinth.com/mod/simplystatus) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Русский | ✅ Русский | ✅ Русский | ❌ В процессе
