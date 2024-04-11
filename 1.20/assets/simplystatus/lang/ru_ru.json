@@ -110,7 +110,6 @@
     "simplystatus.key.openConfig": "Открыть настройки",
     "simplystatus.name": "SimplyStatus",
     "simplystatus.presence.address.hidden": "Кофе?",
-    "simplystatus.presence.date.time": "ЧЧ:мм",
     "simplystatus.presence.death.one": "{player.name} нет в живых :(",
     "simplystatus.presence.death.three": "Игрок не смог выжить в этом мире",
     "simplystatus.presence.death.two": "Игрок умер",
