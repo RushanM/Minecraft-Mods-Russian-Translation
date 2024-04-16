@@ -4,10 +4,10 @@
     "badwithernocookiereloaded.xtra.tooltip": "Дополнительные локализованные звуки, которые можно отключить",
     "text.autoconfig.bwncr.option.general": "Общие настройки",
     "text.autoconfig.bwncr.option.general.debugMode": "Режим отладки",
-    "text.autoconfig.bwncr.option.general.silenceDragon": "Заткнуть дракона",
-    "text.autoconfig.bwncr.option.general.silenceLightning": "Заткнуть гром",
-    "text.autoconfig.bwncr.option.general.silenceTrader": "Заткнуть торговца",
-    "text.autoconfig.bwncr.option.general.silenceUs": "Заткнуть нас самих",
+    "text.autoconfig.bwncr.option.general.silenceDragon": "Подавить звуки дракона",
+    "text.autoconfig.bwncr.option.general.silenceLightning": "Подавить раскаты грома",
+    "text.autoconfig.bwncr.option.general.silenceTrader": "Подавить звуки торговца",
+    "text.autoconfig.bwncr.option.general.silenceUs": "Подавить остальные звуки",
     "text.autoconfig.bwncr.option.general.silenceWither": "Заткнуть Визера",
     "text.autoconfig.bwncr.title": "Bad Wither No Cookie - Reloaded"
 }
