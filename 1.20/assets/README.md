@@ -32,6 +32,7 @@
 | 1.3 | FabricSkyBoxes | fabricskyboxes | 0.7.3 | Русский 🔴 и татарский 🟢 готовы |
 | 1.3 | FabricSkyBoxes Interop | fsb-interop | 1.3.6 build 52 | Русский 🔴 готов |
 | 1.3 | Loqui | loqui | 0.2.0 | Русский 🔴 готов |
+| 1.3 | Mod Menu | modmenu | 9.0 | Русский 🔴 готов |
 
 ### 🔴 В процессе перевода на русский
 
@@ -42,7 +43,6 @@
 | Delightful Creators | delightfulcreators | 1.1.8 |
 | Iris Shaders | iris | 1.6.17 |
 | Kawaii Dishes | kawaiidishes | 1.11.1 |
-| Mod Menu | modmenu | 9.0 |
 | NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta |
 | Neighborly | neighborly | 1.1 |
 | NeoForge | neoforge | 20.4 |

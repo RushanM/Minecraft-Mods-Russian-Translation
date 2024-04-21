@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "description": "§7Автор: Дефлекта. Редакция 1.0 для Minecraft 1.20.x.",
+        "name": "Русские названия модификаций",
+        "pack_format": 15,
+        "supported_formats": {
+            "max_inclusive": 31,
+            "min_inclusive": 16
+        }
+    }
+}
