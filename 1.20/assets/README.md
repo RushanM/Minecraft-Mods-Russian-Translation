@@ -2,33 +2,33 @@
 
 | Название | Кодовое наименование | Версия | Языки |
 | - | - | - | - |
-| Additional Additions | additionaladditions | 6.1 | Переведена только на русский 🔴 |
-| All the Fan Made Discs | all_the_fan_made_discs | 0.5.6 | Переведена только на русский 🔴 |
-| Bad Wither No Cookie - Reloaded | bwncr | 3.17 | Переведена только на русский 🔴 |
-| Cave Dweller<br>Cave Dweller Evolved | cave_dweller | 1.7.0 | Переведена только на русский 🔴 |
-| Chat Heads | chatheads | 0.10.32 | Переведена только на русский 🔴 |
-| Clear Despawn | cleardespawn | 1.1.15 | Переведена только на русский 🔴 |
-| Cloth Config API | cloth-config2 | 13.0.121 | Переведена только на русский 🔴 |
-| Cosmetic Armor | cosmetic-armor | 1.6 | Переведена только на русский 🔴 |
-| e4mc | e4mc_minecraft | 4.0.1 | Переведена на русский 🔴 и украинский 🟡. Украинский перевод не модерировался. |
-| Endless Music | endless_music | 1.1 | Переведена только на русский 🔴 |
-| Enhanced Attack Indicator | enhanced_attack_indicator | 1.0.4 | Переведена только на русский 🔴 |
-| Entity Culling | entityculling | 1.6.3.1 | Переведена только на русский 🔴 |
-| FabricSkyBoxes | fabricskyboxes | 0.7.3 | Переведена на русский 🔴 и татарский 🟢 |
-| Full Brightness Toggle | fullbrightnesstoggle | 4.0 | Переведена только на русский 🔴 |
-| Idwtialsimmoedm | idwtialsimmoedm | 0.3 | Переведена только на русский 🔴 |
-| LibJF | libjf-config-core<br>libjf-config-network-v0<br>libjf-config-ui-tiny<br>libjf-config-ui-tiny-testmod<br>libjf-translate-v0 | 3.14.3 | Переведена только на русский 🔴 |
-| Look | look | 1.0.1 | Переведена только на русский 🔴 |
-| Lycanthropy | lycanthropy | 1.1.0 | Переведена только на русский 🔴 |
-| Make Bubbles Pop | make_bubbles_pop | 0.2 | Переведена только на русский 🔴 |
-| Mica | mica | 1.0.1 | Переведена только на русский 🔴 |
-| More Music Discs | morediscs | 33 | Переведена только на русский 🔴 |
-| Respackopts | respackopts | 4.7.2 | Переведена только на русский 🔴 |
-| Simply Status | simplystatus | 2.1.0 | Переведена только на русский 🔴 |
-| The Fellow Furries Mod | fellow_furries_mod | 1.0 | Переведена только на русский 🔴 |
-| Thigh highs etc. | thigh_highs_etc | 1.0.4 | Переведена только на русский 🔴 |
-| Title Fixer | titlefixer | 1.0 | Переведена только на русский 🔴 |
-| Tool Stats | toolstats | 16.0.7 | Переведена только на русский 🔴 |
+| Additional Additions | additionaladditions | 6.1 | Русский готов 🔴 |
+| All the Fan Made Discs | all_the_fan_made_discs | 0.5.6 | Русский готов 🔴 |
+| Bad Wither No Cookie - Reloaded | bwncr | 3.17 | Русский готов 🔴 |
+| Cave Dweller<br>Cave Dweller Evolved | cave_dweller | 1.7.0 | Русский готов 🔴 |
+| Chat Heads | chatheads | 0.10.32 | Русский готов 🔴 |
+| Clear Despawn | cleardespawn | 1.1.15 | Русский готов 🔴 |
+| Cloth Config API | cloth-config2 | 13.0.121 | Русский готов 🔴 |
+| Cosmetic Armor | cosmetic-armor | 1.6 | Русский готов 🔴 |
+| e4mc | e4mc_minecraft | 4.0.1 | Русский 🔴 и украинский 🟡 готовы. Украинский не модерировался. |
+| Endless Music | endless_music | 1.1 | Русский готов 🔴 |
+| Enhanced Attack Indicator | enhanced_attack_indicator | 1.0.4 | Русский готов 🔴 |
+| Entity Culling | entityculling | 1.6.3.1 | Русский готов 🔴 |
+| FabricSkyBoxes | fabricskyboxes | 0.7.3 | Русский 🔴 и татарский 🟢 готовы |
+| Full Brightness Toggle | fullbrightnesstoggle | 4.0 | Русский готов 🔴 |
+| Idwtialsimmoedm | idwtialsimmoedm | 0.3 | Русский готов 🔴 |
+| LibJF | libjf-config-core<br>libjf-config-network-v0<br>libjf-config-ui-tiny<br>libjf-config-ui-tiny-testmod<br>libjf-translate-v0 | 3.14.3 | Русский готов 🔴 |
+| Look | look | 1.0.1 | Русский готов 🔴 |
+| Lycanthropy | lycanthropy | 1.1.0 | Русский готов 🔴 |
+| Make Bubbles Pop | make_bubbles_pop | 0.2 | Русский готов 🔴 |
+| Mica | mica | 1.0.1 | Русский готов 🔴 |
+| More Music Discs | morediscs | 33 | Русский готов 🔴 |
+| Respackopts | respackopts | 4.7.2 | Русский готов 🔴 |
+| Simply Status | simplystatus | 2.1.0 | Русский готов 🔴 |
+| The Fellow Furries Mod | fellow_furries_mod | 1.0 | Русский готов 🔴 |
+| Thigh highs etc. | thigh_highs_etc | 1.0.4 | Русский готов 🔴 |
+| Title Fixer | titlefixer | 1.0 | Русский готов 🔴 |
+| Tool Stats | toolstats | 16.0.7 | Русский готов 🔴 |
 
 ### 🔴 В процессе перевода на русский
 
