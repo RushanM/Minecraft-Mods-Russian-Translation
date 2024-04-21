@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "description": "§7Автор: Дефлекта. Редакция 1.0 для Minecraft 1.16.x.",
+        "name": "Fabric-надстройка для переводов Дефлекты",
+        "pack_format": 6,
+        "supported_formats": {
+            "max_inclusive": 6,
+            "min_inclusive": 5
+        }
+    }
+}

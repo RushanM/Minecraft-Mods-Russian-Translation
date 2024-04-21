@@ -1,0 +1,13 @@
+{
+    "modmenu.descriptionTranslation.appleskin": "Азык-төлек белән бәйле HUD’ка яхшыртулар ясый",
+    "modmenu.summaryTranslation.appleskin": "Азык-төлек белән бәйле HUD’ка яхшыртулар ясый",
+    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "HUD’da ялтыравык билгеләренең альфа-мөгалләмлегенең чиге",
+    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Ялтыравык билгеләренең иң күренеп торган нокталарында альфа-мөгалләмлек кыйммәте (1,0 = тулысынча мөгалләмсез; 0,0 = тулысынча мөгалләм)",
+    "text.autoconfig.appleskin.option.showFoodDebugInfo": "Азык-төлек кыйммәтләрен диагностика экранында күрсәтү",
+    "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "Куелгач, ачлык, туклык һәм хәлсезлек дәрәҗәләрен күрсәтәчак",
+    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Ару катламын күрсәтергә",
+    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "Куелгач, ачлык күрсәткече артыннан прогресс күрсәткече кебек сезнең ашаудан интегүне күрсәткече булачак",
+    "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "Кулындагы ризыкның сезгә бирелә торган сәламәтлек өлешен күрсәтү",
+    "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "Куелгач, HUD сезнең кулларыгызда тоткан ризык белән күпме йөрәк тутырачагыгызны күрсәтәчәк",
+    "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "Кулыгыздагы ризыгыздаң кушылырга дигэн туклыклыкны күрсәтү"
+}
