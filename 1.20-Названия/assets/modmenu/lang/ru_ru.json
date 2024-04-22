@@ -21,5 +21,6 @@
     "modmenu.nameTranslation.continuity": "Кантинюити",
     "modmenu.nameTranslation.java": "Java",
     "modmenu.nameTranslation.minecraft": "Minecraft",
-    "modmenu.nameTranslation.modmenu": "Меню модификаций"
+    "modmenu.nameTranslation.modmenu": "Меню модификаций",
+    "modmenu.resource_pack.runames": "Переводит названия модификаций на русский язык"
 }

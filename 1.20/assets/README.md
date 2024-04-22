@@ -52,6 +52,7 @@
 | Sodium Extra | sodium-extra | 0.5.4 |
 | Tech Reborn | techreborn | 5.10.3 |
 | Touhou Little Maid | touhou_little_maid | 1.1.7 |
+| Xenon | sodium<br>xenon ✅ | 0.3.11 |
 
 ### 🟢 В процессе перевода на татарский
 

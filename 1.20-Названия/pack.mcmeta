@@ -1,11 +1,16 @@
 {
     "pack": {
-        "description": "§7Автор: Дефлекта. Редакция 1.0 для Minecraft 1.20.x.",
-        "name": "Русские названия модификаций",
+        "description": {
+            "fallback": "§7Переводит названия модификаций на русский язык",
+            "translate": "modmenu.resource_pack.runames"
+        },
+        "name": "Русские названия модификац.",
         "pack_format": 15,
-        "supported_formats": {
-            "max_inclusive": 31,
-            "min_inclusive": 16
-        }
+        "supported_formats": [
+            15,
+            32
+        ],
+        "автор": "Дефлекта",
+        "версия": "1.20-1.0"
     }
 }
