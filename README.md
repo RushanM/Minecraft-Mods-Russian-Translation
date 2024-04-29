@@ -4,8 +4,8 @@
     <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
     <br>
     <br>
-    <img title="Я занимаюсь русификацией модификаций с 2020 года" src="Разное/fargus_cozy_64h.png">
-    <a href="https://modrinth.com/mod/dynamicpack"><img title="Уж доставил мне проблем этот мод при разработке... Да и до сих пор обновляет то, что обновлять не нужно." src="Разное/dynamicpack-singular_64h.png"></a>
+    <img title="Никак не связано с «Фаргус Мультимедия». Это просто добрая отсылка. Я работаю над переводами один с 2020 года, лишь изредка получая помощь от народа (хотелось бы, конечно, больше вклада от Интернета, но имеем, что имеем)." src="Разное/fargus_cozy_64h.png">
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Разное/dynamicpack-singular_64h.png"></a>
     <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps-singular_64h.png"></a>
     <br>
     <br>
