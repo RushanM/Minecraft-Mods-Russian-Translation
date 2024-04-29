@@ -2,9 +2,11 @@
 
 <div align="center">
     <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
-    <img title="Я занимаюсь русификацией модификаций с 2020 года" src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/fargus_cozy_64h.png?raw=true">
-    <a href="https://modrinth.com/mod/dynamicpack"><img title="Уж доставил мне проблем этот мод при разработке... Да и до сих пор обновляет то, что обновлять не нужно." src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/dynamicpack-singular_64h.png?raw=true"></a>
-    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/brps-singular_64h.png?raw=true"></a>
+    <br>
+    <br>
+    <img title="Я занимаюсь русификацией модификаций с 2020 года" src="Разное/fargus_cozy_64h.png">
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Уж доставил мне проблем этот мод при разработке... Да и до сих пор обновляет то, что обновлять не нужно." src="Разное/dynamicpack-singular_64h.png"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps-singular_64h.png"></a>
     <br>
     <br>
     <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
