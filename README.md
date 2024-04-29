@@ -1,7 +1,10 @@
 # Русский перевод модификаций для Minecraft от Дефлекты
 
 <div align="center">
-    <img src="Разное/preview2.png">
+    <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
+    <img title="Я занимаюсь русификацией модификаций с 2020 года" src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/fargus_cozy_64h.png?raw=true">
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Уж доставил мне проблем этот мод при разработке... Да и до сих пор обновляет то, что обновлять не нужно." src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/dynamicpack-singular_64h.png?raw=true"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/brps-singular_64h.png?raw=true"></a>
     <br>
     <br>
     <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
@@ -129,7 +132,7 @@
 Чтобы набор имел возможность изменять перевод модификаций, он должен стоять выше набора ресурсов модификаций. Например, у Forge он называется Mod Resources.
 
 <div align="center">
-    <img height="200" src="Разное/order.png">
+    <img title="Хаос, хаос!? Нет, нет! Порядок, порядок!" height="200" src="Разное/order.png">
 </div>
 
 ### 🔁 Поддержка модификаций
@@ -142,15 +145,15 @@
 
 ## 📛 Авторы
 
-* [**Дефлекта**](https://github.com/RushanM) (Рушан Мухутдинов): Делает этот набор ресурсов;
+* [**Дефлекта**](https://github.com/RushanM): Делает этот набор ресурсов
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский модификации 
-* * [*Simple Corinthium*](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium), 
-* * [*Simple Weapons for Better Combat*](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat),
-* * [*Rotten Creatures*](https://modrinth.com/mod/rottencreatures);
+* * [*Simple Corinthium*](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
+* * [*Simple Weapons for Better Combat*](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
+* * [*Rotten Creatures*](https://modrinth.com/mod/rottencreatures)
 * [**Inqurity**](https://github.com/Inqurity): Перевёл на русский и украинский модификации
-* * [*Idwtialsimmoedm*](https://modrinth.com/mod/idwtialsimmoedm), 
-* * [*e4mc*](https://modrinth.com/mod/e4mc);
-* [**UltraStorm**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README.
+* * [*Idwtialsimmoedm*](https://modrinth.com/mod/idwtialsimmoedm)
+* * [*e4mc*](https://modrinth.com/mod/e4mc)
+* [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README
 
 ## ✉️ Контакты
 Есть личная просьба, предложение или любая другая причина обратиться лично ко мне? Вы можете написать мне в одной из этих сетей:
