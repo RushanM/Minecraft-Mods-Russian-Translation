@@ -18,7 +18,7 @@
 
 Это набор ресурсов, разрабатываемый для версий Minecraft от 1.16.x до 1.20.x, затрагивающий перевод модов, сделанных под загрузчики Forge, Fabric, Quilt и NeoForge.
 
-Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России, Белоруссии и Украине. Например, в определённых версиях этого набора уже включены переводы некоторых модификаций на татарский и украинский языки.
+Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России, Беларуси и Украине. Например, в определённых версиях этого набора уже включены переводы некоторых модификаций на татарский и украинский языки.
 
 ## ⚙️ Что затронуто
 
@@ -32,7 +32,7 @@
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 | 1.20 |
 | - | - | - | - | - | - |
-| [Additional Additions](https://modrinth.com/mod/addadd) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ✅ Русский<br>✅ Татарский | ✅ Русский
+| [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Русский<br>✅ Татарский | ✅ Русский<br>✅ Татарский | ✅ Русский
 | [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
@@ -41,8 +41,9 @@
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ | ❌
+| [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ✅ Русский | ❌ | ❌ | ❌ | ❌
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
-| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ❌ | ✅ Русский | ❌ | ❌ | ❌
+| [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Русский | ✅ Русский
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
@@ -52,6 +53,7 @@
 | [Controlling](https://modrinth.com/mod/controlling) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [CreRaces](https://modrinth.com/mod/creraces) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
 | [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ | ❌
 | [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский |
@@ -59,11 +61,15 @@
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
+| [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ В процессе | ✅ Русский | ✅ Русский | ❌
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ❌ В процессе | ✅ Русский
 | [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Jade 🔍](https://modrinth.com/mod/jade) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
+| [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
+| [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
 | [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | ❌ | ❌ | ❌ В процессе | ❌ В процессе | ❌ В процессе
 | [LibJF](https://modrinth.com/mod/libjf) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Litematica](https://litematica.org) | ❌ | ❌ | ❌ | ✅ Русский | ❌
@@ -71,6 +77,7 @@
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [MarbleGate's Exotic Enchantment: Flowing Agony](https://modrinth.com/mod/flowing-agony) | ❌ | ❌ В процессе | ❌ | ❌ | ❌ В процессе
 | [Mica](https://modrinth.com/mod/mica) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Mod Menu](https://modrinth.com/mod/modmenu) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌ В процессе
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
@@ -107,14 +114,17 @@
 
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 
-<a href="https://vk.com/demipr">
-    <img height="38" src="Разное/vk.svg">
+<a href="https://modrinth.com/resourcepack/mods-ru">
+    <img height="38" src="Разное/modrinth.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Разное/curseforge.svg">
 </a>
-<a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="38" src="Разное/modrinth.svg">
+<a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
+    ру Майнкрафт
+</a>
+<a href="https://vk.com/demipr">
+    <img height="38" src="Разное/vk.svg">
 </a>
 
 > Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!

@@ -6,5 +6,9 @@
     "achievement.ae2.Compass": "Охотник за метеоритами",
     "achievement.ae2.Compass.desc": "Смастерите метеоритный компас",
     "achievement.ae2.Controller": "Сетевой коммутатор",
-    "achievement.ae2.Controller.desc": "Соберите контроллер"
+    "achievement.ae2.Controller.desc": "Соберите контроллер",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIAuto": "Автоматический синхронизованный со средством просмотра рецептов",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep": "Оставляющий автоматический синхронизованный со средством просмотра рецептов",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandard": "Стандартный синхронизованный со средством просмотра рецептов",
+    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep": "Оставляющий стандартный синхронизованный со средством просмотра рецептов"
 }
