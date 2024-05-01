@@ -43,6 +43,7 @@
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Рус. | ❌ | ❌ | 🌌
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
+| [Botania](https://modrinth.com/mod/botania) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ✅ Рус. | ❌ | ❌ | ❌ | ❌
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Рус. | ✅ Рус. | ❌ | ❌ | ❌
@@ -64,7 +65,7 @@
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
-| [Fabric](https://fabricmc.net/)<br>[Fabric API](https://modrinth.com/mod/fabric-api) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
+| [Fabric](https://fabricmc.net)<br>[Fabric API](https://modrinth.com/mod/fabric-api) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
@@ -122,13 +123,13 @@
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 
 <a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="38" src="Разное/modrinth.svg">
+    <img height="38" src="Разное/modrinth_compact_46h.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="38" src="Разное/curseforge.svg">
+    <img height="38" src="Разное/curseforge_compact_46h.png">
 </a>
 <a href="https://vk.com/demipr">
-    <img height="38" src="Разное/vk.svg">
+    <img height="38" src="Разное/vk_compact_46h.png">
 </a>
 <a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
     <img height="38" src="Разное/rumc_compact_46h.png">

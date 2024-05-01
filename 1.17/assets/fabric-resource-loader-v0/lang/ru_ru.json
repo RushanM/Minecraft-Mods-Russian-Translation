@@ -5,5 +5,5 @@
     "pack.name.fabricMod.subPack": "Модификация Fabric «%s» (%s)",
     "pack.name.fabricMods": "Модификации Fabric",
     "pack.source.builtinMod": "встроенный: %s",
-    "pack.source.fabricmod": "добавлен модификацией Fabric"
+    "pack.source.fabricmod": "добавлен Fabric"
 }
