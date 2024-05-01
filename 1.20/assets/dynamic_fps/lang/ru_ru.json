@@ -7,9 +7,9 @@
     "config.dynamic_fps.disabled": "Выключена",
     "config.dynamic_fps.enabled": "Включена",
     "config.dynamic_fps.frame_rate_target": "Цель частоты кадров",
-    "config.dynamic_fps.graphics_state": "Опции графики",
+    "config.dynamic_fps.graphics_state": "Настройки графики",
     "config.dynamic_fps.graphics_state_default": "По умолчанию",
-    "config.dynamic_fps.graphics_state_minimal": "",
+    "config.dynamic_fps.graphics_state_minimal": "Минимальное",
     "config.dynamic_fps.graphics_state_minimal_tooltip": "Минимальные настройки графики приводят к перезагрузке мира!",
     "config.dynamic_fps.graphics_state_reduced": "Заниженная",
     "config.dynamic_fps.idle_time": "Время до бездействия",
@@ -27,6 +27,6 @@
     "gui.dynamic_fps.hud.reducing": "Dynamic FPS: Принудительно занижает кадр/с",
     "key.dynamic_fps.toggle_disabled": "Выключить Dynamic FPS (переключить режим)",
     "key.dynamic_fps.toggle_forced": "Принудительная расфокусировка (переключить режим)",
-    "modmenu.descriptionTranslation.dynamic_fps": "Динамически регулирует количество кадров в секунду, чтобы Minecraft не нагружал компьютер, пока находится на фоне.",
+    "modmenu.descriptionTranslation.dynamic_fps": "Сокращает нагрузку на компьютер, пока игра на фоне или простаивает.",
     "modmenu.summaryTranslation.dynamic_fps": "Автоматически регулирует кадр/с для снижения нагрузки на ПК в фоне."
 }

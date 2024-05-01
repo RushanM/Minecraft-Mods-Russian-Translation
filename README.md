@@ -36,78 +36,81 @@
 | [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Русский<br>✅ Татарский | ✅ Русский<br>✅ Татарский | ✅ Русский
 | [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Русский | ❌
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | 🌌 | 🌌 | ❌ | ❌ | ✅ Русский
-| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
 | [Animatica](https://modrinth.com/mod/animatica) | 🌌 | ❌ | ❌ | ❌ | ✅ Русский
-| [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ В процессе | ✅ Русский | ❌ | ❌ | ❌
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
+| [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ | 🌌
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ✅ Русский | ❌ | ❌ | ❌ | ❌
-| [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌ В процессе
+| [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Русский | ✅ Русский
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | ✅ Русский | ❌ | ❌ | ❌ | ✅ Русский
-| [Cobblemon](https://modrinth.com/mod/cobblemon) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Cobblemon](https://modrinth.com/mod/cobblemon) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Controlling](https://modrinth.com/mod/controlling) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [CreRaces](https://modrinth.com/mod/creraces) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) |  |  | Русский 🔴 готов |
-| [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [CreRaces](https://modrinth.com/mod/creraces) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ | ❌
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ В процессе | ✅ Русский | ✅ Русский | ❌
+| [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Русский<br>✅ Татарский
+| [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ❌ В процессе | ✅ Русский
+| [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Русский | ❌ | ✅ Русский
 | [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ❌ | ❌ | ❌ | ❌ | ❌
-| [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
-| [Jade 🔍](https://modrinth.com/mod/jade) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
-| [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
-| [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) | ❌ | ❌ В процессе | ❌ | ❌ | ❌
-| [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | ❌ | ❌ | ❌ В процессе | ❌ В процессе | ❌ В процессе
+| [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Jade 🔍](https://modrinth.com/mod/jade) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | ❌ | ❌ | ❌ | ❌ | ❌
 | [LibJF](https://modrinth.com/mod/libjf) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Litematica](https://litematica.org) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Look](https://modrinth.com/mod/look) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [Loqui](https://loqui.imb11.dev) | 🌌 | 🌌 | 🌌 | ✅ Русский | ✅ Русский
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [MarbleGate's Exotic Enchantment: Flowing Agony](https://modrinth.com/mod/flowing-agony) | ❌ | ❌ В процессе | ❌ | ❌ | ❌ В процессе
+| [MarbleGate's Exotic Enchantment: Flowing Agony](https://modrinth.com/mod/flowing-agony) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Mica](https://modrinth.com/mod/mica) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [Mod Menu](https://modrinth.com/mod/modmenu) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌ В процессе
+| [Mod Menu](https://modrinth.com/mod/modmenu) | ❌ | ❌ | ✅ Русский | ✅ Русский | ✅ Русский
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [NEEPMeat](https://modrinth.com/mod/neepmeat) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
-| [Neighborly](https://www.curseforge.com/minecraft/mc-mods/neighborly) | ❌ | ❌ | ❌ | ❌ В процессе | ❌ В процессе
-| [NeoForge](https://neoforged.net) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
-| [Nevermore!](https://modrinth.com/datapack/nevermore) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [NEEPMeat](https://modrinth.com/mod/neepmeat) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Neighborly](https://www.curseforge.com/minecraft/mc-mods/neighborly) | ❌ | ❌ | ❌ | ❌ | ❌
+| [NeoForge](https://neoforged.net) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Nevermore!](https://modrinth.com/datapack/nevermore) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Raised](https://modrinth.com/mod/raised) | ❌ | ❌ | ❌ | ❌ | ❌
-| [Rats](https://modrinth.com/mod/rats) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
-| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | ❌ | ❌ | ❌ | ❌ В процессе | ❌
+| [Rats](https://modrinth.com/mod/rats) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Respackopts](https://modrinth.com/mod/respackopts) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Roughly Enough Items](https://modrinth.com/mod/rei) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Simply Status](https://modrinth.com/mod/simplystatus) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ❌ | ❌ | ❌ | ✅ Русский | ❌
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
-| [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Русский | ✅ Русский | ✅ Русский | ❌ В процессе
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Русский | ✅ Русский | ✅ Русский | ❌
 | [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | ❌ | ❌ | ❌ | ✅ Русский | ❌
-| [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌
 | [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Tool Stats](https://modrinth.com/mod/tool-stats) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ❌ | ❌ | ❌ | ❌ | ❌
 
 Список будет пополняться.
 

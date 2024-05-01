@@ -31,7 +31,7 @@
 | 1.2 | Simply Status | simplystatus | 2.1.0 | Русский 🔴 готов |
 | 1.2 | The Fellow Furries Mod | fellow_furries_mod | 1.0 | Русский 🔴 готов |
 | 1.3 | Animatica | animatica | 0.6 | Русский 🔴 готов |
-| 1.3 | Dynamic FPS | | | Русский 🔴 готов |
+| 1.3 | Dynamic FPS | dynamic_fps | 3.4.4 | Русский 🔴 готов |
 | 1.3 | FabricSkyBoxes | fabricskyboxes | 0.7.3 | Русский 🔴 и татарский 🟢 готовы |
 | 1.3 | FabricSkyBoxes Interop | fsb-interop | 1.3.6 build 52 | Русский 🔴 готов |
 | 1.3 | Loqui | loqui | 0.2.0 | Русский 🔴 готов |
