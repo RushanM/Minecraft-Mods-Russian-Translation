@@ -124,11 +124,14 @@
 
 <a href="https://modrinth.com/resourcepack/mods-ru">
     <img height="38" src="Разное/modrinth_compact_vector.svg">
-</a><a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
+</a>
+<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Разное/curseforge_compact_vector.svg">
-</a><a href="https://vk.com/demipr">
+</a>
+<a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk_compact_vector.svg">
-</a><a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
+</a>
+<a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
     <img height="38" src="Разное/rumc_compact_vector.svg">
 </a>
 
@@ -149,7 +152,7 @@
 Чтобы набор имел возможность изменять перевод модификаций, он должен стоять выше набора ресурсов модификаций. Например, у Fabric он называется «Модификации Fabric» (Fabric Mods).
 
 <div align="center">
-    <img title="Хаос, хаос!? Нет, нет! Порядок, порядок!" height="200" src="Разное/order.png">
+    <img title="Хаос, хаос!? Нет, нет! Порядок, порядок!" height="250" src="Разное/order.png">
 </div>
 
 ### 🔁 Поддержка модификаций
