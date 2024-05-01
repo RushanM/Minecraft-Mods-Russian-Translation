@@ -124,14 +124,11 @@
 
 <a href="https://modrinth.com/resourcepack/mods-ru">
     <img height="38" src="Разное/modrinth_compact_vector.svg">
-</a>
-<a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
+</a><a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Разное/curseforge_compact_vector.svg">
-</a>
-<a href="https://vk.com/demipr">
+</a><a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk_compact_vector.svg">
-</a>
-<a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
+</a><a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
     <img height="38" src="Разное/rumc_compact_vector.svg">
 </a>
 
