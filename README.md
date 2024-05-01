@@ -123,16 +123,16 @@
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 
 <a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="38" src="Разное/modrinth_compact_46h.svg">
+    <img height="38" src="Разное/modrinth_compact_vector.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="38" src="Разное/curseforge_compact_46h.png">
+    <img height="38" src="Разное/curseforge_compact_vector.svg">
 </a>
 <a href="https://vk.com/demipr">
-    <img height="38" src="Разное/vk_compact_46h.png">
+    <img height="38" src="Разное/vk_compact_vector.svg">
 </a>
 <a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
-    <img height="38" src="Разное/rumc_compact_46h.png">
+    <img height="38" src="Разное/rumc_compact_vector.svg">
 </a>
 
 > Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!
