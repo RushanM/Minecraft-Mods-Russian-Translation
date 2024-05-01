@@ -5,8 +5,8 @@
     <br>
     <br>
     <img title="Никак не связано с «Фаргус Мультимедия». Это просто добрая отсылка. Я работаю над переводами один с 2020 года, лишь изредка получая помощь от народа (хотелось бы, конечно, больше вклада от Интернета, но имеем, что имеем)." src="Разное/fargus_cozy_vector.svg">
-    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Разное/dynamicpack_vector.svg"></a>
-    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps_vector.svg"></a>
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Разное/dynamicpack_cozy_vector.svg"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps_cozy_vector.svg"></a>
     <br>
     <br>
     <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
