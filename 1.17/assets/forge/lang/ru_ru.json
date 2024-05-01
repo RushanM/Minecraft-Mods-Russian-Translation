@@ -135,7 +135,7 @@
   "commands.forge.tags.containing_tag_count": "Содержащиеся теги: %s",
   "commands.forge.tags.element": "%s : %s",
   "commands.forge.tags.page_info": "%s <страница %s / %s>",
-  "commands.config.getwithtype": "Конфигурация для %s типа %s найдена в %s",
+  "commands.config.getwithtype": "Настройка для %s типа %s найдена в %s",
   "commands.config.noconfig": "онфигурация для %s типа %s не найдена",
   "forge.update.beta.1": "%sВНИМАНИЕ:%s это ранний выпуск Forge.",
   "forge.update.beta.2": "Недоработки ожидаемы. Перед тем, как сообщить о проблеме, проверьте, не сообщали ли о ней.",

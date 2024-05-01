@@ -21,6 +21,6 @@
     "text.autoconfig.chat_heads.option.smartHeuristics.@Tooltip[1]": "(применяется вместе с вариантом «UUID и эвристика» в настройке выявления отправителя)",
     "text.autoconfig.chat_heads.title": "Chat Heads",
     "text.chat_heads.config.error.cloth_config_link": "Открыть страницу Cloth Config на CurseForge",
-    "text.chat_heads.config.error.no_cloth_config": "Cloth Config не установлен!",
-    "text.chat_heads.config.error.title": "Не удалось открыть меню конфигурации"
+    "text.chat_heads.config.error.no_cloth_config": "Cloth Config не установлена!",
+    "text.chat_heads.config.error.title": "Не удалось открыть меню настроек"
 }

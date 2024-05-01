@@ -1,6 +1,6 @@
 {
-    "commands.raised.config.reload": "Конфигурация Raised перезагружена",
-    "commands.raised.config.reset": "Конфигурация Raised сброшена до значений по умолчанию",
+    "commands.raised.config.reload": "Настройки Raised перезагружены",
+    "commands.raised.config.reset": "Настройки Raised сброшены до значений по умолчанию",
     "commands.raised.toggle.share.query": "Сейчас поддержка модификаций Fabric установлена на: %d",
     "commands.raised.toggle.share.set": "Теперь поддержка модификаций Fabric установлена на: %d",
     "commands.raised.toggle.support.query": "Сейчас расширенная поддержка модификаций установлена на: %d",

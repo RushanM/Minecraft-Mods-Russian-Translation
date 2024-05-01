@@ -47,7 +47,7 @@
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Русский | ✅ Русский
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [Cloth Config API](https://modrinth.com/mod/cloth-config) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | ✅ Русский | ❌ | ❌ | ❌ | ✅ Русский
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Controlling](https://modrinth.com/mod/controlling) | ❌ | ❌ | ❌ | ✅ Русский | ❌
