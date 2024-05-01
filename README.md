@@ -33,7 +33,7 @@
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 | 1.20 |
 | - | - | - | - | - | - |
-| [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Русский<br>✅ Татарский | ✅ Русский<br>✅ Татарский | ✅ Русский
+| [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Русский<br>✅ Татарс. | ✅ Русский<br>✅ Татарс. | ✅ Русский
 | [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Русский | ❌
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | 🌌 | 🌌 | ❌ | ❌ | ✅ Русский
 | [Animatica](https://modrinth.com/mod/animatica) | 🌌 | ❌ | ❌ | ❌ | ✅ Русский
@@ -59,13 +59,13 @@
 | [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Русский | ❌ | ❌
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский | ✅ Русский<br>✅ Украинский |
+| [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Русский<br>✅ Украин. | ✅ Русский<br>✅ Украин. | ✅ Русский<br>✅ Украин. | ✅ Русский<br>✅ Украин. |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Русский<br>✅ Татарский
+| [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Русский<br>✅ Татарс.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ | ✅ Русский | ✅ Русский | ❌
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
@@ -80,7 +80,7 @@
 | [Litematica](https://litematica.org) | ❌ | ❌ | ❌ | ✅ Русский | ❌
 | [Look](https://modrinth.com/mod/look) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Loqui](https://loqui.imb11.dev) | 🌌 | 🌌 | 🌌 | ✅ Русский | ✅ Русский
-| [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ✅ Русский<br>✅ Татарский | ❌ | ❌
+| [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ✅ Русский<br>✅ Татарс. | ❌ | ❌
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
 | [MarbleGate's Exotic Enchantment: Flowing Agony](https://modrinth.com/mod/flowing-agony) | ❌ | ❌ | ❌ | ❌ | ❌
@@ -127,7 +127,7 @@
     <img height="38" src="Разное/curseforge.svg">
 </a>
 <a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
-    ру Майнкрафт
+    <img height="38" src="Разное/rumc_compact_46h.png">
 </a>
 <a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk.svg">
