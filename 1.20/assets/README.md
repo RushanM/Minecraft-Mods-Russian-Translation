@@ -1,5 +1,7 @@
 # Статус переводов 1.20
 
+## Переведённое
+
 | Редакция | Название | Кодовое наименование | Версия | Языки |
 | - | - | - | - | - |
 | 1.0 | All the Fan Made Discs | all_the_fan_made_discs | 0.5.6 | Русский 🔴 готов |
@@ -33,32 +35,27 @@
 | 1.3 | FabricSkyBoxes | fabricskyboxes | 0.7.3 | Русский 🔴 и татарский 🟢 готовы |
 | 1.3 | FabricSkyBoxes Interop | fsb-interop | 1.3.6 build 52 | Русский 🔴 готов |
 | 1.3 | Loqui | loqui | 0.2.0 | Русский 🔴 готов |
-| 1.3 | Mod Menu | modmenu | 9.0 | Русский 🔴 готов |
+| 1.3 | Mod Menu | modmenu | 9.2.0 beta 2 | Русский 🔴 готов. Татарский 🟢 в процессе. |
 
-### 🔴 В процессе перевода на русский
+## В процессе
 
-| Название | Кодовое | Версия |
-| - | - | - |
-| Canvas Renderer | canvas | 20.2.2641 |
-| Cobblemon | cobblemon | 1.4.1 |
-| Delightful Creators | delightfulcreators | 1.1.8 |
-| Embeddium++ | embeddiumplus | 1.2.7 |
-| Enigmatic Legacy | enigmaticlegacy | 2.29.0 |
-| Iris Shaders | iris | 1.6.17 |
-| Kawaii Dishes | kawaiidishes | 1.11.1 |
-| NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta |
-| Neighborly | neighborly | 1.1 |
-| NeoForge | neoforge | 20.4 |
-| Nevermore! | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta |
-| Rats | rats | 8.1.2 |
-| Sodium | sodium | 0.5.8 |
-| Sodium Extra | sodium-extra | 0.5.4 |
-| Tech Reborn | techreborn | 5.10.3 |
-| Touhou Little Maid | touhou_little_maid | 1.1.7 |
-| Xenon | sodium<br>xenon ✅ | 0.3.11 |
-
-### 🟢 В процессе перевода на татарский
-
-| Название | Кодовое | Версия |
-| - | - | - |
-| Mod Menu | modmenu | 9.0 |
+| Редакция | Название | Кодовое | Версия | Языки |
+| - | - | - | - | - |
+| 1.4 | Botania | botania | 443 | Русский 🔴 в процессе |
+| 1.4 | Canvas Renderer | canvas | 20.2.2641 | Русский 🔴 в процессе |
+| 1.4 | Cobblemon | cobblemon | 1.4.1 | Русский 🔴 в процессе |
+| 1.4 | Delightful Creators | delightfulcreators | 1.1.8 | Русский 🔴 в процессе |
+| 1.4 | Embeddium++ | embeddiumplus | 1.2.7 | Русский 🔴 в процессе |
+| 1.4 | Enigmatic Legacy | enigmaticlegacy | 2.29.0 | Русский 🔴 в процессе |
+| 1.4 | Iris Shaders | iris | 1.6.17 | Русский 🔴 в процессе |
+| 1.4 | Kawaii Dishes | kawaiidishes | 1.11.1 | Русский 🔴 в процессе |
+| 1.4 | NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta | Русский 🔴 в процессе |
+| 1.4 | Neighborly | neighborly | 1.1 | Русский 🔴 в процессе |
+| 1.4 | NeoForge | neoforge | 20.4 | Русский 🔴 в процессе |
+| 1.4 | Nevermore! | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta | Русский 🔴 в процессе |
+| 1.4 | Rats | rats | 8.1.2 | Русский 🔴 в процессе |
+| 1.4 | Sodium | sodium | 0.5.8 | Русский 🔴 в процессе |
+| 1.4 | Sodium Extra | sodium-extra | 0.5.4 | Русский 🔴 в процессе |
+| 1.4 | Tech Reborn | techreborn | 5.10.3 | Русский 🔴 в процессе |
+| 1.4 | Touhou Little Maid | touhou_little_maid | 1.1.7 | Русский 🔴 в процессе |
+| 1.4 | Xenon | sodium<br>xenon ✅ | 0.3.11 | Русский 🔴 в процессе |

@@ -1,6 +1,6 @@
 {
     "modmenu.descriptionTranslation.sodium": "Sodium — это бесплатная модификация для оптимизации Minecraft с открытым исходным кодом, которая повышает частоту кадров и уменьшает задержки",
-    "modmenu.summaryTranslation.sodium": "Оптимизирует рендеринг и повышает количество кадров в секунду\n§9✎§8 В настройках графики: оптимизации",
+    "modmenu.summaryTranslation.sodium": "Оптимизирует отрисовку и повышает количество кадров в секунду\n§9✎§8 В настройках графики: оптимизации",
     "options.leaf_culling.hollow": "Полые",
     "options.leaf_culling.none": "Выкл.",
     "options.leaf_culling.solid": "Плотные",
