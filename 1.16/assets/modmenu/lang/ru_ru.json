@@ -122,7 +122,7 @@
     "modmenu.summaryTranslation.tooltipfix": "Предотвращает вылезание подсказок за экран\n§8✎ (параметров нет)",
     "modmenu.summaryTranslation.whereisit": "Позволяет найти предмет в ближайших блоках с инвентарём",
     "modmenu.summaryTranslation.yosbr": "Параметры сборки модификаций по умолчанию",
-    "modmenu.summaryTranslation.zoomify": "Приближение на клавишу C\n§9✎§8 Дистанция, кинокамера, назначение клавиши,...",
+    "modmenu.summaryTranslation.zoomify": "Приближение картинки на настраиваемую клавишу\n§9✎§8 Дистанция, кинокамера, назначение клавиши,...",
     "modmenu.title": "Модификации",
     "modmenu.toggleFilterOptions": "Показать/убрать настройки фильтрации",
     "modmenu.twitch": "Twitch",

@@ -9,6 +9,7 @@
 | 1.1 | Catalogue | catalogue | 1.6.1 | Русский 🔴 готов |
 | 1.2 | Bookshelf | bookshelf | 10.4.33 | Русский 🔴 готов |
 | 1.2 | Cloth Config API | cloth-config2 | 4.17.101 | Русский 🔴 готов |
+| 1.2 | Fabric | fabric<br>fabric-gamerule-test<br>fabric-particles-v1-testmod<br>fabric-registry-sync-v0<br>fabric-resource-loader-v0 | 0.15.10, 0.97.8 | Русский 🔴 готов |
 
 ## В процессе
 

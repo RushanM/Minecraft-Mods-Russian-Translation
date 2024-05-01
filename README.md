@@ -64,6 +64,7 @@
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
+| [Fabric](https://fabricmc.net/)<br>[Fabric API](https://modrinth.com/mod/fabric-api) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
@@ -103,7 +104,7 @@
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ❌ | ❌ | ❌ | ✅ Рус. | ❌
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ❌
-| [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | 🌌 | 🌌 | 🌌 | ✅ Рус. | 🌌
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌
 | [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ✅ Рус. | ❌
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
@@ -126,11 +127,11 @@
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Разное/curseforge.svg">
 </a>
-<a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
-    <img height="38" src="Разное/rumc_compact_46h.png">
-</a>
 <a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk.svg">
+</a>
+<a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
+    <img height="38" src="Разное/rumc_compact_46h.png">
 </a>
 
 > Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!

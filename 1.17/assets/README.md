@@ -12,6 +12,7 @@
 | 1.0 | Cosmetic Armor Reworked | cosmeticarmorreworked | 2 | Русский 🔴 готов |
 | 1.0 | e4mc | e4mc_minecraft | 4.0.1 | Русский 🔴 и украинский 🟡 готовы |
 | 1.0 | Enchantment Descriptions | enchdesc | 8.17.3 | Русский 🔴 готов |
+| 1.1 | Fabric | fabric<br>fabric-gamerule-test<br>fabric-particles-v1-testmod<br>fabric-registry-sync-v0<br>fabric-resource-loader-v0 | 0.15.10, 0.97.8 | Русский 🔴 готов |
 
 ## В процессе
 
