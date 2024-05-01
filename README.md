@@ -26,23 +26,24 @@
 <summary>Раскрыть список</summary>
 <br>
 
-* `1.16`—`1.20` — версии игры;
+* `1.16—1.20` — версии игры;
+* 🌌 — модификации нет на эту версию.
 * ❌ — перевода пока нет;
 * ✅ — перевод готов.
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 | 1.20 |
 | - | - | - | - | - | - |
 | [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Русский<br>✅ Татарский | ✅ Русский<br>✅ Татарский | ✅ Русский
-| [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | ❌ | ❌ | ❌ | ✅ Русский | ❌
-| [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
+| [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Русский | ❌
+| [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | 🌌 | 🌌 | ❌ | ❌ | ✅ Русский
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Русский | ❌ | ❌ | ✅ Русский | ❌
-| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | ❌ В процессе | ✅ Русский | ❌ | ❌ | ❌
-| [Automatic Tool Swap](https://modrinth.com/mod/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ | ❌
+| [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ В процессе | ✅ Русский | ❌ | ❌ | ❌
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ | ❌
-| [Better Mods Button](https://modrinth.com/mod/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ | ❌
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Русский | ❌ | ❌ | 🌌
+| [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ✅ Русский | ❌ | ❌ | ❌
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ✅ Русский | ❌ | ❌ | ❌ | ❌
-| [Canvas Renderer](https://modrinth.com/mod/canvas) | ❌ | ❌ | ❌ | ❌ | ❌ В процессе
+| [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌ В процессе
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Русский | ✅ Русский | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Русский | ✅ Русский
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | ❌ | ❌ | ❌ | ❌ | ✅ Русский
