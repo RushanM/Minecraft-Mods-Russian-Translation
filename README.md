@@ -43,8 +43,8 @@
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Рус. | ❌ | ❌ | 🌌
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
-| [Botania](https://modrinth.com/mod/botania) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ✅ Рус. | ❌ | ❌ | ❌ | ❌
+| [Botania](https://modrinth.com/mod/botania) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Рус. | ✅ Рус. | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус.
@@ -57,7 +57,7 @@
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [CreRaces](https://modrinth.com/mod/creraces) | ❌ | ❌ | ❌ | ❌ | ❌
-| [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Delightful Creators](https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Рус. | ❌ | ❌
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [e4mc](https://modrinth.com/mod/e4mc) | ❌ | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. |
@@ -65,12 +65,14 @@
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
+| [Enigmatic Legacy](https://modrinth.com/mod/enigmatic-legacy) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Fabric](https://fabricmc.net)<br>[Fabric API](https://modrinth.com/mod/fabric-api) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
+| [Iceopolis](https://www.curseforge.com/minecraft/mc-mods/iceopolis) | 🌌 | 🌌 | 🌌 | ✅ Рус. | 🌌
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Рус. | ❌ | ✅ Рус.
 | [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌
@@ -131,7 +133,7 @@
 <a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk_compact_vector.svg">
 </a>
-<a href="https://ru-minecraft.ru/bezdna/79004-russkiy-perevod-modifikaciy-ot-deflekty-116.html">
+<a href="https://ru-minecraft.ru/bezdna/79004-mods-ru.html">
     <img height="38" src="Разное/rumc_compact_vector.svg">
 </a>
 
