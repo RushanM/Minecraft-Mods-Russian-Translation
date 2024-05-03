@@ -64,3 +64,4 @@
 | 1.5 | Tech Reborn | techreborn | 5.10.3 | Русский 🔴 в процессе |
 | 1.5 | Touhou Little Maid | touhou_little_maid | 1.1.7 | Русский 🔴 в процессе |
 | 1.5 | Xenon | sodium<br>xenon ✅ | 0.3.11 | Русский 🔴 в процессе |
+| 1.5 | Applied Energistics 2 | appliedenergistics2 | 18.1.1 alpha | Русский 🔴 и татарский 🟢 в процессе |
