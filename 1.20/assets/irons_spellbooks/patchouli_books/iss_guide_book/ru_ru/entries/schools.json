@@ -14,7 +14,7 @@
       "type": "patchouli:spotlight",
       "item": "minecraft:blaze_rod",
       "title": "Огонь",
-      "text": "Школа огня, в центре внимания которой находится огненный стержень, сосредоточена на нанесении мгновенного урона и урона на протяжении времени."
+      "text": "Школа огня, фокусом которой является огненный стержень, сосредоточена на нанесении мгновенного урона и урона на протяжении времени."
     },
     {
       "type": "patchouli:spotlight",
@@ -32,43 +32,43 @@
       "type": "patchouli:spotlight",
       "item": "irons_spellbooks:divine_pearl",
       "title": "Святая",
-      "text": "Святая школа, в центре внимания которой находится божественная жемчужина, ориентирована на поддержку, исцеление и усиление союзников."
+      "text": "Святая школа, фокусом которой является божественная жемчужина, ориентирована на поддержку, исцеление и усиление союзников."
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:ender_pearl",
       "title": "Эндер",
-      "text": "Эндер-школа, в центре внимания которой находится эндер-жемчуг, посвящена всему тайному и мистическому, с заклинаниями, назначение которых варьируются от урона до прочей полезности и мобильности."
+      "text": "Эндер-школа, фокусом которой является эндер-жемчуг, посвящена всему тайному и мистическому, с заклинаниями, назначение которых варьируются от урона до прочей полезности и мобильности."
     },
     {
       "type": "patchouli:spotlight",
       "item": "irons_spellbooks:blood_vial",
-      "title": "Blood",
-      "text": "The Blood school, with a Blood Vial as its Focus, is themed around evil; you will find elements of necromancy, wither, and blood magic here, with spells focusing on damage that buffs the caster."
+      "title": "Кровь",
+      "text": "Школа крови, фокусом которой является пузырёк с кровью, посвящена злу; здесь вы найдёте элементы некромантии, иссушения и магии крови, с заклинаниями, фокусирующимися на уроне, усиливающем заклинателя."
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:emerald",
-      "title": "Evocation",
-      "text": "The Evocation school, with an Emerald as its Focus, is themed around magical trickery and conjuration, covering the broadest range of offensive, defensive, and utility spells."
+      "title": "Призывание",
+      "text": "Школа призывания, фокусом которой является изумруд, посвящена магическим уловкам и призыву, охватывая широкий спектр атакующих, защитных и вспомогательных заклинаний."
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:poisonous_potato",
-      "title": "Nature",
-      "text": "The Nature school, with a Poisonous Potato as its Focus, is focused on applying debuffs to enemies, with elements of damage to finish them off."
+      "title": "Природа",
+      "text": "Школа природы, фокусом которой является ядовитый картофель, сосредоточена на наложении ослабляющих эффектов на врагов с элементами урона, чтобы их добить."
     },
     {
       "type": "patchouli:spotlight",
       "item": "irons_spellbooks:eldritch_manuscript",
-      "title": "Eldritch",
-      "text": "The Eldritch school is not like the others. It is an ancient and powerful way of magic, one that has all but been forgotten; you will be unable to immediately craft or cast Eldritch spells. However, shreds of ancient Eldritch manuscripts can still be found scattered throughout the world, and may even be pieced back together with the help of an echo shard."
+      "title": "Древняя",
+      "text": "Древняя школа не похожа на другие. Это древняя и могущественная ветка магии, которая почти была забыта; вы не сможете сразу создавать или произносить заклинания древней школы. Однако по всему миру всё ещё можно найти обрывки древних манускриптов древней школы, которые можно собрать воедино с помощью осколка эха."
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:echo_shard",
-      "title": "Eldritch, continued",
-      "text": "Once a manuscript has been restored, it can be consumed to learn a single Eldritch spell, enabling the crafting and casting of it. After being learned, the Echo Shard is used as the focus."
+      "title": "Древняя, продолжение",
+      "text": "После восстановления манускрипта его можно использовать для изучения одного древнего заклинания, что позволит создавать и произносить его. После изучения заклинания осколок эха будет использоваться в качестве фокуса."
     }
   ]
 }
