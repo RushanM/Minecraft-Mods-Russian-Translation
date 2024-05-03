@@ -50,10 +50,12 @@
 | 1.4 | NeoForge | neoforge | 20.4 | Русский 🔴 в процессе |
 | 1.4 | Sodium Extra | sodium-extra | 0.5.4 | Русский 🔴 в процессе |
 | 1.4 | Twilight Forest | twilightforest | 4.4.2235 | Русский 🔴 в процессе |
+| 1.5 | Applied Energistics 2 | appliedenergistics2 | 18.1.1 alpha | Русский 🔴 и татарский 🟢 в процессе |
 | 1.5 | Botania | botania | 443 | Русский 🔴 в процессе |
 | 1.5 | Cobblemon | cobblemon | 1.4.1 | Русский 🔴 в процессе |
 | 1.5 | Embeddium++ | embeddiumplus | 1.2.7 | Русский 🔴 в процессе |
 | 1.5 | Iris Shaders | iris | 1.6.17 | Русский 🔴 в процессе |
+| 1.5 | Iron's Spells 'n Spellbooks | irons_spellbooks | 3.1.4 | Русский 🔴 в процессе |
 | 1.5 | Kawaii Dishes | kawaiidishes | 1.11.1 | Русский 🔴 в процессе |
 | 1.5 | Mana and Artifice | mna | 3.0.0.14 | Русский 🔴 в процессе |
 | 1.5 | Nature's Aura | naturesaura | 40.1 | Русский 🔴 в процессе |
@@ -64,4 +66,3 @@
 | 1.5 | Tech Reborn | techreborn | 5.10.3 | Русский 🔴 в процессе |
 | 1.5 | Touhou Little Maid | touhou_little_maid | 1.1.7 | Русский 🔴 в процессе |
 | 1.5 | Xenon | sodium<br>xenon ✅ | 0.3.11 | Русский 🔴 в процессе |
-| 1.5 | Applied Energistics 2 | appliedenergistics2 | 18.1.1 alpha | Русский 🔴 и татарский 🟢 в процессе |
