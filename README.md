@@ -103,7 +103,7 @@
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌
-| [Simply Status](https://modrinth.com/mod/simplystatus) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
+| [SimplyStatus](https://modrinth.com/mod/simplystatus) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)<br>[Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ❌ | ❌ | ❌ | ✅ Рус. | ❌
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Sodium](https://modrinth.com/mod/sodium) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ❌
@@ -133,7 +133,7 @@
 <a href="https://vk.com/demipr">
     <img height="38" src="Разное/vk_compact_vector.svg">
 </a>
-<a href="https://ru-minecraft.ru/bezdna/79004-mods-ru.html">
+<a href="https://ru-minecraft.ru/fayly-dlya-minecraft/79004-mods-ru.html">
     <img height="38" src="Разное/rumc_compact_vector.svg">
 </a>
 

@@ -2,7 +2,7 @@
 
 ## Переведённое
 
-| Редакция | Название | Кодовое наименование | Версия | Языки |
+| Редакция | Название | Кодовое наименование | Версия | Прогресс |
 | - | - | - | - | - |
 | 1.0 | All the Fan Made Discs | all_the_fan_made_discs | 0.5.6 | Русский 🔴 готов |
 | 1.0 | Cloth Config API | cloth-config2 | 13.0.121 | Русский 🔴 готов |
@@ -28,11 +28,11 @@
 | 1.2 | Look | look | 1.0.1 | Русский 🔴 готов |
 | 1.2 | Lycanthropy | lycanthropy | 1.1.0 | Русский 🔴 готов |
 | 1.2 | Respackopts | respackopts | 4.7.2 | Русский 🔴 готов |
-| 1.2 | Simply Status | simplystatus | 2.1.0 | Русский 🔴 готов |
+| 1.2 | SimplyStatus | simplystatus | 2.1.0 | Русский 🔴 готов |
 | 1.2 | The Fellow Furries Mod | fellow_furries_mod | 1.0 | Русский 🔴 готов |
 | 1.3 | Animatica | animatica | 0.6 | Русский 🔴 готов |
 | 1.3 | Dynamic FPS | dynamic_fps | 3.4.4 | Русский 🔴 готов |
-| 1.3 | Fabric | fabric<br>fabric-gamerule-test<br>fabric-particles-v1-testmod<br>fabric-registry-sync-v0<br>fabric-resource-loader-v0 | 0.15.10, 0.97.8 | Русский 🔴 готов |
+| 1.3 | Fabric<br>Fabric API | fabric<br>fabric-gamerule-test<br>fabric-particles-v1-testmod<br>fabric-registry-sync-v0<br>fabric-resource-loader-v0 | 0.15.10, 0.97.8 | Русский 🔴 готов |
 | 1.3 | FabricSkyBoxes | fabricskyboxes | 0.7.3 | Русский 🔴 и татарский 🟢 готовы |
 | 1.3 | FabricSkyBoxes Interop | fsb-interop | 1.3.6 build 52 | Русский 🔴 готов |
 | 1.3 | Loqui | loqui | 0.2.0 | Русский 🔴 готов |
@@ -40,24 +40,25 @@
 
 ## В процессе
 
-| Редакция | Название | Кодовое | Версия | Языки |
+| Редакция | Название | Кодовое | Версия | Прогресс |
 | - | - | - | - | - |
-| 1.4 | Botania | botania | 443 | Русский 🔴 в процессе |
+| 🌌 | OptiFine | optifine | HD U I7 | Тупик 🌌 |
 | 1.4 | Canvas Renderer | canvas | 20.2.2641 | Русский 🔴 в процессе |
-| 1.4 | Cobblemon | cobblemon | 1.4.1 | Русский 🔴 в процессе |
 | 1.4 | Delightful Creators | delightfulcreators | 1.1.8 | Русский 🔴 в процессе |
-| 1.4 | Embeddium++ | embeddiumplus | 1.2.7 | Русский 🔴 в процессе |
 | 1.4 | Enigmatic Legacy | enigmaticlegacy | 2.29.0 | Русский 🔴 в процессе |
-| 1.4 | Iris Shaders | iris | 1.6.17 | Русский 🔴 в процессе |
-| 1.4 | Kawaii Dishes | kawaiidishes | 1.11.1 | Русский 🔴 в процессе |
-| 1.4 | NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta | Русский 🔴 в процессе |
 | 1.4 | Neighborly | neighborly | 1.1 | Русский 🔴 в процессе |
 | 1.4 | NeoForge | neoforge | 20.4 | Русский 🔴 в процессе |
-| 1.4 | Nevermore! | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta | Русский 🔴 в процессе |
-| 1.4 | OptiFine | optifine | HD U I7 | Русский 🔴 в процессе |
-| 1.4 | Rats | rats | 8.1.2 | Русский 🔴 в процессе |
-| 1.4 | Sodium | sodium | 0.5.8 | Русский 🔴 в процессе |
 | 1.4 | Sodium Extra | sodium-extra | 0.5.4 | Русский 🔴 в процессе |
-| 1.4 | Tech Reborn | techreborn | 5.10.3 | Русский 🔴 в процессе |
-| 1.4 | Touhou Little Maid | touhou_little_maid | 1.1.7 | Русский 🔴 в процессе |
-| 1.4 | Xenon | sodium<br>xenon ✅ | 0.3.11 | Русский 🔴 в процессе |
+| 1.4 | Twilight Forest | twilightforest | 4.4.2235 | Русский 🔴 в процессе |
+| 1.5 | Botania | botania | 443 | Русский 🔴 в процессе |
+| 1.5 | Cobblemon | cobblemon | 1.4.1 | Русский 🔴 в процессе |
+| 1.5 | Embeddium++ | embeddiumplus | 1.2.7 | Русский 🔴 в процессе |
+| 1.5 | Iris Shaders | iris | 1.6.17 | Русский 🔴 в процессе |
+| 1.5 | Kawaii Dishes | kawaiidishes | 1.11.1 | Русский 🔴 в процессе |
+| 1.5 | NEEPMeat | meatweapons ✅<br>neepmeat | 0.2.18-beta | Русский 🔴 в процессе |
+| 1.5 | Nevermore! | manic<br>nucleus ✅<br>sanguine | 0.2.18-beta | Русский 🔴 в процессе |
+| 1.5 | Rats | rats | 8.1.2 | Русский 🔴 в процессе |
+| 1.5 | Sodium | sodium | 0.5.8 | Русский 🔴 в процессе |
+| 1.5 | Tech Reborn | techreborn | 5.10.3 | Русский 🔴 в процессе |
+| 1.5 | Touhou Little Maid | touhou_little_maid | 1.1.7 | Русский 🔴 в процессе |
+| 1.5 | Xenon | sodium<br>xenon ✅ | 0.3.11 | Русский 🔴 в процессе |
