@@ -1,6 +1,6 @@
 {
     "achievement.ae2.ChargedQuartz": "Шок! Сенсация!",
-    "achievement.ae2.ChargedQuartz.desc": "Найдите заряженный кварц",
+    "achievement.ae2.ChargedQuartz.desc": "Зарядите кварц с помощью зарядного устройства",
     "achievement.ae2.Charger": "Производство тока",
     "achievement.ae2.Charger.desc": "Соберите зарядное устройство",
     "achievement.ae2.Compass": "Охотник за метеоритами",
@@ -16,7 +16,7 @@
     "achievement.ae2.Facade": "Сетевая эстетика",
     "achievement.ae2.Facade.desc": "Смастерите кабельный фасад",
     "achievement.ae2.Fluix": "Неестественно",
-    "achievement.ae2.Fluix.desc": "Создайте кристаллы тока",
+    "achievement.ae2.Fluix.desc": "Создайте токовую пыль",
     "achievement.ae2.GlassCable": "Подключение к энергии тока",
     "achievement.ae2.GlassCable.desc": "Смастерите стеклянный кабель энергии материи",
     "achievement.ae2.IOPort": "Перестановка ячеек хранения",
@@ -34,9 +34,5 @@
     "achievement.ae2.PatternTerminal": "Ремесленный маэстро",
     "achievement.ae2.PatternTerminal.desc": "Смастерите терминал шаблонов",
     "achievement.ae2.PortableCell": "Кочевник хранения",
-    "achievement.ae2.PortableCell.desc": "Смастерите портативную ячейку",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIAuto": "Автоматический синхронизованный со средством просмотра рецептов",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIAutoKeep": "Оставляющий автоматический синхронизованный со средством просмотра рецептов",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandard": "Стандартный синхронизованный со средством просмотра рецептов",
-    "gui.tooltips.appliedenergistics2.SearchMode_JEIStandardKeep": "Оставляющий стандартный синхронизованный со средством просмотра рецептов"
+    "achievement.ae2.PortableCell.desc": "Смастерите портативную ячейку"
 }
