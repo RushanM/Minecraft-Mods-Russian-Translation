@@ -1,11 +1,16 @@
 {
     "pack": {
-        "description": "§7Автор: Дефлекта. Редакция 1.0 для Minecraft 1.16.x.",
-        "name": "Forge-надстройка русских переводов модов",
+        "description": {
+            "fallback": "§7Корректировка переводов Дефлекты под Forge",
+            "translate": "minecraft.resource_pack.rumodsfabric"
+        },
+        "name": "Forge-надстройка",
         "pack_format": 6,
-        "supported_formats": {
-            "max_inclusive": 6,
-            "min_inclusive": 5
-        }
+        "supported_formats": [
+            5,
+            6
+        ],
+        "автор": "Дефлекта",
+        "версия": "1.16-1.0"
     }
 }
