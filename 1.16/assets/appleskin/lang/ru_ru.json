@@ -19,7 +19,7 @@
     "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip": "Когда включено, в подсказке еды отображаются значения голода и насыщенности",
     "text.autoconfig.appleskin.option.showSaturationHudOverlay": "Показывать наложение насыщения",
     "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "Если включено, на полосе голода будет показываться ваш текущий уровень насыщенности",
-    "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "Включить анимацию у значков модификации",
+    "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "Включить анимацию у значков мода",
     "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "Если включено, наложение здоровья/голода будет вздрагивать, повторяя анимацию значков Minecraft",
     "text.autoconfig.appleskin.title": "AppleSkin"
 }

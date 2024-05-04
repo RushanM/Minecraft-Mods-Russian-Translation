@@ -4,7 +4,7 @@
         "автор": "Дефлекта",
         "версия": "1.20-1.0",
         "description": {
-            "fallback": "§7Переводит названия модификаций на русский язык",
+            "fallback": "§7Переводит названия модов на русский язык",
             "translate": "modmenu.resource_pack.runames"
         },
         "pack_format": 15,

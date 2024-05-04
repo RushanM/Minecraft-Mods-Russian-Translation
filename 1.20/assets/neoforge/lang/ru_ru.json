@@ -1,12 +1,12 @@
 {
-    "fml.menu.modoptions": "Настройки модификации...",
+    "fml.menu.modoptions": "Настройки мода",
     "fml.menu.mods": "Модификации",
     "fml.menu.mods.a_to_z": "А-Я",
     "fml.menu.mods.config": "Настройки",
-    "fml.menu.mods.info.idstate": "Идентификатор модификации: {0} Состояние: {1,lower}",
+    "fml.menu.mods.info.idstate": "Идентификатор мода: {0} Состояние: {1,lower}",
     "fml.menu.mods.info.version": "Версия: {0}",
     "fml.menu.mods.normal": "Выкл.",
-    "fml.menu.mods.openmodsfolder": "Открыть папку модификаций",
+    "fml.menu.mods.openmodsfolder": "Открыть папку модов",
     "fml.menu.mods.search": "Искать",
     "fml.menu.mods.title": "Модификации",
     "fml.menu.mods.z_to_a": "Я-А"

@@ -33,7 +33,7 @@
     "mica.category.title_text.text_color.description": "Позволяет изменить цвет текста шапки",
     "mica.category.title_text.use_default_color": "Цвет текста шапки по умолчанию",
     "mica.category.title_text.use_default_color.description": "Позволяет настраивать цвет текста шапка, когда отключено",
-    "mica.missing_yacl.description": "Для изменения настроек на %s, необходима модификация YetAnotherConfigLib.\nНажмите кнопку ниже, чтобы её скачать.",
+    "mica.missing_yacl.description": "Для изменения настроек на %s, необходим мод YetAnotherConfigLib.\nНажмите кнопку ниже, чтобы скачать его.",
     "mica.missing_yacl.download": "Скачать",
     "mica.missing_yacl.title": "YetAnotherConfigLib не установлена!!",
     "mica.unsupported_os.description": "%s доступен только начиная с версии Windows 11 21H2 (22000)",
