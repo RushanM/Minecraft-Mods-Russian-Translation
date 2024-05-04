@@ -18,7 +18,7 @@
     "modmenu.configsFolder": "Открыть папку настроек",
     "modmenu.configure": "Настроить",
     "modmenu.configure.error": "Не удалось загрузить экран настроек «%s»\nСообщите разработчику «%s», а не Mod Menu",
-    "modmenu.credits": "Способствовали разработке модификации:",
+    "modmenu.credits": "Поспособствовали разработке:",
     "modmenu.crowdin": "Crowdin",
     "modmenu.curseforge": "CurseForge",
     "modmenu.descriptionTranslation.alternate-current": "Эффективная и не зависящая от местоположения реализация редстоуновой пыли.",
