@@ -48,7 +48,7 @@
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Рус. | ✅ Рус. | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус.
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Рус. | ❌ | ❌ | ❌ | ✅ Рус.
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Рус.<br>✅ Тат.<br>✅ Укр. | ❌ | ❌ | ❌ | ✅ Рус.
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | ✅ Рус. | ❌ | ❌ | ❌ | ✅ Рус.
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | ❌ | ❌ | ❌ | ❌ | ❌
