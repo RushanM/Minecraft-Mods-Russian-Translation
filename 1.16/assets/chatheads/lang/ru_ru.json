@@ -1,6 +1,6 @@
 {
-    "modmenu.descriptionTranslation.chat_heads": "Видьте, с кем общаетесь!\nЭта модификация добавляет головы игроков перед их сообщениями в чате.",
-    "modmenu.summaryTranslation.chat_heads": "Видьте, с кем общаетесь!\nЭта модификация добавляет лица отправителей в чат.",
+    "modmenu.descriptionTranslation.chat_heads": "Видьте, с кем общаетесь!\nЭтот мод добавляет головы игроков перед их сообщениями в чате.",
+    "modmenu.summaryTranslation.chat_heads": "Видьте, с кем общаетесь!\nЭтот мод добавляет головы игроков перед их сообщениями в чате.",
     "text.autoconfig.chat_heads.option.explanation": "«UUID»? «Эвристика»?",
     "text.autoconfig.chat_heads.option.explanation.@Tooltip[0]": "Обычно серверы сообщают нам, кто отправил сообщение,",
     "text.autoconfig.chat_heads.option.explanation.@Tooltip[1]": "т. е. UUID отправителя. Однако многие серверы этого не делают.",
