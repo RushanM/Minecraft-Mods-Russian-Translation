@@ -1,11 +1,11 @@
 {
-    "remote": {
-        "type": "modrinth",
-        "game_version": "current",
-        "modrinth_project_id": "mods-names-ru"
-    },
     "current": {
         "version_number": "1.16-1.0"
     },
-    "formatVersion": 1
+    "formatVersion": 1,
+    "remote": {
+        "game_version": "current",
+        "modrinth_project_id": "mods-names-ru",
+        "type": "modrinth"
+    }
 }
