@@ -2,7 +2,7 @@
 
 ## Расположение файлов
 
-- **`lore.ogg`** располагается по пути `Буква диска:\Users\Пользователь\AppData\Roaming\Лончер\instances\The Ferret Business\minecraft\config\hqm\lore.ogg`
+- **`lore.ogg`** располагается по пути `Буква диска:\Users\Пользователь\AppData\Roaming\Лончер\instances\Название установки сборки\minecraft\config\hqm\lore.ogg`
 
 ## Использованный контент
 
