@@ -12,14 +12,14 @@
 
 | Редакция | Название | Кодовое наименование | Версия | Прогресс |
 | - | - | - | - | - |
-| 1.0 | AppleSkin
-| 1.0 | Controlling
-| 1.0 | Forge;
-| 1.0 | Mod Menu
-| 1.0 | Rotten Creatures
-| 1.0 | Simple Corinthium
-| 1.0 | Simple Weapons for Better Combat
-| 1.0 | Smooth Boot (Fabric)<br>Smooth Boot (Reloaded)
+| 1.0 | AppleSkin |  |  |  |
+| 1.0 | Controlling |  |  |  |
+| 1.0 | Forge |  |  |  |
+| 1.0 | Mod Menu |  |  |  |
+| 1.0 | Rotten Creatures |  |  |  |
+| 1.0 | Simple Corinthium |  |  |  |
+| 1.0 | Simple Weapons for Better Combat |  |  |  |
+| 1.0 | Smooth Boot (Fabric)<br>Smooth Boot (Reloaded) | 
 | 1.1 | Applied Energistics 2 | appliedenergistics2 | 13.0.10 beta | Русский 🔴 и татарский 🟢 в процессе |
 | 1.1 | Enigmatic Legacy |  |  | Русский 🔴 в процессе |
 | 1.1 | The Twilight Forest |  |  | Русский 🔴 в процессе |
