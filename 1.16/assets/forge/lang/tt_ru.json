@@ -53,7 +53,7 @@
     "fml.menu.mods.info.authors": "Авторы: {0}",
     "fml.menu.mods.info.changelogheader": "Изменения:",
     "fml.menu.mods.info.childmods": "Дочерние модификации: {0}",
-    "fml.menu.mods.info.credits": "Поспособствовали разработке: {0}",
+    "fml.menu.mods.info.credits": "Способствовали разработке: {0}",
     "fml.menu.mods.info.displayurl": "Главная страница: {0}",
     "fml.menu.mods.info.idstate": "Идентификатор мода: {0}\nСостояние: {1,lower}",
     "fml.menu.mods.info.license": "Лицензия: {0}",

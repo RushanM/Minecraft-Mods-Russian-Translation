@@ -10,7 +10,7 @@
     "text.autoconfig.chat_heads.option.offsetNonPlayerText": "Сместить текст в чате, написанный не игроками",
     "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "При включении весь текст будет выровнен",
     "text.autoconfig.chat_heads.option.senderDetection": "Выявление отправителя",
-    "text.autoconfig.chat_heads.option.senderDetection.@Tooltip": "На большинстве серверов «UUID и эвристика» работает нормально.\nЕсли же сервер посылает поддельные UUID,\nнеобходимо использовать «Только эвристику».",
+    "text.autoconfig.chat_heads.option.senderDetection.@Tooltip": "На большинстве серверов «UUID и эвристика» работает нормально.\nЕсли же сервер посылает поддельные UUID,\nнеобходимо использовать «Только эвристика».",
     "text.autoconfig.chat_heads.option.senderDetection.HEURISTIC_ONLY": "Только эвристика",
     "text.autoconfig.chat_heads.option.senderDetection.UUID_AND_HEURISTIC": "UUID и эвристика",
     "text.autoconfig.chat_heads.option.senderDetection.UUID_ONLY": "Только UUID",

@@ -1,5 +1,4 @@
 # Русский перевод модификаций для Minecraft от Дефлекты
-
 <div align="center">
     <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
     <br>
@@ -21,7 +20,6 @@
 Помимо русского языка в наборе планируются переводы и на остальные языки, используемые в России, Беларуси и Украине. Например, в определённых версиях этого набора уже включены переводы некоторых модов на татарский и украинский языки.
 
 ## ⚙️ Что затронуто
-
 <details>
 <summary>Раскрыть список</summary>
 <br>
@@ -48,7 +46,7 @@
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | 🌌 | ❌ | ❌ | ❌ | ❌
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ✅ Рус. | ✅ Рус. | ❌ | ❌ | ❌
 | [Cave Dweller](https://modrinth.com/mod/cave-dweller-fabric)<br>[Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус.
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Рус.<br>✅ Бел.<br>✅ Тат.<br>✅ Укр. | ❌ | ❌ | ❌ | ✅ Рус.
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | ✅ Рус.<br>✅ Бел.<br>✅ Тат. | ❌ | ❌ | ❌ | ✅ Рус.
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | ✅ Рус. | ❌ | ❌ | ❌ | ✅ Рус.
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | ❌ | ❌ | ❌ | ❌ | ❌
@@ -66,7 +64,7 @@
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Enigmatic Legacy](https://modrinth.com/mod/enigmatic-legacy) | ❌ | ❌ | ❌ | ❌ | ❌
-| [Fabric](https://fabricmc.net)<br>[Fabric API](https://modrinth.com/mod/fabric-api) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
+| [Fabric](https://fabricmc.net) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
@@ -118,11 +116,9 @@
 | [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ❌ | ❌ | ❌ | ❌ | ❌
 
 Список будет пополняться.
-
 </details>
 
 ## 🚀 Установка
-
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 
 <a href="https://modrinth.com/resourcepack/mods-ru">
@@ -141,7 +137,6 @@
 > Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!
 
 ### 🏷️ Версии
-
 Есть несколько версий набора и я приписываю к каждой версии свой номер. Например, «1.18-1.0» в названии набора расшифровывается как «редакция 1.0 для Minecraft 1.18». Я не могу разом перевести все моды и поэтому я выпускаю наборы в виде отдельных *редакций* — пачек переводов для конкретных модов, которые я успел перевести. Каждая новая редакция, начиная с 1.0 и далее по порядку, включает в себя все предыдущие переводы (с возможными изменениями) и обязательно добавляет новые.
 
 <!-- ### Скачивание
@@ -151,9 +146,7 @@
 Включите набор в игре. -->
 
 ### 📋 Порядок
-
 Чтобы набор имел возможность изменять перевод модов, он должен стоять выше набора ресурсов модов. Например, у Fabric он называется «Модификации Fabric» (Fabric Mods).
-
 <div align="center">
     <img title="Хаос, хаос!? Нет, нет! Порядок, порядок!" height="250" src="Разное/order.png">
 </div>
@@ -166,17 +159,17 @@
 #### ⚙️ [Respackopts](https://modrinth.com/mod/respackopts)
 В разработке.
 
-## 📛 Авторы
-
-* [**Дефлекта**](https://github.com/RushanM): Делает этот набор ресурсов
+## 📛 Способствовали разработке
+* [**Дефлекта**](https://github.com/RushanM): 97% переводов
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский моды 
-* * [*Simple Corinthium*](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
-* * [*Simple Weapons for Better Combat*](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
-* * [*Rotten Creatures*](https://modrinth.com/mod/rottencreatures)
+* * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
+* * [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
+* * [Rotten Creatures](https://modrinth.com/mod/rottencreatures)
 * [**Inqurity**](https://github.com/Inqurity): Перевёл на русский и украинский моды
-* * [*Idwtialsimmoedm*](https://modrinth.com/mod/idwtialsimmoedm)
-* * [*e4mc*](https://modrinth.com/mod/e4mc)
-* [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом README
+* * [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm)
+* * [e4mc](https://modrinth.com/mod/e4mc)
+* [**REXE**](https://github.com/RedmanEXE): Подкорректировал белорусский перевод [Chat Heads](https://modrinth.com/mod/chat-heads)
+* [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
 ## ✉️ Контакты
 Есть личная просьба, предложение или любая другая причина обратиться лично ко мне? Вы можете написать мне в одной из этих сетей:
@@ -185,9 +178,7 @@
 * Телеграм: **`RMKHTDNV`**
 
 ## 💝 Материальная поддержка
-
 Если моя работа нравится вам настолько, что вы готовы отправить мне деньги, можно сделать это по следующим ссылкам:
-
 * VK Pay: <https://vk.me/moneysend/deflecta>
 * ЮMoney: <https://yoomoney.ru/to/410015215253910>
 

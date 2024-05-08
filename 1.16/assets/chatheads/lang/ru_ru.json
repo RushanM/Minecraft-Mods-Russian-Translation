@@ -12,7 +12,7 @@
     "text.autoconfig.chat_heads.option.senderDetection": "Выявление отправителя",
     "text.autoconfig.chat_heads.option.senderDetection.@Tooltip[0]": "На большинстве серверов «UUID и эвристика» работает нормально.",
     "text.autoconfig.chat_heads.option.senderDetection.@Tooltip[1]": "Если же сервер посылает поддельные UUID,",
-    "text.autoconfig.chat_heads.option.senderDetection.@Tooltip[2]": "необходимо использовать «Только эвристику».",
+    "text.autoconfig.chat_heads.option.senderDetection.@Tooltip[2]": "необходимо использовать «Только эвристика».",
     "text.autoconfig.chat_heads.option.senderDetection.HEURISTIC_ONLY": "Только эвристика",
     "text.autoconfig.chat_heads.option.senderDetection.UUID_AND_HEURISTIC": "UUID и эвристика",
     "text.autoconfig.chat_heads.option.senderDetection.UUID_ONLY": "Только UUID",

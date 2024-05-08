@@ -1,12 +1,12 @@
 {
     "modmenu.descriptionTranslation.appleskin": "Добавляет ряд улучшений в отношении еды в HUD",
     "modmenu.summaryTranslation.appleskin": "Добавляет ряд улучшений в отношении еды в HUD",
-    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Предел альфа-прозрачности мигающих значков в HUD",
-    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Значение альфа-прозрачности мигающих значков в их самых заметных точках (1,0 = полностью непрозрачно; 0,0 = полностью прозрачно)",
-    "text.autoconfig.appleskin.option.showFoodDebugInfo": "Показывать значения еды на экране отладки",
-    "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "Если включено, показывает уровень голода, насыщения и истощения на экране отладки",
-    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Показывать подслой истощения",
-    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "Если включено, показывает ваше пищевое истощение в виде индикатора прогресса за индикатором голода",
+    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Максимальная видимость в HUD добавляемой сытости",
+    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Максимальная видимость мигающих значков добавляемой сытости в HUD в диапазоне от 0.0 до 1.0 (1.0 = полностью видимы; 0.0 = полностью невидимы)",
+    "text.autoconfig.appleskin.option.showFoodDebugInfo": "Показывать голод, насыщение и истощение в экране отладки",
+    "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "При включении, начинает показывать значения голода, насыщения и истощения в одной из строчек экрана отладки слева",
+    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Показывать сетку истощения",
+    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "При включении, за показателем сытости появляется сетка, олицетворяющая ваше истощение. Когда оно заполняет показатель сытости, вы теряете сытость.",
     "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "Показ прибавляемого от еды здоровья, когда она в руке",
     "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "Если включено, в HUD будет отображаться, сколько вы восполните сердечек едой, что держите в руках",
     "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "Показ прибавляемой сытости, когда еда в руке",
@@ -21,5 +21,5 @@
     "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "Если включено, на полосе голода будет показываться ваш текущий уровень насыщенности",
     "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "Включить анимацию у значков мода",
     "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "Если включено, наложение здоровья/голода будет вздрагивать, повторяя анимацию значков Minecraft",
-    "text.autoconfig.appleskin.title": "AppleSkin"
+    "text.autoconfig.appleskin.title": "Настройки AppleSkin"
 }
