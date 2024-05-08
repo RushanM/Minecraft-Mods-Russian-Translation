@@ -24,18 +24,19 @@
 <summary>Раскрыть список</summary>
 <br>
 
-* `1.16—1.20` — версии игры;
-* 🌌 — мода нет на эту версию.
-* ❌ — перевода пока нет;
-* ✅ — перевод готов.
+* `1.16—1.20` — версии игры
+* 🌌 — мода нет на эту версию
+* ❌ — полного перевода пока нет, но возможно есть частичный
+* ✅ — перевод готов
 
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 | 1.20 |
 | - | - | - | - | - | - |
+| [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус.
 | [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Рус. | ❌
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | 🌌 | 🌌 | ❌ | ❌ | ✅ Рус.
 | [Animatica](https://modrinth.com/mod/animatica) | 🌌 | ❌ | ❌ | ❌ | ✅ Рус.
-| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Рус. | ❌ | ❌ | ✅ Рус. | ❌
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
@@ -62,18 +63,18 @@
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Endless Music](https://modrinth.com/mod/endless-music) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
-| [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Enigmatic Legacy](https://modrinth.com/mod/enigmatic-legacy) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [Fabric](https://fabricmc.net) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
+| [FurBandits](https://www.curseforge.com/minecraft/mc-mods/furbandits) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Iceopolis](https://www.curseforge.com/minecraft/mc-mods/iceopolis) | 🌌 | 🌌 | 🌌 | ✅ Рус. | 🌌
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Рус. | ❌ | ✅ Рус.
 | [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ❌ | ❌ | ❌ | ❌ | ❌
-| [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Jade 🔍](https://modrinth.com/mod/jade) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | ❌ | ❌ | ❌ | ❌ | ❌
