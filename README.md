@@ -32,8 +32,8 @@
 | Модификация | 1.16 | 1.17 | 1.18 | 1.19 | 1.20 |
 | - | - | - | - | - | - |
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ❌ | ❌ | ❌ | ❌ | ❌
+| [A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Рус. | ❌
 | [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус.
-| [AFMP: A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Рус. | ❌
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | 🌌 | 🌌 | ❌ | ❌ | ✅ Рус.
 | [Animatica](https://modrinth.com/mod/animatica) | 🌌 | ❌ | ❌ | ❌ | ✅ Рус.
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
@@ -74,7 +74,7 @@
 | [FurBandits](https://www.curseforge.com/minecraft/mc-mods/furbandits) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Iceopolis](https://www.curseforge.com/minecraft/mc-mods/iceopolis) | 🌌 | 🌌 | 🌌 | ✅ Рус. | 🌌
 | [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm) | ❌ | ❌ | ✅ Рус. | ❌ | ✅ Рус.
-| [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ❌ | ❌ | ❌ | ❌ | ❌
+| [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) | ❌ | 🌌 | ❌ | ❌ | 🌌
 | [Iris Shaders](https://modrinth.com/mod/iris) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Jade 🔍](https://modrinth.com/mod/jade) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | ❌ | ❌ | ❌ | ❌ | ❌
