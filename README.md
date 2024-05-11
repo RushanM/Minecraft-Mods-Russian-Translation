@@ -3,9 +3,9 @@
     <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
     <br>
     <br>
-    <img title="Никак не связано с «Фаргус Мультимедия». Это просто добрая отсылка. Я работаю над переводами один с 2020 года, лишь изредка получая помощь от народа (хотелось бы, конечно, больше вклада от Интернета, но имеем, что имеем)." src="Разное/fargus_cozy_vector.svg">
-    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Разное/dynamicpack_cozy_vector.svg"></a>
-    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps_cozy_vector.svg"></a>
+    <img title="Никак не связано с «Фаргус Мультимедия». Это просто добрая отсылка. Я работаю над переводами один с 2020 года, лишь изредка получая помощь от народа (хотелось бы, конечно, больше вклада от Интернета, но имеем, что имеем)." src="Разное/fargus_cozy_vector.svg" height="55">
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Разное/dynamicpack_cozy_vector.svg" height="55"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps_cozy_vector.svg" height="55"></a>
     <br>
     <br>
     <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
@@ -121,21 +121,22 @@
 
 ## 🚀 Установка
 Скачать набор ресурсов можно [здесь в Гитхабе со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
-
+<div align="center">
 <a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="38" src="Разное/modrinth_compact_vector.svg">
+    <img height="35" src="Разное/modrinth_compact_vector.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="38" src="Разное/curseforge_compact_vector.svg">
+    <img height="35" src="Разное/curseforge_compact_vector.svg">
 <a href="https://www.planetminecraft.com/texture-pack/mods-russian-translation-6270800/">
-    <img height="38" src="Разное/planet_compact_vector.svg">
+    <img height="35" src="Разное/planet_compact_vector.svg">
 </a>
 <a href="https://ru-minecraft.ru/fayly-dlya-minecraft/79004-mods-ru.html">
-    <img height="38" src="Разное/rumc_compact_vector.svg">
+    <img height="35" src="Разное/rumc_compact_vector.svg">
 </a>
 <a href="https://vk.com/demipr">
-    <img height="38" src="Разное/vk_compact_vector.svg">
+    <img height="35" src="Разное/vk_compact_vector.svg">
 </a>
+</div>
 
 > Если не можете решиться, откуда скачивать, скачивайте с Modrinth. Сайт — конфетка!
 
