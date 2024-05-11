@@ -127,6 +127,8 @@
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
     <img height="38" src="Разное/curseforge_compact_vector.svg">
+<a href="https://www.planetminecraft.com/texture-pack/mods-russian-translation-6270800/">
+    <img height="38" src="Разное/planet_compact_vector.svg">
 </a>
 <a href="https://ru-minecraft.ru/fayly-dlya-minecraft/79004-mods-ru.html">
     <img height="38" src="Разное/rumc_compact_vector.svg">
