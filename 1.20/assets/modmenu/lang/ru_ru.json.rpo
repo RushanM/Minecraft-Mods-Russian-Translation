@@ -1,0 +1,4 @@
+{
+    "condition": "modsru:general.mods_word_style.mod",
+    "fallback": "assets/modmenu/lang/ru_ru.lang"
+}

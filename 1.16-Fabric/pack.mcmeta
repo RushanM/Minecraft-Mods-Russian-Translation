@@ -1,7 +1,7 @@
 {
     "pack": {
         "description": {
-            "fallback": "§7Корректировка переводов Дефлекты под Fabric",
+            "fallback": "Корректировка переводов Дефлекты под Fabric",
             "translate": "minecraft.resource_pack.rumodsfabric"
         },
         "name": "Fabric-надстройка",

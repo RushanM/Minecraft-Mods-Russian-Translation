@@ -1,8 +1,8 @@
 {
     "pack": {
         "description": {
-            "fallback": "§7Вносит правки в русский перевод модификаций",
-            "translate": "minecraft.resource_pack.rumods"
+            "fallback": "Вносит правки в русский перевод модификаций",
+            "translate": "minecraft.resource_pack.modsru"
         },
         "name": "Русификатор модификаций",
         "pack_format": 15,
