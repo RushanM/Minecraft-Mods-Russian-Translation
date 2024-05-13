@@ -1,5 +1,4 @@
 {
-	autofocus_id: "4FE53F31E68F4C1C"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	disable_toast: true
@@ -7,8 +6,24 @@
 	group: ""
 	icon: "gtceu:vacuum_tube"
 	id: "0654B76C306712BE"
-	order_index: 0
-	quest_links: [ ]
+	order_index: 1
+	quest_links: [
+		{
+			id: "648273CE9E632507"
+			linked_quest: "77670BF761084AA2"
+			shape: "hexagon"
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			id: "7FB8EA3900C4D89D"
+			linked_quest: "1A30472430354F1E"
+			shape: "gear"
+			size: 1.5d
+			x: 2.5d
+			y: 10.0d
+		}
+	]
 	quests: [
 		{
 			dependencies: ["2A511DB40C66CF35"]
@@ -79,11 +94,40 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					id: "19598A860287E726"
+					item: {
+						Count: 1b
+						id: "gtceu:diamond_axe"
+						tag: {
+							DisallowContainerItem: 0b
+							GT.Behaviours: {
+								DisableShields: 1b
+								TreeFelling: 1b
+							}
+							GT.Tool: {
+								Damage: 0
+								HarvestLevel: 3
+								MaxDamage: 767
+								ToolSpeed: 8.0f
+							}
+							HideFlags: 2
+						}
+					}
+					type: "item"
+				}
+				{
+					auto: "no_toast"
 					icon: "enderio:cake_base"
-					id: "24FE5D5A412EA666"
-					title: "БЕСПЛАТНЫЕ ТОРТИКИ"
+					id: "612FEB595285D353"
+					title: "&6Бесконечные тортики!"
 					type: "custom"
+				}
+				{
+					auto: "invisible"
+					id: "75FD5BC7147B8397"
+					ignore_reward_blocking: true
+					stage: "intro_complete"
+					type: "gamestage"
 				}
 			]
 			shape: "hexagon"
@@ -101,7 +145,7 @@
 		{
 			can_repeat: true
 			dependencies: ["66FCC26399376B55"]
-			description: ["Этот квест повторяем и даёт вам бесплатный торт в &6мир пустоты&r или &2верхний мир&r каждый час. Вы также можете пополнить свои торты с помощью предметов, указанных в их подсказках."]
+			description: ["Этот квест повторяем и даёт вам бесплатный торт в &6мир пустоты&r или &2верхний мир&r каждый час. Также вы можете восполнить количество своих тортов с помощью предметов, указанных в их подсказках."]
 			disable_toast: true
 			icon: "telepastries:overworld_cake"
 			id: "542F0090D8975D3C"
@@ -182,8 +226,8 @@
 				title: "Терминал"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: -1.5d
+			x: 0.75d
+			y: -1.0d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
@@ -212,7 +256,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "ULV Beginings"
+			subtitle: "ULV Beginnings"
 			tasks: [
 				{
 					count: 12L
@@ -281,75 +325,11 @@
 				}
 			]
 			title: "&9Wrenches Galore"
-			x: 0.0d
+			x: 0.5d
 			y: 2.5d
 		}
 		{
-			dependencies: ["2E8BFA2E719B1C47"]
-			description: [
-				"There are lots of ways to upgrade and improve your Grappling Hook, so play around with it."
-				""
-				"&9Since there is no Curios slot for the Hook, you'll have to keep it in your hotbar to use it.&r"
-			]
-			id: "5B31AB11CC640279"
-			rewards: [{
-				id: "5C2F124669C65506"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			subtitle: "A &aGrappling Hook&f is very useful in an urban environment."
-			tasks: [{
-				id: "3C1E57C56F5B5B92"
-				item: {
-					Count: 1b
-					id: "grapplemod:grapplinghook"
-					tag: {
-						Damage: 0
-						custom: {
-							angle: 20.0d
-							attract: 0b
-							attractradius: 3.0d
-							crc32: 2252267022L
-							detachonkeyrelease: 0b
-							doublehook: 0b
-							enderstaff: 0b
-							hookgravity: 1.0d
-							maxlen: 30.0d
-							motor: 0b
-							motoracceleration: 0.2d
-							motordampener: 0b
-							motormaxspeed: 4.0d
-							motorwhencrouching: 0b
-							motorwhennotcrouching: 1b
-							oneropepull: 0b
-							phaserope: 0b
-							playermovementmult: 1.0d
-							pullbackwards: 1b
-							reelin: 1b
-							repel: 0b
-							repelforce: 1.0d
-							rocket: 0b
-							rocket_active_time: 0.5d
-							rocket_force: 1.0d
-							rocket_refuel_ratio: 15.0d
-							rocket_vertical_angle: 0.0d
-							smartdoublemotor: 1b
-							smartmotor: 0b
-							sneakingangle: 10.0d
-							sneakingverticalthrowangle: 0.0d
-							sticky: 0b
-							throwspeed: 2.0d
-							verticalthrowangle: 0.0d
-						}
-					}
-				}
-				type: "item"
-			}]
-			x: -2.0d
-			y: 2.5d
-		}
-		{
-			dependencies: ["2E8BFA2E719B1C47"]
+			dependencies: ["58566C7BF4C22D86"]
 			description: [
 				"&9With EMI, instead of showing you a separate recipe for every tool-resource combination, tools are instead grouped. You can use any any tool from that group - for example, the &6#forge:tools/hammers &9group means that any &aHammer &9can be used there."
 				""
@@ -688,7 +668,7 @@
 				item: "ironfurnaces:iron_furnace"
 				type: "item"
 			}]
-			title: "Furnace v2.0"
+			title: "Печь v2.0"
 			x: 6.5d
 			y: 1.0d
 		}
@@ -706,7 +686,7 @@
 				item: "ironfurnaces:copper_furnace"
 				type: "item"
 			}]
-			title: "Furnace v3.0"
+			title: "Печь v3.0"
 			x: 6.5d
 			y: 4.0d
 		}
@@ -724,13 +704,13 @@
 				item: "ironfurnaces:silver_furnace"
 				type: "item"
 			}]
-			title: "Furnace v4.0"
+			title: "Печь v4.0"
 			x: 6.5d
 			y: 5.5d
 		}
 		{
 			dependencies: ["6B121BEFD852BC2D"]
-			description: ["&3Diamond Furnaces&f are the fastest available, taking only &a25 ticks&f to smelt an item."]
+			description: ["&3Diamond Furnaces&f are even faster, taking only &a25 ticks&f to smelt an item."]
 			id: "1AE46C1970378083"
 			rewards: [{
 				id: "4F7C761D3657868A"
@@ -742,7 +722,7 @@
 				item: "ironfurnaces:diamond_furnace"
 				type: "item"
 			}]
-			title: "Furnace v6.0"
+			title: "Печь v6.0"
 			x: 6.5d
 			y: 8.5d
 		}
@@ -760,17 +740,13 @@
 				item: "ironfurnaces:gold_furnace"
 				type: "item"
 			}]
-			title: "Furnace v5.0"
+			title: "Печь v5.0"
 			x: 6.5d
 			y: 7.0d
 		}
 		{
 			dependencies: ["1AE46C1970378083"]
-			description: [
-				"While &3Obsidian Furnaces&f are the same speed as &3Diamond Furnaces&f, they are blastproof."
-				""
-				"&5Need to buff these to either smelt twice as fast or have 2 smelting slots."
-			]
+			description: ["&3Obsidian Furnaces&f are slightly faster than &3Diamond Furnaces&f, taking only &a20 ticks&r to smelt an items, and are also blastproof."]
 			id: "3969150B59EA38A2"
 			rewards: [{
 				id: "7BADB8C39CADB5FF"
@@ -782,7 +758,7 @@
 				item: "ironfurnaces:obsidian_furnace"
 				type: "item"
 			}]
-			title: "Furnace v7.0"
+			title: "Печь v7.0"
 			x: 6.5d
 			y: 10.0d
 		}
@@ -801,7 +777,7 @@
 				item: "ironfurnaces:netherite_furnace"
 				type: "item"
 			}]
-			title: "Furnace v8.0"
+			title: "Печь v8.0"
 			x: 6.5d
 			y: 11.5d
 		}
@@ -931,7 +907,7 @@
 				""
 				"Pick your poison."
 				""
-				"&5Sadly, EnderIO has decided to already abandon 1.20.1 EnderIO, meaning things like speed upgrades, filters, etc will never be officially added. If you are a mod dev and are willing to port these elements, please let the Monifactory dev team know."
+				"&5Sadly, EnderIO has decided to already abandon 1.20.1 EnderIO, meaning things like speed upgrades, filters, etc will never be officially added. If you are a mod dev and are willing to help in porting these elements, please refer to the Monifactory EnderIO repository."
 			]
 			icon: "gtceu:steel_small_fluid_pipe"
 			id: "64AAF0CD958D836A"
@@ -1062,7 +1038,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "2ECEDA36F2ADFDE8"
-				item: "watercondenser:watercondenser"
+				item: "watercollector:watercollector"
 				type: "item"
 			}]
 			title: "&9Infinite Water"
@@ -1172,10 +1148,9 @@
 				""
 				"[\"Hover over an item and press \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Add/Remove Bookmark\\\" in keybind option\"}},\" to bookmark it. To remove a bookmarked item from the list, press \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Add/Remove Bookmark\\\" in keybind option\"}},\" on the bookmark.\"]"
 				""
-				"One of the remarkable features of EMI is that it's also capable of helping you with recipes, covered more in the quest to the right of this one."
+				"[\"One of the remarkable features of EMI is that it's also capable of helping you with recipes, covered more in \", {\"text\": \"this\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"58566C7BF4C22D86\" } },\" quest.\"]"
 			]
 			disable_toast: true
-			hide_dependency_lines: true
 			icon: "ftbquests:book"
 			id: "3B200AD6EFF90DFA"
 			size: 1.0d
@@ -1185,8 +1160,8 @@
 				type: "checkmark"
 			}]
 			title: "&9&lUse EMI! Use EMI! USE. EMI."
-			x: -11.5d
-			y: -0.5d
+			x: 0.75d
+			y: -2.0d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
@@ -1347,7 +1322,7 @@
 				""
 				"You'll need a small bit of &6Silver&f for this dynamo. If you haven't found a &6Galena vein&f yet (which is where Silver is), then consider \"buying\" some &6Silver Ore&r using &9Monicoins&r. You won't need a ton of silver and lead just yet, so it won't bankrupt you."
 				""
-				"Keep in mind that &eDynamos only output power when burning through fuel, and only the block attached directly to the coil will get provided with power&f."
+				"Keep in mind that &eDynamos only output power when burning through fuel, and only the block/cable attached directly to the coil will get provided with power&f."
 			]
 			id: "39D4174834F3879D"
 			rewards: [{
@@ -1387,88 +1362,10 @@
 		}
 		{
 			dependencies: [
-				"7FA0E6F3B466576C"
-				"17312BF0197B87A8"
-			]
-			description: [
-				"A \"&esubstrate&f\" is the \"board\" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. &6Wood&r coated in &6Sticky Resin&r is a primitive but effective material to use as your first substrate."
-				""
-				"&2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.&r"
-				""
-				"You'll also need to make &6Vacuum Tubes&f, as well as some primitive &6Resistors&r. &6Paper&r will work as a material for these, for now."
-			]
-			icon: "gtceu:resistor"
-			id: "58F9A5310D43A2B0"
-			rewards: [{
-				id: "0532511B1AABBA29"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [
-				{
-					count: 2L
-					id: "3531424527B8E732"
-					item: { Count: 2b, id: "gtceu:resistor" }
-					type: "item"
-				}
-				{
-					count: 2L
-					id: "3A7AC364B2EBF6D9"
-					item: { Count: 2b, id: "gtceu:vacuum_tube" }
-					type: "item"
-				}
-				{
-					id: "6F5AB3013B280937"
-					item: "gtceu:resin_printed_circuit_board"
-					type: "item"
-				}
-			]
-			title: "&2Electronics Subcomponents"
-			x: 2.5d
-			y: 8.5d
-		}
-		{
-			dependencies: [
-				"58F9A5310D43A2B0"
-				"12B95158E4C792DB"
-			]
-			description: [
-				"&9This is where &bEMI&9 really shines! Using it alongside &3Crafting Stations&9, you should be able to easily calculate the amount of raw resources and intermediate components you'll need to &ebatch craft &9electronic circuits quickly."
-				""
-				"You'll be making a LOT&r of circuits, so take advantage of the improved crafting efficiency."
-			]
-			icon: "gtceu:basic_electronic_circuit"
-			id: "7358461DB0D9A9AF"
-			rewards: [{
-				id: "13796FC2437C31E2"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			subtitle: "With all of the components made, it's time to craft an &2Electronic Circuit&r."
-			tasks: [
-				{
-					id: "0DFBE070AAC08C6C"
-					item: "gtceu:basic_electronic_circuit"
-					type: "item"
-				}
-				{
-					id: "6D1F30CE04E0D26B"
-					item: "gtceu:steel_plate"
-					type: "item"
-				}
-			]
-			title: "Your First Circuit"
-			x: 2.5d
-			y: 10.0d
-		}
-		{
-			dependencies: [
 				"39D4174834F3879D"
-				"7358461DB0D9A9AF"
 				"08948A23B3A17923"
 				"17312BF0197B87A8"
+				"1A30472430354F1E"
 			]
 			description: [
 				"&rThe &3Steam Dynamos&r&r&r you have made are generating &aRF power&r, but &bGregTech&r machines require &aEU power&r. With your first &6circuit&r in hand, you are ready to build a &eLow Voltage (LV) &3&2Energy Converter&r."
@@ -1734,8 +1631,12 @@
 			y: 14.0d
 		}
 		{
-			dependencies: ["3B200AD6EFF90DFA"]
+			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
+				"&6Gregtech&r adds a decent bit of extra crafting to the earlygame. Thankfully, &bEMI&r has some tools to help make your life &9&lMUCH&r easier when doing all this crafting."
+				""
+				"[\"On the topic of crafting, if you are not already familiar with how \", {\"text\": \"recipe viewers\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" like EMI or JEI, read that quest first.\"]"
+				""
 				"When looking a recipe in EMI, you've likely noticed 3 buttons that appear on each recipe, being &c[❤]&r, &a[┴]&r, and &9[+]&r."
 				""
 				"Let's start with &9[+]&r, as it's the simplest: right-click a crafting table, look up the recipe you need and press the &9[+]&r button: if you have all required items for the recipe, this will put them all into the crafting table for you."
@@ -1749,16 +1650,16 @@
 			disable_toast: true
 			icon: "gtceu:crafting_table_cover"
 			id: "58566C7BF4C22D86"
-			optional: true
-			size: 1.0d
-			subtitle: "Extremely powerful when crafting."
+			shape: "hexagon"
+			size: 1.25d
+			subtitle: "Better than any crafting calculator."
 			tasks: [{
 				id: "3768A707E0489471"
 				type: "checkmark"
 			}]
 			title: "&9Recipe Trees and Crafting Trees"
-			x: -10.0d
-			y: -0.5d
+			x: -1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
@@ -1848,8 +1749,6 @@
 				"&bSophisticated Storage&r and &bSophisticated Backpacks&r are great options for storing items, both at base and on the go, as well as offering a variety of both helpful and fun upgrades."
 				""
 				"&bSophisticated Storage&r in particular is great for cheap storage, able to store 3 barrels worth of items at it's lowest tier, costing only a bit of iron to craft, and can be upgraded with barrel upgrades to hold even more items and upgrades."
-				""
-				"&5Retextures and such are WIP."
 			]
 			id: "61E5D7EEE745C6FB"
 			rewards: [{
