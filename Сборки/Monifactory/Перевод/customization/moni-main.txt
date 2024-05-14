@@ -66,7 +66,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = %t dmlloop
+  hoverlabel = ...проекта
   label = Discord
   navigatable = true
   element_type = custom_button
