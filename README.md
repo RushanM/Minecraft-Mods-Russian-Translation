@@ -36,7 +36,7 @@
 | [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус.
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | 🌌 | 🌌 | ❌ | ❌ | ✅ Рус.
 | [Animatica](https://modrinth.com/mod/animatica) | 🌌 | ❌ | ❌ | ❌ | ✅ Рус.
-| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус.
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел.
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
@@ -56,7 +56,7 @@
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ❌ | ✅ Рус. | ❌ | ❌ | ❌
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
 | [CreRaces](https://modrinth.com/mod/creraces) | ❌ | ❌ | ❌ | ❌ | ❌
-| [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
+| [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Бел.
 | [Delightful Creators](https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ✅ Рус. | ❌ | ❌
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | ❌ | ❌ | ❌ | ❌ | ✅ Рус.
