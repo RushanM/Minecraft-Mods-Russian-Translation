@@ -180,10 +180,13 @@
 * * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
 * * [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
 * * [Rotten Creatures](https://modrinth.com/mod/rottencreatures)
-* [**Inqurity**](https://github.com/Inqurity): Перевёл на русский и украинский моды
+* [**Inqurity**](https://github.com/Inqurity): Участвовал в русском и украинском переводах модов
 * * [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm)
 * * [e4mc](https://modrinth.com/mod/e4mc)
-* [**REXE**](https://github.com/RedmanEXE): Подкорректировал белорусский перевод [Chat Heads](https://modrinth.com/mod/chat-heads)
+* [**REXE**](https://github.com/RedmanEXE): Перевёл на белорусский моды
+* * [Chat Heads](https://modrinth.com/mod/chat-heads)
+* * [AppleSkin](https://modrinth.com/mod/appleskin)
+* * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
 ## ✉️ Контакты
