@@ -1,5 +1,6 @@
+# Monifactory («Всезавод»)
+
 <p align="center"><img src="https://github.com/ThePansmith/Monifactory/assets/70342772/4ac1d5e7-0610-4f44-bfed-b3b2022eecc0" height="250" alt="Logo"></p>
-<h1 align="center">Monifactory («Всезавод»)</h1>
 <p align="center"><b><i>Порт Nomifactory Community Edition Unofficial, использующий GregTech CEU Modern и связанные с ним модификации.</i></b></p>
 
 > **Автор: [Pansmith](https://github.com/ThePansmith)**
