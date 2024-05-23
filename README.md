@@ -118,6 +118,7 @@
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Tool Stats](https://modrinth.com/mod/tool-stats) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Guardians Galore](https://modrinth.com/mod/guardians-galore-fabric) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 
 Список будет пополняться.
 </details>
