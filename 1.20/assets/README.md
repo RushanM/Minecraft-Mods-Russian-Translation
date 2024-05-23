@@ -48,7 +48,7 @@
 | 1.3 | FabricSkyBoxes | fabricskyboxes | 0.7.3 | Рус. и тат. гот. | - | - | - | 7 | Нет |
 | 1.3 | FabricSkyBoxes Interop | fsb-interop | 1.3.6 build 52 | Рус. гот. | - | - | - | 8 | Нет |
 | 1.3 | Loqui | loqui | 0.2.0 | Рус. гот. | - | - | - | 1 | Нет |
-| 1.3 | Mod Menu | modmenu | 9.2.0 beta 2 | Рус. гот., тат. в проц. | Да | 23.5.2024 | - | 2 | Да |
+| 1.3 | Mod Menu | modmenu | 9.2.0 beta 2 | Рус. гот., тат. в проц. | Да | 23.5.2024 | 23.5.2024 | 2 | Да |
 | 1.4 | AppleSkin | appleskin | 3.0 | Рус. и бел. гот. | Да | 8.5.2024 | 8.5.2024 | 3 | Нет |
 | 1.4 | Dark Mode Everywhere | darkmodeeverywhere | 1.2.2 | Рус. и бел. гот. | Нет | 8.5.2024 | 8.5.2024 | 4 | Нет |
 </details>
