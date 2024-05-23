@@ -9,7 +9,7 @@
     "libjf-config-core-v2.no-screen": "Нет экрана",
     "libjf-config-core-v2.no-screen.description": "У вас не установлено никаких модификаций для отрисовки интерфейсов настроек. Установите LibJF для этого.",
     "libjf-config-core-v2.null": "§dНуль",
-    "libjf-config-core-v2.presets": "Предустановки",
+    "libjf-config-core-v2.presets": "Шаблоны",
     "libjf-config-core-v2.reset": "Сброс",
     "libjf-config-core-v2.see-also": "Посмотрите также: %s",
     "libjf-config-core-v2.true": "§aВкл."
