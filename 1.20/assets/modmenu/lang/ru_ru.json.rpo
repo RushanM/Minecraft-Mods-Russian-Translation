@@ -1,4 +1,7 @@
 {
-    "condition": "modsru:general.mods_word_style.mod",
-    "fallback": "assets/modmenu/lang/ru_ru.lang"
+    condition: "general.mods_word_style.hybrid",
+    "fallbacks": [
+        "assets/modmenu/lang/ru_ru_alt/mod.lang",
+        "assets/modmenu/lang/ru_ru_alt/modification.lang"
+    ]
 }
