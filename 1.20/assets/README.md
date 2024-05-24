@@ -93,7 +93,7 @@
 | 1.4 | Tech Reborn | techreborn | 5.10.3 | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | ToroHealth Damage Indicators | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Touhou Little Maid | touhou_little_maid | 1.1.4 | Рус. в проц. | - | - | - | 4 | Нет |
-| 1.4 | The Twilight Forest | twilightforest | 4.4.2235 | Рус. в проц. | - | - | - | 4 | Нет |
+| 1.4 | The Twilight Forest | twilightforest | 4.4.2235 | Рус. в проц. | - | - | 24.5.2024 | 4 | Нет |
 | 1.4 | VoxelMap | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Xaero's Minimap | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Xenon | sodium | 0.3.11 | Рус. в проц. | - | - | - | 4 | Нет |
