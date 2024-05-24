@@ -36,7 +36,7 @@
 | 1.2 | Look | look | 1.0.1 | Рус. гот. | - | - | - | 7 | Нет |
 | 1.2 | Lycanthropy | lycanthropy | 1.1.0 | Рус. гот. | - | - | - | 8 | Нет |
 | 1.2 | Respackopts | respackopts | 4.7.2 | Рус. гот. | - | - | - | 1 | Нет |
-| 1.2 | SimplyStatus | simplystatus | 2.1.0 | Рус. гот. | - | - | - | 2 | Нет |
+| 1.2 | SimplyStatus | simplystatus | 2.1 | Рус. гот. | Да | 24.5.2024 | 24.5.2024 | 2 | Нет |
 | 1.2 | The Fellow Furries Mod | fellow_furries_mod | 1.0 | Рус. гот. | - | - | - | 3 | Нет |
 | 1.3 | Animatica | animatica | 0.6 | Рус. гот. | - | - | - | 4 | Нет |
 | 1.3 | Dynamic FPS | dynamic_fps | 3.4.4 | Рус. гот. | - | - | - | 5 | Нет |
@@ -77,7 +77,7 @@
 | 1.4 | Iron's Spells 'n Spellbooks | irons_spellbooks | 3.1.4 | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Just Enough Items | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Kawaii Dishes | kawaiidishes | 1.11.1 | Рус. в проц. | - | - | - | 4 | Нет |
-| 1.4 | Mana and Artifice | mna | 3.0.0.14 | Рус. в проц. | - | - | - | 4 | Нет |
+| 1.4 | Mana and Artifice | mna | 3.0.0.14 | Рус. в проц. | - | - | 24.5.2024 | 4 | Нет |
 | 1.4 | MrCrayfish's Furniture Mod | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Nature's Aura | naturesaura | 40.1 | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | NEEPMeat | meatweapons | 0.2.18-beta | Рус. в проц. | - | - | - | 4 | Нет |

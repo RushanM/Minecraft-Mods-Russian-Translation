@@ -91,6 +91,7 @@
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ✅ Рус.<br>✅ Тат. | ❌ | ❌ |
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [Mana and Artifice](https://modrinth.com/mod/mana-and-artifice) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [MarbleGate's Exotic Enchantment: Flowing Agony](https://modrinth.com/mod/flowing-agony) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Mica](https://modrinth.com/mod/mica) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. |
