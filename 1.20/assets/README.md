@@ -52,6 +52,7 @@
 | 1.4 | AppleSkin | appleskin | 3.0 | Рус. и бел. гот. | Да | 8.5.2024 | 8.5.2024 | 3 | Нет |
 | 1.4 | Dark Mode Everywhere | darkmodeeverywhere | 1.2.2 | Рус. и бел. гот. | Нет | 8.5.2024 | 8.5.2024 | 4 | Нет |
 | 1.4 | Guardians Galore | guardiansgalore | 3.1 | Рус. гот. | Нет | 23.5.2024 | 23.5.2024 | 5 | Нет |
+| 1.4 | The Twilight Forest | twilightforest | 4.4.2276 | Рус. гот. | Да | 24.5.2024 | 24.5.2024 | 6 | Нет |
 </details>
 
 ## В процессе
@@ -93,7 +94,6 @@
 | 1.4 | Tech Reborn | techreborn | 5.10.3 | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | ToroHealth Damage Indicators | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Touhou Little Maid | touhou_little_maid | 1.1.4 | Рус. в проц. | - | - | - | 4 | Нет |
-| 1.4 | The Twilight Forest | twilightforest | 4.4.2235 | Рус. в проц. | - | - | 24.5.2024 | 4 | Нет |
 | 1.4 | VoxelMap | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Xaero's Minimap | - | - | Рус. в проц. | - | - | - | 4 | Нет |
 | 1.4 | Xenon | sodium | 0.3.11 | Рус. в проц. | - | - | - | 4 | Нет |
