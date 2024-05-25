@@ -2,6 +2,8 @@
     "minecraft.resource_pack.modsru": "Вносит правки в русский перевод модов",
     "rpo.modsru": "Настройки русского перевода модов от Дефлекты",
     "rpo.modsru.general": "Общие настройки",
+    "rpo.modsru.general.advancements_mod_names_translation": "Перевод названий модов в достижениях",
+    "rpo.modsru.general.advancements_mod_names_translation.tooltip": "Переводить названий модов в достижениях или нет",
     "rpo.modsru.general.mod_names_style": "Перевод названий модов",
     "rpo.modsru.general.mod_names_style.tooltip": "Переводить названия модов на русский или нет?",
     "rpo.modsru.general.modloader": "Загрузчик модов",

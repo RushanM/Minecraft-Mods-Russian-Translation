@@ -49,10 +49,10 @@
                     },
                     {
                         "color": "blue",
-                        "text": " химеритовых кристаллов,"
+                        "text": " химеритовых кристаллов"
                     },
                     {
-                        "text": " чтобы модифицировать и призывать более мощные конструкты. Это позволит мне наделить конструкта "
+                        "text": ", чтобы модифицировать и призывать более мощные конструкты. Это позволит мне наделить конструкта "
                     },
                     {
                         "color": "blue",
@@ -180,7 +180,7 @@
                     },
                     {
                         "color": "blue",
-                        "text": "Древняя магия"
+                        "text": "Тайны"
                     },
                     {
                         "text": ": Увеличение маны на 25% за каждое очко, сопротивление магическому урону \n"
@@ -542,7 +542,7 @@
             }
         ]
     },
-    "Animus Dust": {
+    "Пыль души": {
         "category": "artifice",
         "index": 1,
         "related_recipes": [
@@ -554,7 +554,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Animus Dust"
+                "value": "Пыль души"
             },
             {
                 "json": [
@@ -11918,12 +11918,12 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Common Resources"
+                "value": "Распространённые ресурсы"
             },
             {
                 "json": [
                     {
-                        "text": "I've compiled a list of common materials I need. \nWhat they are and how to obtain them is listed below. \n\nThese are likely not always the only way to obtain these resources; in fact many will probably have more convenient ways unlocked as I progress."
+                        "text": "Я составил список распространённых материалов, которые мне нужны. \nЧто это за материалы и как их получить, перечислено ниже. \n\nВозможно, это не единственный способ получить эти ресурсы; по мере моего продвижения, вероятно, откроются более удобные методы."
                     }
                 ],
                 "type": "text",
@@ -14868,7 +14868,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Flowers"
+                "value": "Цветы"
             },
             {
                 "json": [
@@ -15032,7 +15032,7 @@
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Wakebloom"
+                "value": "Всплывоцвет"
             },
             {
                 "location": "mna:wakebloom",
@@ -15057,7 +15057,7 @@
                     }
                 ],
                 "type": "text",
-                "value": "Wakebloom thrive in water, growing as small seeds along the ocean floors and riverbeds before floating up to the top of the water and blooming in a beautiful fashion.  They carry a surprising amount of water with them even when harvested."
+                "value": "Всплывоцветы процветают в воде, сначала прорастая маленькими семенами на дне океанов и рек, а затем поднимаясь на поверхность и расцветая красивыми цветами. Они сохраняют в себе удивительно много воды даже после сбора."
             }
         ]
     },
@@ -15746,7 +15746,7 @@
             }
         ]
     },
-    "How to Progress": {
+    "Как продвигаться": {
         "category": "basics",
         "index": 3,
         "related_recipes": [
@@ -15758,7 +15758,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "How to Progress"
+                "value": "Как продвигаться"
             },
             {
                 "json": [
@@ -17079,7 +17079,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Mana, Regeneration, and Casting Resources"
+                "value": "Мана, восстановление и ресурсы для заклинаний"
             },
             {
                 "json": [
@@ -18169,7 +18169,7 @@
             }
         ]
     },
-    "New Villager Types": {
+    "Новые крестьяне": {
         "category": "basics",
         "index": 4,
         "related_recipes": [
@@ -18196,7 +18196,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "New Villager Types"
+                "value": "Новые крестьяне"
             },
             {
                 "json": [
@@ -18425,7 +18425,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Vinteum"
+                "value": "Винтеум"
             },
             {
                 "type": "text",
@@ -18442,7 +18442,7 @@
             },
             {
                 "type": "title",
-                "value": "Chimerite"
+                "value": "Химерит"
             },
             {
                 "json": [
@@ -24075,14 +24075,14 @@
             }
         ]
     },
-    "The HUD": {
+    "HUD": {
         "category": "basics",
         "index": 1,
         "related_recipes": [],
         "sections": [
             {
                 "type": "title",
-                "value": "The HUD"
+                "value": "HUD"
             },
             {
                 "json": [
@@ -24923,7 +24923,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Using This Codex"
+                "value": "Инструкция по применению"
             },
             {
                 "height": 34,
@@ -24933,7 +24933,7 @@
             },
             {
                 "type": "title",
-                "value": "Pages"
+                "value": "Страницы"
             },
             {
                 "json": [
