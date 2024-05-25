@@ -4,6 +4,7 @@
 
 <details>
 <summary>Раскрыть список</summary>
+<br>
 
 Гитхабовская таблица была чересчур неудобной для восприятия и редактирования, поэтому я сделал [отдельную в Google Таблицах](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing). Проследуйте [туда](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing), если хотите видеть информацию по статусу моих переводов модификаций для Minecraft 1.20.x.
 </details>
