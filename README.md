@@ -29,7 +29,7 @@
 * ❌ — полного перевода пока нет, но возможно есть частичный
 * ✅ — перевод готов
 
-| Модификация | [1.16](/1.16/assets/README.md) | [1.17](/1.17/assets/README.md) | [1.18](/1.18/assets/README.md) | [1.19](/1.19/assets/README.md) | [1.20](/1.20/assets/README.md) |
+| Модификация | [1.16](/1.16/assets/README.md) | [1.17](/1.17/assets/README.md) | [1.18](/1.18/assets/README.md) | [1.19](/1.19/assets/README.md) | [1.20](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) |
 |-|-|-|-|-|-|
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Рус. | ❌ |
@@ -40,6 +40,7 @@
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. |
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ✅ Рус. | ❌ | ❌ | ❌ |
 | [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ✅ Рус. | ❌ | ❌ | ❌ |
+| [Backported Wolves](https://modrinth.com/mod/backported-wolves) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ✅ Рус. | ❌ | ❌ | 🌌 |
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ✅ Рус. | ❌ | ❌ | ❌ |
