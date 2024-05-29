@@ -5,7 +5,7 @@
     "configured.gui.edit": "Править",
     "configured.gui.edit_value": "Изменить значение",
     "configured.gui.edit_world_config": "Выберите мир, для которого настроить %s",
-    "configured.gui.info": "Это меню было создано модификацией Configured. Нажмите здесь, чтобы открыть её страницу на CurseForge!",
+    "configured.gui.info": "Это меню было создано модом Configured. Нажмите здесь, чтобы открыть её страницу на CurseForge!",
     "configured.gui.modify": "Изменить",
     "configured.gui.no_permission": "У вас нет прав на выполнение этого действия",
     "configured.gui.not_installed": "Configured не установлена на сервере",

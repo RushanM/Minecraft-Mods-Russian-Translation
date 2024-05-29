@@ -1,6 +1,6 @@
 {
     "commands.bookshelf.loot_tables": "Найдено %d недостающих таблиц выпадающих предметов для %s",
-    "commands.bookshelf.loot_tables.wildcard": "Найдено %d недостающих таблиц выпадающих предметов у всех модификаций",
+    "commands.bookshelf.loot_tables.wildcard": "Найдено %d недостающих таблиц выпадающих предметов у всех модов",
     "moon.phase.first.quarter": "Первая четверть",
     "moon.phase.full": "Полнолуние",
     "moon.phase.last.quarter": "Последняя четверть",

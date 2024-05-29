@@ -1,7 +1,7 @@
 {
     "commands.raised.config.reload": "Настройки Raised перезагружены",
     "commands.raised.config.reset": "Настройки Raised сброшены до значений по умолчанию",
-    "commands.raised.toggle.share.query": "Сейчас поддержка модификаций Fabric установлена на: %d",
+    "commands.raised.toggle.share.query": "Сейчас поддержка модов Fabric установлена на: %d",
     "commands.raised.toggle.share.set": "Теперь поддержка модификаций Fabric установлена на: %d",
     "commands.raised.toggle.support.query": "Сейчас расширенная поддержка модификаций установлена на: %d",
     "commands.raised.toggle.support.set": "Теперь расширенная поддержка модификаций установлена на: %d",

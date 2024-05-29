@@ -17,7 +17,7 @@
     "commands.forge.gen.progress": "Прогресс генерации: {0}/{1}",
     "commands.forge.gen.start": "Начинаем генерировать {0} чанков по спирали вокруг {1}, {2} в измерении {3}...",
     "commands.forge.gen.usage": "Используйте /forge gen <x> <y> <z> <числоЧанков> [измерение] [интервал].",
-    "commands.forge.mods.list": "Список модификаций: {0}",
+    "commands.forge.mods.list": "Список модов: {0}",
     "commands.forge.setdim.deprecated": "Эта команда устарела и выставлена для удаления в версии 1.17, вместо неё используйте %s",
     "commands.forge.setdim.invalid.dim": "Указанный идентификатор размера ({0}) недействителен",
     "commands.forge.setdim.invalid.entity": "Выбранная сущность ({0}) недействительна",

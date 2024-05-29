@@ -1,11 +1,11 @@
 {
     "pack": {
         "description": {
-            "fallback": "Вносит правки в русский перевод модификаций",
+            "fallback": "Вносит правки в русский перевод модов",
             "translate": "minecraft.resource_pack.rumods"
         },
         "name": {
-            "fallback": "Русификатор модификаций",
+            "fallback": "Русский перевод модов",
             "translate": "minecraft.resource_pack.rumods.name"
         },
         "pack_format": 6,
