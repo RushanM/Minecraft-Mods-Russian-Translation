@@ -28,7 +28,7 @@
     "sodium.options.biome_blend.tooltip": "Расстояние (в блоках), на котором цвета биомов будут плавно переходить друг в друга. Использование больших значений увеличит время загрузки и обновления чанков, практически не улучшая качество.",
     "sodium.options.biome_blend.value": "%s бл.",
     "sodium.options.brightness.tooltip": "Регулирует яркость (гамму) игры.",
-    "sodium.options.buttons.donate": "Угостите нас кофе!",
+    "sodium.options.buttons.donate": "Buy Me a Coffee",
     "sodium.options.buttons.undo": "Отменить",
     "sodium.options.chunk_memory_allocator.async": "Асинхронный",
     "sodium.options.chunk_memory_allocator.name": "Аллокатор памяти для чанков",
