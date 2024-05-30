@@ -1,0 +1,38 @@
+{
+  capabilities: [
+    "FileFilter",
+    "DirFilter"
+  ],
+  conf: {
+    general: {
+      advancements_mod_names_translation: false,
+      mod_names_style: false,
+      modloader: [
+        "none",
+        "forge",
+        "fabric"
+      ],
+      mods_creative_tabs_style: [
+        "moditems",
+        "items",
+        "original"
+      ],
+      mods_word_style: [
+        "mod",
+        "modification",
+        "hybrid"
+      ],
+      osteme: true,
+      translations_wip: true
+    },
+    specific: {
+      alt_all_reset: true,
+      alt_apricorn: false,
+      alt_materialenergy: false,
+      enigmatic_legacy_colored_tabs: true,
+      mod_menu_formal_style: false
+    }
+  },
+  id: "modsru",
+  version: 12
+}

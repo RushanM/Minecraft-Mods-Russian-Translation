@@ -1,0 +1,9 @@
+{
+    id: "modsRu",
+    version: 6,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        controllingFix: true,
+        wipTranslations: false,
+    }
+}
