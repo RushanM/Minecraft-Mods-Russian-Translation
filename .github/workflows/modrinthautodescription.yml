@@ -1,0 +1,3 @@
+              - name: Modrinth Auto-Description
+                uses: funnyboy-roks/modrinth-auto-desc@v1.6
+            
