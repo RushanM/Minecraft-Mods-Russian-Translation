@@ -1,3 +1,0 @@
-              - name: Modrinth Release
-                uses: dsx137/modrinth-release-action@1.0.0
-            
