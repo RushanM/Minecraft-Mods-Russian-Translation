@@ -1,5 +1,25 @@
 {
+    "behaviour.paintspray.yellow.tooltip": "Может окрасить в жёлтый",
+    "block.gtceu.rubber_planks": "Каучуковые доски",
+    "block.gtceu.rubber_wood": "Каучуковое дерево",
+    "block.gtceu.yellow_stripes_block.a": "Жёлтый полосатый блок",
+    "block.gtceu.yellow_stripes_block.b": "Жёлтый полосатый блок",
+    "block.gtceu.yellow_stripes_block.d": "Жёлтый полосатый блок",
+    "block.gtceu.yellow_stripes_block_a": "Жёлтый полосатый блок А",
+    "compass.node.gtceu.generation/rubber_leaves": "Каучуковые листья",
+    "compass.node.gtceu.generation/rubber_log": "Каучуковая древесина",
+    "compass.node.gtceu.generation/rubber_planks": "Каучуковые доски",
+    "compass.node.gtceu.generation/rubber_sapling": "Саженец каучукового дерева",
+    "compass.node.gtceu.generation/rubber_slab": "Каучуковая плита",
     "compass.node.gtceu.tools/mining_hammer": "Рудный молот",
+    "config.gtceu.option.rubberTreeSpawnChance": "rubberTreeSpawnChance",
     "gtceu.tool.class.mining_hammer": "Рудный молот",
-    "item.gtceu.tool.mining_hammer": "Рудный молот (%s)"
+    "item.gtceu.chemical_yellow_dye": "Жёлтый краситель",
+    "item.gtceu.tool.mining_hammer": "Рудный молот (%s)",
+    "item.gtceu.yellow_dye_spray_can": "Аэрозоль с жёлтым цветом",
+    "item.gtceu.yellow_glass_lens": "Жёлтая стеклянная линза",
+    "material.gtceu.rubber": "Резина",
+    "material.yellow_dye": "Жёлтый краситель",
+    "material.yellow_garnet": "Жёлтый гранат",
+    "material.yellow_limonite": "Жёлтый лимонит"
 }

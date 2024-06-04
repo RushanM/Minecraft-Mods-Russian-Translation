@@ -262,20 +262,20 @@
 					type: "item"
 				}
 			]
-			title: "Iron Supply"
+			title: "Запасы железа"
 			x: -1.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"The &aCrescent Hammer&r is for use on machines from &bThermal Expansion&f, but can be used for basic wrench interactions with blocks from almost every mod. &9It can also now adjust Gregtech pipes,"
+				"&aСерповидный молоток&r используется для работы с машинами из &bThermal Expansion&f, но также может быть использован для базовых операций с блоками из почти любого мода. &9Теперь он также может регулировать трубы из GregTech."
 				""
-				"The &aYeta Wrench&r is used with machines and conduits from &bEnderIO&f, and has several special display modes (&6sneak-mouse wheel&f to switch between them)."
+				"&aЙета-ключ&r используется с машинами и проводами из &bEnderIO&f и имеет несколько специальных режимов отображения (&6прокручивайте колёсико мыши, пока крадётесь&f, чтобы переключаться между ними)."
 				""
-				"The &aGregTech Wrench&r is used to rotate GregTech machines and redefine their output sides. &2It also has some of the capabilities of the other Wrenches now.&r"
+				"&aКлюч GregTech&r используется для вращения машин из GregTech и перенастройки их выходных сторон. &2Теперь он также обладает некоторыми функциями других ключей.&r"
 				""
-				"You can see which mod a machine is from with the &9blue text&f at the bottom of its tooltip."
+				"Вы можете увидеть, к какому моду относится машина, по &9синему тексту&f в нижней части её подсказки."
 			]
 			icon: "enderio:yeta_wrench"
 			id: "04A0863937695AC4"
@@ -284,7 +284,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Confused about all the Wrenches yet?"
+			subtitle: "Уже запутались во всех этих гаечных ключах?"
 			tasks: [
 				{
 					id: "70251EAC64217000"
@@ -315,18 +315,18 @@
 					type: "item"
 				}
 			]
-			title: "&9Wrenches Galore"
+			title: "&9Многообразие ключей"
 			x: 1.5d
 			y: 2.5d
 		}
 		{
 			dependencies: ["58566C7BF4C22D86"]
 			description: [
-				"&9With EMI, instead of showing you a separate recipe for every tool-resource combination, tools are instead grouped. You can use any any tool from that group - for example, the &6#forge:tools/hammers &9group means that any &aHammer &9can be used there."
+				"&9С EMI, вместо показа отдельного рецепта для каждой комбинации инструмент-ресурс, инструменты сгруппированы. Вы можете использовать любой инструмент из этой группы. Например, группа &6#forge:tools/hammers &9означает, что можно использовать любой молот."
 				""
-				"First, make a &aHammer&f (not a &aMining Hammer&f, mind you... six ingots, not plates). Hammers can be used to turn &etwo ingots into one plate&f. &6Plates&f can make a &aFile&f, Files can make &6Rods&f, etc. Use EMI to work your way down the list of tools."
+				"Сначала сделайте &aмолот&f (но не &aрудный молот&f... Шесть слитков, а не пластин). Молоты могут использоваться для превращения &eдвух слитков в одну пластину&f. &6Пластины&f можно использовать для создания &aфайла&f, а файлы для создания &6штанг&f и т. д. Используйте EMI, чтобы разобраться со списком инструментов."
 				""
-				"&6Wrought Iron&f is probably your best bet for a tool material right now, but better materials will become available as you progress."
+				"&6Кованное железо&f, вероятно, — лучший выбор для инструментов на данном этапе, однако по мере прогресса станут доступны ещё более лучшие материалы."
 			]
 			icon: {
 				Count: 1b
@@ -452,18 +452,18 @@
 					type: "item"
 				}
 			]
-			title: "Some Starter Tools"
+			title: "Стартовые инструменты"
 			x: -1.0d
 			y: 4.0d
 		}
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"&aMining Hammers&r offer a relatively cheap way to mine out areas much faster. They clear a 3x3 of blocks (unless you're crouching) and mine quickly."
+				"&aРудные молоты&r предлагают лёгкий способ быстро выкапывать большие площади. Они охватывают зону 3×3 блоков, пока вы не крадётесь."
 				""
-				"&2GTCEu now has Mining Hammers natively! You can craft them with any GT tool material. &r"
+				"&2В GTCEu рудные молоты теперь есть и без никаких дополнений! Вы можете смастерить их из любого материала, используемого в GT для создания инструментов. &r"
 				""
-				"Your free 4 Diamond Mining Hammers should last you a while, and you can always fix them using an anvil and some diamonds."
+				"Ваши бесплатные 4 алмазных рудных молота должны прослужить вам достаточно долго, и вы всегда сможете починить их с помощью наковальни и алмазов."
 			]
 			icon: {
 				Count: 1b
@@ -481,7 +481,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Diggy Diggy Hole"
+			subtitle: "Копай-копай, в дыру ныряй"
 			tasks: [{
 				consume_items: false
 				id: "589A0779F965D77A"
@@ -493,21 +493,21 @@
 					}
 				}
 				match_nbt: false
-				title: "Any Mining Hammers"
+				title: "Любые рудные молоты"
 				type: "item"
 			}]
-			title: "Mining Hammers"
+			title: "Рудные молоты"
 			x: 0.5d
 			y: 3.5d
 		}
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"Going out in search of a &6Rubber Tree&f is a viable option for sure. However, if this isn't appealing, you can also &eshear leaves&f and make &6Plantballs&f out of them. Plantballs smelt into &6Slime&f, and Slime smelts into &6Rubber&f."
+				"Поиск &6каучукового дерева&f — вполне жизнеспособный вариант. Однако, если это вас не устраивает, вы можете &eстричь листья&f и делать из них &6растительные шары&f. Растительные шары переплавляются в &6слизь&f, а слизь плавится в &6резину&f."
 				""
-				"You'll want to transition to Rubber Trees at some point, though, since the &eratio of leaves to rubber is quite poor&f."
+				"Однако, вам всё же захочется перейти к использованию каучуковых деревьев в какой-то момент, поскольку &eкоэффициент преобразования листьев в резину довольно низок&f."
 				""
-				"Rubber can be hammered into sheets just like metals can be turned to plates. It's quite inefficient to do it this way, but such is the life of early game &bGregTech&f. At least rubber isn't particularly hard to come by."
+				"Резину можно обработать молотом в листы, как и металлы в пластины. Это довольно неэффективно, но такова жизнь на ранних этапах в &bGregTech&f. Хорошо хоть, что резину относительно легко найти."
 			]
 			id: "6FB3E3D9CA0F4B30"
 			rewards: [{
@@ -913,31 +913,6 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&2Check out the new Material Tree tab!&r"
-				""
-				"This tab can be accessed in &bEMI&r, when finding the &ausages or recipes&r of &aany form&r of a &bGregTech&r material!&r"
-				""
-				"It will show you nearly all the different forms of a &bGregTech&r material (&ePlates, Rods, Screws, Dusts...&r) on a single page, as well as showing what can be turned into what. You can then click on those to see their recipes."
-			]
-			icon: "gtceu:aluminium_ingot"
-			id: "53E600ADCC9DD608"
-			rewards: [{
-				id: "69DB53B190754B09"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5E73C23D1FA65873"
-				title: "Material Tree"
-				type: "checkmark"
-			}]
-			title: "&5Material Tree"
-			x: -5.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["2E8BFA2E719B1C47"]
-			description: [
 				"[\"Take a peek at the \",{\"text\":\"End Game quest book tab\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2BEB72BC6C6FB4E9\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to go to the chapter\"}},\". This might seem a bit premature to suggest, but it has a reason.\"]"
 				""
 				"These are quests for a full stack of many of the materials in the game. Those are the materials you'll need to synthesize &5Omnium&r, the basic end game resource. It's the pack's way of letting you know what materials you should be prepared to mass produce as you approach the end."
@@ -951,8 +926,8 @@
 				type: "checkmark"
 			}]
 			title: "End Game Tab"
-			x: -6.5d
-			y: 1.5d
+			x: -5.0d
+			y: 1.75d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
@@ -1008,7 +983,7 @@
 				""
 				"Feeding a &3Steam Dynamo&f with water by hand is a pretty silly idea."
 				""
-				"A &6Water Condenser&f will take care of that for you, albeit slowly."
+				"A &6Water Condenser&f will take care of that for you, albeit slowly. It does, however, auto-output the water to making it simple to use."
 				""
 				"&2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven."
 			]
@@ -1766,16 +1741,16 @@
 				}
 			]
 			title: "&9Sophisticated Storage Shenanigans"
-			x: -8.0d
+			x: -6.5d
 			y: 1.0d
 		}
 		{
 			description: [
 				"Сборка находится на стадии &eальфа-тестирования&r. Вы можете встретить недочёты во время игры, это нормально."
 				""
-				"[\"\",{\"text\":\"Если заметили, что что-то сломано, отсутствует и тому подобное, напишите issue в \",\"color\":\"dark_purple\"},{\"text\":\"репозитории Monifactory\",\"color\":\"dark_purple\",\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/moni-CEu/moni-CEu-Modern\"}},{\"text\":\" или совершите pull request, если хотите исправить проблему своими двоими.\",\"color\":\"dark_purple\"}]"
+				"[\"\",{\"text\":\"Если заметили, что что-то сломано, отсутствует и тому подобное, напишите issue в \",\"color\":\"blue\"},{\"text\":\"репозитории Monifactory\",\"color\":\"blue\",\"underlined\":true,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/thepansmith/monifactory\"}},{\"text\":\", или совершите pull request, если хотите исправить проблему своими двоими.\",\"color\":\"blue\"}]"
 				""
-				"Если вы хотите построить свою базу в мире скайблока, поставьте &6торт мира пустоты&r на землю и съешьте кусочек, чтобы попасть в пустоту. Обратите внимание, что вам всё равно придётся возвращаться в заброшенные города или верхний мир для добычи ресурсов, но вы можете свободно строить в абсолютной безопасности в &eмире пустоты&r."
+				"Если хотите построить свою базу в мире скайблока, поставьте &6торт мира пустоты&r на землю и съешьте кусочек, чтобы попасть в пустоту. Обратите внимание, что вам всё равно придётся возвращаться в заброшенные города или верхний мир для добычи ресурсов, но вы можете свободно строить в абсолютной безопасности в &eмире пустоты&r."
 				"{@pagebreak}"
 				"Вещи, новые для &2Community Edition Unofficial&r и квесты с новым контентом, будут выделены &2тёмно-зелёным цветом&r."
 				""
@@ -1795,7 +1770,7 @@
 				title: "Acknowleged"
 				type: "checkmark"
 			}]
-			title: "&5Сборка в альфа-версии!"
+			title: "&5Сборка в альфе!"
 			x: -1.0d
 			y: -4.0d
 		}
@@ -1838,7 +1813,7 @@
 				title: "Зарядное устройство"
 				type: "item"
 			}]
-			title: "&9Зарядка"
+			title: "&9Зарядка предметов"
 			x: -3.75d
 			y: 11.5d
 		}
@@ -1899,7 +1874,7 @@
 					type: "item"
 				}
 			]
-			title: "Lost Cities and Registring Homes"
+			title: "Lost Cities and Registering Homes"
 			x: -11.5d
 			y: 4.0d
 		}
@@ -2106,15 +2081,20 @@
 					id: "minecraft:player_head"
 					tag: {
 						SkullOwner: {
-							Id: "a8088bef-5f81-4110-a734-524cd787b270"
+							Id: [I;
+								1207556655
+								-2087172645
+								-1127815359
+								-166568499
+							]
 							Properties: {
 								textures: [{
-									Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkyNTFlMTg2NTdlNzMwNGVhY2VhYzVmOGQ0NDZkMjQ4ZWE0NmFmMmVhYjE0NWY4MTg1Y2VjZTc3OWYxNjQ4In19fQ=="
+									Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWYxYzU4MDEzOGM2MjU0M2I0ZWVmNWU2NjI4MjNhZmNkZDNlNzdjYTQxYTU0ODY3ZWExMmUwZDM5YmNkNTliMSJ9fX0="
 								}]
 							}
 						}
 						display: {
-							Name: "[\"\",{\"text\":\"I bought ores with Nomicoins\",\"italic\":false}]"
+							Name: "{\"text\":\"I bought ores with Monicoins\",\"color\":\"blue\",\"underlined\":false,\"bold\":true,\"italic\":false}"
 						}
 					}
 				}
@@ -2162,10 +2142,7 @@
 			y: 11.5d
 		}
 		{
-			dependencies: [
-				"7FA0E6F3B466576C"
-				"605B2CCEAC246E14"
-			]
+			dependencies: ["7FA0E6F3B466576C"]
 			dependency_requirement: "one_completed"
 			description: [
 				"A \"&esubstrate&f\" is the \"board\" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. &6Wood&r coated in &6Sticky Resin&r is a primitive but effective material to use as your first substrate."
