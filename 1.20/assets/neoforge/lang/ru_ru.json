@@ -1,7 +1,7 @@
 {
     "fml.menu.loadingmods": "{0,choice,0#Без модов|1#Загружен 1 мод|2#Загружено 2 мода|3#Загружено 3 мода|4#Загружено 4 мода|4<Загружено {0} модов}",
     "fml.menu.modoptions": "Настройки мода",
-    "fml.menu.mods": "Модификации",
+    "fml.menu.mods": "Моды",
     "fml.menu.mods.a_to_z": "А-Я",
     "fml.menu.mods.config": "Настройки",
     "fml.menu.mods.info.authors": "Авторы: {0}",
@@ -15,7 +15,7 @@
     "fml.menu.mods.normal": "Выкл.",
     "fml.menu.mods.openmodsfolder": "Открыть папку модификаций",
     "fml.menu.mods.search": "Поиск",
-    "fml.menu.mods.title": "Модификации",
+    "fml.menu.mods.title": "Моды",
     "fml.menu.mods.z_to_a": "Я-А",
     "fml.resources.modresources": "Ресурсы {0} модификаций"
 }
