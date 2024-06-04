@@ -3,7 +3,7 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1717489290812
+  last_edited_time = 1717349235155
   is_enabled = true
   randommode = true
   randomgroup = 1
@@ -53,9 +53,9 @@ element {
   fade_in = true
   fade_in_speed = 1.0
   anchor_point = mid-centered
-  x = 53
+  x = 62
   y = -52
-  width = 96
+  width = 90
   height = 72
   stretch_x = false
   stretch_y = false
