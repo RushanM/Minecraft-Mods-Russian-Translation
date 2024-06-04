@@ -8,14 +8,15 @@
 - Расширение от уровня низкого напряжения до ультравысокого напряжения, аналогичное Nomifactory CEU.
 - Переработка прогрессии после этапа «Tank».
 
-> **Автор: [Pansmith](https://github.com/ThePansmith)**
+> **Автор сборки: [Pansmith](https://github.com/ThePansmith)**
 
-## Установка
+## Установка русской версии сборки
 
-Установите сборку из [Releases оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/). Скачайте или клонируйте репозиторий проекта и поместите файлы из этой директории (Monifactory) по следующим путям вашей сборки:
-
-| Папка | Располагается по пути |
-| - | - |
-| **`chapters`** | `Буква диска:\Users\Пользователь\AppData\Roaming\Лончер\instances\Название установки сборки\minecraft\config\ftbquests\quests\chapters` |
-| **`customization`** | `Буква диска:\Users\Пользователь\AppData\Roaming\Лончер\instances\Название установки сборки\minecraft\config\fancymenu\customization` |
-| **`config`** | `Буква диска:\Users\Пользователь\AppData\Roaming\Лончер\instances\Название установки сборки\minecraft\kubejs\config` |
+- Установите сборку из [Releases оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/).
+- Скачайте или клонируйте репозиторий моего проекта переводов.
+- Если скачали, откройте архив скачанного репозитория. Если клонировали, зайдите в клонированную папку репозитория.
+- Перейдите в нём по пути `Minecraft-Mods-Russian-Translation\Сборки\Monifactory`.
+- Выберите свою версию сборки и зайдите в соответствующую папку.
+- Зайдите в ней в папку `Перевод`.
+- Скопируйте всё содержимое папки `Перевод` в папку `minecraft` вашей установки игры.
+- Готово!
