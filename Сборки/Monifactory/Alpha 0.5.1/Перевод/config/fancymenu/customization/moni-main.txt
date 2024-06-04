@@ -132,7 +132,7 @@ element {
 
 element {
   interactable = true
-  source = [source:web]https://gist.githubusercontent.com/RushanM/4f391cd77211b17ae7e2607c2b9bf458/raw/7adf0a6a1b479b9aed24ab6ab506cf7d81b41222/Moni%2520Meni%2520Text.md
+  source = [source:web]https://gist.githubusercontent.com/RushanM/4f391cd77211b17ae7e2607c2b9bf458/raw/7488d7aabaac93d3a0d29f38fa06aa6543b3e27d/Moni%2520Meni%2520Text.md
   source_mode = resource
   shadow = true
   scale = 0.5
