@@ -37,7 +37,7 @@
     "fluid.minecraft.milk": "Молоко",
     "fml.button.continue.launch": "Перейти в главное меню",
     "fml.button.open.file": "Открыть {0}",
-    "fml.button.open.mods.folder": "Открыть папку модификаций",
+    "fml.button.open.mods.folder": "Папка с модами",
     "fml.language.missingversion": "Файл модификации {5} требует языковой поставщик {3}:{4,vr} для того, чтобы загрузиться\n§7Мы нашли {6,i18n,fml.messages.artifactversion}",
     "fml.loadingerrorscreen.errorheader": "Не удалось загрузить модификации.\nВо время загрузки {0,choice,1#произошла одна ошибка|1<произошло {0} ошибок.",
     "fml.loadingerrorscreen.warningheader": "Во время загрузки модификаций для вас {0,choice,1#появилось сообщение|1<появились сообщения}.\nВо время загрузки для вас {0,choice,1#появилось одно сообщение|1<появилось {0} сообщений}.",
