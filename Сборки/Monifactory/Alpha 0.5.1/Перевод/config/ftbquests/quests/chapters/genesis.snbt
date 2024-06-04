@@ -19,19 +19,19 @@
 		{
 			dependencies: ["2A511DB40C66CF35"]
 			description: [
-				"This pack is intended to be played in a &bLost cities/Overworld dimension&r."
+				"Эта сборка предназначена для игры в измерении &bзаброшенных городов или верхнего мира&r."
 				""
-				"If you're playing with friends, don't forget to invite them to a &eFTB Teams party&r. "
+				"Если вы играете с друзьями, не забудьте пригласить их в &eкоманду FTB Teams&r."
 				""
-				"If you wish to build your base in a skyblock world, place the &6Void World Cake&r down on the ground, and eat a slice to be sent to the void. Please note that you'll still need to return to the Lost Cities/Overworld dimension to mine, but you can freely build in complete safety in the &eVoid World&r."
+				"Если вы хотите построить свою базу в мире скайблока, поставьте &6торт мира пустоты&r на землю и съешьте кусочек, чтобы попасть в пустоту. Обратите внимание, что вам всё равно придётся возвращаться в заброшенные города или верхний мир для добычи ресурсов, но вы можете свободно строить в абсолютной безопасности в &eмире пустоты&r."
 				"{@pagebreak}"
-				"Features new to &2CEu&r and quests with new content will be higlighted in &2dark green&r."
+				"Вещи, новые для &2Community Edition Unofficial&r и квесты с новым контентом, будут выделены &2тёмно-зелёным цветом&r."
 				""
-				"Features new to &9Monifactory&r and quests with new content will be higlighted in &9Blue&r."
+				"Вещи, новые для &9Monifactory&r и квесты с новым контентом, будут выделены &9синим цветом&r."
 				""
-				"Notes about things in &5Alpha&r will be higlighted in &5Dark Purple&r."
+				"Заметки о вещах в &5альфа-версии&r будут выделены &5тёмно-фиолетовым цветом&r."
 				""
-				"[\"Text with \",{\"text\":\"underlines\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"But not this!\"}},\" are (mostly) clickable.\"]"
+				"[\"На тексты с \",{\"text\":\"подчёркиваниями\",\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Но не на этот!\"}},\" (в основном) можно нажимать.\"]"
 			]
 			icon: "minecraft:crafting_table"
 			id: "66FCC26399376B55"
@@ -110,7 +110,7 @@
 					auto: "no_toast"
 					icon: "enderio:cake_base"
 					id: "612FEB595285D353"
-					title: "&6Infinite Cakes!"
+					title: "&6Бесконечные тортики!"
 					type: "custom"
 				}
 				{
@@ -123,20 +123,20 @@
 			]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "Welcome to Monifactory"
+			subtitle: "Добро пожаловать в Monifactory"
 			tasks: [{
 				id: "1FF132DED1748D11"
-				title: "Genesis #3"
+				title: "Генезис №3"
 				type: "checkmark"
 			}]
-			title: "&9Genesis"
+			title: "&9Генезис"
 			x: -1.0d
 			y: -1.5d
 		}
 		{
 			can_repeat: true
 			dependencies: ["66FCC26399376B55"]
-			description: ["This quest is repeatable and gives you a free cake to the &6Void World&r or &2Overworld&r every hour. You can also refill your cakes with the items indicated in their tooltips."]
+			description: ["Этот квест повторяем и даёт вам бесплатный торт в &6мир пустоты&r или &2верхний мир&r каждый час. Также вы можете восполнить количество своих тортов с помощью предметов, указанных в их подсказках."]
 			disable_toast: true
 			icon: "telepastries:overworld_cake"
 			id: "542F0090D8975D3C"
@@ -147,12 +147,12 @@
 				table_id: 7942624913962637807L
 				type: "choice"
 			}]
-			subtitle: "Cakes are magical!"
+			subtitle: "Торты — это чудо!"
 			tags: ["moni_cakequest"]
 			tasks: [
 				{
 					id: "423B4FAF11B1C0FA"
-					title: "Cake Based Dimensional Transit"
+					title: "Перемещение между измерениями на тортах"
 					type: "checkmark"
 				}
 				{
@@ -167,23 +167,23 @@
 					type: "custom"
 				}
 			]
-			title: "Cake Based Dimensional Transit"
+			title: "Перемещение между измерениями на тортах"
 			x: -3.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bFunctional Storage&f provides a huge amount of storage for a single item type. Use them for things you have a lot of, such as stone, dirt and ores."
+				"&bФункциональное хранилище&f предоставляет огромное количество места для хранения одного типа предметов. Используйте их для вещей, что у вас в изобилии, таких как камень, земля и руды."
 				""
-				"&9Framing Template items can be used to easily decorate your drawers.&r"
+				"&9Для простого украшения ящиков можно использовать шаблоны оформления.&r"
 				""
-				"Furthermore, you can do special stuff with your drawers, with &9Tools&r and &9Upgrades! Search &e@Functionalstorage&r in &bEMI&r to see them!"
+				"Кроме того, вы можете делать особые вещи со своими ящиками с помощью &9инструментов&r и &9улучшений&r! Поищите &e@Functionalstorage&r в &bEMI&r, чтобы увидеть их!"
 			]
 			disable_toast: true
 			id: "4A696D4BA5442928"
 			optional: true
-			subtitle: "&oThis quest completes with any drawer."
+			subtitle: "&oСмастерите любой ящик и квест завершится"
 			tasks: [{
 				id: "02543E826A43185A"
 				item: {
@@ -193,16 +193,16 @@
 						value: "functionalstorage:drawer"
 					}
 				}
-				title: "Any Drawer"
+				title: "Любой ящик"
 				type: "item"
 			}]
-			title: "&9Drawers"
+			title: "&9Ящики"
 			x: -3.0d
 			y: -1.0d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["&9Still very barebone at the moment. Currently shows which multiblocks can be made at what tier. How machines function, ore generation, tools, multiblocks, filters and finally covers.&r"]
+			description: ["&9В настоящее время функционал довольно ограничен. Показывает, какие мультиблоки можно собрать на каждом уровне. Как работают машины, генерация руды, инструменты, мультиблоки, фильтры и, наконец, защитные крышки.&r"]
 			disable_toast: true
 			icon: "gtceu:terminal"
 			id: "07DC7FC23332B847"
@@ -211,10 +211,10 @@
 				item: "gtceu:terminal"
 				type: "item"
 			}]
-			subtitle: "GT Guide book"
+			subtitle: "Руководство по GregTech"
 			tasks: [{
 				id: "380954E57B7C36EC"
-				title: "Terminal"
+				title: "Терминал"
 				type: "checkmark"
 			}]
 			x: 0.75d
@@ -223,13 +223,13 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&c&rOres in &9Monifactory&f exist in large clusters, or '&eveins&f'. These veins are scattered around the world, and are relatively common. &2The upgraded HV Electric Prospector's Scanner you were given will tell you the types of ores you can find within a 7x7 chunk area!"
+				"&c&rВ &9Monifactory&f руды образуют большие скопления или «&eжилы&f». Эти жилы разбросаны по всему миру и встречаются довольно часто. &2Выданный вам улучшенный сканер электрического искателя на высоком напряжении покажет, какие типы руд можно найти на территории размером 7 × 7 чанков!"
 				"&r"
-				"While the Scanner requires energy to work, you are unlikely to deplete its battery. That said, the quest book will later guide you towards making &2an HV Battery&r to charge &aHV tools &rin your inventory."
+				"Хотя для работы сканера требуется энергия, вы вряд ли исчерпаете его батарею. Тем не менее, позже в книге квестов вам будет предложено сделать &2батарею на высоком напряжении&r для зарядки &aинструментов на высоком напряжении&r в инвентаре."
 				"{@pagebreak}"
-				"In order to proceed, you'll need to locate a source of &6Iron&f. You have a few options. &6Magnetite&f veins are higher up and contain large amounts of iron, as well as some &6Vanadium&f and &6Gold&f. Another good source of iron is &9Goethite&f veins, which contain several types of iron. Finally, &6Pyrite&f can be found paired with &6Copper&f in several types of veins."
+				"Для продвижения вам нужно будет найти источник &6железа&f. У вас есть несколько вариантов. Жилы &6магнетита&f находятся высоко и содержат огромное количество железа, а также некоторое количество &6ванадия&f и &6золота&f. Ещё один хороший источник железа — жилы &9гетита&f, которые содержат сразу несколько видов железа. Наконец, &6пирит&f можно найти в сочетании с &6медью&f в нескольких типах жил."
 				""
-				"&6Wrought Iron&f is obtained simply by &esmelting Iron a second time&f. It has more durability than Iron, so it is better for making tools, but &cdo not convert your entire Iron supply over to Wrought Iron&f. The two materials are not interchangeable and you'll need Iron or Wrought Iron as demanded by various recipes."
+				"&6Кованое железо&f получают путём &eпереплавки железа&f. Оно более прочное, чем обычное железо, поэтому лучше подходит для изготовления инструментов, но &cне перерабатывайте всё своё железо в кованое&f. Эти два материала не взаимозаменяемы и для последующих рецептов вам понадобятся оба."
 			]
 			icon: "gtceu:wrought_iron_ingot"
 			id: "2E8BFA2E719B1C47"
@@ -247,7 +247,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "ULV Beginnings"
+			subtitle: "Введение в ультранизкое напряжение"
 			tasks: [
 				{
 					count: 12L
@@ -659,7 +659,7 @@
 				item: "ironfurnaces:iron_furnace"
 				type: "item"
 			}]
-			title: "Furnace v2.0"
+			title: "Печь v2.0"
 			x: 6.5d
 			y: 1.0d
 		}
@@ -677,7 +677,7 @@
 				item: "ironfurnaces:copper_furnace"
 				type: "item"
 			}]
-			title: "Furnace v3.0"
+			title: "Печь v3.0"
 			x: 6.5d
 			y: 4.0d
 		}
@@ -695,7 +695,7 @@
 				item: "ironfurnaces:silver_furnace"
 				type: "item"
 			}]
-			title: "Furnace v4.0"
+			title: "Печь v4.0"
 			x: 6.5d
 			y: 5.5d
 		}
@@ -713,7 +713,7 @@
 				item: "ironfurnaces:diamond_furnace"
 				type: "item"
 			}]
-			title: "Furnace v6.0"
+			title: "Печь v6.0"
 			x: 6.5d
 			y: 8.5d
 		}
@@ -731,7 +731,7 @@
 				item: "ironfurnaces:gold_furnace"
 				type: "item"
 			}]
-			title: "Furnace v5.0"
+			title: "Печь v5.0"
 			x: 6.5d
 			y: 7.0d
 		}
@@ -749,7 +749,7 @@
 				item: "ironfurnaces:obsidian_furnace"
 				type: "item"
 			}]
-			title: "Furnace v7.0"
+			title: "Печь v7.0"
 			x: 6.5d
 			y: 10.0d
 		}
@@ -768,7 +768,7 @@
 				item: "ironfurnaces:netherite_furnace"
 				type: "item"
 			}]
-			title: "Furnace v8.0"
+			title: "Печь v8.0"
 			x: 6.5d
 			y: 11.5d
 		}
