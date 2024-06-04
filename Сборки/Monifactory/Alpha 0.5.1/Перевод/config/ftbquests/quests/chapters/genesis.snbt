@@ -522,18 +522,18 @@
 				item: { Count: 3b, id: "gtceu:rubber_plate" }
 				type: "item"
 			}]
-			title: "Rubber Sheets"
+			title: "Резиновые листы"
 			x: 2.5d
 			y: 4.0d
 		}
 		{
 			dependencies: ["6FB3E3D9CA0F4B30"]
 			description: [
-				"A &aSoft Mallet&f can be used to temporarily stop a machine from functioning. This is useful when you have two machines running and both are unable to keep going because of a lack of power... let one finish then turn the other one back on with a second hit from the mallet."
+				"&aМягким молотком&f можно временно остановить работу машины. Это полезно, когда у вас работают две машины и обе не могут продолжать из-за нехватки энергии... Дайте одной закончить работу, а затем снова включите другую, ударив молотком второй раз."
 				""
-				"Although you can make it out of &6Wood&r, it is probably better to make it out of &6Rubber&r."
+				"Хотя вы можете сделать его из &6дерева&r, лучше сделать его из &6резины&r."
 				""
-				"This quest accepts a &aSoft Mallet&r made from any material."
+				"Этот квест принимает &aмягкий молоток&r, сделанный из любого материала."
 			]
 			icon: {
 				Count: 1b
@@ -556,7 +556,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Bonk!"
+			subtitle: "Боньк!"
 			tasks: [{
 				id: "253D34B000F903DD"
 				item: {
@@ -638,16 +638,16 @@
 						]
 					}
 				}
-				title: "Any Soft Mallet"
+				title: "Любой мягкий молоток"
 				type: "item"
 			}]
-			title: "Soft Mallet"
+			title: "Мягкий молоток"
 			x: 4.5d
 			y: 4.0d
 		}
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
-			description: ["&3Iron Furnaces&f can smelt an item in &a160 ticks&f, which is somewhat faster than a vanilla &6Furnace&f, which takes &a200 ticks&f. The fuel efficiency remains the same for all furnaces."]
+			description: ["&3Железные печи&f могут переплавить предмет за &a160 тактов&f, что немного быстрее стандартной &6печи&f, которой требуется &a200 тактов&f. Эффективность использования топлива остаётся одинаковой у всех печей."]
 			id: "7865CDE5CFE005DC"
 			rewards: [{
 				id: "55F7CA98F66953A1"
@@ -665,7 +665,7 @@
 		}
 		{
 			dependencies: ["7865CDE5CFE005DC"]
-			description: ["&3Copper Furnaces&f are another step up in speed, taking &a100 ticks&f to smelt an item."]
+			description: ["&3Медные печи&f работают ещё быстрее, переплавляя предмет за &a100 тактов&f."]
 			id: "0591171F13A45283"
 			rewards: [{
 				id: "20FC1982A662B6C6"
@@ -683,7 +683,7 @@
 		}
 		{
 			dependencies: ["0591171F13A45283"]
-			description: ["&3Silver Furnaces&f are another step up in speed, taking a mere &a80 ticks&f to smelt an item."]
+			description: ["&3Серебряные печи&f ещё быстрее, переплавляют предмет всего за &a80 тактов&f"]
 			id: "3F77EDE69BB649DA"
 			rewards: [{
 				id: "77EC0D08F5C99E37"
@@ -701,7 +701,7 @@
 		}
 		{
 			dependencies: ["6B121BEFD852BC2D"]
-			description: ["&3Diamond Furnaces&f are even faster, taking only &a25 ticks&f to smelt an item."]
+			description: ["&3Алмазные печи&f переплавляют предмет всего за &a25 тактов&f."]
 			id: "1AE46C1970378083"
 			rewards: [{
 				id: "4F7C761D3657868A"
@@ -719,7 +719,7 @@
 		}
 		{
 			dependencies: ["3F77EDE69BB649DA"]
-			description: ["&3Gold Furnaces&f are yet another step up in speed, taking only &a40 ticks&f to smelt an item."]
+			description: ["&3Золотые печи&f ещё быстрее, переплавляя предмет всего за &a40 тактов&f."]
 			id: "6B121BEFD852BC2D"
 			rewards: [{
 				id: "045094D4927E2AB5"
@@ -737,7 +737,7 @@
 		}
 		{
 			dependencies: ["1AE46C1970378083"]
-			description: ["&3Obsidian Furnaces&f are slightly faster than &3Diamond Furnaces&f, taking only &a20 ticks&r to smelt an items, and are also blastproof."]
+			description: ["&3Обсидиановые печи&f немного быстрее &3алмазных печейs&f, переплавляя предмет всего за &a20 тактов&r, и также взрывоустойчивы."]
 			id: "3969150B59EA38A2"
 			rewards: [{
 				id: "7BADB8C39CADB5FF"
@@ -755,7 +755,7 @@
 		}
 		{
 			dependencies: ["3969150B59EA38A2"]
-			description: ["At this point, you might as well just make a &3Multi Smelter&r. But it does smelt items at a blazing quick 5 ticks"]
+			description: ["На этом этапе вам уже просто следует сделать &3мультиплавильню&r. Она переплавляет предметы с невероятной скоростью — всего за 5 тактов."]
 			id: "69E77BD01CFF65EB"
 			invisible: true
 			rewards: [{
@@ -775,11 +775,11 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"You might want to get yourself an anvil instead of breaking and crafting new tools every time. Anvils&f spawn abundantly in &bLost Cities&f buildings, so go and snatch one!"
+				"Возможно, вам стоит обзавестись наковальней вместо того, чтобы каждый раз ломать и крафтить новые инструменты. Наковальни&f часто встречаются в зданиях в &bзаброшенных городах&f, так что отправляйтесь туда и заберите для себя одну!"
 				""
-				"Put a damaged tool inside and put some material it's made of. For example, you'll need to put &6Wrought Iron Ingots&f to repair tools made of &6Wrought Iron&f. The only tools unable to be repaired are the mortar and the plunger."
+				"Положите повреждённый инструмент внутрь и материал, из которого он сделан. Например, вам нужны &6слитки кованого железа&f, чтобы починить инструменты, сделанные из &6кованого железа&f. Единственные инструменты, которые нельзя починить, — это ступка и плунжер."
 				""
-				"Also, you can now repair your free &6Mining Hammers&r with some &6Diamonds&r!"
+				"Также теперь вы сможете чинить свои бесплатные &6рудные молоты&r с помощью &6алмазов&r!"
 			]
 			id: "5430ED88A8D10502"
 			rewards: [{
@@ -787,13 +787,13 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "&3Anvils&f can be used to repair almost all &bGregTech tools&f!"
+			subtitle: "&3Наковальни&f можно использовать для ремонта почти всех &bинструментов GregTech&f!"
 			tasks: [{
 				id: "38E44244B336F941"
 				item: "minecraft:anvil"
 				type: "item"
 			}]
-			title: "Proper Tool Care"
+			title: "Правильный уход за инструментами"
 			x: 0.5d
 			y: 4.5d
 		}
