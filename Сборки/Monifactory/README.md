@@ -16,7 +16,7 @@ Monifactory для вас не такая грегнутая? Или, может
 
 <h3 align="center"><b>Автор сборки: <a href="https://github.com/ThePansmith">Pansmith</a></b></h3>
 
-## Установка русской версии сборки
+## Установка сборки и русификация
 
 - Установите сборку из [Releases оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/).
 - Скачайте или клонируйте репозиторий моего проекта переводов.
