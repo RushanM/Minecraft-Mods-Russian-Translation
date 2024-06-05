@@ -800,17 +800,17 @@
 		{
 			dependencies: ["1229234A71CE0A99"]
 			description: [
-				"&rThis quest accepts a item pipe of any material, any size, whether restrictive or normal."
+				"&rЭтот квест принимает трубопровод для предметов из любого материала, любого размера, будь то ограничительный или обычный."
 				""
-				"For now, the best material to make these pipes out of is probably &6Tin&r."
+				"На данный момент лучший материал для изготовления этих труб — это, вероятно, &6олово&r."
 				""
-				"Their advantage over &5EnderIO &3Item Conduits&r is their far higher &6throughput&r. An unupgraded EIO Item Conduit transports &98 items per second&r, and up to &9128&r when upgraded. In comparison, small low-tier Item Pipes can transfer &964 items per second&r, and those made from later materials can transfer &9multiple stacks per second&r."
+				"Их преимущество перед &5трубами EnderIO для предметов&r — гораздо более высокая &6пропускная способность&r. Необновлённые трубы EnderIO транспортируют &98 предметов в секунду&r, и до &9128&r при обновлении. В сравнении, маленькие низкоуровневые трубопроводы могут передавать &964 предметов в секунду&r, а те, которые сделаны из более поздних материалов, могут передавать &9несколько стаков в секунду&r."
 				""
-				"They don't auto-extract by themselves, so you have to use &3Conveyor covers&r etc. with them."
+				"Они не могут самостоятельно извлекать предметы, поэтому необходимо использовать &3конвейерные крышки&r и т. п."
 				""
-				"The priority mechanics are more complicated, so skip ahead if you are not interested:"
-				"A Destination will have a Routing Value calculated, which is the sum of all Routing Values of the individual Pipes to that Destination. Whichever Destination has the lowest Routing Value will be the one selected for Insertion."
-				"Restrictive Pipes typically have the lowest Priority for insertion due to their higher Routing Value."
+				"Механика приоритетов более сложная, так что пропустите это, если не заинтересованы:"
+				"Пункт назначения будет иметь рассчитанное значение маршрутизации, которое является суммой всех значений маршрутизации отдельных труб к этому пункту назначения. Тот пункт назначения, который имеет наименьшее значение маршрутизации, будет выбран для вставки."
+				"Ограничительные трубы обычно имеют самый низкий приоритет для вставки из-за их высокого значения маршрутизации."
 			]
 			id: "57D1B1D74391A05F"
 			rewards: [{
@@ -819,26 +819,26 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&2Item Pipes are back in GTCEu! They will transport items instantly through them."
+			subtitle: "&2Трубопроводы для предметов снова в GTCEu! Они мгновенно транспортируют предметы."
 			tasks: [{
 				id: "72798E2CFE3F6FB5"
 				item: "gtceu:tin_normal_item_pipe"
 				type: "item"
 			}]
-			title: "&2GT Item Pipes"
+			title: "&2Трубопроводы GT для предметов"
 			x: 2.5d
 			y: 5.5d
 		}
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"The &eTool Belt&r is a item, which can store your tools, and exchange them easily! Right now, it has 2 slots, but later, once you unlock &6Steel&r, you can upgrade it with &6Belt Pouches&r, all the way to 9 slots, with an &3Anvil&r and some &aXP&r!"
+				"&6Пояс для инструментов&r — это предмет, который может хранить ваши инструменты и легко обменивать их! В настоящее время у него 2 слота, но позже, как только вы разблокируете &6сталь&r, вы сможете улучшить его с помощью &6сумок для пояса&r, до 9 слотов, используя &3наковальню&r и немного &aопыта&r!"
 				""
-				"Make the Tool Belt, and you can use the keybind (default is `R'), while the belt is in your inventory or Bauble Slots &cand you are holding something, or the belt is not empty&r, to open its GUI. "
+				"Создайте пояс для инструментов, и вы сможете использовать клавишу (по умолчанию `R`), когда пояс находится в вашем инвентаре или в слотах для аксессуаров, &cи вы держите что-то в руках, или пояс не пустой&r, чтобы открыть его интерфейс. "
 				""
-				"Alternatively, you can right click while holding the belt to open its inventory."
+				"Вы также можете нажать ПКМ, держа пояс, чтобы открыть его инвентарь."
 				"{@pagebreak}"
-				"The Tool Belt is equipable as a &bBauble&r. Open your inventory and look for the Baubles button, and click it to reveal the additional bauble slots menu, and then put it in the Belt Slot. Or, just click in every bauble slot until it goes in, if you can't tell which bauble slot looks like a belt."
+				"&bПояс для инструментов&r можно использовать как &bаксессуар&r. Откройте свой инвентарь и найдите кнопку аксессуаров, затем нажмите её, чтобы открыть меню дополнительных слотов для аксессуаров, и поместите его в слот для пояса. Или просто нажмите на каждый слот для аксессуаров, пока он не окажется в правильном, если не можете определить, какой слот для пояса."
 				""
 				"The Tool Belt can store anything with a stack size of 1, like swords, pickaxes, &bGregTech&r tools, and the &6Terminal&r. It has also been modified a bit, so it also allows any &bStorage Drawers&r key, and &cdoesn't allow any Thermal Satchel&r."
 				""
@@ -850,13 +850,13 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "&2A brand new and highly requested mod to CEu to help you manage your tools!&r"
+			subtitle: "&2Совершенно новый и очень востребованный мод для Community Edition Unofficial, чтобы помочь вам управлять инструментами!"
 			tasks: [{
 				id: "2BFE87C449C8D8F3"
 				item: "toolbelt:belt"
 				type: "item"
 			}]
-			title: "&2Tool Belt"
+			title: "&2Пояс для инструментов"
 			x: 3.0d
 			y: 2.0d
 		}
