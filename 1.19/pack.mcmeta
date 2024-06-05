@@ -1,11 +1,16 @@
 {
     "pack": {
-        "name": "Русификатор модификаций",
-        "description": "Автор: Дефлекта. Редакция 1.1 для Minecraft 1.19.x.",
+        "description": {
+            "fallback": "Вносит правки в русский перевод модов",
+            "translate": "minecraft.resource_pack.modsru"
+        },
+        "name": "Русский перевод модов",
         "pack_format": 13,
-        "supported_formats": {
-            "max_inclusive": 13,
-            "min_inclusive": 9
-        }
+        "supported_formats": [
+            9,
+            13
+        ],
+        "автор": "Дефлекта",
+        "версия": "1.19-1.4"
     }
 }

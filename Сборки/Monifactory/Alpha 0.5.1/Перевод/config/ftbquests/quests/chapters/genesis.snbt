@@ -1295,7 +1295,7 @@
 				item: "steamdynamo:steam_dynamo"
 				type: "item"
 			}]
-			title: "Steam Dynamo"
+			title: "Паровая динамо"
 			x: -3.5d
 			y: 7.0d
 		}

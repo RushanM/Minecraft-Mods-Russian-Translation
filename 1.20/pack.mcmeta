@@ -1,10 +1,10 @@
 {
     "pack": {
         "description": {
-            "fallback": "Вносит правки в русский перевод модификаций",
+            "fallback": "Вносит правки в русский перевод модов",
             "translate": "minecraft.resource_pack.modsru"
         },
-        "name": "Русификатор модификаций",
+        "name": "Русский перевод модов",
         "pack_format": 15,
         "supported_formats": [
             15,
