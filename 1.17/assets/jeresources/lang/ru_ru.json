@@ -15,7 +15,7 @@
 	"jer.config.hiddenTabs.description": "Вкладками, добавленными Just Enough Resources, являются «подземелье», «зачарование», «моб», «крестьянин», «генерация мира» и «растение»",
 
 	"jer.dim.all": "Все",
-    "jer.dim.minecraft:overworld": "Верхний мир",
+    "jer.dim.minecraft:overworld": "Обычный мир",
     "jer.dim.minecraft:the_nether": "Незер",
     "jer.dim.minecraft:the_end": "Энд",
 

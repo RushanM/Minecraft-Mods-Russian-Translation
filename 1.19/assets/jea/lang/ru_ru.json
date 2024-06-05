@@ -1,5 +1,5 @@
 {
-  "dimension.minecraft.overworld.name": "Верхний мир",
+  "dimension.minecraft.overworld.name": "Обычный мир",
   "dimension.minecraft.the_nether.name": "Незер",
   "dimension.minecraft.the_end.name": "Энд",
   "dimension.mythicbotany.alfheim.name": "Альвхейм",
@@ -104,7 +104,7 @@
   "jea.item.tooltip.mob_effect.duration": " — с продолжительностью: %s",
   "jea.item.tooltip.mob_effect.name": "Требуется эффект зелья %s",
   "jea.item.tooltip.mob_effect.visible": " — необходима видимость частиц: %s",
-  "jea.item.tooltip.nether_travel.distance": "Расстояние по меркам верхнего мира",
+  "jea.item.tooltip.nether_travel.distance": "Расстояние по меркам обычного мира",
   "jea.item.tooltip.nether_travel.entered": "Вошёл в",
   "jea.item.tooltip.nether_travel.exited": "Вышел из",
   "jea.item.tooltip.potion": "Зелье: %s",
