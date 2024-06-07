@@ -11,96 +11,112 @@
 		{
 			id: "54018A95BECC356C"
 			linked_quest: "5A8D2BFAF02E6325"
+			shape: "hexagon"
 			x: 55.0d
 			y: -21.75d
 		}
 		{
 			id: "2A5A7CD2C9EDD767"
 			linked_quest: "7979D07FBDC6D170"
+			shape: "hexagon"
 			x: 52.5d
 			y: -20.0d
 		}
 		{
 			id: "6FD00239A5CD9D2F"
 			linked_quest: "3D7924B550A1BBA0"
+			shape: "hexagon"
 			x: 55.0d
 			y: -18.0d
 		}
 		{
 			id: "3F1F20A84F3FDE97"
 			linked_quest: "0C9A9F33EEA3AB5E"
+			shape: "hexagon"
 			x: 55.0d
 			y: -15.5d
 		}
 		{
 			id: "2C514C36E06DC5FA"
 			linked_quest: "5601A05D8361551D"
+			shape: "gear"
 			x: 55.0d
 			y: -13.5d
 		}
 		{
 			id: "2DE45181A83AEBEB"
 			linked_quest: "248ABB7F26EB72EE"
+			shape: "hexagon"
 			x: 41.75d
 			y: -10.75d
 		}
 		{
 			id: "64A590345841C96D"
 			linked_quest: "6F5BB99060FF03AC"
+			shape: "hexagon"
 			x: 45.25d
 			y: -10.75d
 		}
 		{
 			id: "7D48D4665ACE37FD"
 			linked_quest: "4EB9D1ADC4814330"
+			shape: "hexagon"
 			x: 48.0d
 			y: -10.75d
 		}
 		{
 			id: "253B127314F09EF5"
 			linked_quest: "0F56F4E642BC2B85"
+			shape: "hexagon"
 			x: 40.25d
 			y: -10.75d
 		}
 		{
 			id: "100FE5584DF66812"
 			linked_quest: "5054D3FA7E96EB83"
+			shape: "hexagon"
 			x: 38.75d
 			y: -20.0d
 		}
 		{
 			id: "2257A8F22DB09C97"
 			linked_quest: "5E829641B6FE96E5"
-			x: 41.5d
+			shape: "hexagon"
+			x: 41.75d
 			y: -23.5d
 		}
 		{
 			id: "6A146108A296A053"
 			linked_quest: "7704A934F89E4FD9"
+			shape: "hexagon"
 			x: 38.75d
 			y: -23.5d
 		}
 		{
 			id: "06553CB928FD765B"
 			linked_quest: "4612D36D22AB4B34"
+			shape: "hexagon"
 			x: 38.75d
 			y: -21.75d
 		}
 		{
 			id: "64CBC49787B51FD8"
 			linked_quest: "1B1D3A66B847D129"
+			shape: "gear"
 			x: 43.75d
 			y: -23.5d
 		}
 		{
 			id: "3B6669BBD0448982"
 			linked_quest: "07057CDE4E021BA7"
+			shape: "gear"
 			x: 48.0d
 			y: -13.5d
 		}
 		{
 			id: "20F44ACD2F91FD2A"
 			linked_quest: "4DF92773C82F4AAC"
+			shape: "hexagon"
 			x: 40.25d
 			y: -20.0d
 		}
