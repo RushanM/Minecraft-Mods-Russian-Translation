@@ -1574,7 +1574,7 @@
 			description: [
 				"&6ZPM Machine Hulls&r are made with &2Naquadah Alloy Plates,&r but you'll notice they also need &2Polybenzimidazole&r."
 				""
-				"ZPM stands for Zero Point Module."
+				"МНТ означает «модуль нулевой точки»."
 				""
 				"This is the last tier of machine that's sensible to produce before you reach the &9Creative Tank&r. Multiblock hatches are a different matter: feel free to upgrade your &3EBF&rs to Ultimate Voltage, if you can handle the power drain."
 			]
@@ -1590,7 +1590,7 @@
 				item: "gtceu:zpm_machine_hull"
 				type: "item"
 			}]
-			title: "&2ZPM Machine Hulls"
+			title: "&2Корпуса машин НМНТ"
 			x: 17.25d
 			y: 16.75d
 		}

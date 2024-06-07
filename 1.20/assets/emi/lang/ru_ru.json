@@ -1,6 +1,8 @@
 {
     "emi.cost_per": "Стоимость:",
     "emi.favorite_recipe": "Нажмите %s, чтобы добавить рецепт в «Избранное»",
+    "emi.search": "Поиск в EMI",
+    "emi.search_config": "Поиск в настройках",
     "key.emi.favorite": "Добавить в «Избранное»",
     "key.emi.focus_search": "Сфокусироваться на поиске",
     "screen.emi.config": "Настройки",
