@@ -154,11 +154,11 @@
 		{
 			dependencies: ["5C4E189A3E401566"]
 			description: [
-				"Remember to keep the MV area separate from your LV area. &eHooking up an LV machine to MV current will result in the machine being destroyed! Also LV cables will burn up if you put MV current through them&r. That's why it's probably best to keep the areas separate until you're comfortable and confident with voltages. Eventually you can use transformers to switch voltages within a single setup, but don't feel forced to try that until you've got a grasp on the basics."
+				"Держите область для СН отдельно от области для НН. &eПодключение машины НН к току СН приведёт к её разрушению! Также кабели НН сгорят, если пропустить через них ток СН&r. Поэтому лучше держать эти области раздельно, пока вы не станете увереннее в работе с напряжениями. В конечном итоге можно использовать трансформаторы для переключения напряжений в одной системе, но это вовсе необязательно и не рекомендуется, если вы ещё не освоили основы."
 				""
-				"All RF power is the same (it has no voltages), so you can use RF conduits to route power from wherever you're generating and converting to EU with &3Energy Converters&r for each voltage. You don't have to use this setup, but it's the most foolproof one for a beginner. And if you're an expert, well... you don't need my advice."
+				"Вся энергия в РТ одинакова (в нём нет напряжений), поэтому вы можете использовать кабели РТ для передачи энергии от источника к преобразователю в ЕЭ с помощью &3преобразователей энергии&r для каждого напряжения. Конечно, вы не обязаны использовать эту конфигурацию, но для начинающего она самая надёжная. А если вы эксперт, что ж… вам мои советы не понадобятся."
 				""
-				"For your MV cables, you can use &6Copper&r to start with. &6Energetic Alloy cables&r are lossless though, so consider them if you're able to mass produce those ingots."
+				"Создавая кабели СН, можете начать с &6меди&r. &6Кабели из энергетического сплава&r не теряют энергию, так что рассмотрите их использование, если сможете массово производить эти сплавы."
 			]
 			id: "0B62AD25CDD86A6B"
 			rewards: [{
@@ -172,7 +172,7 @@
 				item: "gtceu:mv_4a_energy_converter"
 				type: "item"
 			}]
-			title: "MV Energy Converter"
+			title: "Преобразователь энергии среднего напряжения"
 			x: -1.0d
 			y: -3.0d
 		}

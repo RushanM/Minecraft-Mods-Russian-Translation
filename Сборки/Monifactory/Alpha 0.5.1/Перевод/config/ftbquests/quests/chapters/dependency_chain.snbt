@@ -14,7 +14,7 @@
 		{
 			id: "57E7182198B2EA9A"
 			invisible: true
-			subtitle: "unlocks normal quests"
+			subtitle: "Разблокировывает обычные квесты"
 			tasks: [{
 				id: "114368F6DCC624B8"
 				stage: "mode_normal"
@@ -26,7 +26,7 @@
 		{
 			id: "2EC4EF1BEEA578F3"
 			invisible: true
-			subtitle: "unlocks expert quest"
+			subtitle: "Разблокировывает квесты для экспертов"
 			tasks: [{
 				id: "61ED97728A33334E"
 				stage: "mode_expert"
@@ -38,7 +38,7 @@
 		{
 			id: "45B743CB23CA5735"
 			invisible: true
-			subtitle: "generic dependency for unlocking the genisis quest"
+			subtitle: "Основная зависимость для разблокировка квеста «Генезис»"
 			tasks: [{
 				id: "140F9B6DC0E3EE8E"
 				stage: "intro_complete"
@@ -48,7 +48,7 @@
 			y: -0.25d
 		}
 		{
-			description: ["This is used for unlocking quests, esp hard mode."]
+			description: ["Это используется для разблокировки квестов, в особенности сложного режима."]
 			icon: "minecraft:oak_sign"
 			id: "7DC209D400BCD708"
 			subtitle: "ух-ох"
@@ -76,7 +76,7 @@
 				id: "3149CE3926BE4C88"
 				type: "checkmark"
 			}]
-			title: "Отладка: undo intro"
+			title: "Отладка: откатить интро"
 			x: 1.25d
 			y: -1.5d
 		}
