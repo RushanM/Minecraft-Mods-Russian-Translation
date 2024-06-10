@@ -51,9 +51,9 @@
 	"Default XP Storage" = false
 
 [Villagers]
-	#If TRUE, trades will be added to various Villagers.
+	#Если TRUE, у крестьян будут новые товары из мода.
 	"Enable Villager Trades" = true
-	#If TRUE, trades will be added to the Wandering Trader.
+	#Если TRUE, у странствующего торговца будут новые товары из мода.
 	"Enable Wandering Trader Trades" = true
 
 [Devices]

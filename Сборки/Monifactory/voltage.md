@@ -15,3 +15,8 @@
 | UMV | Mega Ultimate Voltage | ПМН | Мегапиковое напряжение |
 | UXV | Extended Mega Ultimate Voltage | ПРМН | Расширенное мегапиковое напряжение |
 | MAX | Maximum Voltage | МАКС | Максимальное напряжение |
+
+## Отдельная каста
+| Ориг. | Ориг. | Перевод | Перевод |
+| - | - | - | - |
+| OpV | Overpowered Voltage | ЧН | Чрезмерное напряжение |
