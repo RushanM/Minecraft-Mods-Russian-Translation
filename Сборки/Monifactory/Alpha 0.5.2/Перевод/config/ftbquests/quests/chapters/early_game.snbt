@@ -154,9 +154,9 @@
 		{
 			dependencies: ["5C4E189A3E401566"]
 			description: [
-				"Держите область для СН отдельно от области для НН. &eПодключение машины НН к току СН приведёт к её разрушению! Также кабели НН сгорят, если пропустить через них ток СН&r. Поэтому лучше держать эти области раздельно, пока вы не станете увереннее в работе с напряжениями. В конечном итоге можно использовать трансформаторы для переключения напряжений в одной системе, но это вовсе необязательно и не рекомендуется, если вы ещё не освоили основы."
+				"Держите область для СН отдельно от области для низкого напряжения. &eПодключение машины НН к току СН приведёт к её разрушению! Также кабели НН сгорят, если пропустить через них ток СН&r. Поэтому лучше держать эти области раздельно, пока вы не станете увереннее в работе с напряжениями. В конечном итоге можно использовать трансформаторы для переключения напряжений в одной системе, но это вовсе необязательно и не рекомендуется, если вы ещё не освоили основы."
 				""
-				"Вся энергия в РТ одинакова (в нём нет напряжений), поэтому вы можете использовать кабели РТ для передачи энергии от источника к преобразователю в ЕЭ с помощью &3преобразователей энергии&r для каждого напряжения. Конечно, вы не обязаны использовать эту конфигурацию, но для начинающего она самая надёжная. А если вы эксперт, что ж… вам мои советы не понадобятся."
+				"Вся энергия в редстоуновом токе одинакова (в нём нет напряжений), поэтому вы можете использовать кабели РТ для передачи энергии от источника к преобразователю в ЕЭ с помощью &3преобразователей энергии&r для каждого напряжения. Конечно, вы не обязаны использовать эту конфигурацию, но для начинающего она самая надёжная. А если вы эксперт, что ж… вам мои советы не понадобятся."
 				""
 				"Создавая кабели СН, можете начать с &6меди&r. &6Кабели из энергетического сплава&r не теряют энергию, так что рассмотрите их использование, если сможете массово производить эти сплавы."
 			]
@@ -181,7 +181,7 @@
 				"0B62AD25CDD86A6B"
 				"74935A3553451178"
 			]
-			description: ["&aMV Batteries&r function essentially the same as &aLV Batteries&r, only stronger. They also need to be put into an &3MV Machines, MV Battery Buffers&r or &3MV Turbo Chargers&r."]
+			description: ["&aБатареи СН&r функционируют аналогично &aбатареям НН&r, но отличаются большей мощностью. Они устанавливаются в &3машины СН, буфферы батарей СН&r или &3турбозарядные устройства СН&r."]
 			icon: {
 				Count: 1b
 				id: "gtceu:mv_lithium_battery"
@@ -200,18 +200,18 @@
 				item: "gtceu:mv_battery_hull"
 				type: "item"
 			}]
-			title: "MV Power Storage"
+			title: "Хранилище энергии среднего напряжения"
 			x: -1.0d
 			y: -1.0d
 		}
 		{
 			dependencies: ["61AD3760E271B431"]
 			description: [
-				"&3Centrifuges&r have a chance of creating additional materials when processing ore dusts. Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable."
+				"&3Центрифуги&r полезны тем, что могут выдавать дополнительные материалы при обработке рудной пыли. Иногда это сама пыль, но часто другие полезные материалы, которые нельзя получить иным образом."
 				""
-				"Instead of washing &6impure dusts&r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of &6pure dusts&r, when you eventually make a &3Washer&r or &3Chemical Bath&r. Note however that pure and impure dusts will usually give different byproducts (always check in &bEMI&r)."
+				"Вместо промывания &6загрязнённой пыли&r (образующейся при дроблении или молотении руды) в котле, вы можете получить больше пользы от каждой пылинки с помощью центрифугирования. То же самое касается &6чистой пыли&r, когда вы, наконец, создадите &3промыватель&r или &3химическую ванну&r. Стоит отметить, что чистая и загрязнённая пыль обычно дают разные побочные продукты (всегда проверяйте в &bEMI&r)."
 				""
-				"Centrifuges also have other uses like unmixing compound dusts and fluids, or getting &6Rubber Pulp&r, which can be chemically reacted with &6Sulfur&r to efficiently make &9liquid Rubber&r."
+				"Центрифуги также имеют другие применения, такие как разделение составных пылей и жидкостей, или получение &6резиновой массы&r, которая может быть подвергнута химической реакции с &6серой&r для эффективного изготовления &9жидкой резины&r."
 			]
 			id: "5F109188BE4D9767"
 			rewards: [{
@@ -224,7 +224,7 @@
 				item: "gtceu:lv_centrifuge"
 				type: "item"
 			}]
-			title: "Centrifuge"
+			title: "Центрифуга"
 			x: 1.0d
 			y: -1.0d
 		}
@@ -2175,35 +2175,35 @@
 		{
 			dependencies: ["6A914B240E1A7BCB"]
 			description: [
-				"&eSuperconductor wires also won't kill you when touched now. In fact, you have to use Wires for Superconductors, because they don't even have cables!"
+				"&eСверхпроводящие провода теперь безвредны при прикосновении. Более того, для суперпроводников необходимы специальные провода, так как у них даже нет обычных кабелей!"
 				""
-				"&bEnderIO&r and &bThermal&r alloys are a bit more expensive than the normal wires, but they come with the huge advantage of being &2superconductors&r. Lossy cables like &6Tin&r and &6Copper&r will bleed out energy for every block they travel, but &2superconductors&r do not."
+				Сплавы &bEnderIO&r и &bThermal&r стоят дороже по сравнению с обычными проводами, но у них есть огромное преимущество – они являются &2сверхпроводниками&r. Кабели с потерями, такие как &6оловянные&r и &6медные&r, теряют энергию на каждом блоке, через который они проходят, но &2сверхпроводников&r это не касается."
 				""
-				"The &2cheap superconductors&r for each tier are:"
+				"&2Дешёвые сверхпроводники&r у каждого уровня:"
 				""
-				"НН — Conductive Iron"
-				"СН — Energetic Alloy"
-				"ВН — Vibrant Alloy"
-				"ЭН — End Steel"
-				"БН — Люмий"
-				"ЛН — Сигналий"
-				"НМНТ — Эндерий"
+				"НН — проводящее железо"
+				"СН — энергетический сплав"
+				"ВН — яркий сплав"
+				"ЭН — сталь Энда"
+				"БН — люмий "
+				"ЛН — сигналий "
+				"НМНТ — эндерий "
 				"ПН — sculk_compound "
-				"МАКС - &2kubejs Superconductor&r, Omnium"
+				"МАКС - &2kubejs сверхпроводник&r, омний"
 				""
-				"&2There are an additional set of superconductors, one for each tier, which are the CEu default superconductors. Their advantage is their higher amperage rating, reaching the hundreds of amps for higher tier 16x wires. They are also used in crafting Field Generators. They are:"
+				"&2Существует также дополнительный набор сверхпроводников, по одному для каждого уровня, которые являются стандартными сверхпроводниками Community Edition Unofficial. Их преимущество заключается в более высоком рейтинге ампеража, достигающем сотен ампер у проводов более высокого уровня (16x). Они также используются в создании генераторов поля. Вот и они:"
 				""
-				"НН — Manganese Phosphide"
-				"СН — Magnesium Diboride"
-				"ВН — Mercury Barium Calcium Cuprate"
-				"ЭН — Uranium Triplatinum"
-				"БН — Samarium Iron Arsenic Oxide"
-				"ЛН — Indium Tin Barium Titanium Cuprate"
-				"НМНТ — Uranium Rhodium Dinaquadide"
-				"ПН — Enriched Naquadah Trinium Europium Duranide"
-				"ПВН — Ruthenium Trinium Americium Neutronate&r"
+				"НН — фосфид марганца"
+				"СН — диборид магния"
+				"ВН — купрат ртути, бария и кальция"
+				"ЭН — триплатиновый уран"
+				"БН — оксид самария, железа и мышьяка"
+				"ЛН — купрат индия, олова, бария и титана"
+				"НМНТ — динаквадий урана и родия"
+				"ПН — обогащённый наквада-триний-европий-дуранид"
+				"ПВН — нейтронат рутения, триния и америция&r"
 				"&r"
-				"MV and higher cables are made in an &3Assembling Machine&r, with liquid &9Rubber&r and &6Wires&r. &2Keep in mind that you can't combine cables into thicker cables, so you have to make the thickness of cables that you will use."
+				"Провода, начиная со СН и выше, изготавливаются в &3сборочной машине&r с использованием жидкой &9резины&r и &6проводов&r. &2Имейте в виду, что нельзя комбинировать кабели в более толстые кабели, поэтому вам нужно изготавливать кабели той толщины, которой вы будете пользоваться."
 			]
 			icon: "gtceu:energetic_alloy_octal_wire"
 			id: "2861BA7C235C52A3"
@@ -2213,7 +2213,7 @@
 				id: "7A50024966E38151"
 				type: "checkmark"
 			}]
-			title: "&2Lossless Cables"
+			title: "&2Беспотерьные кабели"
 			x: -6.75d
 			y: 0.75d
 		}
@@ -2325,7 +2325,7 @@
 				"1E498F509DB1D460"
 				"1BC8DBBBBB1E17E4"
 			]
-			description: ["The &aAngel Ring&r is actually slower than a jetpack, but it grants creative flight and requires no fuel."]
+			description: ["&aКольцо ангела&r на самом деле медленнее реактивного ранца, но оно даёт возможность летать как в творческом режиме и не требует топлива."]
 			id: "74BD1A246B9CF784"
 			rewards: [{
 				count: 2
@@ -2333,13 +2333,13 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "I'm running out of MCU puns."
+			subtitle: "У меня уже заканчиваются каламбуры на тему MCU."
 			tasks: [{
 				id: "3240962B7D1154AF"
 				item: "better_angel_ring:angel_ring"
 				type: "item"
 			}]
-			title: "&9Captain... Marvel? IDK"
+			title: "&9Капитан… Марвел? Не знаю, не смотрел."
 			x: 17.5d
 			y: 25.0d
 		}
