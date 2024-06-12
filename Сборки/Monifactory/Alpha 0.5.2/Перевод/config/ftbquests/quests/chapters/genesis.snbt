@@ -979,13 +979,13 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"&9Monifactory replaces this with a water condenser from the Water Condenser mod, as the NuclearCraft Infinite Water Source was overhauled.&f"
+				"&9Monifactory заменяет это конденсатором воды из мода Water Condenser, так как Бесконечный источник воды из NuclearCraft переработан.&f"
 				""
-				"Feeding a &3Steam Dynamo&f with water by hand is a pretty silly idea."
+				"Запитывать &3Паровой Динамо&f вёдрами воды вручную довольно глупая идея."
 				""
-				"A &6Water Condenser&f will take care of that for you, albeit slowly. It does, however, auto-output the water to making it simple to use."
+				"&6Конденсатор Воды&f позаботится об этом за вас, пусть и медленно. К счастью, он может автоматически экспортировать воду, упрощая работу с ним."
 				""
-				"&2GTCEu has a Primitive Water Pump, which can do it faster. However, it requires Treated Wood, which requires Creosote from a Coke Oven."
+				"В &2GTCEu&f есть Примитивный Водяной Насос, который может делать это быстрее. Однако, на него требуется Обработанная Древесина, на которую требуется Креозот из Коксовой печи."
 			]
 			id: "0FF18D13CD42F48A"
 			rewards: [{
@@ -1275,12 +1275,11 @@
 		{
 			dependencies: ["0FF18D13CD42F48A"]
 			description: [
+				"&6Паровой Динамо&r будет вашим источников &9Энергии&r в начале игры. Ему требуется &9Вода&r и сжигаемое топливо вроде &6Угля&r или  &6Сахарного Тросника&r для производства энергии."
 				""
-				"The &6Steam Dynamo&r will be your source of &9power&r for the early game. It requires &9Water&r and burnable fuel like &6Coal&r or &6Sugar Cane&r to produce power."
+				"На динамо потребуется немного &6Серебре&f. Если вы ещё не нашли &6жилу Галены&f(в которой находится Серебро), то задумайтесь над \"покупкой\" &6Руды Серебра&r за &9Монимонеты&r. Вам пока что не понадобится тонна серебра и свинца, это в банкротство вас не введёт."
 				""
-				"You'll need a small bit of &6Silver&f for this dynamo. If you haven't found a &6Galena vein&f yet (which is where Silver is), then consider \"buying\" some &6Silver Ore&r using &9Monicoins&r. You won't need a ton of silver and lead just yet, so it won't bankrupt you."
-				""
-				"Keep in mind that &eDynamos only output power when burning through fuel, and only the block/cable attached directly to the coil will get provided with power&f."
+				"Имейте ввиду, что &eДинамо выдаёт энергию лишь когда сжигает топливо и только на блок/кабель подключённый напрямую к катушке&f."
 			]
 			id: "39D4174834F3879D"
 			rewards: [{
@@ -1289,7 +1288,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Your first major crafting project!"
+			subtitle: "Твой первый крупный проект крафта!"
 			tasks: [{
 				id: "78D31068BB10B20B"
 				item: "steamdynamo:steam_dynamo"
@@ -1301,7 +1300,7 @@
 		}
 		{
 			dependencies: ["39D4174834F3879D"]
-			description: ["Better fuel means you need to use less of it."]
+			description: ["Лучшее топливо означает что вам нужно его меньше."]
 			id: "098CF1FD284B09E7"
 			rewards: [{
 				id: "5ECF74D124102662"
@@ -1314,7 +1313,7 @@
 				item: { Count: 2b, id: "thermal:dynamo_fuel_augment" }
 				type: "item"
 			}]
-			title: "&9More Efficient"
+			title: "&9Более эффективно"
 			x: -4.5d
 			y: 7.0d
 		}
@@ -1654,6 +1653,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["115D2BEB18929C7C"]
 			description: [
 				"В большинстве экспертных сборок принято обрабатывать настолько меньше руды, насколько это возможно, перед тем, как открывается возможность удваивать руду. Эта привычка появляется у многих из нас."
 				""
