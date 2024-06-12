@@ -1230,13 +1230,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "The most basic tier of &aRF&r energy conduits from &bEnderIO&r."
+			subtitle: "Основной уровень &aРТ&r энергопроводов из &bEnderIO&r."
 			tasks: [{
 				id: "7D0E23630A562F6A"
 				item: "enderio:conductive_conduit"
 				type: "item"
 			}]
-			title: "Conductive Iron Energy Conduits"
+			title: "Энергопровод из проводящего железа"
 			x: -1.0d
 			y: 8.75d
 		}
@@ -2144,11 +2144,11 @@
 			dependencies: ["7FA0E6F3B466576C"]
 			dependency_requirement: "one_completed"
 			description: [
-				"A \"&esubstrate&f\" is the \"board\" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. &6Wood&r coated in &6Sticky Resin&r is a primitive but effective material to use as your first substrate."
+				"\"&eПодложка&f\" - это \"Плата\" печатной платы... пластина, на которой соединяются компоненты электронной смехы и провода. Хорошая подложка должна не проводить ток, по понятным причинам. &6Дерево&r покрытое &6смолой&r - примитивный, но эффективный материал для первых подложек."
 				""
-				"&2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.&r"
+				"&2Прогрессия микросхем CEu означает что необходимо добавить провода к подложке, что бы от неё была польза. В данном случае используйте тонкую медную проволоку.&r"
 				""
-				"You'll also need to make &6Vacuum Tubes&f, as well as some primitive &6Resistors&r. &6Paper&r will work as a material for these, for now."
+				"Также, вам нужно будет сделать &6вакуумные лампы&f и примитивные &6резисторы&r. Пока что &6Бумага&r - подходящий для этого материал."
 			]
 			icon: "gtceu:resistor"
 			id: "5D0DC2908E159923"
@@ -2177,7 +2177,7 @@
 					type: "item"
 				}
 			]
-			title: "&2Electronics Subcomponents"
+			title: "&2Электронные составляющие"
 			x: 2.5d
 			y: 8.5d
 		}
