@@ -1246,14 +1246,14 @@
 				"7FA0E6F3B466576C"
 			]
 			description: [
-				"The most basic cables, such as these &6Red Alloy Cables&f, can be wrapped in their &6Rubber&f insulation by hand."
+				"Самые простые кабели, такие как &6кабели красного сплава&f, могут быть вручную окутаны в &6резину&f для изоляции."
 				""
-				"More advanced types of cables will require an &3Assembling Machine&f and liquid &9Rubber&f, but you can do it the simple way for now."
+				"Для более продвинутых типов кабелей требуется &3Сборщик&f и жидкая &6резина&f, но пока можно обойтись простым способом."
 				""
-				"&2CEu has GT6-style pipes and cables on by default. &rYou will need to use &aWire Cutters&r to connect each side of a cable to machines or other cables. Placing it against the machine or cable automatically connects it as well. The same behaviour follows for GT pipes, whose tool is the &aWrench&r."
-				"This can save you from energy or fluids going the wrong way. But if you don't like this, disable the config option for \"GT6 style pipes and cables\" in the GregTech config file."
+				"&2В CEu поведение труб и кабелей из GT6 включено по-умолчанию. &r Используйте &aКусачки&r для подключения каждой стороны кабеля к машинам или другим кабелям. Если поставить его вплотную к машине или другому кабелю, то он подключится к нему автоматически. Такое же поведение и у GT труб, но для них инструмент - &aКлюч GT&r."
+				"Это поможет избежать нежелательного потока энергии или жидкости. Но если вас это не устраивает - отключите опцию \"GT6 style pipes and cables\" в файле конфигурации GregTech."
 				""
-				"&2GT cables now support RF conversion natively! &rYou can plug an &9RF&r machine into an &9EU&r cable directly and it will convert the energy. You cannot, however, plug an &9RF&r power souce directly into an &9EU&r cable."
+				"&2GT Кабеля теперь поддерживают преобразование РТ! &r Теперь можно подключить &9РТ&r машину к &9ЕЭ&r кабелю напрямую и он будет преобразовывать энергию. Однако, вы не сможете подключить &9РТ&r источник энергии напрямую к &9ЕЭ&r кабелю."
 			]
 			id: "12B95158E4C792DB"
 			rewards: [{
@@ -1268,7 +1268,7 @@
 				item: { Count: 12b, id: "gtceu:red_alloy_single_cable" }
 				type: "item"
 			}]
-			title: "&2Cables"
+			title: "&2Кабели"
 			x: 2.5d
 			y: 7.0d
 		}
