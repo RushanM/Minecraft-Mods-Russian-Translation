@@ -915,9 +915,9 @@
 			description: [
 				"[\"Загляните одним глазком во \",{\"text\":\"вкладку конца игры\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2BEB72BC6C6FB4E9\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Нажмите, чтобы перейти к этой главе\"}},\". Это может показаться немного преждевременным, но для этого есть причины.\"]"
 				""
-				"These are quests for a full stack of many of the materials in the game. Those are the materials you'll need to synthesize &5Omnium&r, the basic end game resource. It's the pack's way of letting you know what materials you should be prepared to mass produce as you approach the end."
+				"Там находятся квесты на сбор целого стака разных элементов в игре. Они являются материалами, которые вам понадобятся для синтеза &5Омниума&r, базовый ресурс конечного этапа игры. Это способ сборки дать вам понять, какие материалы необходимо подготовить в массовое производство ближе к концу игры."
 				""
-				"Of course, it's not necessary or even advisable to try to finish up all of these quests the moment they become available. Some will be incredibly easy (like &6Iron&f and &6Copper&f), others will be brutally grindy at early tech levels. The rewards are all the same: &925 Monicoins each&f, so use your best judgement on which ones to complete and which to ignore for later."
+				"Конечно, совсем не обязательно и даже не рекомендуется пытаться выполнить все эти квесты в момент, когда они станут доступны. Некоторые из них невероятно простые (например, &6Железо&f and &6Медь&f), а некторые будут брутально сложными на ранних технологических этапах. У всех награда одинаковая: &925 Монимонет каждая&f, так что здраво оценивайте возможность какой квест выполнить сейчас, а какие оставить на потом."
 			]
 			icon: "kubejs:mote_of_omnium"
 			id: "0C173EF148EFEF8E"
