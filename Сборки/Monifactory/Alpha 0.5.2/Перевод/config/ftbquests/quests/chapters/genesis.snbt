@@ -1704,9 +1704,9 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&bSophisticated Storage&r and &bSophisticated Backpacks&r are great options for storing items, both at base and on the go, as well as offering a variety of both helpful and fun upgrades."
+				"&bSophisticated Storage&r и &bSophisticated Backpacks&r хорошие варианты для хранения вещей, как на базе, так и на ходу, а так же предоставляет разнообразие полезных и забавных улучшений."
 				""
-				"&bSophisticated Storage&r in particular is great for cheap storage, able to store 3 barrels worth of items at it's lowest tier, costing only a bit of iron to craft, and can be upgraded with barrel upgrades to hold even more items and upgrades."
+				"В частности, &bSophisticated Storage&r - отличное дешёвое хранилище, способное хранить 3 бочки предметов на самом минимальном уровне. Стоит оно лишь немного железа и может быть расширено улучшениями бочек, что бы хранить еще больше предметов и ячеек для улучшений."
 			]
 			id: "61E5D7EEE745C6FB"
 			rewards: [{
@@ -1714,7 +1714,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Bags of holding"
+			subtitle: "Сумки хранения"
 			tasks: [
 				{
 					id: "46CA42CF7D0730E6"
@@ -1740,7 +1740,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Sophisticated Storage Shenanigans"
+			title: "&9Рюкзаки и бочки"
 			x: -6.5d
 			y: 1.0d
 		}
