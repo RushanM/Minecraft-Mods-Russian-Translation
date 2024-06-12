@@ -18,3 +18,7 @@
 | UXV | Extended Mega Ultimate Voltage | ПРМН | Расширенное мегапиковое напряжение |
 | MAX | Maximum Voltage | МАКС | Максимальное напряжение |
 | OpV | Overpowered Voltage | ЧН | Чрезмерное напряжение |
+| UEV | Ultra Excessive Voltage | УИН | Ультраизбыточное напряжение |
+| UHV | Ultra High Voltage | УВН | Ультравысокое напряжение |
+| UIV | Ultra Immense Voltage | УКН | Ультраколоссальное напряжение |
+| UXV | Ultra Extreme Voltage | УЭН | Ультраэкстремальное напряжение |
