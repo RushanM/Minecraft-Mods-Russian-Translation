@@ -1037,15 +1037,15 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"&6Redstone&f: Found only deep in the world, in massive veins paired with &6Cinnabar&f and &6Ruby&f."
+				"&6Редстоун&f: Можно найти только в глубинах мира в массивных жилах наряду с &6Киноварью&f и &6Рубинами&f"
 				""
-				"&6Copper&f: Two primary sources. &6Tetrahedrite&f veins are higher up, while &6Chalcopyrite&f veins are lower, paired with some small amounts of &6Iron&f. You'll also find &6Malachite&f inside of Iron veins, this is another type of copper ore."
+				"&6Медь&f: Два основных источника. Жилы &6Тетраэдрит&f формируются выше к поверхности, а жилы &6Халькопирит&f - глубже, в сочитании с небольшим количеством &6Железа&f. Можно ещё встретить &6Малахит&f в жилах Железа - это тоже тип медной руды."
 				""
-				"&6Tin&f: Found essentially at ground level. &6Cassiterite&f is another type of tin ore, and they're always found together. If you cannot find a vein of tin, there are small amounts of tin inside veins of &6Aluminium&f and &6Rock Salt&f, which might be enough to hold you over until you find a proper tin vein."
+				"&6Олово&f: Находится в основном на уровне земли. &6Касситерит&f - вариация руды олова, и они всегда находятся вместе. Если не получается найти жилу олова, то можно найти небольшие вкрапления олова в жилах &6Алюминия&f и &6Каменной Соли&f. Этого должно быть достаточно на первое время, пока вы не встретите хорошую жилу олова."
 				""
-				"&6Coal&f: Found in relatively shallow depths. &6Lignite Coal&f is &2removed."
+				"&6Уголь&f: Находится на относительно небольших глубинах. &6Бурый Уголь&f &2удалён."
 				""
-				"&6Gold&f: Found inside of &6Magnetite&f veins, close to the surface."
+				"&6Золото&f: Находится внутри жил &6Магнетита&f, ближе к поверхности."
 			]
 			icon: "minecraft:redstone"
 			id: "1229234A71CE0A99"
@@ -1056,7 +1056,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Before you continue, you'll need access to some more materials."
+			subtitle: "Перед тем как продолжить, нужно раздобыть побольше некоторых ресурсов."
 			tasks: [
 				{
 					count: 76L
@@ -1089,7 +1089,7 @@
 					type: "item"
 				}
 			]
-			title: "More Materials"
+			title: "Больше материалов!"
 			x: -1.0d
 			y: 5.75d
 		}
@@ -1150,13 +1150,13 @@
 		{
 			dependencies: ["1229234A71CE0A99"]
 			description: [
-				"Although most &ealloys&f require an &3Alloy Smelter&f, some alloys can be made simply by mixing the correct metal dusts together. "
+				"Пусть хоть многие &eсплавы&f требуют особую &3Печь для Сплавов&f, некоторые могут быть сделаны просто перемешав вместе правильное соотношение металлической пыли."
 				""
-				"Copper Dust mixed with Redstone makes &6Red Alloy Dust&f."
+				"Смешивая Медную пыль с Редстоуном создаётся пыль &6Красного Сплава&f"
 				""
-				"Iron Dust mixed with Redstone makes &6Conductive Iron Dust&f."
+				"Смешивая Железная пыль с Редстоуном создаётся пыль &6Проводящего Железа&f"
 				""
-				"&3Smelt&f it into ingots, &ahammer&f it into &6Plates&f, and &acut&f them into &6Wires&f."
+				"&3Переплавьте&f их в слитки, &aвпечатайте&f их молотом в &6Пластину&f и &aразрежьте&f кусачками в &6провода&f"
 			]
 			icon: "gtceu:red_alloy_dust"
 			id: "7FA0E6F3B466576C"
@@ -1216,13 +1216,13 @@
 					type: "item"
 				}
 			]
-			title: "From Dust to Wires"
+			title: "От пыли к проводам"
 			x: -1.0d
 			y: 7.25d
 		}
 		{
 			dependencies: ["7FA0E6F3B466576C"]
-			description: ["These can be used to transport energy from your &3Steam Dynamos&r to various destinations."]
+			description: ["С их помощью можно проводить энергию из &3Парового Динамо&r в разные места."]
 			id: "08948A23B3A17923"
 			rewards: [{
 				id: "188CE9F6FC9651C5"
