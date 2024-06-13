@@ -30,4 +30,4 @@ Monifactory для вас не такая грегнутая? Или, может
 
 ## Переводчики
 - [**Дефлекта**](https://github.com/RushanM)
-- [**aBlank**](https://steamcommunity.com/id/SillyAsriel/), спасибо за киянку :)
+- [**SillyAsriel**](https://github.com/SillyAsriel)

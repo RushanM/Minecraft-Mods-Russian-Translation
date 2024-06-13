@@ -207,6 +207,7 @@
 * * [Chat Heads](https://modrinth.com/mod/chat-heads)
 * * [AppleSkin](https://modrinth.com/mod/appleskin)
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
+* [**SillyAsriel**](https://github.com/SillyAsriel): Перевёл некоторые квесты Monifactory
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
 ## ✉️ Контакты
