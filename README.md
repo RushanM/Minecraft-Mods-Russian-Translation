@@ -29,7 +29,7 @@
 * ❌ — полного перевода пока нет, но возможно есть частичный
 * ✅ — перевод готов
 
-| Мод | [1.16](/1.16/assets/README.md) | [1.17](/1.17/assets/README.md) | [1.18](/1.18/assets/README.md) | [1.19](/1.19/assets/README.md) | [1.20](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) |
+| Мод | [1.16](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.17](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.18](/1.18/assets/README.md) | [1.19](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.20](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) |
 | - | - | - | - | - | - |
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | 🌌 | 🌌 | ✅ Рус. | ❌ |

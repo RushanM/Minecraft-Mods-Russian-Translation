@@ -1,6 +1,6 @@
 {
     "configured.config.client.force_configured_menu": "Форсировать меню Configured",
-    "configured.gui.add_value": "Добавить...",
+    "configured.gui.add_value": "Добавить",
     "configured.gui.change": "Сменить",
     "configured.gui.edit": "Править",
     "configured.gui.edit_value": "Изменить значение",
@@ -13,7 +13,7 @@
     "configured.gui.reset": "Сбросить",
     "configured.gui.reset_all": "Сбросить всё",
     "configured.gui.restore": "Восстановить",
-    "configured.gui.restore_message": "Вы уверены, что хотите сбросить все значения? Если вы играете на сборке модификаций, эта настройка может быть изменена автором, и её восстановление нарушит задуманный опыт игры с этой сборкой. §6Это действие необратимо!",
+    "configured.gui.restore_message": "Вы уверены, что хотите сбросить все значения? Если вы играете на сборке модов, эта настройка может быть изменена автором, и её восстановление нарушит задуманный опыт игры с этой сборкой. §6Это действие необратимо!",
     "configured.gui.save": "Сохранить",
     "configured.gui.search": "Искать...",
     "configured.gui.select": "Выбрать",
@@ -24,5 +24,5 @@
     "configured.gui.title.server_configuration": "Настройки сервера",
     "configured.gui.unsaved_changes": "Есть несохранённые изменения. Вы уверены, что хотите прекратить редактирование?",
     "key.categories.configured": "Configured",
-    "key.configured.open_mod_list": "Открыть список модификаций"
+    "key.configured.open_mod_list": "Открыть список модов"
 }
