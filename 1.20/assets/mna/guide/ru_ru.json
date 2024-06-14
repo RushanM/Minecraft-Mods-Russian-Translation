@@ -33,16 +33,16 @@
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Продвинутый призыв конструктов"
+                "value": "Призыв продвинутых конструктов"
             },
             {
                 "json": [
                     {
-                        "text": "Мне нужно будет установить"
+                        "text": "Для модификации и призыва продвинутых/более мощных конструктов мне потребуется установить"
                     },
                     {
                         "color": "blue",
-                        "text": " конструкторскую стойку"
+                        "text": " портал конструктов"
                     },
                     {
                         "text": " и несколько"
@@ -52,53 +52,53 @@
                         "text": " химеритовых кристаллов"
                     },
                     {
-                        "text": ", чтобы модифицировать и призывать более мощные конструкты. Это позволит мне наделить конструкта "
+                        "text": ". Эта установка позволит мне внедрить в конструкт различные "
                     },
                     {
                         "color": "blue",
-                        "text": "афинитетами"
+                        "text": "аффинитеты"
                     },
                     {
-                        "text": ", что даст ему "
+                        "text": ", что "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "дополнительные очки к характеристикам"
+                        "text": "дополнительно усилит его характеристики"
                     },
                     {
                         "text": "."
                     }
                 ],
                 "type": "text",
-                "value": "Вам нужно будет установить конструкторскую стойку и несколько химеритовых кристаллов, чтобы модифицировать и призывать более мощные конструкторы. Это позволит наделить конструкта афинитетами, что даст ему дополнительные бонусы к характеристикам."
+                "value": "Для модификации и призыва продвинутых/более мощных конструктов вам потребуется установить портал конструктов и несколько химеритовых кристаллов. Эта установка позволит вам внедрить в конструкт различные аффиннитеты, что дополнительно усилит его характеристики."
             },
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Установка конструкторской стойки"
+                "value": "Установка портала конструктов"
             },
             {
                 "json": [
                     {
-                        "text": "Требования для "
+                        "text": "Требования к "
                     },
                     {
                         "color": "blue",
-                        "text": "конструкторской стойки"
+                        "text": "порталу конструктов"
                     },
                     {
-                        "text": " довольно гибкие. Мне понадобится сама стойка и всего "
+                        "text": " достаточно гибкие. Мне понадобится сам портал и в общей сложности "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "8 химеритовых кристаллов в радиусе 5 блоков"
+                        "text": "8 химеритовых кристаллов в пределах 5 блоков"
                     },
                     {
                         "text": " от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это неважно."
                     }
                 ],
                 "type": "text",
-                "value": "Требования для конструкторской стойки довольно гибкие. Вам понадобится сама стойка и всего 8 химеритовых кристаллов в радиусе 5 блоков от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это не важно."
+                "value": "Требования для портала конструктов достатоточно гибкие. Вам понадобится сам портал и в общей сложности 8 химеритовых кристаллов в радиусе 5 блоков от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это неважно."
             },
             {
                 "height": 54,
@@ -114,25 +114,25 @@
             {
                 "json": [
                     {
-                        "text": "Когда у меня будет установлен верстак и изготовлены детали, мне нужно будет выбрать, какие "
+                        "text": "После того, как я поставлю верстак и подготовлю все детали, мне нужно будет выбрать, какие "
                     },
                     {
                         "color": "blue",
-                        "text": "affinities "
+                        "text": "аффинитеты "
                     },
                     {
-                        "text": "я хочу внедрить в конструкта. \n\nКаждый "
+                        "text": "я хочу внедрить в конструкт. \n\nКаждый "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "афинитет изменяет характеристики конструкта"
+                        "text": "афинитет изменяет его характеристики"
                     },
                     {
-                        "text": ". Я могу установить афинитет, накладывая заклинания с данным афинитетом на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны непосредственно целиться в кристаллы, поэтому заклинания с каналом, области действия и заклинания на себя не подойдут. \n\nЕсли всё получилось, над кристаллом появится сигил, указывающий на афинитет. \n\nКогда все пять частей конструкта будут на рабочем столе и 8 афинитетов установлены, мне нужно будет активировать верстак пустой рукой, чтобы начать процесс создания. \n\nПосле завершения внедрения афинитетов я смогу управлять своим конструктом."
+                        "text": ". Я могу установить афинитет, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. \n\nКогда всё получится, над кристаллом появится сигил, указывающий на афинитет. \n\nКогда все пять частей конструкта будут на верстаке и 8 афинитетов будут установлены, мне нужно будет активировать верстак пустой рукой, чтобы начать процесс создания. \n\nПосле завершения внедрения я смогу начать командовать своим конструктом."
                     }
                 ],
                 "type": "text",
-                "value": "После того как вы подготовите верстак и создадите все необходимые части, вам нужно будет выбрать, какими аффинитетами вы хотите наделить конструкцию. Каждый аффинитет изменяет характеристики конструкции. Вы устанавливаете аффинитет, накладывая заклинания данного аффинитета на каждый из 8 близлежащих химеритовых кристаллов. Заклинания должны непосредственно нацелиться на кристаллы, поэтому такие заклинания, как, например, канальные, области поражения (AoE) и заклинания, применяющиеся на себя, не будут работать. Когда вы это сделаете, над кристаллом появится сигил, указывающий на аффинитет. Разместите все пять частей конструкции на верстаке и активируйте сам верстак пустой рукой, чтобы начать процесс создания. Как только зачарование будет завершено, вы сможете начать управлять своей конструкцией."
+                "value": "После того, как вы установите верстак и подготовите все детали, вам нужно будет выбрать, какие аффинитеты вы хотите внедрить в конструкт. Каждый аффинитет изменяет его характеристики. Вы можете установить аффинитеты, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. Когда всё получится, над кристаллом появится сигил, указывающий на аффинитет. Поместите все пять частей конструкта на верстак и активируйте его пустой рукой, чтобы начать процесс создания. После завершения внедрения вы сможете начать командовать своим конструктом."
             },
             {
                 "newPage": true,
@@ -142,18 +142,18 @@
             {
                 "json": [
                     {
-                        "text": "Конструкт может иметь в общей сложности "
+                        "text": "Конструкт может иметь всего "
                     },
                     {
                         "color": "dark_purple",
                         "text": "8 очков аффинитета"
                     },
                     {
-                        "text": ". Ниже перечислены"
+                        "text": ". Ниже приведены"
                     },
                     {
                         "color": "dark_purple",
-                        "text": " эффекты каждого очка"
+                        "text": " эффекты на каждое очко"
                     },
                     {
                         "text": " аффинитета. "
@@ -163,11 +163,11 @@
                         "text": "Я могу свободно комбинировать"
                     },
                     {
-                        "text": " их, чтобы компенсировать слабые стороны материалов или усилить их сильные стороны. \n\nКонфликтующие аффинитеты внутри конструкта не имеют значения.\n\nКаждое очко аффинитета также даёт конструкту ограниченный иммунитет к типам урона, связанным с этим аффинитетом, поглощая 1—2 сердца урона за каждое очко при атаке."
+                        "text": " их, чтобы компенсировать слабости материала или усилить его сильные стороны. \n\nКонфликтующие аффинитеты внутри конструкта не имеют значения.\n\nТакже каждое очко аффинитета даёт конструкту ограниченный иммунитет к соответствующим типам повреждений, позволяя ему поглощать 1—2 сердца урона на каждое очко при атаке."
                     }
                 ],
                 "type": "text",
-                "value": "Как уже упоминалось, конструкты призываются с аффинитетом. Это влияет на их действия. Конструкт может иметь в общей сложности 8 очков аффинитета. Ниже приведён список эффектов каждого очка аффинитета. Вы можете свободно их комбинировать, чтобы компенсировать слабые стороны используемого материала или усилить его сильные стороны. Конфликтующие аффинитеты внутри конструкта не имеют значения."
+                "value": "Как уже упоминалось, конструкты призываются с аффинитетом. Это влияет на их способности. Конструкт может иметь всего 8 очков аффинитета. Ниже приведены эффекты на каждое очко аффинитета. Вы можете свободно комбинировать их, чтобы компенсировать слабости материала или усилить его сильные стороны. Конфликтующие аффинитеты внутри конструкта не имеют значения."
             },
             {
                 "json": [
@@ -176,42 +176,42 @@
                         "text": "Воздух"
                     },
                     {
-                        "text": ": Увеличение скорости передвижения, +0,25 отбрасывание за очко, +1 дальний урон за 2 очка, устойчивость к кинетическим повреждениям\n"
+                        "text": ": Увеличение скорости передвижения, +0,25 отбрасывания за очко, +1 урон от дистанционных атак за 2 очка, устойчивость к кинетическому урону.\n"
                     },
                     {
                         "color": "blue",
                         "text": "Тайны"
                     },
                     {
-                        "text": ": Увеличение маны на 25% за каждое очко, сопротивление магическому урону \n"
+                        "text": ": Увеличение запаса маны на 25% за очко, устойчивость к магическому урону.\n"
                     },
                     {
                         "color": "blue",
                         "text": "Земля"
                     },
                     {
-                        "text": ": +1 к физическому урону за каждые 2 очка, +1 к броне за очко, +1 к стойкости за каждые 2 очка, сопротивление физическому урону \n"
+                        "text": ": +1 к физическому урону за 2 очка, +1 к броне за очко, +1 к прочности за 2 очка, устойчивость к физическому урону.\n"
                     },
                     {
                         "color": "blue",
                         "text": "Эндер"
                     },
                     {
-                        "text": ": +1 к грузоподъёмности за очко для каждой руки, сопротивление урону пустоты или драконьему дыханию \n"
+                        "text": ": +1 к грузоподъёмности на каждую руку за очко, устойчивость к урону от пустоты/драконьего дыхания.\n"
                     },
                     {
                         "color": "blue",
                         "text": "Огонь"
                     },
                     {
-                        "text": ": 1 секунда поджигания за очко при атаке, сопротивление огню, лаве, взрывам и молниям \n"
+                        "text": ": 1 секунда поджигания при атаке за очко, устойчивость к огню/лаве/взрывам/молниям.\n"
                     },
                     {
                         "color": "blue",
                         "text": "Вода"
                     },
                     {
-                        "text": ": +5 к плавучести за очко, +4 к восприятию за очко, +10% к ёмкости жидкости за очко, атаки замедляют цели, сопротивление к замерзанию и утоплению"
+                        "text": ": +5 к плавучести/очко, +4 к восприятию/очко, +10% к объёму жидкости/очко, атаки замедляют цели, устойчивость к холоду/утоплению."
                     }
                 ],
                 "type": "text",
@@ -225,7 +225,7 @@
                 "json": [
                     {
                         "color": "dark_purple",
-                        "text": "Конструкты могут плавать, если их плавучесть положительная"
+                        "text": "Конструкты могут плавать, если у них положительная плавучесть"
                     },
                     {
                         "text": ". Это определяется их материалами и аффинитетом. Я могу увидеть плавучесть конструкта, используя "
@@ -246,7 +246,7 @@
                     }
                 ],
                 "type": "text",
-                "value": "Конструкты могут плавать, если их плавучесть положительная. Это определяется их материалами и аффинитетом. Вы можете увидеть их плавучесть, используя команду диагностики на колоколе призыва."
+                "value": "Конструкты могут плавать, если у них положительная плавучесть. Это определяется их материалами и аффинитетом. Вы можете увидеть их плавучесть, используя команду диагностики на колоколе призыва."
             }
         ]
     },
@@ -256,86 +256,86 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Affinities"
+                "value": "Аффинитеты"
             },
             {
                 "json": [
                     {
-                        "text": "I've noticed that as wizards perform magic, they tend to align themselves with the elements of the spells they are casting.  There are six main ones, called "
+                        "text": "Я заметил, что при выполнении магии волшебники склонны настраиваться на элементы заклинаний, которые они колдуют.  Существует шесть основных, называемых "
                     },
                     {
                         "color": "blue",
-                        "text": "Affinities"
+                        "text": "аффинитетами"
                     },
                     {
-                        "text": ".  They are:\n\n"
-                    },
-                    {
-                        "color": "blue",
-                        "text": "Air"
-                    },
-                    {
-                        "text": ", which opposes "
+                        "text": ":\n\n"
                     },
                     {
                         "color": "blue",
-                        "text": "Earth"
+                        "text": "Воздух"
+                    },
+                    {
+                        "text": ", противоположный "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "земле"
                     },
                     {
                         "text": "\n"
                     },
                     {
                         "color": "blue",
-                        "text": "Water"
+                        "text": "Вода"
                     },
                     {
-                        "text": ", which opposes "
+                        "text": ", противоположная "
                     },
                     {
                         "color": "blue",
-                        "text": "Fire"
+                        "text": "огню"
                     },
                     {
                         "text": "\n"
                     },
                     {
                         "color": "blue",
-                        "text": "Ender"
+                        "text": "Эндер"
                     },
                     {
-                        "text": ", which opposes "
+                        "text": ", противоположный "
                     },
                     {
                         "color": "blue",
-                        "text": "Arcane"
+                        "text": "тайнам"
                     },
                     {
-                        "text": "\n\nEvery affinity seems to have an opposite, as I've noted above.  Wizards with higher affinities in a given element seems to be able to "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "cast their spells of the same element with greater ease"
-                    },
-                    {
-                        "text": ", and seem to be able to "
+                        "text": "\n\nКаждый аффинитет имеет противоположность, как я указал выше. Волшебники с высоким аффинитетом к определённому элементу могут"
                     },
                     {
                         "color": "dark_purple",
-                        "text": "memorize parts of the spell that share their affinity faster"
+                        "text": "легче исполнять заклинания этого элемента"
                     },
                     {
-                        "text": ".  However, they appear to have a "
+                        "text": " и быстрее "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "similar level of difficulty with elements that oppose their affinity"
+                        "text": "запоминать их части"
                     },
                     {
-                        "text": ".\n\nBalance in all things, I suppose."
+                        "text": ".  Однако они испытывают "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "аналогичные трудности с элементами, противоположными их аффинитету"
+                    },
+                    {
+                        "text": ".\n\nБаланс есть во всём, полагаю."
                     }
                 ],
                 "type": "text",
-                "value": "As you cast spells you will build up something called Affinities.  There are six affinities:  Air, Earth, Water, Fire, Ender, and Arcane.  Every affinity has an opposite.\n\nAir opposes Earth.\n\nWater opposes Fire.\n\nArcane opposes Ender.\n\nA higher affinity will give mana cost discounts on spells with the same affinity (up to 50% at max), and will also increase the mana cost of spells with an opposing affinity.\n\nLastly, you gain rote experience more quickly of components that share your affinity."
+                "value": "Когда вы исполняете заклинания, вы накапливаете так называемые аффинитеты. Существует шесть аффинитетов: воздух, земля, вода, огонь, эндер и тайны. Каждый аффинитет имеет противоположность.\n\nВоздух противоположен земле.\n\nВода противоположна огню.\n\nТайны противоположны эндеру.\n\nВысокий аффинитет уменьшает затраты маны на заклинания того же элемента (до 50% максимум) и увеличивает затраты маны на заклинания противоположного элемента.\n\nКроме того, вы быстрее набираете опыт использования компонентов, соответствующих вашему аффинитету."
             }
         ]
     },
@@ -351,7 +351,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Affinity Tinker Table"
+                "value": "Стол настройки аффинитета"
             },
             {
                 "json": [
@@ -360,31 +360,31 @@
                     },
                     {
                         "color": "blue",
-                        "text": "Affinity Tinker Table"
+                        "text": "Стол настройки аффинитета"
                     },
                     {
-                        "text": " allows me to use a moderate amount of "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "Eldrin Power"
-                    },
-                    {
-                        "text": " (supplied by a "
+                        "text": " позволяет мне использовать умеренное количество "
                     },
                     {
                         "color": "blue",
-                        "text": "Conduit"
+                        "text": "древней энергии"
                     },
                     {
-                        "text": " placed within range, about 6 blocks) to "
+                        "text": " (поставляемой "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "трубопроводом"
+                    },
+                    {
+                        "text": ", находящимся в радиусе около 6 блоков) "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "change the affinity of a spell"
+                        "text": "для изменения аффинитета заклинания"
                     },
                     {
-                        "text": " placed within the table to a new affinity of my choosing. \n\nThe Eldrin Power required matches the affinity I am attempting to change the spell to. In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively. \n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit. Once the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost. \n\nFor best results, I should leave the spell in the table until the process has completed."
+                        "text": ", помещённого в стол, на новый выбранный аффинитет. \n\nThe Eldrin Power required matches the affinity I am attempting to change the spell to. In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively. \n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit. Once the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost. \n\nFor best results, I should leave the spell in the table until the process has completed."
                     }
                 ],
                 "type": "text",
@@ -539,66 +539,6 @@
                 ],
                 "type": "text",
                 "value": "The Animated Quill doesn't do much on its own, but is used in several other recipes."
-            }
-        ]
-    },
-    "Пыль души": {
-        "category": "artifice",
-        "index": 1,
-        "related_recipes": [
-            {
-                "location": "mna:manaweaving/animus_dust",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Пыль души"
-            },
-            {
-                "json": [
-                    {
-                        "text": "This joyful, bouncing dust has been imbued with the very essence of life. \n\nSimply sprinkling it on basic "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "blocks will cause them to begin to move"
-                    },
-                    {
-                        "text": " and jump around for a short time before reverting back to their inanimate state. They even seem to "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "attack the monsters that come out in the night"
-                    },
-                    {
-                        "text": "! \n\nI wonder if I hang "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "Construct Parts"
-                    },
-                    {
-                        "text": " on an "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "Armor Stand"
-                    },
-                    {
-                        "text": " if it would "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "animate the construct"
-                    },
-                    {
-                        "text": "?  I bet it would."
-                    }
-                ],
-                "type": "text",
-                "value": "This joyful, bouncing dust has been imbued with the very essence of life.  Simply sprinkling it on basic blocks will cause them to begin to move and jump around for a short time before reverting back to their inanimate state.\n\nThey even seem to attack the monsters that come out in the night!\n\nI wonder if I could animate other things with it?"
             }
         ]
     },
@@ -15550,6 +15490,114 @@
             }
         ]
     },
+    "HUD": {
+        "category": "basics",
+        "index": 1,
+        "related_recipes": [],
+        "sections": [
+            {
+                "type": "title",
+                "value": "HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "The main hud is the mana bar. In this you will see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "badge with your level"
+                    },
+                    {
+                        "text": " in it, a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "main bar representing your mana"
+                    },
+                    {
+                        "text": ", and a"
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": " smaller bar below representing your magic XP"
+                    },
+                    {
+                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+                    }
+                ],
+                "type": "text",
+                "value": "The main hud is the mana bar.  In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+            },
+            {
+                "type": "title",
+                "value": "HUD Display Option"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "If you can't see your HUD, you've likely changed this option!"
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_options.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "HUD Position Option"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_position.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "json": [
+                    {
+                        "text": "If you see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "red drop with a lightning bolt"
+                    },
+                    {
+                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
+                    }
+                ],
+                "newPage": true,
+                "type": "text",
+                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
+            },
+            {
+                "height": 26,
+                "location": "mna:textures/guide/low_charge.png",
+                "newPage": true,
+                "type": "image",
+                "width": 22
+            }
+        ]
+    },
     "Healing Poultice": {
         "category": "artifice",
         "index": 1,
@@ -15743,59 +15791,6 @@
                 ],
                 "type": "text",
                 "value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
-            }
-        ]
-    },
-    "Как продвигаться": {
-        "category": "basics",
-        "index": 3,
-        "related_recipes": [
-            {
-                "location": "mna:occulus",
-                "type": "crafting"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Как продвигаться"
-            },
-            {
-                "json": [
-                    {
-                        "text": "The "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "occulus"
-                    },
-                    {
-                        "text": " is a block that will help guide you through this mod along with this book. \n\nIt will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked. \n\nTo see what you need to do in order to progress, click the progress tab. \n\nConsider the occulus a list of *"
-                    },
-                    {
-                        "color": "blue",
-                        "text": "what"
-                    },
-                    {
-                        "text": "* you need do to in order to progress, and this book instructions on *"
-                    },
-                    {
-                        "color": "blue",
-                        "text": "how"
-                    },
-                    {
-                        "text": "*. \n\n"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Remember this book has a search feature"
-                    },
-                    {
-                        "text": " to easily find things within it that you're looking for."
-                    }
-                ],
-                "type": "text",
-                "value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, click the progress tab.\n\nConsider the occulus a list of *what* you need do to in order to progress, and this book instructions on *how*.\n\nRemember this book has a search feature to easily find things within it that you're looking for."
             }
         ]
     },
@@ -18166,198 +18161,6 @@
                 ],
                 "type": "text",
                 "value": "This simple ring doesn't offer too much on its own, but the enchantment possibilities lend it significantly more use."
-            }
-        ]
-    },
-    "Новые крестьяне": {
-        "category": "basics",
-        "index": 4,
-        "related_recipes": [
-            {
-                "locations": [
-                    "mna:runeforge",
-                    "mna:runeforge_alt"
-                ],
-                "type": "crafting"
-            },
-            {
-                "location": "mna:runescribing/runescribing_table",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:manaweaving_altar",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:runeforge_alt",
-                "type": "crafting"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Новые крестьяне"
-            },
-            {
-                "json": [
-                    {
-                        "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Transmuted Silver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
-                    }
-                ],
-                "type": "text",
-                "value": "Mana and Artifice adds three new villager types to help you with resources and trade throughout your playthrough.  Each one specializes in a different area of the mod, and can be used to help progress or simply trade for fun and useful items.  They are not required to start nor progress through the mod, if villagers aren't your thing.  M&A villagers trade in both emeralds and Transmuted Silver, so be sure to stock up on both.\n\nAll villager types can spawn naturally in villages, or can be created per vanilla rules by using their specific job block."
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "Spellmongers"
-            },
-            {
-                "json": [
-                    {
-                        "color": "dark_purple",
-                        "text": "Spellmongers"
-                    },
-                    {
-                        "text": " sell useful "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "herbalist pouches"
-                    },
-                    {
-                        "text": " which contain random magical flowers, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "inks"
-                    },
-                    {
-                        "text": ", and "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "other common ingredients"
-                    },
-                    {
-                        "text": " I frequently need for spell crafting.  The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Spellmongers seem to require a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Runeforge"
-                    },
-                    {
-                        "text": " to do their job."
-                    }
-                ],
-                "type": "text",
-                "value": "Spellmongers sell useful herbalist pouches, inks, and other common ingredients you'll frequently need throughout the mod.  The Spellmonger's job block is the Runeforge."
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "Manaweavers"
-            },
-            {
-                "json": [
-                    {
-                        "color": "dark_purple",
-                        "text": "Manaweavers"
-                    },
-                    {
-                        "text": " sell useful "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "manaweaver pouches"
-                    },
-                    {
-                        "text": " which contain bottled manaweaves for quick use, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "foci"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "magical silks"
-                    },
-                    {
-                        "text": " and "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "teas "
-                    },
-                    {
-                        "text": "that help my mana regenerate faster. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Manaweavers seem to require a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Manaweaving Altar"
-                    },
-                    {
-                        "text": " to do their job."
-                    }
-                ],
-                "type": "text",
-                "value": "Manaweavers sell useful manaweaver pouches, foci, silks and tea.  The Manaweaver's job block is the Manaweaving Altar."
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "Runesmiths"
-            },
-            {
-                "json": [
-                    {
-                        "color": "dark_purple",
-                        "text": "Runesmiths"
-                    },
-                    {
-                        "text": " sell useful "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "inscription pouches"
-                    },
-                    {
-                        "text": " which contain various runes, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "runes of marking"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "other useful items for runesmithing and construct crafting."
-                    },
-                    {
-                        "text": " The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Runesmiths"
-                    },
-                    {
-                        "text": " seem to require a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Runescribing Table"
-                    },
-                    {
-                        "text": " to do their job."
-                    }
-                ],
-                "type": "text",
-                "value": "Runesmiths sell useful inscription pouches, runes of marking, and other useful items for runescribing and construct crafting.  The Runesmiths's job block is the Runescribing Table."
             }
         ]
     },
@@ -24075,114 +23878,6 @@
             }
         ]
     },
-    "HUD": {
-        "category": "basics",
-        "index": 1,
-        "related_recipes": [],
-        "sections": [
-            {
-                "type": "title",
-                "value": "HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "The main hud is the mana bar. In this you will see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "badge with your level"
-                    },
-                    {
-                        "text": " in it, a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "main bar representing your mana"
-                    },
-                    {
-                        "text": ", and a"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": " smaller bar below representing your magic XP"
-                    },
-                    {
-                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-                    }
-                ],
-                "type": "text",
-                "value": "The main hud is the mana bar.  In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-            },
-            {
-                "type": "title",
-                "value": "HUD Display Option"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "If you can't see your HUD, you've likely changed this option!"
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_options.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "HUD Position Option"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_position.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "json": [
-                    {
-                        "text": "If you see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "red drop with a lightning bolt"
-                    },
-                    {
-                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
-                    }
-                ],
-                "newPage": true,
-                "type": "text",
-                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
-            },
-            {
-                "height": 26,
-                "location": "mna:textures/guide/low_charge.png",
-                "newPage": true,
-                "type": "image",
-                "width": 22
-            }
-        ]
-    },
     "The Mastery Mechanic": {
         "category": "sorcery",
         "index": -89,
@@ -25574,5 +25269,310 @@
             }
         ]
     },
-    "version": "2.0.0.1"
+    "version": "2.0.0.1",
+    "Как продвигаться": {
+        "category": "basics",
+        "index": 3,
+        "related_recipes": [
+            {
+                "location": "mna:occulus",
+                "type": "crafting"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Как продвигаться"
+            },
+            {
+                "json": [
+                    {
+                        "text": "The "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "occulus"
+                    },
+                    {
+                        "text": " is a block that will help guide you through this mod along with this book. \n\nIt will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked. \n\nTo see what you need to do in order to progress, click the progress tab. \n\nConsider the occulus a list of *"
+                    },
+                    {
+                        "color": "blue",
+                        "text": "what"
+                    },
+                    {
+                        "text": "* you need do to in order to progress, and this book instructions on *"
+                    },
+                    {
+                        "color": "blue",
+                        "text": "how"
+                    },
+                    {
+                        "text": "*. \n\n"
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Remember this book has a search feature"
+                    },
+                    {
+                        "text": " to easily find things within it that you're looking for."
+                    }
+                ],
+                "type": "text",
+                "value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, click the progress tab.\n\nConsider the occulus a list of *what* you need do to in order to progress, and this book instructions on *how*.\n\nRemember this book has a search feature to easily find things within it that you're looking for."
+            }
+        ]
+    },
+    "Новые крестьяне": {
+        "category": "basics",
+        "index": 4,
+        "related_recipes": [
+            {
+                "locations": [
+                    "mna:runeforge",
+                    "mna:runeforge_alt"
+                ],
+                "type": "crafting"
+            },
+            {
+                "location": "mna:runescribing/runescribing_table",
+                "type": "crafting"
+            },
+            {
+                "location": "mna:manaweaving_altar",
+                "type": "crafting"
+            },
+            {
+                "location": "mna:runeforge_alt",
+                "type": "crafting"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Новые крестьяне"
+            },
+            {
+                "json": [
+                    {
+                        "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Transmuted Silver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
+                    }
+                ],
+                "type": "text",
+                "value": "Mana and Artifice adds three new villager types to help you with resources and trade throughout your playthrough.  Each one specializes in a different area of the mod, and can be used to help progress or simply trade for fun and useful items.  They are not required to start nor progress through the mod, if villagers aren't your thing.  M&A villagers trade in both emeralds and Transmuted Silver, so be sure to stock up on both.\n\nAll villager types can spawn naturally in villages, or can be created per vanilla rules by using their specific job block."
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "Spellmongers"
+            },
+            {
+                "json": [
+                    {
+                        "color": "dark_purple",
+                        "text": "Spellmongers"
+                    },
+                    {
+                        "text": " sell useful "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "herbalist pouches"
+                    },
+                    {
+                        "text": " which contain random magical flowers, "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "inks"
+                    },
+                    {
+                        "text": ", and "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "other common ingredients"
+                    },
+                    {
+                        "text": " I frequently need for spell crafting.  The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Spellmongers seem to require a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Runeforge"
+                    },
+                    {
+                        "text": " to do their job."
+                    }
+                ],
+                "type": "text",
+                "value": "Spellmongers sell useful herbalist pouches, inks, and other common ingredients you'll frequently need throughout the mod.  The Spellmonger's job block is the Runeforge."
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "Manaweavers"
+            },
+            {
+                "json": [
+                    {
+                        "color": "dark_purple",
+                        "text": "Manaweavers"
+                    },
+                    {
+                        "text": " sell useful "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "manaweaver pouches"
+                    },
+                    {
+                        "text": " which contain bottled manaweaves for quick use, "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "foci"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "magical silks"
+                    },
+                    {
+                        "text": " and "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "teas "
+                    },
+                    {
+                        "text": "that help my mana regenerate faster. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Manaweavers seem to require a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Manaweaving Altar"
+                    },
+                    {
+                        "text": " to do their job."
+                    }
+                ],
+                "type": "text",
+                "value": "Manaweavers sell useful manaweaver pouches, foci, silks and tea.  The Manaweaver's job block is the Manaweaving Altar."
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "Runesmiths"
+            },
+            {
+                "json": [
+                    {
+                        "color": "dark_purple",
+                        "text": "Runesmiths"
+                    },
+                    {
+                        "text": " sell useful "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "inscription pouches"
+                    },
+                    {
+                        "text": " which contain various runes, "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "runes of marking"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "other useful items for runesmithing and construct crafting."
+                    },
+                    {
+                        "text": " The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Runesmiths"
+                    },
+                    {
+                        "text": " seem to require a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Runescribing Table"
+                    },
+                    {
+                        "text": " to do their job."
+                    }
+                ],
+                "type": "text",
+                "value": "Runesmiths sell useful inscription pouches, runes of marking, and other useful items for runescribing and construct crafting.  The Runesmiths's job block is the Runescribing Table."
+            }
+        ]
+    },
+    "Пыль души": {
+        "category": "artifice",
+        "index": 1,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/animus_dust",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Пыль души"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This joyful, bouncing dust has been imbued with the very essence of life. \n\nSimply sprinkling it on basic "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "blocks will cause them to begin to move"
+                    },
+                    {
+                        "text": " and jump around for a short time before reverting back to their inanimate state. They even seem to "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "attack the monsters that come out in the night"
+                    },
+                    {
+                        "text": "! \n\nI wonder if I hang "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Construct Parts"
+                    },
+                    {
+                        "text": " on an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Armor Stand"
+                    },
+                    {
+                        "text": " if it would "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "animate the construct"
+                    },
+                    {
+                        "text": "?  I bet it would."
+                    }
+                ],
+                "type": "text",
+                "value": "This joyful, bouncing dust has been imbued with the very essence of life.  Simply sprinkling it on basic blocks will cause them to begin to move and jump around for a short time before reverting back to their inanimate state.\n\nThey even seem to attack the monsters that come out in the night!\n\nI wonder if I could animate other things with it?"
+            }
+        ]
+    }
 }
