@@ -932,11 +932,11 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"While there are no types of veins that are extremely rare, you're likely to struggle with finding at least one of the less common vein types. This isn't really avoidable."
+				"Хоть здесь и не так много типов очень редких жил, вы, наверняка, столкнётесь с трудностями в поиске хотя бы одной из менее распространённых типов жил. "
 				""
-				"[\"You will accumulate a lot of \",{\"text\":\"Monicoins\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" from quest turn-ins while playing monifactory. Do not be hesitant to spend them on things you need!\"]"
+				"[\"В процессе прохождения Монифактори у вас скопится много \",{\"text\":\"Монимонет\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" как награда за квесты. Не стесняйтесь тратить их на то, что нужно!\"]"
 				""
-				"[\"Search for various ores (generally the first one listed in \",{\"text\":\"EMI\",\"color\":\"aqua\"},\") to find the coin recipes for them. Alternatively, hover your cursor over a coin and press \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Recipe\\\" in keybind option\"}},\" to see what you can buy with it.\"]"
+				"[\"Что бы узнать рецепт за монеты нужной руды , ищите её в \",{\"text\":\"EMI\",\"color\":\"aqua\"},\" (Как правило она попадается первая). Либо наведите курсор на монету и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Показать рецепт\\\" в настройках управления\"}},\" что бы понять что можно купить.\"]"
 			]
 			hide_dependency_lines: true
 			icon: "kubejs:moni_dollar"
@@ -952,7 +952,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Don't be a hoarder!"
+			subtitle: "Не будь скрягой!"
 			tasks: [
 				{
 					id: "7275E7D7E7F140B8"
@@ -1096,17 +1096,17 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&b&lEMI&r is the list of all items that you see every time you open your inventory. It's the better(tm) recipe book that shows you all available items and recipes in the modpack. Note that &b&lEMI&r is based on &b&lJEI&r, and people tend to use the names interchangably."
+				"&b&lEMI&r - это лист всех предметов на боковой панели инвентаря. Это улучшенная(tm) книга рецептов, которая показывает все возможные предметы и рецепты в сборке. &b&lEMI&r основан на &b&lJEI&r и люди используют эти имена как взаимозаменяемо."
 				""
-				"To see it in action, pull up a quest that requires an item of some sort and just click the item!"
+				"Что бы увидеть его в действии, откройте любой квест, который требует какой-нибудь предмет, и просто нажмите на него!"
 				""
-				"[\"If you want to know how to craft an item, just hover your mouse over it and press \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Recipe\\\" in keybind option\"}},\". EMI will list all available recipes.\"]"
+				"[\"Если нужно узнать, как его сделать, наведитесь на предмет курсором и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Показать рецепты\\\" в настройках управления\"}},\". EMI покажет все возможные рецепты.\"]"
 				""
-				"[\"If you instead want to know what recipes use an item, hover over it and press \",{\"keybind\":\"key.jei.showUses\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"\",\"contents\":\"\\\"Show Uses\\\" in keybind option\"}},\".\"]"
+				"[\"Если же нужно узнать, где этот предмет используется, наведитесь на него и нажмите \",{\"keybind\":\"key.jei.showUses\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"\",\"contents\":\"\\\"Показать применения\\\" в настройках управления\"}},\".\"]"
 				""
-				"[\"Hover over an item and press \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Add/Remove Bookmark\\\" in keybind option\"}},\" to bookmark it. To remove a bookmarked item from the list, press \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Add/Remove Bookmark\\\" in keybind option\"}},\" on the bookmark.\"]"
+				"[\"Наведитесь на предмет и нажмите \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Добавить/Убрать в избранное\\\" в настройках управления\"}},\" что бы добавить предмет (или рецепт) в избранное. Повторное нажатие убирает предмет (или рецепт) из списка.\"]"
 				""
-				"[\"One of the remarkable features of EMI is that it's also capable of helping you with recipes, covered more in \", {\"text\": \"this\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"58566C7BF4C22D86\" } },\" quest.\"]"
+				"[\"Одна из примечательных функций EMI — его возможность помогать с рецептами. Более детальное объяснение в \", {\"text\": \"этом\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"58566C7BF4C22D86\" } },\" квесте.\"]"
 			]
 			disable_toast: true
 			icon: "ftbquests:book"
@@ -1325,11 +1325,11 @@
 				"1A30472430354F1E"
 			]
 			description: [
-				"&rThe &3Steam Dynamos&r&r&r you have made are generating &aRF power&r, but &bGregTech&r machines require &aEU power&r. With your first &6circuit&r in hand, you are ready to build a &eLow Voltage (LV) &3&2Energy Converter&r."
+				"&3Паровая динамо&r вырабатывает энергию &aРТ&r, но машины &bGregTech&r требуют энергию &aЕЭ&r. С первой &6электросхемой&r в руках вы готовы создать &2преобразователь энергии &eНизкого Напряжения (НН)&r"
 				""
-				"The &2Energy Converter&r is a special device that &econverts &2between &aRF power&r and &aEU power&r. They come in &2four sizes: 1A, 4A, 8A, and 16A."
+				"&2Преобразователь энергии&r - особое устройство способное &eконвертировать&r между &aэнергией РТ&r и &aэнергией ЕЭ&r. У него четыре варианта: 1А, 4А, 8А и 16А."
 				""
-				"&aRF&r converts into &aEU&r at a &e4 to 1 ratio&r. &a100 RF&r becomes &a25 EU&r, and vice-versa. &2Use a Soft Hammer to change the conversion direction."
+				"&aРТ&r конвертируется в &aЕЭ&r в отношении &e4 к 1&r. &a100 РТ&r преобразуется в &a25 ЕЭ&r и наоборот. &2Используйте киянку, что бы изменить направление преобразования."
 			]
 			icon: "gtceu:lv_4a_energy_converter"
 			id: "297B523B6C503957"
@@ -1368,7 +1368,7 @@
 				title: "Любой преобразователь низкого напряжения"
 				type: "item"
 			}]
-			title: "LV Power"
+			title: "Энергия Низкого Напряжения"
 			x: -1.0d
 			y: 11.5d
 		}
@@ -1590,31 +1590,34 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&6Gregtech&r adds a decent bit of extra crafting to the earlygame. Thankfully, &bEMI&r has some tools to help make your life &9&lMUCH&r easier when doing all this crafting."
+				"&6Gregtech&r добавляет довольно приличное количество рецептов в начало игры. К счастью, в &bEMI&r есть некоторые полезные иструменты &9ЗНАЧИТЕЛЬНО&r упрощающие всё касательно крафтов."
 				""
-				"[\"On the topic of crafting, if you are not already familiar with how \", {\"text\": \"recipe viewers\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" like EMI or JEI, read that quest first.\"]"
+				"[\"К теме о крафтах: если вы не знакомы с \", {\"text\": \"обозревателями рецептов\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" такие как EMI или JEI, то прочтите этот квест.\"]"
 				""
-				"When looking a recipe in EMI, you've likely noticed 3 buttons that appear on each recipe, being &c[❤]&r, &a[┴]&r, and &9[+]&r."
+				"[\"К теме о крафтах: если вы не знакомы с обозревателями рецептов такие как EMI или JEI, то прочтите \", {\"text\": \"этот квест.\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\"\"]"
 				""
-				"Let's start with &9[+]&r, as it's the simplest: right-click a crafting table, look up the recipe you need and press the &9[+]&r button: if you have all required items for the recipe, this will put them all into the crafting table for you."
+				"При осмотре рецепта в EMI вы, скорее всего, заметили эти 3 кнопки возле каждого рецепта: &c[❤]&r, &a[┴]&r, and &9[+]&r."
 				""
-				"&c[❤]&r and &a[┴]&r are used in tandem to create &arecipe trees&r. Pressing &a[┴]&r will pull up a &arecipe tree&r for that given item. Pressing &c[❤]&r on a recipe will mark it as the &cdefault recipe&r for that item, and will show that recipe (and the items used to craft it) in &arecipe trees&r. You can then add &cdefault recipes&r for the items used to craft that recipe, repeat ad nauseam. Note that you can click on a item in the &arecipe tree&r and it's recipes will be pulled up."
+				"Начнём с простого &9[+]&r: откройте верстак, найдите нужный рецепт и нажмите кнопку &9[+]&r: если у вас есть все нужные ингредиенты для этого рецепта, то она разложит их в верстак за вас."
+				""
+				"&c[❤]&r и &a[┴]&r используются в сочетании в &aдереве рецептов&r. Нажатие &a[┴]&r откроет окно &aдерева рецептов&r данного предмета. Нажатие &c[❤]&r отмечает рецепт как &cстандартный рецепт&r для данного предмета и он будет отображаться (и все его ингредиенты) в &aдереве рецептов&r. Затем, вы можете добавить &cстандартный рецепт&r для этих ингредиентов, и так пока не надоест. Заметьте, что вы можете нажать на предмет в &aдереве рецептов&r и открыть его рецепт."
+				""
 				"{@pagebreak}"
-				"In the &arecipe tree&r GUI, you can change the batch size by scrolling on the number to the right of the final result. Finally, and most importantly, you can press the &6Magnifying Glass&r to switch to &6Crafting Tree Mode&r, this will &edisplay the items that you need for every step to craft the number of items that you specified&r in your sidebar, and will dynamically update as you craft items. You can click on these &6Synethic Favorites&r with your Craft to Inventory bind (unbinded by default) to &eautomatically craft and then push items back into your inventory&r when using a crafting table, or push the exact number of items needed if using a different inventory.&r"
+				"В интерфейсе &aдерева рецептов&r колёсиком мыши можно изменять число создаваемой партии, правее от финального результата. Наконец, самое важное, вы можете нажать на &6увеличительное стекло&r что бы переключится &6режим дерева создания&r. Он будет &eпоказывать необходимые предметы для каждого шага крафта нужного количества заданного предмета&r в боковой панели и динамически обновляться в течение создания. На эти &6мнимые избранные&r предметы можно нажать клавишой «Создать в инвентарь» (не назначено по умолчанию), что бы &eавтоматически создать и отправить результат обратно в инвентарь&r при работе с верстаком, или выложить точное число сырья при работе с другим инвентарём.&r"
 				""
-				"Also note that EMI will commit &cdefault recipes&r to memory, meaning that as you save more and more recipes, EMI will remember them all, and will automatically use them when you pull up a &arecipe tree&r for any given item. Also, you can change the &cdefault recipe&r for an item, and EMI will automatically update the &arecipe tree&r as well. You can also click the &a[┴]&r button found in the bottom left of your screen and it will pull up the &arecipe tree&r GUI as well."
+				"Так же заметьте, что EMI сохраняет &cстандартные рецепты&r в память, означая что можно сохранять всё больше и больше рецептов - EMI запомнит их все и будет автоматически использовать их каждый раз, когда вы откроете &aдерево рецептов&r для любого предмета. Кстати, изменив &cстандартный рецепт&r для предмета, EMI изменит его в &aдереве рецептов&r. В левом нижнем углу экрана есть клавиша &a[┴]&r, которая открывает интерфейс последнего &aдерева рецептов&r."
 			]
 			disable_toast: true
 			icon: "gtceu:crafting_table_cover"
 			id: "58566C7BF4C22D86"
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "Better than any crafting calculator."
+			subtitle: "Лучше любого калькулятора рецептов"
 			tasks: [{
 				id: "3768A707E0489471"
 				type: "checkmark"
 			}]
-			title: "&9Recipe Trees and Crafting Trees"
+			title: "&9Древо рецептов и создания"
 			x: -1.0d
 			y: 2.5d
 		}
@@ -2118,9 +2121,9 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"Although most &ealloys&f require an &3Alloy Smelter&f, some alloys can be made simply by mixing the correct metal dusts together. "
+				"Многие &eсплавы&f требуют особую &3печь для сплавов&f, но некоторые могут быть сделаны просто смешав вместе нужную металлическую пыль."
 				""
-				"&9Steel is one of these alloys, being made by mixing wrought iron dust with coal dust or charcoal dust&r. &2Steel forms the basis of LV Machine Hulls&r, and allows you to make &6Belt Pouches&r, for upgrading your &eTool Belt&r."
+				"&9Сталь - один из таких сплавов, создаваемый из смеси пыли кованного железа с пылью каменного или древесного угля. &2Сталь составляет основу корпусов машин НН&r и позволяет создать &6поясной мешочек&r для улучшения &eпояса инструментов&r."
 			]
 			hide_dependency_lines: true
 			id: "17312BF0197B87A8"
@@ -2136,7 +2139,7 @@
 				item: "gtceu:steel_ingot"
 				type: "item"
 			}]
-			title: "&9Steel"
+			title: "&9Сталь"
 			x: 2.5d
 			y: 11.5d
 		}
