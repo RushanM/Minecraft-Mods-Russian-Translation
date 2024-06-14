@@ -279,7 +279,7 @@
                     },
                     {
                         "color": "blue",
-                        "text": "земле"
+                        "text": "земле."
                     },
                     {
                         "text": "\n"
@@ -293,7 +293,7 @@
                     },
                     {
                         "color": "blue",
-                        "text": "огню"
+                        "text": "огню."
                     },
                     {
                         "text": "\n"
@@ -307,10 +307,10 @@
                     },
                     {
                         "color": "blue",
-                        "text": "тайнам"
+                        "text": "тайнам."
                     },
                     {
-                        "text": "\n\nКаждый аффинитет имеет противоположность, как я указал выше. Волшебники с высоким аффинитетом к определённому элементу могут"
+                        "text": "\n\nКаждый аффинитет имеет противоположность, как я указал выше. Волшебники с высоким аффинитетом к определённому элементу могут "
                     },
                     {
                         "color": "dark_purple",
@@ -324,7 +324,7 @@
                         "text": "запоминать их части"
                     },
                     {
-                        "text": ".  Однако они испытывают "
+                        "text": ". Однако они испытывают "
                     },
                     {
                         "color": "dark_purple",
@@ -356,7 +356,7 @@
             {
                 "json": [
                     {
-                        "text": "The "
+                        "text": ""
                     },
                     {
                         "color": "blue",
@@ -377,11 +377,11 @@
                         "text": "трубопроводом"
                     },
                     {
-                        "text": ", находящимся в радиусе около 6 блоков) "
+                        "text": ", находящимся в радиусе около 6 блоков) для "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "для изменения аффинитета заклинания"
+                        "text": "изменения аффинитета заклинания"
                     },
                     {
                         "text": ", помещённого в стол, на новый выбранный аффинитет. \n\nThe Eldrin Power required matches the affinity I am attempting to change the spell to. In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively. \n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit. Once the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost. \n\nFor best results, I should leave the spell in the table until the process has completed."
