@@ -26,15 +26,15 @@
 		{
 			dependencies: ["715BC5C7DAC53B7B"]
 			description: [
-				"A &3Simulation Chamber&r from &bHostile Neural Networks&r (&bHNN&r) allows you to farm mobs in a totally environmentally (and server) friendly way!"
+				"&3Камера симуляции&r из мода &bHostile Neural Networks&r позволяет фармить мобов экологически (и с минимальной нагрузкой на сервер) безопасным способом!"
 				""
-				"Simulated mobs can even be used to provide you with many of the basic resources you'll need (such as &6iron, gold, tin, copper, diamonds&r and many more!), through pristine matter."
+				"Симулированные мобы могут даже обеспечить вас множеством основных ресурсов, которые вам понадобятся (таких как &6железо, золото, олово, медь, алмазы&r и многие другие!), через чистое вещество."
 				""
-				"Setting up HNN automation during the early game is &avery important&r as it gives you access to infinite quantities of many resources!"
+				"Настройка автоматизации Hostile Neural Networks на ранних этапах игры &aочень важна&r, так как это даёт вам доступ к бесконечным количествам различных ресурсов!"
 				""
-				"HNN changes machines, making them no longer sided, so you can input and output from any side, as well as allowing them to be controlled by redstone."
+				"Hostile Neural Networks изменяет машины, делая их независимыми от сторон, так что вы можете вводить и выводить ресурсы с любой стороны блока, а также управлять ими с помощью редстоуна."
 				""
-				"Yes, you can also use it for generating power... &owith Diamonds."
+				"Да, вы также можете использовать это для генерации энергии… &oс использованием алмазов."
 			]
 			disable_toast: true
 			id: "05B3758B509861B8"
@@ -44,7 +44,7 @@
 				item: "hostilenetworks:sim_chamber"
 				type: "item"
 			}]
-			title: "Simulating Mobs"
+			title: "Симулирование мобов"
 			x: -1.5d
 			y: -3.5d
 		}
@@ -54,11 +54,11 @@
 				"6A914B240E1A7BCB"
 			]
 			description: [
-				"Simulating mob kills will occasionally result in &6Pristine Matter&r of that mob's type."
+				"Симуляция убийств мобов время от времени будет приводить к получению &6чистого вещества&r соответствующего типа моба."
 				""
-				"Putting Pristine matter into a &3Loot Fabricator&r will allow you to obtain one of various items related to that mob."
+				"Помещение чистого вещества в &3фабрикатор добычи&r позволит вам получить один из различных предметов, связанных с этим мобом."
 				""
-				"Much like &3Simulation Chambers&r, Loot Fabricators are &asided&r, accepting input from &athe top side&r and allowing extraction from &aall sides except the top&r."
+				"Подобно &3камерам симуляции&r, фабрикаторы добычи &aне зависят от стороны&r, принимая ввод с &aверхней стороны&r и позволяя извлечение со &aвсех сторон, кроме верхней&r."
 			]
 			id: "0006FEA1843FEA0A"
 			rewards: [{
@@ -78,11 +78,11 @@
 		{
 			dependencies: ["73C1AB31431B5C11"]
 			description: [
-				"The &6Numismatic Dynamo&r is the main source of power through the Mid Game of the pack."
+				"&6Нумизматическая динамо&r является основным источником энергии в середине игры."
 				""
-				"Paired with a self-sustaining &bDeep Mob Evolution&r setup, this dynamo can burn through &6Diamonds&r to produce large amounts of &eRF power&r."
+				"В сочетании с самоподдерживающейся установкой &bDeep Mob Evolution&r, эта динамо может расходовать &6алмазы&r для производства большого количества &eэнергии РТ&r."
 				""
-				"Just like other &bThermal Expansion&r dynamos, the &6Numismatic Dynamo&r can be given tier upgrades to produce more power and gain access to more &aAugment Slots&r."
+				"Подобно другим динамо из &bThermal Expansion&r, &6нумизматическая динамо&r может быть улучшена, чтобы производить больше энергии и получать доступ к большему количеству &aслотов для усилений&r."
 			]
 			id: "6FDF37EE046349F7"
 			rewards: [{
@@ -96,7 +96,7 @@
 				item: "thermal:dynamo_numismatic"
 				type: "item"
 			}]
-			title: "Numismatic Power"
+			title: "Нумизматическая энергия"
 			x: 3.5d
 			y: -1.0d
 		}
