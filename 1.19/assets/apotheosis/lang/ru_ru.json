@@ -38,7 +38,7 @@
 	"affix.apotheosis:damage_chain.name": "Цепной урон — (%s)",
 	"affix.apotheosis:fire_damage.name": "Урон огнём — (%s)",
 	"affix.apotheosis:life_steal.name": "Поглощение здоровья — (%s%%)",
-	"affix.apotheosis:loot_pinata.name": "Вещевая пиньята из цели — (%s%%)",
+	"affix.apotheosis:loot_pinata.name": "Пиньята с добычей из цели — (%s%%)",
 	
 	"affix.apotheosis:piercing.name": "Пронзание",
 	"affix.apotheosis:max_crit.name": "Максимальный шанс критического удара",

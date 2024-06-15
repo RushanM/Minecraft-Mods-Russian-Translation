@@ -195,7 +195,7 @@
 Если вы установите [DynamicPack](https://modrinth.com/mod/dynamicpack), русификатор всегда будет обновляться до последней редакции и вам не нужно будет следить за тем, когда выйдет новая.
 
 ## 📛 Способствовали разработке
-* [**Дефлекта**](https://github.com/RushanM): 97% переводов
+* [**Дефлекта**](https://github.com/RushanM): Большая часть переводов
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский моды 
 * * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
 * * [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
@@ -207,7 +207,8 @@
 * * [Chat Heads](https://modrinth.com/mod/chat-heads)
 * * [AppleSkin](https://modrinth.com/mod/appleskin)
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
-* [**SillyAsriel**](https://github.com/SillyAsriel): Перевёл некоторые квесты Monifactory
+* [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
+* [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
 ## ✉️ Контакты
