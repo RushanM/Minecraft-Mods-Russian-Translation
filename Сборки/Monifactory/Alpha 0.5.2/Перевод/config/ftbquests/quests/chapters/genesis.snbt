@@ -1451,11 +1451,11 @@
 		{
 			dependencies: ["2FA9404468E4BBD9"]
 			description: [
-				"&6Batteries&r are &bGregTech &rpower storage for &aEU&r energy."
+				"&6Батареи&r - это энергохранилище &aЕЭ&r в &bGregTech&r."
 				""
-				"Although there are several types of rechargeable batteries you can make, &2Lithium Batteries&r are the best ones, and the only ones you should really consider making."
+				"Существует несколько типов многоразовых батарей, но &2литиевые батареи&r самые лучшие и рекомендуется стремиться делать только их."
 				""
-				"&6Lithium&r is possible to find inside of &6Tungsten&r veins, however, they are fairly rare. Consider \"buying\" some Lithium with &9Monicoins&r."
+				"&6Литий&r можно встретить вкраплениями в жиле &6вольфрама&r, однако она довольно редкая. Рассмотрите вариант «покупки» немного лития за &9Монимонеты&r."
 			]
 			id: "077AA27F26B7831F"
 			rewards: [{
@@ -1590,11 +1590,9 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&6Gregtech&r добавляет довольно приличное количество рецептов в начало игры. К счастью, в &bEMI&r есть некоторые полезные иструменты &9ЗНАЧИТЕЛЬНО&r упрощающие всё касательно крафтов."
+				"&6Gregtech&r добавляет довольно приличное количество рецептов в начало игры. К счастью, в &bEMI&r есть некоторые полезные иструменты &9ЗНАЧИТЕЛЬНО&r упрощающие всё касательно рецептов."
 				""
-				"[\"К теме о крафтах: если вы не знакомы с \", {\"text\": \"обозревателями рецептов\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" такие как EMI или JEI, то прочтите этот квест.\"]"
-				""
-				"[\"К теме о крафтах: если вы не знакомы с обозревателями рецептов такие как EMI или JEI, то прочтите \", {\"text\": \"этот квест.\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\"\"]"
+				"[\"К теме о рецептах: если вы не знакомы с обозревателями рецептов такие как EMI или JEI, то прочтите \", {\"text\": \"этот квест.\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\"\"]"
 				""
 				"При осмотре рецепта в EMI вы, скорее всего, заметили эти 3 кнопки возле каждого рецепта: &c[❤]&r, &a[┴]&r, and &9[+]&r."
 				""
@@ -1679,6 +1677,12 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
+				"У &n&9Monifactory&r&r есть официальный Discord сервер наряду с другими проектами Pansmith'а и является источником полезных ресурсов от сообщества."
+				""
+				"На сервере можно найти схемы и гайды, которые помогут вам на различных этапах сборки. Всё это можно найти на сервере через умницу-бота. Объявления и новости о разработки находятся в канале &nMoni-News&r. Сообщество так же помогает с вопросами технической поддержки и разбирается в отчётах возможных багов."
+				""
+				"При желании вы всегда можете..."
+				""
 				"&n&9Monifactory&r&r shares an official Discord server with Pansmith's other projects, which serves as a useful community resource."
 				""
 				"On the server, there are flowcharts and guides to help you with many parts of the pack accessable via the server's helpful bot, development announcements and more are available in the &nMoni-News&r channel, and the community helps with tech support questions, and investigates possible bug reports."
@@ -1694,7 +1698,7 @@
 			icon: "minecraft:writable_book"
 			id: "70026930847E8EC0"
 			optional: true
-			subtitle: "чё за ультранизкий, низкий напряги? скушать-то я их могу?"
+			subtitle: "Что такое «Напряжение» и с чем его едят?"
 			tasks: [{
 				id: "1278CD7DD38F751A"
 				type: "checkmark"
@@ -1930,9 +1934,9 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"[\"The \",{\"text\":\"Progression tab\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to go to the chapter\"}},\" was added so you can keep track of the important bits of the pack.\"]"
+				"[\"Вкладка \",{\"text\":\"«Продвижение»\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Нажмите, что бы перейти к главе\"}},\" добавлена для визуализации важных частей сборки.\"]"
 				""
-				"Circuits are the baseline of the entire Monifactory progression, so keep climbing!"
+				"Электросхемы - основа всего прогресса Monifactory, так что вперёд — к успеху!"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1943,7 +1947,7 @@
 				id: "3378D5EF8B48960E"
 				type: "checkmark"
 			}]
-			title: "Progression Tab"
+			title: "Вкладка продвижение"
 			x: -10.0d
 			y: 5.5d
 		}
@@ -1969,7 +1973,7 @@
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["[\"This pack has \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\", allowing for quick, customizable, and easy sorting of any inventory! The keybind is \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Sort Player Inventory\\\" in keybind option\"}}]"]
+			description: ["[\"В этой сборке установлен \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\". Он быстрый, настраиваемый и лёгок в использпользовании для сортировки любого инвентаря. Горячая клавиша — \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Сортировка инвентаря игрока\\\" в настройках управления\"}}]"]
 			disable_toast: true
 			hide_dependency_lines: true
 			icon: "minecraft:chest"

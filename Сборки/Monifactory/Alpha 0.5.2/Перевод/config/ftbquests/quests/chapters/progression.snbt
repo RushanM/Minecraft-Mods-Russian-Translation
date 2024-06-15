@@ -1736,11 +1736,11 @@
 			dependencies: ["7FA0E6F3B466576C"]
 			dependency_requirement: "one_completed"
 			description: [
-				"A \"&esubstrate&f\" is the \"board\" part of a circuit board... the backing that the circuit components and wires are laid into. A good substrate needs to not conduct electricity, for obvious reasons. &6Wood&r coated in &6Sticky Resin&r is a primitive but effective material to use as your first substrate."
+				"«&eПодложка&f» — это «плата» печатной платы... Пластина, на которой соединяются компоненты электронной смехы и провода. Хорошая подложка должна не проводить ток по понятным причинам. &6Дерево&r, покрытое &6смолой&r, — примитивный, но эффективный материал для первых подложек."
 				""
-				"&2CEu circuit progression means you also have to put wires on your substrates for them to be usable. In this case, use some Fine Copper Wires.&r"
+				"&2Прогрессия микросхем CEU означает что необходимо добавить провода к подложке, чтобы от неё была польза. В данном случае используйте тонкую медную проволоку.&r"
 				""
-				"You'll also need to make &6Vacuum Tubes&f, as well as some primitive &6Resistors&r. &6Paper&r will work as a material for these, for now."
+				"Также, вам нужно будет сделать &6вакуумные лампы&f и примитивные &6резисторы&r. Пока что &6бумага&r — подходящий для этого материал."
 			]
 			disable_toast: true
 			icon: "gtceu:resistor"
@@ -1765,7 +1765,7 @@
 					type: "item"
 				}
 			]
-			title: "&2Electronics Subcomponents"
+			title: "&2Электронные составляющие"
 			x: -6.5d
 			y: -8.5d
 		}
@@ -1778,9 +1778,9 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"&9This is where &bEMI&9 really shines! Using it alongside &3Crafting Stations&9, you should be able to easily calculate the amount of raw resources and intermediate components you'll need to &ebatch craft &9electronic circuits quickly."
+				"&9Вот здесь-то &bEMI&9 раскрывает свой потенциал! Используя его наряду с &3ремесленной станцией&9 вы сможете запросто расчитать количество сырья и промежуточных компонетов, необходимых для быстрого создания электросхем &eпартиями&9"
 				""
-				"You'll be making a LOT&r of circuits, so take advantage of the improved crafting efficiency."
+				"Вам понадобится МНОГО&r электросхем, так что пользуйтесь преимуществами эффективности с &bEMI&9"
 			]
 			icon: "gtceu:basic_electronic_circuit"
 			id: "1A30472430354F1E"
