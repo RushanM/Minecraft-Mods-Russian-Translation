@@ -1,6 +1,6 @@
 {
 	default_hide_dependency_lines: false
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 	filename: "fun_with_fusion"
 	group: ""
 	icon: "gtceu:luv_fusion_reactor"
@@ -35,6 +35,7 @@
 		{
 			id: "042267F47AE0C415"
 			linked_quest: "69034B168B5134ED"
+			shape: "square"
 			x: -4.0d
 			y: -9.5d
 		}
@@ -46,11 +47,11 @@
 				"0508D3CCB6C876A3"
 			]
 			description: [
-				"&2A strong heavy element obtained from the Naquadah chain."
+				"&2Мощный и тяжёлый элемент, получаемый согласно цепочке наквады."
 				""
-				"&6Trinium&r can come from &6Kaemanite Ore&r, but you will probably want to bolster its production with &6Naquadah Dust&r processing. It comes out at the second stage, so if you don't mind storing the intermediates and have Fluorine under control, you can hold off doing the full chain if you don't need to yet. You get &91 Trinium per 6 Naquadah processed&r."
+				"&6Триний&r можно получить из &6каеманитовой руды&r, но, скорее всего, вы захотите увеличить его производство с помощью переработки &6наквадовой пыли&r. Он появляется на втором этапе, так что если вас не беспокоит хранение промежуточных продуктов и у вас под контролем фтор, вы можете отложить выполнение всей цепочки, если в этом нет необходимости. Вы получаете &91 триний с каждых 6 обработанных наквад&r."
 				""
-				"This will be required in large quantities for &6Trinium Coils&r, &6Superconducting Coil Blocks&r, &6Naquadah Alloy&r, among other things. You will need 14 stacks at least for a &3Fusion Reactor Mk1&r, so stock up on it."
+				"Этот элемент потребуется в больших количествах для создания &6триниевых катушек&r, &6сверхпроводящих блоков катушек&r, &6наквадавого сплава&r и других вещей. Для сборки &3термоядерного реактора модели 1&r вам потребуется, по крайней мере, 14 стаков, так что подумайте о его запасах."
 			]
 			id: "57627DCF9F46A8E2"
 			size: 1.0d
@@ -59,7 +60,7 @@
 				item: "gtceu:trinium_ingot"
 				type: "item"
 			}]
-			title: "&2Trinium"
+			title: "&2Триний"
 			x: -4.0d
 			y: -5.0d
 		}
@@ -73,6 +74,7 @@
 				item: "kubejs:moni_dollar"
 				type: "item"
 			}]
+			shape: "square"
 			tasks: [
 				{
 					id: "5CA6A3EE3EF632F5"
@@ -422,6 +424,7 @@
 				""
 				"First, set up your 150 &6Fission Reactor Casings&r to encase a 5x5x5 cube shape of empty air. Any of these reactor casings can be changed to &6Transparent Fission Reactor Casings&r. The Casings should only cover the faces of the interior cube, not the edges or corners. You should have exactly the right number of Casings to encase a 5x5x5 space."
 				""
+				"{@pagebreak}"
 				"Next, create a hole so you can get inside the cube. Place the &6Reactor Cells&r in an alternating pattern, with the reactor cells at the corners, and spaces between each one. Alternate between each row, creating a grid pattern. Fill in the &6Cryotheum Coolers&r between, in the empty holes. Do this for every layer, alternating between &6Cryotheum Coolers&r on the corners and &6Reactor Cells&r on the corners. You should have the perfect amount of &6Reactor Cells&r and &6Cryotheum Coolers&r for this, and the third and final layers should be the same as the first one. The reactor will now be complete when you reseal it up with the Casings you removed to access the interior."
 				""
 				"Finally, place the &3Fission Reactor Controller&r along any edge or corner of the reactor. Opening the Reactor Controller GUI should let you know that the structure was properly formed; if not, go back and check what you did wrong."
