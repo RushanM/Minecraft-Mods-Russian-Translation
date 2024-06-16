@@ -1677,12 +1677,6 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"У &n&9Monifactory&r&r есть официальный Discord сервер наряду с другими проектами Pansmith'а и является источником полезных ресурсов от сообщества."
-				""
-				"На сервере можно найти схемы и гайды, которые помогут вам на различных этапах сборки. Всё это можно найти на сервере через умницу-бота. Объявления и новости о разработки находятся в канале &nMoni-News&r. Сообщество так же помогает с вопросами технической поддержки и разбирается в отчётах возможных багов."
-				""
-				"При желании вы всегда можете..."
-				""
 				"&n&9Monifactory&r&r shares an official Discord server with Pansmith's other projects, which serves as a useful community resource."
 				""
 				"On the server, there are flowcharts and guides to help you with many parts of the pack accessable via the server's helpful bot, development announcements and more are available in the &nMoni-News&r channel, and the community helps with tech support questions, and investigates possible bug reports."
@@ -1947,7 +1941,7 @@
 				id: "3378D5EF8B48960E"
 				type: "checkmark"
 			}]
-			title: "Вкладка продвижение"
+			title: "Вкладка прогресса"
 			x: -10.0d
 			y: 5.5d
 		}
@@ -1967,7 +1961,7 @@
 				id: "4BEDF2126C896A50"
 				type: "checkmark"
 			}]
-			title: "&2Processing Lines Tab"
+			title: "&2Вкладка линии обработки"
 			x: -11.5d
 			y: 7.0d
 		}
