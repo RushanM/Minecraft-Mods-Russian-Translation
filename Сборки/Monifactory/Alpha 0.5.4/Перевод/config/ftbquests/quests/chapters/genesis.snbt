@@ -1056,7 +1056,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Перед тем как продолжить, нужно раздобыть побольше некоторых ресурсов."
+			subtitle: "Перед тем как продолжить, нужно раздобыть побольше некоторых ресурсов"
 			tasks: [
 				{
 					count: 76L
@@ -1137,7 +1137,7 @@
 			icon: "minecraft:tnt"
 			id: "6A7A480FAC6103D2"
 			optional: true
-			subtitle: "You might be wondering what chunkloading options there are in the pack."
+			subtitle: "You might be wondering what chunkloading options there are in the pack"
 			tasks: [{
 				id: "78BC5B51125B35BD"
 				title: "Claim your chunks !"
@@ -1230,7 +1230,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Основной уровень &aРТ&r энерготрубопроводов из &bEnder IO&r."
+			subtitle: "Основной уровень &aРТ&r энерготрубопроводов из &bEnder IO&r"
 			tasks: [{
 				id: "7D0E23630A562F6A"
 				item: "enderio:conductive_conduit"
@@ -1275,6 +1275,7 @@
 		{
 			dependencies: ["0FF18D13CD42F48A"]
 			description: [
+				""
 				"&6Паровая динамо&r будет вашим источником &9энергии&r в начале игры. Ей требуется &9вода&r и сжигаемое топливо вроде &6угля&r или &6сахарного тростника&r для выработки энергии."
 				""
 				"На динамо потребуется немного &6серебра&f. Если вы ещё не нашли &6жилу галены&f (в которой серебро), то задумайтесь над «покупкой» &6руды серебра&r за &9монимонеты&r. Вам не понадобится много серебра и свинца, так что это вас не разорит."
@@ -1488,7 +1489,7 @@
 			]
 			icon: "buildinggadgets2:gadget_building"
 			id: "5F9C7FB40AD2640B"
-			subtitle: "This pack has &bBuilding Gadgets&r."
+			subtitle: "This pack has &bBuilding Gadgets&r"
 			tasks: [
 				{
 					id: "449B547CDED79AE3"
@@ -1609,7 +1610,7 @@
 			id: "58566C7BF4C22D86"
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "Better than any crafting calculator."
+			subtitle: "Better than any crafting calculator"
 			tasks: [{
 				id: "3768A707E0489471"
 				type: "checkmark"

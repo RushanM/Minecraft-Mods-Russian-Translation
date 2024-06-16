@@ -2333,7 +2333,7 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "У меня уже заканчиваются каламбуры на тему MCU."
+			subtitle: "У меня уже заканчиваются каламбуры на тему MCU"
 			tasks: [{
 				id: "3240962B7D1154AF"
 				item: "better_angel_ring:angel_ring"
