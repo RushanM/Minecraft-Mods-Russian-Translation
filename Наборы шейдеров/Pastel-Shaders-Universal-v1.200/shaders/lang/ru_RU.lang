@@ -14,7 +14,7 @@ profile.BMEDIUM=§bБарвинок §7(§aсбалансированное ка
 profile.BQUALITY=§bБарвинок §7(§6качество§7)
 profile.BHQ=§bБарвинок §7(§5максимальное качество§7)
 
-# Жёлтые профили
+# Желтоватые профили
 profile.YVANILLAOH=§eLemon §7(§fVanilla§e+§7)
 profile.YLOW=§eLemon §7(§eLow§7)
 profile.YMEDIUM=§eLemon §7(§aBalanced§7)
@@ -22,163 +22,162 @@ profile.YQUALITY=§eLemon §7(§6Quality§7)
 profile.YHQ=§eLemon §7(§5Ultra§7)
 
 
-# DESCRIPTION
-profile.comment=§dPa§bst§eel§f Color Options:. • §dRose Quartz §7(Pink-ish). • §bPeriwinkle §7(Blue-ish). • §eLemon §7(Yellow-ish). §r. §m==================================================. §r. §eLow§f: Low shadows and effects, no reflections. §aBalanced§f: Medium shadows and some effects, with some reflections. §6Quality§f: High shadows with full effects and reflections. §5Ultra§f: Higher quality and sharper shadows.
+# Описание
+profile.comment=§dЦветовые опции §fПастельные:. • §dРозовый кварц §7(розоватый). • §bБарвинок §7(голубоватый). • §eЛимон §7(желтоватый). §r. §m==================================================. §r. §eНизкое качество§f: низкие тени и эффекты, без отражений. §aСбалансированное качество§f: средние тени и некоторые эффекты, с некоторыми отражениями. §6Высокое качество§f: высокие тени с полными эффектами и отражениями. §5Максимальное качество§f: лучшее качество и более чёткие тени.
 
 
 
 
-#Screens
-screen.LIGHTING=§0❏§r Shadows and Lighting
-screen.LIGHTING.comment=§eShadow quality. Ambient Occlusion. Desaturation. Dynamic Handlight. Toon Lightmap. White World.
-screen.ALTGLOWING=Glowing Config
+# Экраны
+screen.LIGHTING=§0❏§r Тени и освещение
+screen.LIGHTING.comment=§eКачество теней. Глобальное затемнение. Обесцвечивание. Динамическое освещение от руки. Тонированная карта освещения. Белый мир.
+screen.ALTGLOWING=Настройка свечения
 
-screen.MATERIAL=§e☼§r Material & Reflections
-screen.MATERIAL.comment=§d[!]§r Enable "Reflective Surfaces" if you are using a shader-ready resource pack with normal and specular mapping. §eReflections. Parallax. Emissive light.
-screen.SPECULAR=Specular & Reflections
-screen.NORMALS=Normals & Parallax
+screen.MATERIAL=§e☼§r Материалы и отражения
+screen.MATERIAL.comment=§d[!]§r Включите «Отражающие поверхности», если вы используете набор ресурсов, поддерживающий шейдеры с нормальными и зеркальными картами. §eОтражения. Параллакс. Эмиссивное свечение.
+screen.SPECULAR=Зеркальные и отражения
+screen.NORMALS=Нормали и параллакс
 
-screen.ATMOSPHERICS=§3☁§r Ambient Effects
-screen.ATMOSPHERICS.comment=§eClouds. Sky. Aurora. Sun and moon. Fog. Light Shafts. Weather.
-screen.SKY=Sky Config
-screen.CLOUDS=Cloud Config
+screen.ATMOSPHERICS=§3☁§r Атмосферные эффекты
+screen.ATMOSPHERICS.comment=§eОблака. Небо. Полярное сияние. Солнце и луна. Туман. Световые лучи. Погода.
+screen.SKY=Настройка неба
+screen.CLOUDS=Настройка облаков
 
-screen.WATER=§b🌊§r Water Quality
+screen.WATER=§b🌊§r Качество воды
 
-screen.POST_EFFECTS=§e▓§r Post-Processing
-screen.BLOOM=Bloom Config
+screen.POST_EFFECTS=§e▓§r Пост-обработка
+screen.BLOOM=Настройка свечения
 
-screen.CGT=§l▓§r Color Grading & Tonemap
-screen.COLOR_GRADING=Color Grading Config
-screen.CG_R=Red Channel
-screen.CG_G=Green Channel
-screen.CG_B=Blue Channel
-screen.CG_T=Tint
+screen.CGT=§l▓§r Цветокоррекция и оттенок
+screen.COLOR_GRADING=Настройка цветокоррекции
+screen.CG_R=Красный канал
+screen.CG_G=Зеленый канал
+screen.CG_B=Синий канал
+screen.CG_T=Оттенок
 
-screen.COLOR=§4⬤§2⬤§1⬤§r Coloring
-screen.LIGHT_COLOR=Lighting Color
-screen.LIGHT_M=Light (Morning)
-screen.AMBIENT_M=Ambient (Morning)
-screen.LIGHT_D=Light (Day)
-screen.AMBIENT_D=Ambient (Day)
-screen.LIGHT_E=Light (Evening)
-screen.AMBIENT_E=Ambient (Evening)
-screen.LIGHT_N=Light (Night)
-screen.AMBIENT_N=Ambient (Night)
-screen.MINLIGHT=Minimum Light
-screen.BLOCKLIGHT_COLOR=Blocklight Color
-screen.SKY_COLOR=Sky Color
-screen.WATER_COLOR=Water Color
-screen.WEATHER_COLOR=Weather Color
-screen.WEATHER_R=Rain (Normal)
-screen.WEATHER_C=Snowfall
-screen.WEATHER_D=Desert Sandstorm
-screen.WEATHER_B=Mesa Sandstorm
-screen.WEATHER_S=Swamp Rain
-screen.WEATHER_M=Mushroom Island Rain
-screen.WEATHER_V=Savanna Cloudy
-screen.AURORA_COLOR=Aurora Color
-screen.AURORA_L=Low Section Color
-screen.AURORA_H=High Section Color
-screen.DIMENSION_COLOR=Dimension Color
-screen.NETHER_COLOR=§cNether Color§r
-screen.NETHER_N=§cNether Wastes§r
-screen.NETHER_V=§3Soul Sand Valley§r
-screen.NETHER_C=§cCrimson Forest§r
-screen.NETHER_W=§3Warped Forest§r
-screen.NETHER_B=§7Basalt Deltas§r
-screen.END_COLOR=§dEnd Color§r
+screen.COLOR=§4⬤§2⬤§1⬤§r Окраска
+screen.LIGHT_COLOR=Цвет освещения
+screen.LIGHT_M=Свет (утро)
+screen.AMBIENT_M=Фоновое освещение (утро)
+screen.LIGHT_D=Свет (день)
+screen.AMBIENT_D=Фоновое освещение (день)
+screen.LIGHT_E=Свет (вечер)
+screen.AMBIENT_E=Фоновое освещение (вечер)
+screen.LIGHT_N=Свет (ночь)
+screen.AMBIENT_N=Фоновое освещение (ночь)
+screen.MINLIGHT=Минимальный свет
+screen.BLOCKLIGHT_COLOR=Цвет блочного освещения
+screen.SKY_COLOR=Цвет неба
+screen.WATER_COLOR=Цвет воды
+screen.WEATHER_COLOR=Цвет погоды
+screen.WEATHER_R=Дождь (нормально)
+screen.WEATHER_C=Снегопад
+screen.WEATHER_D=Песчаная буря (пустыня)
+screen.WEATHER_B=Песчаная буря (меса)
+screen.WEATHER_S=Дождь в болоте
+screen.WEATHER_M=Дождь на грибном острове
+screen.WEATHER_V=Облачно в саванне
+screen.AURORA_COLOR=Цвет полярного сияния
+screen.AURORA_L=Цвет нижнего слоя полярного сияния
+screen.AURORA_H=Цвет верхнего слоя полярного сияния
+screen.DIMENSION_COLOR=Цвет измерений
+screen.NETHER_COLOR=§cЦвет Незера§r
+screen.NETHER_N=§cНезерские пустоши§r
+screen.NETHER_V=§3Долина песка душ§r
+screen.NETHER_C=§cБагровый лес§r
+screen.NETHER_W=§3Искажённый лес§r
+screen.NETHER_B=§7Базальтовые дельты§r
+screen.END_COLOR=§dЦвет Энда§r
 
-screen.QUICKOPTIONS=§e✏ §f§lQuick Options§r
-screen.ADVANCEDOPTIONS=§e✏ §f§lAdvanced Options§r
-screen.NIGHTOPTIONS=§3§lNight Options§r
-screen.DAYOPTIONS=§6§lDay Options§r
-screen.FOGOPTIONS=§7§lFog Options§r
-screen.OTHEROPTIONS=§e§lGraphics Options§r
-screen.MISCLIGHTING=§b§lLighting Options§r
+screen.QUICKOPTIONS=§e✏ §f§lБыстрые настройки§r
+screen.ADVANCEDOPTIONS=§e✏ §f§lНастройки для продвинутых пользователей§r
+screen.NIGHTOPTIONS=§3§lНастройки ночи§r
+screen.DAYOPTIONS=§6§lНастройки дня§r
+screen.FOGOPTIONS=§7§lНастройки тумана§r
+screen.OTHEROPTIONS=§e§lНастройки графики§r
+screen.MISCLIGHTING=§b§lНастройки освещения§r
 
-screen.WORLD=§e⌛§r Animations & Curvature
-screen.WAVING=Block animations
-screen.CURVATURE=Curvature
+screen.WORLD=§e⌛§r Анимации и искривление
+screen.WAVING=Анимации блоков
+screen.CURVATURE=Искривление
 
-
-#Settings
-option.ABOUT=§d§lPa§b§lst§e§lel §f§lShaders§r §4♥§r
-option.ABOUT.comment=§dPastel Shaders§r is made with §4♥§r by §dElocinDev§r. Based off §eInsanity§r by §eElocinDev§r. §eInsanity§r is based off §eBSL Shaders§r, made by §eCapt Tatsu§r. §3§nwww.bitslablab.com
+# Настройки
+option.ABOUT=§d§lPastel Shaders§r §4♥§r
+option.ABOUT.comment=§dPastel Shaders§r созданы с §4♥§r от §dElocinDev§r. Основой является §eInsanity§r от §eElocinDev§r. §eInsanity§r основан на §eBSL Shaders§r, созданных §eCapt Tatsu§r. §3§nwww.bitslablab.com
 value.ABOUT.0=v1.200
 
-#Insanity Additions
-option.B_STRENGTH=§bBeacon Beam Strength§r
-value.B_STRENGTH.1.0=§7Dimmest
-value.B_STRENGTH.6.0=§7Kinda bloomy
-value.B_STRENGTH.12.0=§7Bloomy (Default)
-value.B_STRENGTH.15.0=§7Brightest
+# Добавления Insanity
+option.B_STRENGTH=§bСила луча маяка§r
+value.B_STRENGTH.1.0=§7Самый тусклый
+value.B_STRENGTH.6.0=§7Немного светящийся
+value.B_STRENGTH.12.0=§7Светящийся (по умолчанию)
+value.B_STRENGTH.15.0=§7Самый яркий
 
-option.SPIDER_STRENGTH=§cSpider Eye Glow§r
-option.SPIDER_STRENGTH.comment=§eDefines the strength of the glow in spider's eyes.
-value.SPIDER_STRENGTH.0.0=§7None
-value.SPIDER_STRENGTH.1.0=§7Very low
-value.SPIDER_STRENGTH.3.0=§7Low (Default)
-value.SPIDER_STRENGTH.4.5=§7Medium
-value.SPIDER_STRENGTH.6.5=§7High
-value.SPIDER_STRENGTH.8.0=§7Very high
-value.SPIDER_STRENGTH.11.0=§7Extreme
+option.SPIDER_STRENGTH=§cСияние глаз паука§r
+option.SPIDER_STRENGTH.comment=§eОпределяет силу свечения глаз паука.
+value.SPIDER_STRENGTH.0.0=§7Нет
+value.SPIDER_STRENGTH.1.0=§7Очень низкая
+value.SPIDER_STRENGTH.3.0=§7Низкая (по умолчанию)
+value.SPIDER_STRENGTH.4.5=§7Средняя
+value.SPIDER_STRENGTH.6.5=§7Высокая
+value.SPIDER_STRENGTH.8.0=§7Очень высокая
+value.SPIDER_STRENGTH.11.0=§7Максимальная
 
-#Lighting
-option.shadowMapResolution=Shadow Quality
-option.shadowMapResolution.comment=Adjusts shadowmap size. §e[*]§rHigher resolution gives sharper shadows, but reduces performance. §nBalanced shadows are recommended.
-value.shadowMapResolution.0=§4Shadowless§r
-value.shadowMapResolution.256=§cPotato §7(256)§r
-value.shadowMapResolution.512=Best Performance (512)
-value.shadowMapResolution.1024=Performance (1024)
-value.shadowMapResolution.2048=Balanced (2048)
-value.shadowMapResolution.3072=Cinematic (3072)
-value.shadowMapResolution.4096=Cinematic 4K (4096)
-value.shadowMapResolution.8192=Cinematic 8K (8192)
+# Освещение
+option.shadowMapResolution=Качество теней
+option.shadowMapResolution.comment=Регулирует размер карты теней. §e[]§rВысокое разрешение даёт более четкие тени, но снижает производительность. §nРекомендуется использовать сбалансированные тени.
+value.shadowMapResolution.0=§4Без теней§r
+value.shadowMapResolution.256=§cКартошка §7(256)§r
+value.shadowMapResolution.512=Лучшая производительность (512)
+value.shadowMapResolution.1024=Производительность (1024)
+value.shadowMapResolution.2048=Сбалансированное (2048)
+value.shadowMapResolution.3072=Кинематографическое (3072)
+value.shadowMapResolution.4096=Кинематографическое 4K (4096)
+value.shadowMapResolution.8192=Кинематографическое 8K (8192)
 
-option.shadowDistance=Shadow Distance
-option.shadowDistance.comment=Adsusts shadow distance.
+option.shadowDistance=Расстояние теней
+option.shadowDistance.comment=Регулирует расстояние теней.
 
-option.SHADOW_COLOR=Colored Shadow
-option.SHADOW_COLOR.comment=Enables tinted shadow from translucents. §a[+]§rUsed for colored volumetric light shafts. §c[-]§rSlightly higher performance cost when using shadow filtering.
+option.SHADOW_COLOR=Цветные тени
+option.SHADOW_COLOR.comment=Включает окрашенные тени от полупрозрачных объектов. §a[+]§rИспользуется для цветных объёмных световых лучей. §c[-]§rНемного увеличивает нагрузку на производительность при использовании фильтрации теней.
 
-option.SHADOW_FILTER=Shadow Filtering
-option.SHADOW_FILTER.comment=Enables shadow filtering. §a[+]§rThis effect benefits from TAA.
+option.SHADOW_FILTER=Фильтрация теней
+option.SHADOW_FILTER.comment=Включает фильтрацию теней. §a[+]§rЭтот эффект работает лучше с TAA.
 
-option.sunPathRotation=Sun Path Rotation
-option.sunPathRotation.comment=Adjusts sun angle.
+option.sunPathRotation=Вращение пути солнца
+option.sunPathRotation.comment=Регулирует угол солнца.
 
-option.SHADOW_PIXEL=Pixel Locked Shadows
-option.SHADOW_PIXEL.comment=Applies pixelation effect on shadows.
-value.SHADOW_PIXEL.0=OFF
+option.SHADOW_PIXEL=Пиксельные тени
+option.SHADOW_PIXEL.comment=Применяет эффект пикселизации к теням.
+value.SHADOW_PIXEL.0=Выкл.
 
-option.AO=Ambient Occlusion
-option.AO.comment=Adds soft shadows around surface contact or intersection.
+option.AO=Окружающее затенение
+option.AO.comment=Добавляет мягкие тени вокруг мест соприкосновения или пересечений поверхности.
 
-option.AO_STRENGTH=AO Strength
-option.AO_STRENGTH.comment=Adjusts ambient occlusion strength.
+option.AO_STRENGTH=Сила окружающего затенения
+option.AO_STRENGTH.comment=Регулирует силу окружающего затенения.
 
-option.DESATURATION=Desaturation
-option.DESATURATION.comment=Reduces saturation while adding some tint in darker areas.
+option.DESATURATION=Обесцвечивание
+option.DESATURATION.comment=Уменьшает насыщенность, добавляя оттенок в тёмные области.
 
-option.DESATURATION_FACTOR=Max Desaturation Factor
-option.DESATURATION_FACTOR.comment=Adjusts the maximum amount of desaturation applied.
-value.DESATURATION_FACTOR.2.0=Very Low
-value.DESATURATION_FACTOR.1.5=Low
-value.DESATURATION_FACTOR.1.0=Medium
-value.DESATURATION_FACTOR.0.5=High
-value.DESATURATION_FACTOR.0.0=Very High
+option.DESATURATION_FACTOR=Максимальный фактор обесцвечивания
+option.DESATURATION_FACTOR.comment=Регулирует максимальное количество применяемого обесцвечивания.
+value.DESATURATION_FACTOR.2.0=Очень низкий
+value.DESATURATION_FACTOR.1.5=Низкий
+value.DESATURATION_FACTOR.1.0=Средний
+value.DESATURATION_FACTOR.0.5=Высокий
+value.DESATURATION_FACTOR.0.0=Очень высокий
 
-option.DYNAMIC_HANDLIGHT=Dynamic Handlight
-option.DYNAMIC_HANDLIGHT.comment=Allows blocklight to be emitted from view when holding certain objects.
+option.DYNAMIC_HANDLIGHT=Динамическое освещение с руки
+option.DYNAMIC_HANDLIGHT.comment=Позволяет предметам в руке излучать блочное освещение.
 
-option.TOON_LIGHTMAP=Toon Lightmap
-option.TOON_LIGHTMAP.comment=Reduces the quality of vanilla lighting for cel shading. §e[*]§rThis option is known for making your game "look bad", only enable this when you need it.
+option.TOON_LIGHTMAP=Мультяшная карта освещения
+option.TOON_LIGHTMAP.comment=Уменьшает качество освещения для создания эффекта сел-шейдинга. §e[*]§rЭта опция известна тем, что «ухудшает» вид игры, включайте её только при необходимости.
 
-option.WHITE_WORLD=White World
-option.WHITE_WORLD.comment=Replaces textures with flat white color.
+option.WHITE_WORLD=Белый мир
+option.WHITE_WORLD.comment=Заменяет текстуры на однотонный белый цвет.
 
-#Material
+# Материалы
 option.ADVANCED_MATERIALS=§lReflective Surfaces§r
 option.ADVANCED_MATERIALS.comment=Enables the use of specular and normal mapping which allows for more detail on various things.  §e[*]§rThis option requires a resource pack which contains specular and/or normal maps, disable this if you don't use one. §e[*]§rOptions which requires Reflective Surfaces are indicated by *, changing these options won't affect the visuals or performance while Reflective Surfaces is disabled.
 
