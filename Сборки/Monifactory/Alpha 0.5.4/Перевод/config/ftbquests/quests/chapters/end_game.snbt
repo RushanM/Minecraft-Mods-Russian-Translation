@@ -2043,7 +2043,7 @@
 			description: ["As the name suggests, this catalyst is formed from exotic non-elemental materials and alloys."]
 			id: "67591B6025C03130"
 			size: 2.0d
-			subtitle: "A small appetizer, before the &9Omnium&r main course."
+			subtitle: "A small appetizer, before the &9Omnium&r main course"
 			tasks: [{
 				id: "4E828B100CB2362F"
 				item: "kubejs:exotic_materials_catalyst"
@@ -2151,7 +2151,7 @@
 			id: "281DE48E7260BC8E"
 			shape: "hexagon"
 			size: 3.0d
-			subtitle: "Как же МНОГО квестов привязано к этому."
+			subtitle: "Как же МНОГО квестов привязано к этому"
 			tasks: [{
 				count: 64L
 				id: "2930DDCAF43468A4"
@@ -2196,7 +2196,7 @@
 			id: "3171F83E24C8F740"
 			shape: "hexagon"
 			size: 1.0d
-			subtitle: "Воистину олицетворение всего проделанного вами труда."
+			subtitle: "Воистину олицетворение всего проделанного вами труда"
 			tasks: [{
 				count: 4L
 				id: "715AA1ECF4474085"
@@ -2263,7 +2263,7 @@
 			id: "6F9041F256F517A3"
 			shape: "hexagon"
 			size: 1.0d
-			subtitle: "No hypothetical aliens were harmed in the harvesting of this item."
+			subtitle: "No hypothetical aliens were harmed in the harvesting of this item"
 			tasks: [{
 				id: "34944C8F2D44E07E"
 				item: "kubejs:heart_of_a_universe"
@@ -3063,7 +3063,7 @@
 			y: 10.25d
 		}
 		{
-			description: ["This element exists but is not required for the Mote of Omnium."]
+			description: ["Этот элемент существует, но не требуется для частицы омния."]
 			disable_toast: true
 			icon: "enderio:painted_fence"
 			id: "4CF5155563E346BE"
@@ -3081,7 +3081,7 @@
 			y: 6.5d
 		}
 		{
-			description: ["This element exists but is not needed for the Mote of Omnium."]
+			description: ["Этот элемент существует, но не требуется для частицы омния."]
 			disable_toast: true
 			icon: "enderio:painted_fence"
 			id: "5D1DAC23C6B89AC3"
@@ -3099,7 +3099,7 @@
 			y: 5.0d
 		}
 		{
-			description: ["This element exists but is not needed for the Mote of Omnium."]
+			description: ["Этот элемент существует, но не требуется для частицы омния."]
 			disable_toast: true
 			icon: "enderio:painted_fence"
 			id: "2D788BE1CA9A2D69"
