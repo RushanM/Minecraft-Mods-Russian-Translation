@@ -21,7 +21,7 @@
 			description: [
 				"Эта сборка предназначена для игры в измерении &bзаброшенных городов/обычного мира&r."
 				""
-				"Если вы играете с друзьями, не забудьте пригласить их в &eкоманду FTB Teams&r."
+				"Если вы играете с друзьями, не забудьте пригласить их в &eкоманду FTB Teams&r. "
 				""
 				"Если вы хотите построить свою базу в мире скайблока, поставьте &6торт мира пустоты&r на землю и съешьте кусочек, чтобы попасть в пустоту. Обратите внимание, что вам всё равно придётся возвращаться в заброшенные город/обычный мир для добычи ресурсов, но вы можете в абсолютной сохранности свободно строить в &eмире пустоты&r."
 				"{@pagebreak}"
@@ -126,7 +126,7 @@
 			subtitle: "Добро пожаловать в Monifactory"
 			tasks: [{
 				id: "1FF132DED1748D11"
-				title: "Генезис №3"
+				title: "Третий «Генезис» на счету, хм?"
 				type: "checkmark"
 			}]
 			title: "&9Генезис"
@@ -174,7 +174,7 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bFunctional Storage&f предоставляет огромное количество места для хранения одного типа предметов. Используйте их для вещей, что у вас в изобилии, таких как камень, земля и руды."
+				"Мод &bFunctional Storage&f предоставляет огромное количество хранилищ одного типа предметов. Используйте их для вещей, что у вас в изобилии, таких как камень, земля и руды."
 				""
 				"&9Для простого украшения ящиков можно использовать шаблоны обрамления.&r"
 				""
@@ -271,7 +271,7 @@
 			description: [
 				"&aСерповидный молоток&r используется для работы с машинами из &bThermal Expansion&f, но также может быть использован для базовых операций с блоками из почти любого мода. &9Теперь он также может регулировать трубы из GregTech."
 				""
-				"&aЙета-ключ&r используется с машинами и проводами из &bEnderIO&f и имеет несколько специальных режимов отображения (&6прокручивайте колёсико мыши, пока крадётесь&f, чтобы переключаться между ними)."
+				"&aЙета-ключ&r используется с машинами и проводами из &bEnder IO&f и имеет несколько специальных режимов отображения (&6прокручивайте колёсико мыши, пока крадётесь&f, чтобы переключаться между ними)."
 				""
 				"&aКлюч GregTech&r используется для вращения машин из GregTech и перенастройки их выходных сторон. &2Теперь он также обладает некоторыми функциями других ключей.&r"
 				""
@@ -804,7 +804,7 @@
 				""
 				"На данный момент лучший материал для изготовления этих труб — это, вероятно, &6олово&r."
 				""
-				"Их преимущество перед &5предметными трубопроводами EnderIO&r — гораздо более высокая &6пропускная способность&r. Неулучшенные трубопроводы EnderIO транспортируют &98 предметов в секунду&r, и до &9128&r при улучшении. В сравнении, маленькие низкоуровневые предметные трубы могут передавать &964 предметов в секунду&r, а те, которые сделаны из более совершенных материалов, могут передавать &9несколько стаков в секунду&r."
+				"Их преимущество перед &5предметными трубопроводами Ender IO&r — гораздо более высокая &6пропускная способность&r. Неулучшенные трубопроводы EnderIO транспортируют &98 предметов в секунду&r, и до &9128&r при улучшении. В сравнении, маленькие низкоуровневые предметные трубы могут передавать &964 предметов в секунду&r, а те, которые сделаны из более совершенных материалов, могут передавать &9несколько стаков в секунду&r."
 				""
 				"Они не могут самостоятельно извлекать предметы, поэтому необходимо использовать &3конвейерные покрытия&r и т. п."
 				""
@@ -834,7 +834,7 @@
 			description: [
 				"&6Пояс для инструментов&r — это предмет, в котором можно хранить инструменты и легко меняться между ними! В настоящее время у него 2 слота, но позже, как только вы разблокируете &6сталь&r, вы сможете улучшить его до 9 слотов с помощью &6поясных сумок&r, используя &3наковальню&r и немного &aопыта&r!"
 				""
-				"Создайте пояс для инструментов, и вы сможете использовать клавишу (по умолчанию `R`), когда пояс находится в вашем инвентаре или в слотах для аксессуаров, &cи вы держите что-то в руках, или пояс не пустой&r, чтобы открыть его интерфейс. "
+				"Создайте пояс для инструментов, и вы сможете использовать клавишу (по умолчанию «R»), когда пояс находится в вашем инвентаре или в слотах для аксессуаров, &cи вы держите что-то в руках, или пояс не пустой&r, чтобы открыть его интерфейс. "
 				""
 				"Вы также можете нажать ПКМ, держа пояс, чтобы открыть его инвентарь."
 				"{@pagebreak}"
@@ -842,7 +842,7 @@
 				""
 				"Пояс для инструментов может хранить любые предметы с размером стака 1, такие как мечи, кирки, инструменты из &bGregTech&r, и &6терминал&r. В сборке он немного поднастроен: теперь позволяет хранить любые ключи от &bящиков для хранения&r, но &cне допускает рюкзак из Thermal&r."
 				""
-				"Теперь вы можете вешать и снимать предметы с пояса! Также можно использовать горячие клавиши `&eПрокрутить выбор инструмента налево&r` и `&eПрокрутить выбор инструмента направо&r`, пока вы в интерфейсе мода."
+				"Теперь вы можете вешать и снимать предметы с пояса! Также можно использовать горячие клавиши «&eПрокрутить выбор инструмента налево&r» и «&eПрокрутить выбор инструмента направо&r», пока вы в интерфейсе мода."
 			]
 			id: "1B86EF5A24286787"
 			rewards: [{
@@ -879,12 +879,12 @@
 				""
 				"Существуют также &6четверные и девятикратные трубы&r для транспортировки нескольких типов жидкостей через один и тот же блок."
 				""
-				"&6Гидротрубопроводы&r &bEnderIO&r тоже сгодятся. Их преимущество — это &6возможность&r размещаться в одном блоке вместе с другими &6трубопроводами&r."
+				"&6Гидротрубопроводы&r &bEnder IO&r тоже сгодятся. Их преимущество — это &6возможность&r размещаться в одном блоке вместе с другими &6трубопроводами&r."
 				""
 				"Позднее вы получите доступ к &9LaserIO&r, который жертвует некоторой скоростью ради возможности создания достаточно сложной и компактной фильтрации."
 				""
 				""
-				"&5Сейчас в разработке форк EnderIO, мы портируем фильтры и тому подобное. Если вы мододел и хотите внести вклад, дайте нам знать."
+				"&5Сейчас в разработке форк Ender IO, мы портируем фильтры и тому подобное. Если вы мододел и хотите внести вклад, дайте нам знать."
 			]
 			icon: "gtceu:steel_small_fluid_pipe"
 			id: "64AAF0CD958D836A"
@@ -917,7 +917,7 @@
 				""
 				"Там находятся квесты на сбор целых стаков разных элементов в игре. Это материалы, которые понадобятся вам для синтеза &5омния&r, основного ресурса для завершения игры. Это способ сборки дать вам понять, какие материалы необходимо подготовить в массовое производство ближе к концу игры."
 				""
-				"Конечно, совсем не обязательно и даже не рекомендуется пытаться выполнить все эти квесты в момент, когда они станут доступны. Некоторые будут невероятно лёгкими (например, &6железо&f или &6медь&f), другие же на ранних технологических этапах будут невыносимо трудоёмкими и требующими много времени на сбор. У всех награда одинаковая: &925 монимонет каждая&f, так что здраво оценивайте свои возможности: какие квесты можно выполнить сейчас, а какие лучше оставить на потом."
+				"Конечно, совсем не обязательно и даже не рекомендуется пытаться выполнить все эти квесты в момент, когда они станут доступны. Некоторые будут невероятно лёгкими (например, &6железо&f или &6медь&f), другие же на ранних технологических этапах будут невыносимо трудоёмкими и требующими много времени на сбор. За все награда одинаковая: &925 монимонет&f, так что здраво оценивайте свои возможности: какие квесты можно выполнить сейчас, а какие лучше оставить на потом."
 			]
 			icon: "kubejs:mote_of_omnium"
 			id: "0C173EF148EFEF8E"
@@ -932,11 +932,11 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"Хоть здесь и не так много типов очень редких жил, вы, наверняка, столкнётесь с трудностями в поиске хотя бы одной из менее распространённых типов жил. "
+				"While there are no types of veins that are extremely rare, you're likely to struggle with finding at least one of the less common vein types. This isn't really avoidable."
 				""
-				"[\"В процессе прохождения Монифактори у вас скопится много \",{\"text\":\"Монимонет\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" как награда за квесты. Не стесняйтесь тратить их на то, что нужно!\"]"
+				"[\"You will accumulate a lot of \",{\"text\":\"Monicoins\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" from quest turn-ins while playing monifactory. Do not be hesitant to spend them on things you need!\"]"
 				""
-				"[\"Что бы узнать рецепт за монеты нужной руды , ищите её в \",{\"text\":\"EMI\",\"color\":\"aqua\"},\" (Как правило она попадается первая). Либо наведите курсор на монету и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Показать рецепт\\\" в настройках управления\"}},\" что бы понять что можно купить.\"]"
+				"[\"Search for various ores (generally the first one listed in \",{\"text\":\"EMI\",\"color\":\"aqua\"},\") to find the coin recipes for them. Alternatively, hover your cursor over a coin and press \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Recipe\\\" in keybind option\"}},\" to see what you can buy with it.\"]"
 			]
 			hide_dependency_lines: true
 			icon: "kubejs:moni_dollar"
@@ -952,7 +952,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Не будь скрягой!"
+			subtitle: "Don't be a hoarder!"
 			tasks: [
 				{
 					id: "7275E7D7E7F140B8"
@@ -1037,7 +1037,7 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"&6Редстоун&f: Можно найти только в глубинах мира в массивных жилах наряду с &6киноварью&f и &6рубинами&f"
+				"&6Редстоун&f: Можно найти только в глубинах мира в массивных жилах наряду с &6киноварью&f и &6рубинами&f."
 				""
 				"&6Медь&f: Два основных источника. Жилы &6тетраэдрита&f формируются выше, ближе к поверхности, а жилы &6халькопирит&f — глубже, в сочитании с небольшим количеством &6железа&f. Можно ещё встретить &6малахит&f в жилах железа — это тоже тип медной руды."
 				""
@@ -1056,7 +1056,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Перед тем как продолжить, нужно раздобыть побольше некоторых ресурсов."
+			subtitle: "Перед тем как продолжить, нужно раздобыть побольше некоторых ресурсов"
 			tasks: [
 				{
 					count: 76L
@@ -1100,11 +1100,11 @@
 				""
 				"Чтобы увидеть его в деле, откройте задание, требующее какой-то предмет, и просто нажмите на этот предмет!"
 				""
-				"[\"Если хотите узнать, как создать предмет, наведите на него мышь и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\«Показать рецепт»\\ в настройках горячих клавиш\"}},\". EMI покажет все доступные рецепты.\"]"
+				"[\"Если хотите узнать, как создать предмет, наведите на него мышь и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"«Показать рецепт» в настройках горячих клавиш\"}},\". EMI покажет все доступные рецепты.\"]"
 				""
-				"[\"Если же вы хотите узнать, в каких рецептах задействован этот предмет, наведите на него и нажмите \",{\"keybind\":\"key.jei.showUses\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"\",\"contents\":\"\\«Показать применения»\\ в настройках горячих клавиш\"}},\".\"]"
+				"[\"Если же вы хотите узнать, в каких рецептах задействован этот предмет, наведите на него и нажмите \",{\"keybind\":\"key.jei.showUses\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"\",\"contents\":\"«Показать применения» в настройках горячих клавиш\"}},\".\"]"
 				""
-				"[\"Наведите на предмет и нажмите ",{"keybind":"key.jei.bookmark","color":"gold","bold":true,"underlined":true,"hoverEvent":{"action":"show_text","contents\":\"\\«Добавить в закладки/убрать из закладок»\\ в настройках горячих клавиш\"}},\" чтобы добавить его в закладки. Чтобы убрать предмет из закладок, нажмите ",{"keybind":"key.jei.bookmark","color":"gold","bold":true,"underlined":true,"hoverEvent":{"action":"show_text","contents\":\"\\«Добавить в закладки/убрать из закладок»\\ в настройках горячих клавиш\"}},\" на закладке.\"]"
+				"[\"Наведите на предмет и нажмите \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"«Добавить или убрать из закладок» в настройках горячих клавиш\"}},\" чтобы добавить его в закладки. Чтобы убрать предмет из закладок, нажмите \",{\"keybind\":\"key.jei.bookmark\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"«Добавить или убрать из закладок» в настройках горячих клавиш\"}},\" на закладке.\"]"
 				""
 				"[\"Одна из замечательных функций EMI заключается в том, что он также может помочь вам с рецептами, о чём подробнее рассказывается в \", {\"text\": \"этом\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"58566C7BF4C22D86\" } },\" квесте.\"]"
 			]
@@ -1137,7 +1137,7 @@
 			icon: "minecraft:tnt"
 			id: "6A7A480FAC6103D2"
 			optional: true
-			subtitle: "You might be wondering what chunkloading options there are in the pack."
+			subtitle: "You might be wondering what chunkloading options there are in the pack"
 			tasks: [{
 				id: "78BC5B51125B35BD"
 				title: "Claim your chunks !"
@@ -1230,13 +1230,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Основной уровень &aРТ&r энергопроводов из &bEnderIO&r."
+			subtitle: "Основной уровень &aРТ&r энерготрубопроводов из &bEnder IO&r"
 			tasks: [{
 				id: "7D0E23630A562F6A"
 				item: "enderio:conductive_conduit"
 				type: "item"
 			}]
-			title: "Энергопровод из проводящего железа"
+			title: "Энерготрубопровод из проводящего железа"
 			x: -1.0d
 			y: 8.75d
 		}
@@ -1275,6 +1275,7 @@
 		{
 			dependencies: ["0FF18D13CD42F48A"]
 			description: [
+				""
 				"&6Паровая динамо&r будет вашим источником &9энергии&r в начале игры. Ей требуется &9вода&r и сжигаемое топливо вроде &6угля&r или &6сахарного тростника&r для выработки энергии."
 				""
 				"На динамо потребуется немного &6серебра&f. Если вы ещё не нашли &6жилу галены&f (в которой серебро), то задумайтесь над «покупкой» &6руды серебра&r за &9монимонеты&r. Вам не понадобится много серебра и свинца, так что это вас не разорит."
@@ -1325,11 +1326,11 @@
 				"1A30472430354F1E"
 			]
 			description: [
-				"&3Паровая динамо&r вырабатывает энергию &aРТ&r, но машины &bGregTech&r требуют энергию &aЕЭ&r. С первой &6электросхемой&r в руках вы готовы создать &2преобразователь энергии &eНизкого Напряжения (НН)&r"
+				"&rThe &3Steam Dynamos&r&r&r you have made are generating &aRF power&r, but &bGregTech&r machines require &aEU power&r. With your first &6circuit&r in hand, you are ready to build a &eLow Voltage (LV) &3&2Energy Converter&r."
 				""
-				"&2Преобразователь энергии&r - особое устройство способное &eконвертировать&r между &aэнергией РТ&r и &aэнергией ЕЭ&r. У него четыре варианта: 1А, 4А, 8А и 16А."
+				"The &2Energy Converter&r is a special device that &econverts &2between &aRF power&r and &aEU power&r. They come in &2four sizes: 1A, 4A, 8A, and 16A."
 				""
-				"&aРТ&r конвертируется в &aЕЭ&r в отношении &e4 к 1&r. &a100 РТ&r преобразуется в &a25 ЕЭ&r и наоборот. &2Используйте киянку, что бы изменить направление преобразования."
+				"&aRF&r converts into &aEU&r at a &e4 to 1 ratio&r. &a100 RF&r becomes &a25 EU&r, and vice-versa. &2Use a Soft Hammer to change the conversion direction."
 			]
 			icon: "gtceu:lv_4a_energy_converter"
 			id: "297B523B6C503957"
@@ -1368,7 +1369,7 @@
 				title: "Любой преобразователь низкого напряжения"
 				type: "item"
 			}]
-			title: "Энергия Низкого Напряжения"
+			title: "LV Power"
 			x: -1.0d
 			y: 11.5d
 		}
@@ -1451,11 +1452,11 @@
 		{
 			dependencies: ["2FA9404468E4BBD9"]
 			description: [
-				"&6Батареи&r - это энергохранилище &aЕЭ&r в &bGregTech&r."
+				"&6Batteries&r are &bGregTech &rpower storage for &aEU&r energy."
 				""
-				"Существует несколько типов многоразовых батарей, но &2литиевые батареи&r самые лучшие и рекомендуется стремиться делать только их."
+				"Although there are several types of rechargeable batteries you can make, &2Lithium Batteries&r are the best ones, and the only ones you should really consider making."
 				""
-				"&6Литий&r можно встретить вкраплениями в жиле &6вольфрама&r, однако она довольно редкая. Рассмотрите вариант «покупки» немного лития за &9Монимонеты&r."
+				"&6Lithium&r is possible to find inside of &6Tungsten&r veins, however, they are fairly rare. Consider \"buying\" some Lithium with &9Monicoins&r."
 			]
 			id: "077AA27F26B7831F"
 			rewards: [{
@@ -1488,7 +1489,7 @@
 			]
 			icon: "buildinggadgets2:gadget_building"
 			id: "5F9C7FB40AD2640B"
-			subtitle: "This pack has &bBuilding Gadgets&r."
+			subtitle: "This pack has &bBuilding Gadgets&r"
 			tasks: [
 				{
 					id: "449B547CDED79AE3"
@@ -1535,7 +1536,7 @@
 			description: [
 				"It's probably a bit premature to consider a &6jetpack&r at this point, but if you really want to craft this bad boy, I won't stop you."
 				""
-				"There's also a quest chain for &bEnderIO&r Jetpacks (starting with the &6Conductive Iron Jetpack&r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying."
+				"There's also a quest chain for &bEnder IO&r Jetpacks (starting with the &6Conductive Iron Jetpack&r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying."
 			]
 			id: "7E66445087E82F65"
 			rewards: [{
@@ -1590,32 +1591,31 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&6Gregtech&r добавляет довольно приличное количество рецептов в начало игры. К счастью, в &bEMI&r есть некоторые полезные иструменты &9ЗНАЧИТЕЛЬНО&r упрощающие всё касательно рецептов."
+				"&6Gregtech&r adds a decent bit of extra crafting to the earlygame. Thankfully, &bEMI&r has some tools to help make your life &9&lMUCH&r easier when doing all this crafting."
 				""
-				"[\"К теме о рецептах: если вы не знакомы с обозревателями рецептов такие как EMI или JEI, то прочтите \", {\"text\": \"этот квест.\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\"\"]"
+				"[\"On the topic of crafting, if you are not already familiar with how \", {\"text\": \"recipe viewers\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" like EMI or JEI, read that quest first.\"]"
 				""
-				"При осмотре рецепта в EMI вы, скорее всего, заметили эти 3 кнопки возле каждого рецепта: &c[❤]&r, &a[┴]&r, and &9[+]&r."
+				"When looking a recipe in EMI, you've likely noticed 3 buttons that appear on each recipe, being &c[❤]&r, &a[┴]&r, and &9[+]&r."
 				""
-				"Начнём с простого &9[+]&r: откройте верстак, найдите нужный рецепт и нажмите кнопку &9[+]&r: если у вас есть все нужные ингредиенты для этого рецепта, то она разложит их в верстак за вас."
+				"Let's start with &9[+]&r, as it's the simplest: right-click a crafting table, look up the recipe you need and press the &9[+]&r button: if you have all required items for the recipe, this will put them all into the crafting table for you."
 				""
-				"&c[❤]&r и &a[┴]&r используются в сочетании в &aдереве рецептов&r. Нажатие &a[┴]&r откроет окно &aдерева рецептов&r данного предмета. Нажатие &c[❤]&r отмечает рецепт как &cстандартный рецепт&r для данного предмета и он будет отображаться (и все его ингредиенты) в &aдереве рецептов&r. Затем, вы можете добавить &cстандартный рецепт&r для этих ингредиентов, и так пока не надоест. Заметьте, что вы можете нажать на предмет в &aдереве рецептов&r и открыть его рецепт."
-				""
+				"&c[❤]&r and &a[┴]&r are used in tandem to create &arecipe trees&r. Pressing &a[┴]&r will pull up a &arecipe tree&r for that given item. Pressing &c[❤]&r on a recipe will mark it as the &cdefault recipe&r for that item, and will show that recipe (and the items used to craft it) in &arecipe trees&r. You can then add &cdefault recipes&r for the items used to craft that recipe, repeat ad nauseam. Note that you can click on a item in the &arecipe tree&r and it's recipes will be pulled up."
 				"{@pagebreak}"
-				"В интерфейсе &aдерева рецептов&r колёсиком мыши можно изменять число создаваемой партии, правее от финального результата. Наконец, самое важное, вы можете нажать на &6увеличительное стекло&r что бы переключится &6режим дерева создания&r. Он будет &eпоказывать необходимые предметы для каждого шага крафта нужного количества заданного предмета&r в боковой панели и динамически обновляться в течение создания. На эти &6мнимые избранные&r предметы можно нажать клавишой «Создать в инвентарь» (не назначено по умолчанию), что бы &eавтоматически создать и отправить результат обратно в инвентарь&r при работе с верстаком, или выложить точное число сырья при работе с другим инвентарём.&r"
+				"In the &arecipe tree&r GUI, you can change the batch size by scrolling on the number to the right of the final result. Finally, and most importantly, you can press the &6Magnifying Glass&r to switch to &6Crafting Tree Mode&r, this will &edisplay the items that you need for every step to craft the number of items that you specified&r in your sidebar, and will dynamically update as you craft items. You can click on these &6Synethic Favorites&r with your Craft to Inventory bind (unbinded by default) to &eautomatically craft and then push items back into your inventory&r when using a crafting table, or push the exact number of items needed if using a different inventory.&r"
 				""
-				"Так же заметьте, что EMI сохраняет &cстандартные рецепты&r в память, означая что можно сохранять всё больше и больше рецептов - EMI запомнит их все и будет автоматически использовать их каждый раз, когда вы откроете &aдерево рецептов&r для любого предмета. Кстати, изменив &cстандартный рецепт&r для предмета, EMI изменит его в &aдереве рецептов&r. В левом нижнем углу экрана есть клавиша &a[┴]&r, которая открывает интерфейс последнего &aдерева рецептов&r."
+				"Also note that EMI will commit &cdefault recipes&r to memory, meaning that as you save more and more recipes, EMI will remember them all, and will automatically use them when you pull up a &arecipe tree&r for any given item. Also, you can change the &cdefault recipe&r for an item, and EMI will automatically update the &arecipe tree&r as well. You can also click the &a[┴]&r button found in the bottom left of your screen and it will pull up the &arecipe tree&r GUI as well."
 			]
 			disable_toast: true
 			icon: "gtceu:crafting_table_cover"
 			id: "58566C7BF4C22D86"
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "Лучше любого калькулятора рецептов"
+			subtitle: "Better than any crafting calculator"
 			tasks: [{
 				id: "3768A707E0489471"
 				type: "checkmark"
 			}]
-			title: "&9Древо рецептов и создания"
+			title: "&9Recipe Trees and Crafting Trees"
 			x: -1.0d
 			y: 2.5d
 		}
@@ -1692,7 +1692,7 @@
 			icon: "minecraft:writable_book"
 			id: "70026930847E8EC0"
 			optional: true
-			subtitle: "Что такое «Напряжение» и с чем его едят?"
+			subtitle: "Что такое напряжение и с чем его едят"
 			tasks: [{
 				id: "1278CD7DD38F751A"
 				type: "checkmark"
@@ -1704,9 +1704,9 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&bSophisticated Storage&r и &bSophisticated Backpacks&r — хорошие варианты для хранения вещей, как на базе, так и на ходу, а также предоставляют разнообразие полезные и забавные улучшения."
+				"Моды &bSophisticated Storage&r и &bSophisticated Backpacks&r предоставляют отличные варианты для хранения предметов как на вашей базе, так и в пути, предлагающие множество полезных и интересных улучшений."
 				""
-				"В частности, &bSophisticated Storage&r — отличное дешёвое хранилище, способное хранить 3 бочки предметов на минимальном уровне. Стоит оно лишь немного железа и может быть расширено улучшениями бочек, чтобы хранить ещё больше предметов и ячеек для улучшений."
+				"Хранилища, предоставляемые &bSophisticated Storage&r, особенно хороши своей дешевизной, ведь способны хранить столько же предметов, сколько три бочки на самом низком уровне, при этом стоят лишь немного железа, и могут быть улучшены с помощью улучшений для бочек, чтобы хранить ещё больше предметов и иметь больше ячеек для улучшений."
 			]
 			id: "61E5D7EEE745C6FB"
 			rewards: [{
@@ -1714,7 +1714,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Сумки хранения"
+			subtitle: "Будут служить вам верой и правдой"
 			tasks: [
 				{
 					id: "46CA42CF7D0730E6"
@@ -1740,7 +1740,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Рюкзаки и бочки"
+			title: "&9Sophisticated Storage вам в помощь"
 			x: -6.5d
 			y: 1.0d
 		}
@@ -1928,9 +1928,9 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"[\"Вкладка \",{\"text\":\"«Продвижение»\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Нажмите, что бы перейти к главе\"}},\" добавлена для визуализации важных частей сборки.\"]"
+				"[\"The \",{\"text\":\"Progression tab\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to go to the chapter\"}},\" was added so you can keep track of the important bits of the pack.\"]"
 				""
-				"Электросхемы - основа всего прогресса Monifactory, так что вперёд — к успеху!"
+				"Circuits are the baseline of the entire Monifactory progression, so keep climbing!"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1941,7 +1941,7 @@
 				id: "3378D5EF8B48960E"
 				type: "checkmark"
 			}]
-			title: "Вкладка прогресса"
+			title: "Progression Tab"
 			x: -10.0d
 			y: 5.5d
 		}
@@ -1961,13 +1961,13 @@
 				id: "4BEDF2126C896A50"
 				type: "checkmark"
 			}]
-			title: "&2Вкладка линии обработки"
+			title: "&2Processing Lines Tab"
 			x: -11.5d
 			y: 7.0d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["[\"В этой сборке установлен \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\". Он быстрый, настраиваемый и лёгок в использпользовании для сортировки любого инвентаря. Горячая клавиша — \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Сортировка инвентаря игрока\\\" в настройках управления\"}}]"]
+			description: ["[\"This pack has \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\", allowing for quick, customizable, and easy sorting of any inventory! The keybind is \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Sort Player Inventory\\\" in keybind option\"}}]"]
 			disable_toast: true
 			hide_dependency_lines: true
 			icon: "minecraft:chest"
@@ -2119,9 +2119,9 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"Многие &eсплавы&f требуют особую &3печь для сплавов&f, но некоторые могут быть сделаны просто смешав вместе нужную металлическую пыль."
+				"Although most &ealloys&f require an &3Alloy Smelter&f, some alloys can be made simply by mixing the correct metal dusts together. "
 				""
-				"&9Сталь - один из таких сплавов, создаваемый из смеси пыли кованного железа с пылью каменного или древесного угля. &2Сталь составляет основу корпусов машин НН&r и позволяет создать &6поясной мешочек&r для улучшения &eпояса инструментов&r."
+				"&9Steel is one of these alloys, being made by mixing wrought iron dust with coal dust or charcoal dust&r. &2Steel forms the basis of LV Machine Hulls&r, and allows you to make &6Belt Pouches&r, for upgrading your &eTool Belt&r."
 			]
 			hide_dependency_lines: true
 			id: "17312BF0197B87A8"
@@ -2137,7 +2137,7 @@
 				item: "gtceu:steel_ingot"
 				type: "item"
 			}]
-			title: "&9Сталь"
+			title: "&9Steel"
 			x: 2.5d
 			y: 11.5d
 		}
@@ -2147,7 +2147,7 @@
 			description: [
 				"«&eПодложка&f» — это «плата» печатной платы... Пластина, на которой соединяются компоненты электронной смехы и провода. Хорошая подложка должна не проводить ток по понятным причинам. &6Дерево&r, покрытое &6смолой&r, — примитивный, но эффективный материал для первых подложек."
 				""
-				"&2Прогрессия микросхем CEU означает что необходимо добавить провода к подложке, чтобы от неё была польза. В данном случае используйте тонкую медную проволоку.&r"
+				"&2Прогресс микросхем CEU означает что необходимо добавить провода к подложке, чтобы от неё была польза. В данном случае используйте тонкую медную проволоку.&r"
 				""
 				"Также, вам нужно будет сделать &6вакуумные лампы&f и примитивные &6резисторы&r. Пока что &6бумага&r — подходящий для этого материал."
 			]
