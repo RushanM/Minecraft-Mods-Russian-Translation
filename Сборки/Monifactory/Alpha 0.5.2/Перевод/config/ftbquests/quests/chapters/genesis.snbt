@@ -1236,7 +1236,7 @@
 				item: "enderio:conductive_conduit"
 				type: "item"
 			}]
-			title: "Энергопровод из проводящего железа"
+			title: "Энерготрубопровод из проводящего железа"
 			x: -1.0d
 			y: 8.75d
 		}
