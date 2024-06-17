@@ -129,7 +129,7 @@
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. |
 | [Thermal Systeams: Monifactory Edition](https://github.com/ThePansmith/Monifactory/blob/main/mods/systeams-1.20.1-1.7.1.jar) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
