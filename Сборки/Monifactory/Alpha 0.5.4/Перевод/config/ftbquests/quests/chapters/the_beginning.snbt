@@ -212,7 +212,7 @@
 			}]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "A piston is a specialized motor, which is needed to make certain machines."
+			subtitle: "Поршень — это специализированный элемент двигателя, необходимый для работы некоторых механизмов."
 			tasks: [{
 				id: "7341F3ADD0737579"
 				item: "gtceu:lv_electric_piston"
