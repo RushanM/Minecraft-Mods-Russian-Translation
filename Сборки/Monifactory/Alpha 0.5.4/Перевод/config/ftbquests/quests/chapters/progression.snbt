@@ -1790,7 +1790,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "With all of the components made, it's time to craft an &2Electronic Circuit&r."
+			subtitle: "Теперь, когда все компоненты собраны, пришла пора делать &2электронную схему&r"
 			tasks: [
 				{
 					id: "5DED56006806D2E0"
@@ -1803,7 +1803,7 @@
 					type: "item"
 				}
 			]
-			title: "Your First Circuit"
+			title: "Ваша первая схема"
 			x: -6.5d
 			y: -5.5d
 		}
@@ -2913,5 +2913,5 @@
 			y: 13.0d
 		}
 	]
-	title: "Прогресс"
+	title: "Этапы развития"
 }
