@@ -128,7 +128,7 @@
     "modmenu.summaryTranslation.cull-less-leaves": "Более оптимизированные листья",
     "modmenu.summaryTranslation.debugify": "Исправление ошибок и отключение отправки диагностики Mojang",
     "modmenu.summaryTranslation.disableplayerreporting": "Отключает возможность сообщать о поведении игроков раз и навсегда!",
-    "modmenu.summaryTranslation.dynamic_fps": "Автоматически регулирует кадр/с для снижения нагрузки на ПК в фоне.",
+    "modmenu.summaryTranslation.dynamic_fps": "Автоматически регулирует FPS для снижения нагрузки на ПК в фоне.",
     "modmenu.summaryTranslation.dynamicfps": "Снижение количества кадров в секунду, пока игра в фоновом режиме",
     "modmenu.summaryTranslation.dynamiclights": "Конкретные сущности и предметы, такие как факелы или фонари, излучают свет! Работает со стороны сервера!",
     "modmenu.summaryTranslation.emi": "Многофункциональное и доступное средство просмотра рецептов",
