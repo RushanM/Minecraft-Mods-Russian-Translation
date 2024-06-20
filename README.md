@@ -146,8 +146,11 @@
 Проект (не сам набор ресурсов) также включает в себя переводы некоторых сборок модов, а конкретнее файлов, которые не являются частью модов, а именно сборки (заголовок окна игры, кнопки меню, квесты). Установка переводов **для них** производится ручной заменой файлов сборки на те, что представлены в репозитории. Вы можете ознакомиться и скачать их по следующим ссылкам:
 | Сборка | Версия | Статус перевода |
 | - | - | - |
+| [All of Fabric 6](https://github.com/TeamAOF/All-of-Fabric-6) | ? | Ничего |
+| [All the Mods 9](https://github.com/AllTheMods/ATM-9) | ? | Ничего |
 | [Monifactory](/Сборки/Monifactory/) | Альфа 0.5.4 | Начало |
 | [The Ferret Business](/Сборки/The%20Ferret%20Business/) | Альфа 0.4.2 | Самое начало |
+
 
 Они всё ещё в рааанней разработке, но вы уже можете их опробовать.
 
@@ -209,6 +212,7 @@
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
+* [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
 ## ✉️ Контакты

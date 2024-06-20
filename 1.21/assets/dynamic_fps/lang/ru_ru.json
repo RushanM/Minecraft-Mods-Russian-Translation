@@ -18,7 +18,7 @@
     "config.dynamic_fps.graphics_state_default": "По умолчанию",
     "config.dynamic_fps.graphics_state_reduced": "Сниженные",
     "config.dynamic_fps.graphics_state_minimal": "Минимальные",
-    "config.dynamic_fps.graphics_state_minimal_tooltip": "Минимаьная графика заставляет мир перезагружаться!",
+    "config.dynamic_fps.graphics_state_minimal_tooltip": "Минимальная графика заставляет мир перезагружаться!",
     "config.dynamic_fps.show_toasts": "Показывать тосты",
     "config.dynamic_fps.show_toasts_tooltip": "Продолжать ли отображать или откладывать тост-уведомления",
     "config.dynamic_fps.run_garbage_collector": "Запускать сборщик мусора",
