@@ -932,11 +932,11 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"Хоть здесь и не так много типов очень редких жил, вы, наверняка, столкнётесь с трудностями в поиске хотя бы одной из менее распространённых типов жил. "
+				"While there are no types of veins that are extremely rare, you're likely to struggle with finding at least one of the less common vein types. This isn't really avoidable."
 				""
-				"[\"В процессе прохождения Монифактори у вас скопится много \",{\"text\":\"Монимонет\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" как награда за квесты. Не стесняйтесь тратить их на то, что нужно!\"]"
+				"[\"You will accumulate a lot of \",{\"text\":\"Monicoins\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" from quest turn-ins while playing monifactory. Do not be hesitant to spend them on things you need!\"]"
 				""
-				"[\"Что бы узнать рецепт за монеты нужной руды , ищите её в \",{\"text\":\"EMI\",\"color\":\"aqua\"},\" (Как правило она попадается первая). Либо наведите курсор на монету и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Показать рецепт\\\" в настройках управления\"}},\" что бы понять что можно купить.\"]"
+				"[\"Search for various ores (generally the first one listed in \",{\"text\":\"EMI\",\"color\":\"aqua\"},\") to find the coin recipes for them. Alternatively, hover your cursor over a coin and press \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Recipe\\\" in keybind option\"}},\" to see what you can buy with it.\"]"
 			]
 			hide_dependency_lines: true
 			icon: "kubejs:moni_dollar"
@@ -952,7 +952,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Не будь скрягой!"
+			subtitle: "Зачем их копить?"
 			tasks: [
 				{
 					id: "7275E7D7E7F140B8"
@@ -1124,13 +1124,13 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"Откройте инвентарь и посмотрите на левый верхний угол экрана. Нажмите на иконку в виде карты под названием &eFTB чанки&r."
+				"Open your inventory and look at the top-left corner of the screen. Click the map-looking icon called &eClaimed Chunks&r."
 				""
-				"&6Нажмите на чанк&r, чтобы назначить его своим собственным. Это защитит его от нежелательных взрывов криперов и от взаимодействий других игроков с территорией."
+				"&6Click a chunk&r to claim it as yours. This will prevent unwanted creeper explosions and other players from interacting with your base."
 				""
-				"&eЕсли вы играете на сервере с особыми настройками, узнайте у владельца какие методы доступны&f."
+				"&eIf you're playing on a server with custom settings, ask the server owner what methods are available&f."
 				""
-				"Чтобы пригласить игрока в вашу группу &bFTB утилит&f, ищите соответствующую иконку в том же углу. Группы разделяют между собой размеченную территорию. Разрешения для территории вашей группы можно настроить в меню конфигурации группы."
+				"To invite players to your &bFTB Utils&f party, look for a corresponding button in the same corner. Parties share claimed chunks with each other. You can configure permissions for your party's claimed chunks in the party settings menu."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1140,7 +1140,7 @@
 			subtitle: "Вам, должно быть, интересно, как тут устроена подгрузка чанков"
 			tasks: [{
 				id: "78BC5B51125B35BD"
-				title: "Приватизируйте чанки!"
+				title: "Claim your chunks !"
 				type: "checkmark"
 			}]
 			title: "Отмечайте чанки своими и приглашайте в них членов команды!"
@@ -1216,7 +1216,7 @@
 					type: "item"
 				}
 			]
-			title: "Всё в мире нашем состоит из мелочей"
+			title: "Всё в мире состоит из мелочей"
 			x: -1.0d
 			y: 7.25d
 		}
@@ -1326,11 +1326,11 @@
 				"1A30472430354F1E"
 			]
 			description: [
-				"&3Паровая динамо&r вырабатывает энергию &aРТ&r, но машины &bGregTech&r требуют энергию &aЕЭ&r. С первой &6электросхемой&r в руках вы готовы создать &2преобразователь энергии &eНизкого Напряжения (НН)&r"
+				"&rThe &3Steam Dynamos&r&r&r you have made are generating &aRF power&r, but &bGregTech&r machines require &aEU power&r. With your first &6circuit&r in hand, you are ready to build a &eLow Voltage (LV) &3&2Energy Converter&r."
 				""
-				"&2Преобразователь энергии&r - особое устройство способное &eконвертировать&r между &aэнергией РТ&r и &aэнергией ЕЭ&r. У него четыре варианта: 1А, 4А, 8А и 16А."
+				"The &2Energy Converter&r is a special device that &econverts &2between &aRF power&r and &aEU power&r. They come in &2four sizes: 1A, 4A, 8A, and 16A."
 				""
-				"&aРТ&r конвертируется в &aЕЭ&r в отношении &e4 к 1&r. &a100 РТ&r преобразуется в &a25 ЕЭ&r и наоборот. &2Используйте киянку, что бы изменить направление преобразования."
+				"&aRF&r converts into &aEU&r at a &e4 to 1 ratio&r. &a100 RF&r becomes &a25 EU&r, and vice-versa. &2Use a Soft Hammer to change the conversion direction."
 			]
 			icon: "gtceu:lv_4a_energy_converter"
 			id: "297B523B6C503957"
@@ -1452,11 +1452,11 @@
 		{
 			dependencies: ["2FA9404468E4BBD9"]
 			description: [
-				"&6Батареи&r - это энергохранилище &aЕЭ&r в &bGregTech&r."
+				"&6Batteries&r are &bGregTech &rpower storage for &aEU&r energy."
 				""
-				"Существует несколько типов многоразовых батарей, но &2литиевые батареи&r самые лучшие и рекомендуется стремиться делать только их."
+				"Although there are several types of rechargeable batteries you can make, &2Lithium Batteries&r are the best ones, and the only ones you should really consider making."
 				""
-				"&6Литий&r можно встретить вкраплениями в жиле &6вольфрама&r, однако она довольно редкая. Рассмотрите вариант «покупки» немного лития за &9Монимонеты&r."
+				"&6Lithium&r is possible to find inside of &6Tungsten&r veins, however, they are fairly rare. Consider \"buying\" some Lithium with &9Monicoins&r."
 			]
 			id: "077AA27F26B7831F"
 			rewards: [{
@@ -1591,20 +1591,19 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&6Gregtech&r добавляет довольно приличное количество рецептов в начало игры. К счастью, в &bEMI&r есть некоторые полезные иструменты &9ЗНАЧИТЕЛЬНО&r упрощающие всё касательно рецептов."
+				"&6Gregtech&r adds a decent bit of extra crafting to the earlygame. Thankfully, &bEMI&r has some tools to help make your life &9&lMUCH&r easier when doing all this crafting."
 				""
-				"[\"К теме о рецептах: если вы не знакомы с обозревателями рецептов такие как EMI или JEI, то прочтите \", {\"text\": \"этот квест.\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\"\"]"
+				"[\"On the topic of crafting, if you are not already familiar with how \", {\"text\": \"recipe viewers\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" like EMI or JEI, read that quest first.\"]"
 				""
-				"При осмотре рецепта в EMI вы, скорее всего, заметили эти 3 кнопки возле каждого рецепта: &c[❤]&r, &a[┴]&r, and &9[+]&r."
+				"When looking a recipe in EMI, you've likely noticed 3 buttons that appear on each recipe, being &c[❤]&r, &a[┴]&r, and &9[+]&r."
 				""
-				"Начнём с простого &9[+]&r: откройте верстак, найдите нужный рецепт и нажмите кнопку &9[+]&r: если у вас есть все нужные ингредиенты для этого рецепта, то она разложит их в верстак за вас."
+				"Let's start with &9[+]&r, as it's the simplest: right-click a crafting table, look up the recipe you need and press the &9[+]&r button: if you have all required items for the recipe, this will put them all into the crafting table for you."
 				""
-				"&c[❤]&r и &a[┴]&r используются в сочетании в &aдереве рецептов&r. Нажатие &a[┴]&r откроет окно &aдерева рецептов&r данного предмета. Нажатие &c[❤]&r отмечает рецепт как &cстандартный рецепт&r для данного предмета и он будет отображаться (и все его ингредиенты) в &aдереве рецептов&r. Затем, вы можете добавить &cстандартный рецепт&r для этих ингредиентов, и так пока не надоест. Заметьте, что вы можете нажать на предмет в &aдереве рецептов&r и открыть его рецепт."
-				""
+				"&c[❤]&r and &a[┴]&r are used in tandem to create &arecipe trees&r. Pressing &a[┴]&r will pull up a &arecipe tree&r for that given item. Pressing &c[❤]&r on a recipe will mark it as the &cdefault recipe&r for that item, and will show that recipe (and the items used to craft it) in &arecipe trees&r. You can then add &cdefault recipes&r for the items used to craft that recipe, repeat ad nauseam. Note that you can click on a item in the &arecipe tree&r and it's recipes will be pulled up."
 				"{@pagebreak}"
-				"В интерфейсе &aдерева рецептов&r колёсиком мыши можно изменять число создаваемой партии, правее от финального результата. Наконец, самое важное, вы можете нажать на &6увеличительное стекло&r что бы переключится &6режим дерева создания&r. Он будет &eпоказывать необходимые предметы для каждого шага крафта нужного количества заданного предмета&r в боковой панели и динамически обновляться в течение создания. На эти &6мнимые избранные&r предметы можно нажать клавишой «Создать в инвентарь» (не назначено по умолчанию), что бы &eавтоматически создать и отправить результат обратно в инвентарь&r при работе с верстаком, или выложить точное число сырья при работе с другим инвентарём.&r"
+				"In the &arecipe tree&r GUI, you can change the batch size by scrolling on the number to the right of the final result. Finally, and most importantly, you can press the &6Magnifying Glass&r to switch to &6Crafting Tree Mode&r, this will &edisplay the items that you need for every step to craft the number of items that you specified&r in your sidebar, and will dynamically update as you craft items. You can click on these &6Synethic Favorites&r with your Craft to Inventory bind (unbinded by default) to &eautomatically craft and then push items back into your inventory&r when using a crafting table, or push the exact number of items needed if using a different inventory.&r"
 				""
-				"Так же заметьте, что EMI сохраняет &cстандартные рецепты&r в память, означая что можно сохранять всё больше и больше рецептов - EMI запомнит их все и будет автоматически использовать их каждый раз, когда вы откроете &aдерево рецептов&r для любого предмета. Кстати, изменив &cстандартный рецепт&r для предмета, EMI изменит его в &aдереве рецептов&r. В левом нижнем углу экрана есть клавиша &a[┴]&r, которая открывает интерфейс последнего &aдерева рецептов&r."
+				"Also note that EMI will commit &cdefault recipes&r to memory, meaning that as you save more and more recipes, EMI will remember them all, and will automatically use them when you pull up a &arecipe tree&r for any given item. Also, you can change the &cdefault recipe&r for an item, and EMI will automatically update the &arecipe tree&r as well. You can also click the &a[┴]&r button found in the bottom left of your screen and it will pull up the &arecipe tree&r GUI as well."
 			]
 			disable_toast: true
 			icon: "gtceu:crafting_table_cover"
@@ -1623,23 +1622,23 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bEffortless Building&r — это мод значительно упрощающий строительство. С ним вы сможете создавать огромные платформы или другие разные формы лишь в несколько кликов и даже строить несколько идентичных структур одновременно."
+				"&bEffortless Building&r is a mod that makes it much easier to build. You can create large platforms or various other shapes in just a few clicks, and even build multiple identical structures at the same time!"
 				""
-				"[\"Чтобы воспользоваться &bEffortless Building&r нажмите и держите клавишу \",{\"keybind\":\"key.effortlessbuilding.mode.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Режимы строительства\\\" в настройках управления\"}},\". Это откроет меню-колесо с различными \",{\"text\":\"режимами строительства\",\"color\":\"yellow\"},\".\"]"
+				"To use &bEffortless Building&r, start by pressing and holding the &6Alt&r key. This opens a wheel-shaped menu displaying &especial building modes&r. With this menu open, simply move your cursor over the desired building mode and release &6Alt&r. This will select that mode and you can begin building."
 				""
-				"Выберите в мире стартовую позицию вашей фигуры &6правой кнопкой мыши&r, держа в руках нужный блок. Затем, передвиньте курсор на конечную точку в мире, что бы увидеть предосмотр готовой структуры. Нажмите &6правую кнопку мыши&r снова что бы построить заданную фигуру из блоков из инвентаря."
+				"Choose the starting location for your shape by &6right-clicking&r on a blockspace while holding your desired building block. Next, move your cursor to another blockspace to see a preview of the final structure. &6Right-click&r again on the desired ending block to actually build the shape from blocks in your inventory."
 				"{@pagebreak}"
-				"Большинство фигур плоские и задаются лишь стартовой и конечной точкой, но для 3Д фигур нужно три точки, чтобы завершить фигуру. У некоторых режимов есть &eальтернативы&r, например &eполый куб&r вместо &eзаполненного куба&r."
+				"Most shapes are flat and are defined using a starting and ending location, but 3D shapes have a third location to complete the shape. Some special modes also have &eoptions&r, like making a &ehollow cube&r instead of a &efilled cube&r."
 				""
-				"Если в чём-то ошиблись нажмите &aОтменить&r в круговом меню, что бы сломать последнюю построенную фигуру, вернуть ресурсы и попробовать снова."
+				"If you made a mistake, you can use the &aUndo&r button in the menu to break the blocks you just placed so you can collect them and try again."
 				""
-				"[\"Чтобы выбрать другой режим, вновь откройте меню клавишей \",{\"keybind\":\"key.effortlessbuilding.mode.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Режимы строительства\\\" в настройках управления\"}},\" и выберите любой другой режим. Чтобы выйти из режима строительства, выберите режим \",{\"text\":\"«по старинке»\",\"color\":\"yellow\"},\".\"]"
+				"To change building modes, just open the menu with &6Alt&r as before and pick a different one. To exit the special building modes, select the &eNormal&r mode."
 				""
-				"&cОбязательно вернитесь в нормальный режим как закончите строить, так как строительные режимы могут помешать игровому процессу.&r"
+				"&cMake sure you return to Normal mode when you're done building shapes, since the special building modes will interfere with normal gameplay.&r"
 				"{@pagebreak}"
-				"Размеры фигур, которые вы можете сделать в особых режимах строительства, ограниченны вашей &eдосягаемостью&r, тоесть на сколько далеко вы можете нажать от себя чтобы начать строить, или от предыдущей точки чтобы закончить фигуру. Вы можете смастерить или съесть несколько уровней подряд &aулучшений досягаемости&r чтобы увеличить дальность размаха во много раз."
+				"The size of shapes you can make in special building modes is limited by your &ereach&r, which is how far away you can click from yourself to start building, or from the previous location to complete a shape. You can craft and eat several tiers of &areach upgrades&r in succession to increase your reach to very high numbers."
 				""
-				"В целом, &bEffortless Building&r - очень удобный мод для строительства. Поэксперементируйте и вы заметите сколько времени он вам сэкономит!"
+				"Overall, &bEffortless Building&r is a powerful mod that is very useful for construction. Experiment with it and you'll see how much time it can save you!"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1650,7 +1649,7 @@
 				id: "23ED12507CA3130E"
 				type: "checkmark"
 			}]
-			title: "Строительство без хлопот"
+			title: "Мод Effortless Building"
 			x: -11.5d
 			y: 2.5d
 		}
@@ -1821,15 +1820,15 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"Захотели ли вы или нет(или за вас решил админ сервера) играть на стандартной генерации мира &b«Потерянные города»&r, у вас всегда есть возможность телепортироваться в &eизмерение потерянных городов&r. Это удобно, если вам хочется исследовать другие типы генерации миров, но всё-равно хочется исследовать города в поисках &eсокровищ и спавнеров&r."
+				"Whether or not you (or your server admin) picked the default &bLost Cities&r overworld type, you have the option of teleporting yourself to the &eLost Cities Dimension&r. This is useful if you like other world types but want to still be able to explore cities for things like &eloot and spawners&r."
 				""
-				"Для создания портала нужно поставить &aкровать&r на два &6блока алмаза&r. Затем, окружите кровать любыми &eчерепами монстра&r. Поспите на этой кровати и вас телепортирует."
+				"To create a portal, you must place a &aBed&r down on two &6Blocks of Diamond&r. Then, you surround the bed with any kind of &eMonster Skulls&r. Sleep in this bed and you will be teleported there."
 				""
-				"&cНе забудьте про возможность вернуться!&r Вы можете использовать команду &e/sethome&r, чтобы установить точку дома, и команду &e/home&r что бы вернуться к ней. Если добавить какое-нибудь имя (по умолчанию «home»), то можно задать и телепортироваться на несколько локаций. Однако, есть несколько &eограничений&r: &eтелепортация занимает несколько секунд и неподвижности на месте для активации&r и между использовании должно пройти некоторое время для &eперезарядки&r команды."
+				"&cDon't forget to have a way to get back!&r You can use the &e/sethome&r command to register where your house is, and &e/home&r to return to it. If you supply a name (default \"home\") then you can register and go to multiple locations. There are some &erestrictions&r on this though: &eit takes a few seconds of standing still to activate&r and there is a &ecooldown&r between uses."
 				""
-				"Позже вам будут доступны иные методы телепортации."
+				"Later on you'll have other means of teleportation."
 				""
-				"Черепа монстров может быть трудно достать на &eмирной&r сложности. В данном случае легче всего заполучить &6черепа скелетов&r."
+				"Monster Skulls might take a little while to get if you're playing in &ePeaceful&r&r. &6Skeleton Skulls&r would be the way to go in that case."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1853,7 +1852,7 @@
 							value: "forge:heads"
 						}
 					}
-					title: "Любая голова"
+					title: "Any Heads"
 					type: "item"
 				}
 				{
@@ -1865,7 +1864,7 @@
 							value: "minecraft:beds"
 						}
 					}
-					title: "Любая кровать"
+					title: "Any Bed"
 					type: "item"
 				}
 				{
@@ -1875,7 +1874,7 @@
 					type: "item"
 				}
 			]
-			title: "Затерянные города и точка дома"
+			title: "Заброшенные города и регистрация домов"
 			x: -11.5d
 			y: 4.0d
 		}
@@ -1929,9 +1928,9 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"[\"Вкладка \",{\"text\":\"«Прогресс»\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Нажмите, что бы перейти к главе\"}},\" добавлена для визуализации важных частей сборки.\"]"
+				"[\"The \",{\"text\":\"Progression tab\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to go to the chapter\"}},\" was added so you can keep track of the important bits of the pack.\"]"
 				""
-				"Электросхемы - основа всего прогресса Monifactory, так что вперёд — к успеху!"
+				"Circuits are the baseline of the entire Monifactory progression, so keep climbing!"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1968,7 +1967,7 @@
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["[\"В этой сборке установлен \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\". Он быстрый, настраиваемый и лёгок в использпользовании для сортировки любого инвентаря. Горячая клавиша — \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Сортировка инвентаря игрока\\\" в настройках управления\"}}]"]
+			description: ["[\"This pack has \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\", allowing for quick, customizable, and easy sorting of any inventory! The keybind is \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Sort Player Inventory\\\" in keybind option\"}}]"]
 			disable_toast: true
 			hide_dependency_lines: true
 			icon: "minecraft:chest"
@@ -2120,9 +2119,9 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"Многие &eсплавы&f требуют особую &3печь для сплавов&f, но некоторые могут быть сделаны просто смешав вместе нужную металлическую пыль."
+				"Although most &ealloys&f require an &3Alloy Smelter&f, some alloys can be made simply by mixing the correct metal dusts together. "
 				""
-				"&9Сталь - один из таких сплавов, создаваемый из смеси пыли кованного железа с пылью каменного или древесного угля. &2Сталь составляет основу корпусов машин НН&r и позволяет создать &6поясной мешочек&r для улучшения &eпояса инструментов&r."
+				"&9Steel is one of these alloys, being made by mixing wrought iron dust with coal dust or charcoal dust&r. &2Steel forms the basis of LV Machine Hulls&r, and allows you to make &6Belt Pouches&r, for upgrading your &eTool Belt&r."
 			]
 			hide_dependency_lines: true
 			id: "17312BF0197B87A8"

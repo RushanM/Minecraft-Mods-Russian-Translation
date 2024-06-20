@@ -129,7 +129,7 @@
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. |
 | [Thermal Systeams: Monifactory Edition](https://github.com/ThePansmith/Monifactory/blob/main/mods/systeams-1.20.1-1.7.1.jar) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
@@ -146,8 +146,11 @@
 Проект (не сам набор ресурсов) также включает в себя переводы некоторых сборок модов, а конкретнее файлов, которые не являются частью модов, а именно сборки (заголовок окна игры, кнопки меню, квесты). Установка переводов **для них** производится ручной заменой файлов сборки на те, что представлены в репозитории. Вы можете ознакомиться и скачать их по следующим ссылкам:
 | Сборка | Версия | Статус перевода |
 | - | - | - |
-| [Monifactory](/Сборки/Monifactory/) | Альфа 0.5.1 | Самое начало |
-| [The Ferret Business](/Сборки/The%20Ferret%20Business/) | Альфа 0.4.2 | Можно сказать, и не готов вовсе |
+| [All of Fabric 6](https://github.com/TeamAOF/All-of-Fabric-6) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
+| [All The Mods 9](https://github.com/AllTheMods/ATM-9) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
+| [Monifactory](/Сборки/Monifactory/) | Альфа 0.5.4 | Начало |
+| [The Ferret Business](/Сборки/The%20Ferret%20Business/) | Альфа 0.4.2 | Самое начало |
+
 
 Они всё ещё в рааанней разработке, но вы уже можете их опробовать.
 
@@ -209,6 +212,7 @@
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
+* [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
 ## ✉️ Контакты

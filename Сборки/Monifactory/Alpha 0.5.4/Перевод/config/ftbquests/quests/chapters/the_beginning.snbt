@@ -34,7 +34,7 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "The factory begins"
+			subtitle: "Теперь мы «моним фактори»"
 			tasks: [
 				{
 					id: "298288137C88DDFF"
@@ -48,7 +48,7 @@
 					type: "item"
 				}
 			]
-			title: "&2LV Wiremill"
+			title: "&2Проволочная мельница низкого напряжения"
 			x: 0.0d
 			y: 2.0d
 		}
@@ -66,7 +66,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Automatic magnetizers"
+			subtitle: "Автоматические магнитизаторы"
 			tasks: [{
 				id: "2AAE22F760F73AD8"
 				item: {
@@ -76,16 +76,16 @@
 						value: "moni:polarizer"
 					}
 				}
-				title: "LV or MV Polarizer"
+				title: "Поляризатор низкого или среднего напряжения"
 				type: "item"
 			}]
-			title: "&2Polarizer"
+			title: "&2Поляризатор"
 			x: -2.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["62BBD1F6767A4D90"]
-			description: ["Also useful as a machine cover for continuously moving items, read the &aMachine Covers&r quest for more info on the various covers."]
+			description: ["Также полезен как насадка для машины для непрерывного перемещения предметов. Прочтите квест про &aнасадки для машин&r для получения дополнительной информации о различных насадках."]
 			id: "1FF652D16CE97C79"
 			rewards: [{
 				id: "718769C41EB34A2D"
@@ -93,13 +93,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Not as common a component, but used in a number of critical machines."
+			subtitle: "Не такой распространённый компонент, но используется в ряде критически важных машин"
 			tasks: [{
 				id: "766F95CEB364086E"
 				item: "gtceu:lv_conveyor_module"
 				type: "item"
 			}]
-			title: "LV Conveyor"
+			title: "Конвейер низкого напряжения"
 			x: 0.0d
 			y: 5.0d
 		}
@@ -145,7 +145,7 @@
 				id: "381F87172DB87754"
 				type: "checkmark"
 			}]
-			title: "&9Programmed Circuits"
+			title: "&9Программируемые схемы"
 			x: -1.9047619047619193d
 			y: 3.720238095238088d
 		}
@@ -168,22 +168,22 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "Assembling Machine 1"
+			subtitle: "Сборочная машина 1"
 			tasks: [{
 				id: "4FEE8532736A49E2"
 				item: "gtceu:lv_assembler"
 				type: "item"
 			}]
-			title: "&2LV Assembling Machine"
+			title: "&2Сборочная машина низкого напряжения"
 			x: -4.5d
 			y: 5.0d
 		}
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"&6Robot Arms&r are components of several powerful machines, and are also useful as a machine cover for precise item movement."
+				"&6Роботизированные руки-манипуляторы&r — компоненты нескольких мощных машин, а также полезны как насадка для машины для более точного перекладывания предметов."
 				""
-				"One of the most expensive components, as it requires motors, pistons, and a circuit."
+				"Один из самых дорогих компонентов, так как требует двигателей, поршней и схемы."
 			]
 			id: "055193574D203872"
 			rewards: [{
@@ -197,7 +197,7 @@
 				item: "gtceu:lv_robot_arm"
 				type: "item"
 			}]
-			title: "LV Robot Arm"
+			title: "Робот-манипулятор низкого напряжения"
 			x: -4.5d
 			y: 2.0d
 		}
@@ -212,24 +212,24 @@
 			}]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "A piston is a specialized motor, which is needed to make certain machines."
+			subtitle: "Поршень — это специализированный элемент двигателя, необходимый для работы некоторых механизмов."
 			tasks: [{
 				id: "7341F3ADD0737579"
 				item: "gtceu:lv_electric_piston"
 				type: "item"
 			}]
-			title: "LV Pistons"
+			title: "Поршни низкого напряжения"
 			x: -4.5d
 			y: -0.5d
 		}
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"The &3Lathe&r is an important machine that makes &6rods&r less expensive to craft. One ingot will yield two rods, doubling your output compared to manually crafting it"
+				"&3Токарный станок&r — важная машина, которая делает производство &6стержней&r менее затратным. Один слиток даёт два стержня, удваивая ваш выход по сравнению с ручной работой."
 				""
-				"In addition to this, it is can also be used to craft &6screws&r and &6buzzsaw blades&r."
+				"Кроме того, его можно использовать для создания &6винтов&r и &6пильных дисков&r."
 				""
-				"You will need it later on to craft &6lenses&r"
+				"В дальнейшем он понадобится вам для создания &6линз&r."
 			]
 			id: "2A84013C14085C7B"
 			rewards: [{
@@ -243,7 +243,7 @@
 				item: "gtceu:lv_lathe"
 				type: "item"
 			}]
-			title: "LV Lathe"
+			title: "Токарный станок низкого напряжения"
 			x: -2.0d
 			y: -0.5d
 		}
@@ -275,7 +275,7 @@
 				item: "gtceu:lv_bender"
 				type: "item"
 			}]
-			title: "&2LV Bending Machine"
+			title: "&2Листогиб низкого напряжения"
 			x: -7.0d
 			y: -0.5d
 		}
@@ -297,7 +297,7 @@
 				item: "functionalstorage:compacting_drawer"
 				type: "item"
 			}]
-			title: "&9Compacting Drawers"
+			title: "&9Сжимающие ящики"
 			x: -7.0d
 			y: 2.0d
 		}
@@ -315,7 +315,7 @@
 				item: "gtceu:lv_compressor"
 				type: "item"
 			}]
-			title: "&2LV Compressor"
+			title: "&2Компрессор низкого напряжения"
 			x: -9.5d
 			y: -0.5d
 		}
@@ -331,13 +331,13 @@
 			]
 			id: "038D06BCA022C1BF"
 			shape: "hexagon"
-			subtitle: "&2The functions of the Extractor and Fluid Extractor have been combined into a single machine!"
+			subtitle: "&2Функции экстрактора и гидроэкстрактора были объединены в одну машину!"
 			tasks: [{
 				id: "302CBE00E5451E5E"
 				item: "gtceu:lv_extractor"
 				type: "item"
 			}]
-			title: "&2LV Extractor"
+			title: "&2Экстрактор низкого напряжения"
 			x: -4.5d
 			y: -3.0d
 		}
@@ -365,13 +365,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&oNote: this quest accepts LV, MV and HV Macerators."
+			subtitle: "&oПримечание: в этом квесте принимаются мацераторы низкого, среднего и высокого напряжений"
 			tasks: [{
 				id: "29E5699EC44EAFB5"
 				item: "gtceu:lv_macerator"
 				type: "item"
 			}]
-			title: "&2Macerator"
+			title: "&2Мацератор"
 			x: -7.0d
 			y: -3.0d
 		}
@@ -389,7 +389,7 @@
 				item: "gtceu:lv_electric_pump"
 				type: "item"
 			}]
-			title: "LV Pumps"
+			title: "Насосы низкого напряжения"
 			x: 0.0d
 			y: -3.0d
 		}
@@ -432,7 +432,7 @@
 				item: "gtceu:lv_pump"
 				type: "item"
 			}]
-			title: "&2Pumps"
+			title: "&2Насосы"
 			x: 0.0d
 			y: -8.0d
 		}
@@ -450,7 +450,7 @@
 				item: "gtceu:lv_autoclave"
 				type: "item"
 			}]
-			title: "LV Autoclave"
+			title: "Автоклав низкого напряжения"
 			x: -4.5d
 			y: -6.0d
 		}
@@ -473,7 +473,7 @@
 			icon: "snad:snad"
 			id: "529D50CE814AF449"
 			shape: "hexagon"
-			subtitle: "Yes, Snad."
+			subtitle: "Да, посек"
 			tasks: [
 				{
 					id: "77ADD3B3DA61DC55"
@@ -496,7 +496,7 @@
 					type: "item"
 				}
 			]
-			title: "Snad"
+			title: "Посек"
 			x: -4.5d
 			y: -9.5d
 		}
@@ -540,7 +540,7 @@
 					type: "item"
 				}
 			]
-			title: "Molds"
+			title: "Формы"
 			x: 2.5d
 			y: -5.5d
 		}
@@ -566,7 +566,7 @@
 					type: "item"
 				}
 			]
-			title: "Pulsating Dust"
+			title: "Пульсирующая пыль"
 			x: 2.5d
 			y: -8.0d
 		}
@@ -576,7 +576,7 @@
 			icon: "gtceu:pulsating_alloy_ingot"
 			id: "273F3F8DD6A3DCC5"
 			shape: "hexagon"
-			subtitle: "A mysterious alloy, made from &6Pulsating Dust&r and &6Iron&r."
+			subtitle: "Таинственный сплав, созданный из &6пульсирующей пыли&r и &6железа&r"
 			tasks: [
 				{
 					id: "22A4BABD40C1A481"
@@ -589,7 +589,7 @@
 					type: "item"
 				}
 			]
-			title: "Pulsating Iron and Ender Pearls"
+			title: "Пульсирующее железо и жемчуги эндера"
 			x: 2.5d
 			y: -9.5d
 		}
@@ -612,13 +612,13 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "You already have &6Steel&r, but it can be made faster in the &3Alloy Smelter&r, at the cost of EU."
+			subtitle: "У вас уже есть &6сталь&r, но её можно получать быстрее в &3плавильне для сплавов&r, пожертвовав при этом единицами энергии"
 			tasks: [{
 				id: "17210F38B40BAAD7"
 				item: "gtceu:steel_ingot"
 				type: "item"
 			}]
-			title: "&9Alloying Steel"
+			title: "&9Легирование стали"
 			x: 2.5d
 			y: -3.0d
 		}
@@ -636,13 +636,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Copper... Nickel... Cupronickel?"
+			subtitle: "Медь и никель... ели вареники?"
 			tasks: [{
 				id: "708858A9BC1F9ABE"
 				item: "gtceu:cupronickel_ingot"
 				type: "item"
 			}]
-			title: "Cupronickel"
+			title: "Медно-никелевый сплав"
 			x: 2.5d
 			y: 2.0d
 		}
@@ -665,7 +665,7 @@
 				item: "gtceu:lv_alloy_smelter"
 				type: "item"
 			}]
-			title: "LV Alloy Smelter"
+			title: "Плавильня для сплавов низкого напряжения"
 			x: 2.5d
 			y: -0.5d
 		}
@@ -692,7 +692,7 @@
 				}
 				type: "item"
 			}]
-			title: "&9Infiniter Water"
+			title: "&9Бесконечный источник воды"
 			x: 1.0357142857142563d
 			y: -0.4761904761904816d
 		}
@@ -720,7 +720,7 @@
 					type: "item"
 				}
 			]
-			title: "Boilers and Turbines"
+			title: "Бойлеры и турбины"
 			x: 4.5d
 			y: -1.5d
 		}
@@ -748,7 +748,7 @@
 				item: "gtceu:lv_arc_furnace"
 				type: "item"
 			}]
-			title: "&2Arc Furnace"
+			title: "&2Дуговая печь"
 			x: 4.5d
 			y: -4.0d
 		}
@@ -772,7 +772,7 @@
 				item: "thermal:device_rock_gen"
 				type: "item"
 			}]
-			title: "&9Infinite Cobblestone"
+			title: "&9Генератор булыжника"
 			x: 4.5d
 			y: -6.0d
 		}
@@ -790,7 +790,7 @@
 				item: "gtceu:lv_forge_hammer"
 				type: "item"
 			}]
-			title: "&2Forge Hammer"
+			title: "&2Кузнечный молот"
 			x: 4.5d
 			y: -7.0d
 		}
@@ -821,7 +821,7 @@
 					type: "item"
 				}
 			]
-			title: "Pulsating Mesh"
+			title: "Пульсирующее волокно"
 			x: 6.5d
 			y: -8.0d
 		}
@@ -831,15 +831,15 @@
 				"3BD20358F137E7C6"
 			]
 			description: [
-				"A &3Simulation Chamber&r from &bHostile Neural Networks&r (&bHNN&r) allows you to farm mobs in a totally environmentally (and server) friendly way!"
+				"&3Камера симуляции&r из мода &bHostile Neural Networks&r позволяет добывать вещи с монстров экологически (и с минимизированной нагрузкой на сервер) безопасным способом!"
 				""
-				"Simulated mobs can even be used to provide you with many of the basic resources you'll need (such as &6iron, gold, tin, copper, diamonds&r and many more!), through pristine matter."
+				"Симулированные мобы могут даже обеспечить вас множеством основных ресурсов, которые вам понадобятся (таких как &6железо, золото, олово, медь, алмазы&r и многие другие!), через чистое вещество."
 				""
-				"Setting up HNN automation during the early game is &avery important&r as it gives you access to infinite quantities of many resources!"
+				"Настройка автоматизации Hostile Neural Networks на ранних этапах игры &aочень важна&r, так как это даёт вам доступ к бесконечным количествам различных ресурсов!"
 				""
-				"HNN changes machines, making them no longer sided, so you can input and output from any side, as well as allowing them to be controlled by redstone."
+				"Hostile Neural Networks изменяет машины, делая их независимыми от сторон, так что вы можете вводить и выводить ресурсы с любой стороны блока, а также управлять ими с помощью редстоуна."
 				""
-				"Yes, you can also use it for generating power... &owith Diamonds."
+				"Да, вы также можете использовать это для генерации энергии… &oс использованием алмазов."
 			]
 			id: "715BC5C7DAC53B7B"
 			rewards: [{
@@ -854,7 +854,7 @@
 				item: "hostilenetworks:sim_chamber"
 				type: "item"
 			}]
-			title: "&9Simulating Mobs"
+			title: "&9Симулирование мобов"
 			x: 6.5d
 			y: -5.5d
 		}
@@ -935,7 +935,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Steam Grinder"
+			title: "&9Паровая дробилка"
 			x: 4.5d
 			y: 0.0d
 		}
@@ -1021,7 +1021,7 @@
 					type: "item"
 				}
 			]
-			title: "Grains Of Infinity"
+			title: "Зёрна бесконечности"
 			x: 8.5d
 			y: -3.0d
 		}
@@ -1107,7 +1107,7 @@
 				item: "ae2:charger"
 				type: "item"
 			}]
-			title: "Charging Quartz"
+			title: "Зарядка кварца"
 			x: 10.5d
 			y: -3.0d
 		}
@@ -1172,7 +1172,7 @@
 				item: "enderio:basic_capacitor"
 				type: "item"
 			}]
-			title: "Basic Capacitors"
+			title: "Базовые конденсаторы"
 			x: 8.5d
 			y: -1.5d
 		}
@@ -1266,7 +1266,7 @@
 				item: "gtceu:lv_electrolyzer"
 				type: "item"
 			}]
-			title: "LV Electrolyzer"
+			title: "Электролизёр низкого напряжения"
 			x: 6.5d
 			y: 2.0d
 		}
@@ -1305,7 +1305,7 @@
 					type: "item"
 				}
 			]
-			title: "Hydrogen and Oxygen"
+			title: "Водород и кислород"
 			x: 8.5d
 			y: 2.0d
 		}
@@ -1351,7 +1351,7 @@
 				type: "item"
 				weak_nbt_match: true
 			}]
-			title: "&9Better Backpacks"
+			title: "&9Улучшенные рюкзаки"
 			x: 4.5d
 			y: 3.5d
 		}
@@ -1379,7 +1379,7 @@
 				item: "gtceu:cupronickel_coil_block"
 				type: "item"
 			}]
-			title: "&2Cupronickel Coils"
+			title: "&2Катушки из медно-никелевого сплава"
 			x: 2.5d
 			y: 5.0d
 		}
@@ -1426,7 +1426,7 @@
 				item: "gtceu:aluminium_ingot"
 				type: "item"
 			}]
-			title: "&2Aluminium Ingots"
+			title: "&2Алюминиевые слитки"
 			x: 6.5d
 			y: 7.5d
 		}
@@ -1513,7 +1513,7 @@
 					type: "item"
 				}
 			]
-			title: "&2Blast Furnace Fun"
+			title: "&2Разбираемся с доменной печью"
 			x: 2.5d
 			y: 7.5d
 		}
@@ -1587,7 +1587,7 @@
 				item: "enderio:energetic_conduit"
 				type: "item"
 			}]
-			title: "Energetic Alloy Energy Conduits"
+			title: "Энерготрубопроводы из энергетического сплава"
 			x: 1.0d
 			y: 10.5d
 		}
@@ -1620,7 +1620,7 @@
 				match_nbt: false
 				type: "item"
 			}]
-			title: "Auxiliary Transmission Coils"
+			title: "Вспомогательной передаточные катушки"
 			x: 4.0d
 			y: 10.5d
 		}
@@ -1640,13 +1640,13 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "Your first MV hull is as good of a place as any to consider yourself graduated from LV."
+			subtitle: "Создание первого каркаса среднего напряжения — отличный признак того, что вы завершили этап низкого напряжения"
 			tasks: [{
 				id: "3F0884D8F0926142"
 				item: "gtceu:mv_machine_hull"
 				type: "item"
 			}]
-			title: "&2MV Machine Hulls"
+			title: "&2Машинные каркасы среднего напряжения"
 			x: 6.5d
 			y: 9.5d
 		}
@@ -1668,13 +1668,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Will it blend?"
+			subtitle: "А милкшейк он мне смешает?"
 			tasks: [{
 				id: "0199D55D895EDDC9"
 				item: "gtceu:lv_mixer"
 				type: "item"
 			}]
-			title: "LV Mixer"
+			title: "Смеситель низкого напряжения"
 			x: 0.0d
 			y: 9.5d
 		}
@@ -1699,7 +1699,7 @@
 				item: "gtceu:soldering_alloy_dust"
 				type: "item"
 			}]
-			title: "Soldering Alloy"
+			title: "Припой"
 			x: -2.0d
 			y: 9.5d
 		}
@@ -1732,7 +1732,7 @@
 				id: "44CBD475F0332E0C"
 				type: "checkmark"
 			}]
-			title: "&2Maintenance and Muffler Mechanics"
+			title: "&2Техобслуживание и глушители"
 			x: 10.5d
 			y: 9.375d
 		}
@@ -1756,7 +1756,7 @@
 				id: "14E359BEBFB23558"
 				type: "checkmark"
 			}]
-			title: "&2GT Power Management"
+			title: "&2Управление энергией GT"
 			x: 12.75d
 			y: 7.5d
 		}
@@ -1793,7 +1793,7 @@
 				id: "550495EAC8E9629D"
 				type: "checkmark"
 			}]
-			title: "&9Machine Covers"
+			title: "&9Насадки для машин"
 			x: 15.0d
 			y: 9.375d
 		}
@@ -1805,10 +1805,10 @@
 			size: 1.5d
 			tasks: [{
 				id: "65EF130C1913A8AD"
-				title: "Screwdrive Output Sides!"
+				title: "Настройка сторон вывода с помощью отвёртки!"
 				type: "checkmark"
 			}]
-			title: "&9 Machine Auto-Output"
+			title: "&9 Автоматический вывод машин"
 			x: 12.75d
 			y: 9.375d
 		}
@@ -1851,7 +1851,7 @@
 					type: "item"
 				}
 			]
-			title: "&2Filters"
+			title: "&2Фильтры"
 			x: 15.0d
 			y: 7.5d
 		}
@@ -1874,7 +1874,7 @@
 				item: "enderio:item_conduit"
 				type: "item"
 			}]
-			title: "Item Conduits"
+			title: "Предметные трубопроводы"
 			x: 4.5d
 			y: -9.5d
 		}
@@ -1954,7 +1954,7 @@
 					type: "item"
 				}
 			]
-			title: "&2Pyrolyse Oven"
+			title: "&2Пиролизная печь"
 			x: 10.5d
 			y: 5.0d
 		}
@@ -1988,7 +1988,7 @@
 				}
 				type: "item"
 			}]
-			title: "&9Even Better Backpacks"
+			title: "&9Рюкзаки ещё лучше"
 			x: 4.5d
 			y: 6.25d
 		}
@@ -2007,13 +2007,13 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "...and crops as well, I guess."
+			subtitle: "...и посадки тоже, полагаю."
 			tasks: [{
 				id: "4ED486548C376854"
 				item: "thermal:machine_insolator"
 				type: "item"
 			}]
-			title: "&9Infinite Wood"
+			title: "&9Бесконечное дерево"
 			x: 4.5d
 			y: -5.0d
 		}
@@ -2032,13 +2032,13 @@
 				type: "item"
 			}]
 			size: 1.5d
-			subtitle: "Money!"
+			subtitle: "Деньги!"
 			tasks: [{
 				id: "79EF1B91285482AB"
 				item: "bountiful:bountyboard"
 				type: "item"
 			}]
-			title: "&2Bounties For monicoins!"
+			title: "&2Монимонеты в качестве награды!"
 			x: 10.5d
 			y: 7.5d
 		}
@@ -2051,7 +2051,7 @@
 				item: "sophisticatedstorage:gold_to_diamond_tier_upgrade"
 				type: "item"
 			}]
-			title: "&9Upgrades, people, upgrades."
+			title: "&9Апгрейды, люди, апгрейды"
 			x: 8.5d
 			y: 7.5d
 		}
@@ -2100,7 +2100,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Steam Foundry"
+			title: "&9Паровая литейная"
 			x: 4.517857142857139d
 			y: 1.4285714285714306d
 		}

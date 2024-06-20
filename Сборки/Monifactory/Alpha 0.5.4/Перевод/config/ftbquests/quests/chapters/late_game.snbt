@@ -2456,11 +2456,11 @@
 		{
 			dependencies: ["25B0271106684DF7"]
 			description: [
-				"The &aImplosion Compressor&f is like an autoclave that uses explosions instead of water. "
+				"&aИмплозионный компрессор&f работает подобно автоклаву, но использует взрывы вместо воды. "
 				""
-				"It is the only way to turn some gem dusts into gemstones. However, for some gemstones, like &6Apatite&r, it is much more efficient to use an &3Autoclave&r&r with &9Distilled Water&r."
+				"Это единственный способ преобразовать некоторые виды драгоценной пыли в драгоценные камни. Однако для некоторых камней, таких как &6апатит&r, намного эффективнее использовать &3автоклав&r&r с &9дистиллированной водой&r."
 				""
-				"It will also be vital for processing &5Motes of Omnium&f."
+				"Также он будет незаменим для обработки &5частиц омния&f."
 			]
 			id: "62AC7103FF9D25FD"
 			rewards: [{
@@ -2476,7 +2476,7 @@
 				item: "gtceu:implosion_compressor"
 				type: "item"
 			}]
-			title: "&2Implosion Compressor"
+			title: "&2Имплозионный компрессор"
 			x: 19.25d
 			y: 1.0d
 		}
