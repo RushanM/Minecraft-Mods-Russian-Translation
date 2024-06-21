@@ -12,17 +12,17 @@
 		{
 			dependencies: ["2D31856F6EF1ED69"]
 			description: [
-				"The &3Wiremill&r is a major efficiency boost, giving you double yield of &6wires&r for your ingots. But first, you'll need to make some &6Motors&r."
+				"&3Волочильный стан&r — значительный прыжок в эффективности, позволяющий удвоить производство &6проводов&r за слитки. Но для начала, нужно сделать несколько &6моторов&r."
+				"&f"
+				"Машины в &bGregTech&r создаются из ряда компонетов, многие из которых используются в разных машинах. &6Моторы&r используются в множестве рецептов, включая и другие компоненты."
 				""
-				"&bGregTech&r machines are built from a number of components, many of which are shared between the machines. Motors&r are used in a great number of recipes, even including other components."
-				""
-				"The Wiremill requires a &6Programmed Circuit&r to run. Each machine comes with a free one - click on the circuit slot in the &9bottom right &rof the GUI. For making single wires, leave the circuit at &econfiguration 1&r. Refer to &eEMI&r for which circuit config a recipe calls for, and refer to the adjacent quest for more information."
+				"&3Влочильному стану&r для работы необходима &6программируемая схема&r. В каждой машине есть одна встроенная — ячейка схемы в &9левом нижнем углу&r интерфейса. Для создания одножильных проводов оставьте схему на &eконфигурации 1&r. Сверяйтесь с рецептом в &eEMI&r, чтобы понять какую конфигурацию нужно. Для подробностей прочтите соседний квест."
 				"{@pagebreak}"
-				"After you make the Wiremill, &econsider making a few stacks&r of LV motors. This might sound extreme, but &ebatch crafting&r in this manner is an important habit to pick up. This way you won't have to craft more for a while, and you &owill &ruse all those motors eventually, so you're not wasting materials."
+				"Как сделаете волочильный стан, &eзадумайтесь над созданием нескольких стаков&r моторов низкого напряжения. Может прозвучать экстремально, но &eсоздание партиями&r в подобной манере — очень полезная привычка. Таким образом, вам не придётся возвращаться к этому вновь ближайшее время и в будущем вы используйте &oвсе&r моторы, так что материалы не уходят в пустую."
 				""
-				"As you get access to more machinery you will no longer need to craft things manually. Instead, you will engineer factories to automate the production for you. It is useful to keep a stockpile of frequently used things like circuits and components crafted so you don't have to wait for them when you need them."
+				"Когда вы создадите больше машин вам больше не придется создавать что-то вручную. Вместо этого вы будете разрабатывать заводы по автоматизации производства за вас. Всегда полезно иметь запас часто используемых ингридиетов таких как схемы и детали, что бы не приходилось ждать пока они сделаются, когда они так нужны."
 				""
-				"&2If the machine sounds start to get on your nerves, you can mute GT machines with a GT Hammer, &9or mute the sound entirely in the ESM menu, accessable from your inventory."
+				"&2Если звуки машин GT уже начали надоедать, вы можете заглушить их молотом GT &9или заглушить звук полностью в меню ESM через кнопку в инвентаре."
 			]
 			icon: "gtceu:lv_electric_motor"
 			id: "62BBD1F6767A4D90"
@@ -55,9 +55,9 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"Although you could &emagnetize&r &6Iron Ingots&r by hand using &6Redstone&r, doing that consumes considerable amounts of dust and that's not an option for more advanced materials. This machine will let you magnetize &6Steel Rods&r, as well as even more advanced materials later."
+				"Несмотря на то, что вы можете &eнамагничивать&r &6слитки железа&r вручную &6редстоном&r, это потребляет значительное количество пыли, а для более продвинутых материалов это просто не вариант. Эта машина позволить намагничивать &6стержни из стали&r и другие более продвинутые материалы."
 				""
-				"&2Polarizer recipes in GTCEu go up to UV."
+				"&2Рецепты в поляризаторе в GTCEu нужны вполоть до ПН."
 			]
 			id: "19233A97579E0BDD"
 			rewards: [{
@@ -183,7 +183,7 @@
 			description: [
 				"&6Роботизированные руки-манипуляторы&r — компоненты нескольких мощных машин, а также полезны как насадка для машины для более точного перекладывания предметов."
 				""
-				"Один из самых дорогих компонентов, так как требует двигателей, поршней и схемы."
+				"Один из самых дорогих компонентов, так как требует моторы, поршни и схемы."
 			]
 			id: "055193574D203872"
 			rewards: [{
@@ -203,7 +203,7 @@
 		}
 		{
 			dependencies: ["62BBD1F6767A4D90"]
-			description: ["One of the more intricate components, as it is made using a motor."]
+			description: ["Один из более комплексных компонентов, так как он создаётся из мотора."]
 			id: "7A12743F5ECCED90"
 			rewards: [{
 				id: "60DD7C7B1FC64B80"
@@ -378,9 +378,9 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"Another common component of any machine that uses fluids. Also usable as a cover for moving fluids between &bGregTech&r machines and adjacent tanks or machines."
+				"Ещё один нужный компонент в любой машине, которая работает с жидкостями. Также полезна как насадка для перемещения жидкостей между машинами &bGregTech&r и соседними резервуарами или машинами."
 				""
-				"You must use &6 &6Rubber Rings&r, which requires a &aKnife&r to craft. A stick and a piece of flint will make a Knife with low durability, or check the recipe for metal ones."
+				"Вам понадобятся &6резиновые кольца&r, которые вырезаются из пластин &aножом&r. Примитивный хрупкий нож можно сделать из палки и куска кремния или сверьтесь с &eEMI&r для рецепта из металла."
 			]
 			id: "6A262AA410619C23"
 			shape: "hexagon"
@@ -2044,7 +2044,7 @@
 		}
 		{
 			dependencies: ["3AB0402B19DD5BA8"]
-			description: ["Bigger barrels."]
+			description: ["Бочки теперь стали больше."]
 			id: "3E4DEA4FFD019AB9"
 			tasks: [{
 				id: "4355F32860B92456"
