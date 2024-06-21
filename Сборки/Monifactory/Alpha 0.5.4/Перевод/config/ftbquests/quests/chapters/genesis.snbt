@@ -1376,15 +1376,15 @@
 		{
 			dependencies: ["297B523B6C503957"]
 			description: [
-				"Unlike &aRF power&r, which is safe to transport in any &6conduit&r, &aEU power &erequires caution&r. The key is to always &amatch or exceed&r the &eVoltage &rand&e Amperage&r of your power source with your &6cables&r and machines."
+				"В отличии от &aРТ энергии&r, которая безопасна к траспортировке в любом из &6энергопроводов&r, &aэнергия ЕЭ&e требует особого внимания&r. Главный принцип — &aсоответствовать или превышать&r &eнапряжение&r и &eампераж&r источника энергии &6кабелями&r и машинами."
 				""
-				"&cNEVER &rhook up your Energy Converter&r to a cable that has fewer &eAmps&r than your Energy Converter or Battery Buffer generates. For example, you must use &64x cable&r for a 4A Converter&r, and &616x cable&r for a filled 16-slot Battery Buffer&r. Cables with insufficient amperage rating will &cburn and be destroyed&r. &2Both the multiple-amp-source and multiple-face-input bugs from CE have been fixed - the Energy network now works as intended.&r"
+				"&cНИКОГДА&r не подключайте к преобразователю энергии&r кабель, у которого &eАмпер&r меньше, чем выход у преобразователя или буффера батарей. Например, вам нужно использовать &64х кабель&r для 4А преобразователя&r и &616x кабеля&r для заполненного буфера батарей на 16 ячеек&r. Кабеля с нехваткой ампер &cсгорят и будут уничтожены&r. &2Баги с много-апмерными-источниками и несколько-сторонними-потребителями из CE были исправлены — энергосеть теперь работает как и было задуманно."
 				""
-				"Similarly, your cable must match or exceed the &eVoltage&r of your machines, or they will &cburn and be destroyed&r."
+				"Аналогично, кабель должен соответствовать или превышать &eнапряжение&r и &eампераж&r ваших машин, либо они &cсгорят и будут уничтожены&r."
 				""
-				"&cNEVER&r connect a machine to excessive &eVoltage&r or it will &cvaporize&r. Touching a &6wire&r with connected &aEU power&r will &cinjure or kill you&r, so for your safety, &euse &6cables&e instead&r!"
+				"&cНИКОГДА&r не подключайте в машине превышенное &eнапряжение&r или она &cиспарится&r. Трогать &6оголённые провода&r с подключённой &aэнергией ЕЭ&r может вас &cранить или даже убить&r. Будьте осторожны — &eпользуйтесь &6изолированными кабелями&r."
 				""
-				"&2Superconductor-type wires do not damage you in CEu. The 0-loss cables in CE (Conductive Iron, Energetic Alloy, etc.) are considered Superconductors."
+				"&2Супер-проводники безопасны для человека в CEu. Кабель без потерь (проводящее железо, энергитический сплав и тд.) считается суперпроводником."
 			]
 			icon: "gtceu:hpic_wafer"
 			id: "5A94534682807314"
@@ -1400,19 +1400,19 @@
 		{
 			dependencies: ["5A94534682807314"]
 			description: [
-				"Now that you have everything you need to power your machines, it's time to put it all together."
+				"Теперь когда у вас есть всё, чтобы запитать ваши машины, пришло время собрать всё воедино."
 				""
-				"Your Steam Dynamo needs burnable fuel (like &6Coal&r) and &9water&r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a &aCrescent Hammer&r, if needed."
+				"Паровой динамо нужно сжигаемое топливо (например, &6уголь&r) и &9воды&r. Он будет передавать энергию РТ через катушку (красная сторона на верхушке). Направление паровой динамо может быть скорректированно &aсерповидным молотом&r, если нужно."
 				""
-				"&6Energy Conduits&r can be used to transfer that RF power, but the dynamo can also output RF directly into an Energy Converter by making the Excitation Coil touch the Energy Converter."
+				"&6Энергопроводы&r могут проводить генерируемую энергию РТ, но динамо может передавать энергию напрямую в преобразователь, если катушка динамо касается входа преобразователя."
 				""
-				"The Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a &aWrench&r. Attach your &6Conductive Iron Cables&r to the output side of the Energy Converter."
+				"Преобразователь энергии конвертирует энергию РТ в ЕЭ, передавая результирующую энергию ЕЭ через сторону с красной точкой. Направление может быть скорректированно &aGT ключом&r. Подключите к стороне выхода преобразователя ваши &6кабеля из проводящего железа&r."
 				""
-				"Now all you need are some &bGregTech&r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:"
+				"Теперь, осталось собрать какие-нибудь машины &bGregTech&r для подключения к кабелям. Вы можете смастерить что угодно, но рекомендуется для начала сделать одну из этих двух машин:"
 				""
-				"The &6Wiremill&r will make crafting wires much, much easier."
+				"&6Волочильный станок&r значительно упростит создание проводов."
 				""
-				"The &2Bending Machine&r will make Plates from one ingot instead of two."
+				"&2Гибочный станок&r позволит создавать пластину из одного слитка вместо двух."
 			]
 			icon: "gtceu:uhpic_wafer"
 			id: "2D31856F6EF1ED69"
@@ -1427,7 +1427,7 @@
 				id: "44E7A2BF6528EC4E"
 				type: "checkmark"
 			}]
-			title: "Вобрав всё воедино"
+			title: "Собрав всё воедино"
 			x: -1.0d
 			y: 16.5d
 		}
@@ -1477,19 +1477,19 @@
 		{
 			dependencies: ["3A5387B2003177B2"]
 			description: [
-				"These devices can help you build, swap blocks, destroy massive areas, or even copy-paste regions. You need the blocks you plan to paste in your inventory though; it doesn't make them from nothing."
+				"Эти устройства помогут вам в строительстве, замене блоков, очистке огромных площадей или даже копировать целые регионы, но для этого у вас в инвентаре должны быть все материалы для вставки вашего плана; они не будут строить за бесплатно."
 				""
-				"Also important to note that it won't work with TileEntities, so it pretty much only works with simple blocks (not stuff like machines)."
+				"Важно подметить, что они не работают с TileEntity, так что по сути они работают только с простыми блоками (но не с машинами)"
 				""
-				"A very cool feature of this mod is how you can &9shift-right click&r an &ainventory&r with any gadget (if you are using a &6Copy-Paste Gadget&r to do this, it must be on &ePaste&r mode) and the gadget will &9pull items from the inventory&r, `connecting' the gadget to the inventory."
+				"Очень полезная функция этого мода — возможность «связать» гаджет с ивентарём: нажмите &9Shift-ПКМ&r на &aинвентарь&r любым гаджетом (Если вы используете для этого &6гаджет копирования&r, то он должен быть в режиме &eвставки&r) и гаджет будет &9использовать предметы из привязанного инвентаря&r."
 				""
-				"For example, if you shift-right click a chest full of cobblestone, the gadget will use cobblestone from that chest to place blocks."
+				"Например, если нажать Shift-ПКМ на сундук полный булыжника, то гаджет будет использовать булыжник из этого сундука для строительства."
 				""
-				"By default, the config GUI is bound to &6G&r."
+				"[\"По умолчанию интерфейс конфигурации назначен на клавишу \",{\"keybind\":\"key.buildinggadgets2.settings_menu\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Setting menu\\\" в настройках управления\"}},\".\"]"
 			]
 			icon: "buildinggadgets2:gadget_building"
 			id: "5F9C7FB40AD2640B"
-			subtitle: "This pack has &bBuilding Gadgets&r"
+			subtitle: "В этой сборке есть &bBuilding Gadgets&r"
 			tasks: [
 				{
 					id: "449B547CDED79AE3"
