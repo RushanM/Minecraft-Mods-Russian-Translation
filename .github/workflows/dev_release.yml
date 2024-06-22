@@ -38,9 +38,13 @@ jobs:
             if (releases.length === 0) {
               next_version = 1;
             } else {
-              const latestRelease = releases[0];
-              const latestVersion = parseInt(latestRelease.name.split('Dev-')[1]);
-              next_version = latestVersion + 1;
+              const latestRelease = releases.find(release => release.tag_name.startsWith('dev'));
+              if (latestRelease) {
+                const latestVersion = parseInt(latestRelease.tag_name.replace('dev', ''));
+                next_version = latestVersion + 1;
+              } else {
+                next_version = 1;
+              }
             }
 
             core.setOutput('next_version', next_version);
@@ -51,13 +55,22 @@ jobs:
             zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip $version/ pack.png PeruseOrBruise.txt
           done
 
+      - name: Create GitHub Tag
+        id: create_tag
+        run: |
+          tag_name="dev${{ steps.get_latest_release.outputs.next_version }}"
+          git tag $tag_name
+          git push origin $tag_name
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.sha }}
+          tag_name: dev${{ steps.get_latest_release.outputs.next_version }}
           release_name: Предварительная редакция №${{ steps.get_latest_release.outputs.next_version }}
           draft: false
           prerelease: false
