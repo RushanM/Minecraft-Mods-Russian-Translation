@@ -87,14 +87,15 @@ jobs:
 
       - name: Создание выпуска
         id: create_release
-        uses: actions/create-release@v1
+        uses: softprops/action-gh-release@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
         with:
+          body: Это автоматический выпуск со всеми последними изменениями. Обратите внимание, что изменения, совершённые в этом выпуске не проверены для выпуска и могут быть нестабильными. О них НЕ НУЖНО сообщать разработчику, так как все проблемы скорее всего будут рано или поздно исправлены в следующих предварительных редакциях.
           tag_name: dev${{ steps.get_latest_release.outputs.next_version }}
-          release_name: Предварительная редакция №${{ steps.get_latest_release.outputs.next_version }}
+          name: Предварительная редакция №${{ steps.get_latest_release.outputs.next_version }}
           draft: false
-          prerelease: false
+          prerelease: true
 
       - name: Загрузка архива ветки 1.16 в выпуск
         uses: actions/upload-release-asset@v1
