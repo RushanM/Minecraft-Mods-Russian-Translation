@@ -75,8 +75,6 @@ jobs:
           zip -r ../Rus-For-Mods-1.21-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
-          done
-
 
       - name: Создание тега для выпуска
         id: create_tag
