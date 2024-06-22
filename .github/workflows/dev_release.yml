@@ -1,0 +1,113 @@
+name: Dev Versions Wizard
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install zip
+        run: sudo apt-get install -y zip
+
+      - name: Get latest release
+        id: get_latest_release
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: releases } = await github.repos.listReleases({
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            });
+
+            if (releases.length === 0) {
+              core.setOutput('next_version', 1);
+            } else {
+              const latestRelease = releases[0];
+              const latestVersion = parseInt(latestRelease.name.split('Dev-')[1]);
+              core.setOutput('next_version', latestVersion + 1);
+            }
+
+      - name: Create ZIP archives
+        run: |
+          for version in 1.16 1.17 1.18 1.19 1.20 1.21; do
+            zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip $version/ pack.png PeruseOrBruise.txt
+          done
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.sha }}
+          release_name: Предварительная редакция №${{ steps.get_latest_release.outputs.next_version }}
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Assets
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload 1.17 Release Assets
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload 1.18 Release Assets
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload 1.19 Release Assets
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload 1.20 Release Assets
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload 1.21 Release Assets
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
