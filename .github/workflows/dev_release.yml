@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Клонирование репозитория
         uses: actions/checkout@v2
 
       - name: Установка утилиты ZIP
@@ -52,8 +52,14 @@ jobs:
       - name: Создание архивов редакций для каждой из веток
         run: |
           for version in 1.16 1.17 1.18 1.19 1.20 1.21; do
-            zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip -j $version/* pack.png PeruseOrBruise.txt
+            (
+              cd $version/*
+              zip -r ../Rus-For-Mods-$version-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip ./*
+              cd ..
+              zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+            )
           done
+
 
       - name: Создание тега для выпуска
         id: create_tag
