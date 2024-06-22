@@ -932,11 +932,11 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"While there are no types of veins that are extremely rare, you're likely to struggle with finding at least one of the less common vein types. This isn't really avoidable."
+				"Хоть здесь и не так много типов очень редких жил, вы, наверняка, столкнётесь с трудностями в поиске хотя бы одной из менее распространённых типов жил. "
 				""
-				"[\"You will accumulate a lot of \",{\"text\":\"Monicoins\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" from quest turn-ins while playing monifactory. Do not be hesitant to spend them on things you need!\"]"
+				"[\"В процессе прохождения Монифактори у вас скопится много \",{\"text\":\"Монимонет\",\"color\":\"dark_purple\",\"hoverEvent\":{\"action\":\"show_item\",\"contents\":{\"id\":\"kubejs:moni_quarter\"}}},\" как награда за квесты. Не стесняйтесь тратить их на то, что нужно!\"]"
 				""
-				"[\"Search for various ores (generally the first one listed in \",{\"text\":\"EMI\",\"color\":\"aqua\"},\") to find the coin recipes for them. Alternatively, hover your cursor over a coin and press \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Show Recipe\\\" in keybind option\"}},\" to see what you can buy with it.\"]"
+				"[\"Что бы узнать рецепт за монеты нужной руды , ищите её в \",{\"text\":\"EMI\",\"color\":\"aqua\"},\" (Как правило она попадается первая). Либо наведите курсор на монету и нажмите \",{\"keybind\":\"key.jei.showRecipe\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Показать рецепт\\\" в настройках управления\"}},\" что бы понять что можно купить.\"]"
 			]
 			hide_dependency_lines: true
 			icon: "kubejs:moni_dollar"
@@ -1124,13 +1124,13 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"Open your inventory and look at the top-left corner of the screen. Click the map-looking icon called &eClaimed Chunks&r."
+				"Откройте инвентарь и посмотрите на левый верхний угол экрана. Нажмите на иконку в виде карты под названием &eFTB чанки&r."
 				""
-				"&6Click a chunk&r to claim it as yours. This will prevent unwanted creeper explosions and other players from interacting with your base."
+				"&6Нажмите на чанк&r, чтобы назначить его своим собственным. Это защитит его от нежелательных взрывов криперов и от взаимодействий других игроков с территорией."
 				""
-				"&eIf you're playing on a server with custom settings, ask the server owner what methods are available&f."
+				"&eЕсли вы играете на сервере с особыми настройками, узнайте у владельца какие методы доступны&f."
 				""
-				"To invite players to your &bFTB Utils&f party, look for a corresponding button in the same corner. Parties share claimed chunks with each other. You can configure permissions for your party's claimed chunks in the party settings menu."
+				"Чтобы пригласить игрока в вашу группу &bFTB утилит&f, ищите соответствующую иконку в том же углу. Группы разделяют между собой размеченную территорию. Разрешения для территории вашей группы можно настроить в меню конфигурации группы."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1140,7 +1140,7 @@
 			subtitle: "Вам, должно быть, интересно, как тут устроена подгрузка чанков"
 			tasks: [{
 				id: "78BC5B51125B35BD"
-				title: "Claim your chunks !"
+				title: "Приватизируйте чанки!"
 				type: "checkmark"
 			}]
 			title: "Отмечайте чанки своими и приглашайте в них членов команды!"
@@ -1326,11 +1326,11 @@
 				"1A30472430354F1E"
 			]
 			description: [
-				"&rThe &3Steam Dynamos&r&r&r you have made are generating &aRF power&r, but &bGregTech&r machines require &aEU power&r. With your first &6circuit&r in hand, you are ready to build a &eLow Voltage (LV) &3&2Energy Converter&r."
+				"&3Паровая динамо&r вырабатывает энергию &aРТ&r, но машины &bGregTech&r требуют энергию &aЕЭ&r. С первой &6электросхемой&r в руках вы готовы создать &2преобразователь энергии &eНизкого Напряжения (НН)&r"
 				""
-				"The &2Energy Converter&r is a special device that &econverts &2between &aRF power&r and &aEU power&r. They come in &2four sizes: 1A, 4A, 8A, and 16A."
+				"&2Преобразователь энергии&r - особое устройство способное &eконвертировать&r между &aэнергией РТ&r и &aэнергией ЕЭ&r. У него четыре варианта: 1А, 4А, 8А и 16А."
 				""
-				"&aRF&r converts into &aEU&r at a &e4 to 1 ratio&r. &a100 RF&r becomes &a25 EU&r, and vice-versa. &2Use a Soft Hammer to change the conversion direction."
+				"&aРТ&r конвертируется в &aЕЭ&r в отношении &e4 к 1&r. &a100 РТ&r преобразуется в &a25 ЕЭ&r и наоборот. &2Используйте киянку, что бы изменить направление преобразования."
 			]
 			icon: "gtceu:lv_4a_energy_converter"
 			id: "297B523B6C503957"
@@ -1376,15 +1376,15 @@
 		{
 			dependencies: ["297B523B6C503957"]
 			description: [
-				"Unlike &aRF power&r, which is safe to transport in any &6conduit&r, &aEU power &erequires caution&r. The key is to always &amatch or exceed&r the &eVoltage &rand&e Amperage&r of your power source with your &6cables&r and machines."
+				"В отличии от &aРТ энергии&r, которая безопасна к траспортировке в любом из &6энергопроводов&r, &aэнергия ЕЭ&e требует особого внимания&r. Главный принцип — &aсоответствовать или превышать&r &eнапряжение&r и &eампераж&r источника энергии &6кабелями&r и машинами."
 				""
-				"&cNEVER &rhook up your Energy Converter&r to a cable that has fewer &eAmps&r than your Energy Converter or Battery Buffer generates. For example, you must use &64x cable&r for a 4A Converter&r, and &616x cable&r for a filled 16-slot Battery Buffer&r. Cables with insufficient amperage rating will &cburn and be destroyed&r. &2Both the multiple-amp-source and multiple-face-input bugs from CE have been fixed - the Energy network now works as intended.&r"
+				"&cНИКОГДА&r не подключайте к преобразователю энергии&r кабель, у которого &eАмпер&r меньше, чем выход у преобразователя или буффера батарей. Например, вам нужно использовать &64х кабель&r для 4А преобразователя&r и &616x кабеля&r для заполненного буфера батарей на 16 ячеек&r. Кабеля с нехваткой ампер &cсгорят и будут уничтожены&r. &2Баги с много-апмерными-источниками и несколько-сторонними-потребителями из CE были исправлены — энергосеть теперь работает как и было задуманно."
 				""
-				"Similarly, your cable must match or exceed the &eVoltage&r of your machines, or they will &cburn and be destroyed&r."
+				"Аналогично, кабель должен соответствовать или превышать &eнапряжение&r и &eампераж&r ваших машин, либо они &cсгорят и будут уничтожены&r."
 				""
-				"&cNEVER&r connect a machine to excessive &eVoltage&r or it will &cvaporize&r. Touching a &6wire&r with connected &aEU power&r will &cinjure or kill you&r, so for your safety, &euse &6cables&e instead&r!"
+				"&cНИКОГДА&r не подключайте в машине превышенное &eнапряжение&r или она &cиспарится&r. Трогать &6оголённые провода&r с подключённой &aэнергией ЕЭ&r может вас &cранить или даже убить&r. Будьте осторожны — &eпользуйтесь &6изолированными кабелями&r."
 				""
-				"&2Superconductor-type wires do not damage you in CEu. The 0-loss cables in CE (Conductive Iron, Energetic Alloy, etc.) are considered Superconductors."
+				"&2Супер-проводники безопасны для человека в CEu. Кабель без потерь (проводящее железо, энергитический сплав и тд.) считается суперпроводником."
 			]
 			icon: "gtceu:hpic_wafer"
 			id: "5A94534682807314"
@@ -1400,19 +1400,19 @@
 		{
 			dependencies: ["5A94534682807314"]
 			description: [
-				"Now that you have everything you need to power your machines, it's time to put it all together."
+				"Теперь когда у вас есть всё, чтобы запитать ваши машины, пришло время собрать всё воедино."
 				""
-				"Your Steam Dynamo needs burnable fuel (like &6Coal&r) and &9water&r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a &aCrescent Hammer&r, if needed."
+				"Паровой динамо нужно сжигаемое топливо (например, &6уголь&r) и &9воды&r. Он будет передавать энергию РТ через катушку (красная сторона на верхушке). Направление паровой динамо может быть скорректированно &aсерповидным молотом&r, если нужно."
 				""
-				"&6Energy Conduits&r can be used to transfer that RF power, but the dynamo can also output RF directly into an Energy Converter by making the Excitation Coil touch the Energy Converter."
+				"&6Энергопроводы&r могут проводить генерируемую энергию РТ, но динамо может передавать энергию напрямую в преобразователь, если катушка динамо касается входа преобразователя."
 				""
-				"The Energy Converter transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a &aWrench&r. Attach your &6Conductive Iron Cables&r to the output side of the Energy Converter."
+				"Преобразователь энергии конвертирует энергию РТ в ЕЭ, передавая результирующую энергию ЕЭ через сторону с красной точкой. Направление может быть скорректированно &aGT ключом&r. Подключите к стороне выхода преобразователя ваши &6кабеля из проводящего железа&r."
 				""
-				"Now all you need are some &bGregTech&r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:"
+				"Теперь, осталось собрать какие-нибудь машины &bGregTech&r для подключения к кабелям. Вы можете смастерить что угодно, но рекомендуется для начала сделать одну из этих двух машин:"
 				""
-				"The &6Wiremill&r will make crafting wires much, much easier."
+				"&6Волочильный станок&r значительно упростит создание проводов."
 				""
-				"The &2Bending Machine&r will make Plates from one ingot instead of two."
+				"&2Гибочный станок&r позволит создавать пластину из одного слитка вместо двух."
 			]
 			icon: "gtceu:uhpic_wafer"
 			id: "2D31856F6EF1ED69"
@@ -1427,13 +1427,13 @@
 				id: "44E7A2BF6528EC4E"
 				type: "checkmark"
 			}]
-			title: "Вобрав всё воедино"
+			title: "Собрав всё воедино"
 			x: -1.0d
 			y: 16.5d
 		}
 		{
 			dependencies: ["297B523B6C503957"]
-			description: ["The &6Battery Buffer&r is a machine which can hold &6Batteries&r for energy storage. Each Battery accepts up to 2 amps and outputs up to 1 amp."]
+			description: ["&6Батарейный буффер&r — это машина, в которой хранятся &6батареи&r как хранилище энергии. Каждая батарея принимает до 2 ампер и отдаёт 1 ампер."]
 			id: "2FA9404468E4BBD9"
 			rewards: [{
 				id: "325B36632BC87A4F"
@@ -1452,11 +1452,11 @@
 		{
 			dependencies: ["2FA9404468E4BBD9"]
 			description: [
-				"&6Batteries&r are &bGregTech &rpower storage for &aEU&r energy."
+				"&6Батареи&r - это энергохранилище &aЕЭ&r в &bGregTech&r."
 				""
-				"Although there are several types of rechargeable batteries you can make, &2Lithium Batteries&r are the best ones, and the only ones you should really consider making."
+				"Существует несколько типов многоразовых батарей, но &2литиевые батареи&r самые лучшие и рекомендуется стремиться делать только их."
 				""
-				"&6Lithium&r is possible to find inside of &6Tungsten&r veins, however, they are fairly rare. Consider \"buying\" some Lithium with &9Monicoins&r."
+				"&6Литий&r можно встретить вкраплениями в жиле &6вольфрама&r, однако она довольно редкая. Рассмотрите вариант «покупки» немного лития за &9Монимонеты&r."
 			]
 			id: "077AA27F26B7831F"
 			rewards: [{
@@ -1477,19 +1477,19 @@
 		{
 			dependencies: ["3A5387B2003177B2"]
 			description: [
-				"These devices can help you build, swap blocks, destroy massive areas, or even copy-paste regions. You need the blocks you plan to paste in your inventory though; it doesn't make them from nothing."
+				"Эти устройства помогут вам в строительстве, замене блоков, очистке огромных площадей или даже копировать целые регионы, но для этого у вас в инвентаре должны быть все материалы для вставки вашего плана; они не будут строить за бесплатно."
 				""
-				"Also important to note that it won't work with TileEntities, so it pretty much only works with simple blocks (not stuff like machines)."
+				"Важно подметить, что они не работают с TileEntity, так что по сути они работают только с простыми блоками (но не с машинами)"
 				""
-				"A very cool feature of this mod is how you can &9shift-right click&r an &ainventory&r with any gadget (if you are using a &6Copy-Paste Gadget&r to do this, it must be on &ePaste&r mode) and the gadget will &9pull items from the inventory&r, `connecting' the gadget to the inventory."
+				"Очень полезная функция этого мода — возможность «связать» гаджет с ивентарём: нажмите &9Shift-ПКМ&r на &aинвентарь&r любым гаджетом (Если вы используете для этого &6гаджет копирования&r, то он должен быть в режиме &eвставки&r) и гаджет будет &9использовать предметы из привязанного инвентаря&r."
 				""
-				"For example, if you shift-right click a chest full of cobblestone, the gadget will use cobblestone from that chest to place blocks."
+				"Например, если нажать Shift-ПКМ на сундук полный булыжника, то гаджет будет использовать булыжник из этого сундука для строительства."
 				""
-				"By default, the config GUI is bound to &6G&r."
+				"[\"По умолчанию интерфейс конфигурации назначен на клавишу \",{\"keybind\":\"key.buildinggadgets2.settings_menu\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Setting menu\\\" в настройках управления\"}},\".\"]"
 			]
 			icon: "buildinggadgets2:gadget_building"
 			id: "5F9C7FB40AD2640B"
-			subtitle: "This pack has &bBuilding Gadgets&r"
+			subtitle: "В этой сборке есть &bBuilding Gadgets&r"
 			tasks: [
 				{
 					id: "449B547CDED79AE3"
@@ -1534,9 +1534,9 @@
 		{
 			dependencies: ["3A5387B2003177B2"]
 			description: [
-				"It's probably a bit premature to consider a &6jetpack&r at this point, but if you really want to craft this bad boy, I won't stop you."
+				"Возможно, сейчас немного рановато задумываться о &6рективном ранце&r, но если уж очень хочется создать этого парня, то я вас не останавливаю."
 				""
-				"There's also a quest chain for &bEnder IO&r Jetpacks (starting with the &6Conductive Iron Jetpack&r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying."
+				"Также, есть ещё цепочка квестов для ранцев &bEnder IO&r (начиная с &6реактивного ранца из проводящего железа&r). В итоге вам понадобится сделать оба, но не надолго, так что можете спокойно пропустить хотя бы одну из этих цепочек, разве что если вам уж очень нравится летать."
 			]
 			id: "7E66445087E82F65"
 			rewards: [{
@@ -1562,7 +1562,7 @@
 		}
 		{
 			dependencies: ["3A5387B2003177B2"]
-			description: ["This relatively inexpensive item will suck nearby items into your inventory."]
+			description: ["Этот относительно недорогой инструмент будет притягивать ближайшие предметы к вам в инвентарь."]
 			id: "39394D5596FF8BC8"
 			rewards: [{
 				id: "20D8F149F414F950"
@@ -1591,19 +1591,20 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&6Gregtech&r adds a decent bit of extra crafting to the earlygame. Thankfully, &bEMI&r has some tools to help make your life &9&lMUCH&r easier when doing all this crafting."
+				"&6Gregtech&r добавляет довольно приличное количество рецептов в начало игры. К счастью, в &bEMI&r есть некоторые полезные иструменты &9ЗНАЧИТЕЛЬНО&r упрощающие всё касательно рецептов."
 				""
-				"[\"On the topic of crafting, if you are not already familiar with how \", {\"text\": \"recipe viewers\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\" like EMI or JEI, read that quest first.\"]"
+				"[\"К теме о рецептах: если вы не знакомы с обозревателями рецептов такие как EMI или JEI, то прочтите \", {\"text\": \"этот квест.\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3B200AD6EFF90DFA\" } },\"\"]"
 				""
-				"When looking a recipe in EMI, you've likely noticed 3 buttons that appear on each recipe, being &c[❤]&r, &a[┴]&r, and &9[+]&r."
+				"При осмотре рецепта в EMI вы, скорее всего, заметили эти 3 кнопки возле каждого рецепта: &c[❤]&r, &a[┴]&r, and &9[+]&r."
 				""
-				"Let's start with &9[+]&r, as it's the simplest: right-click a crafting table, look up the recipe you need and press the &9[+]&r button: if you have all required items for the recipe, this will put them all into the crafting table for you."
+				"Начнём с простого &9[+]&r: откройте верстак, найдите нужный рецепт и нажмите кнопку &9[+]&r: если у вас есть все нужные ингредиенты для этого рецепта, то она разложит их в верстак за вас."
 				""
-				"&c[❤]&r and &a[┴]&r are used in tandem to create &arecipe trees&r. Pressing &a[┴]&r will pull up a &arecipe tree&r for that given item. Pressing &c[❤]&r on a recipe will mark it as the &cdefault recipe&r for that item, and will show that recipe (and the items used to craft it) in &arecipe trees&r. You can then add &cdefault recipes&r for the items used to craft that recipe, repeat ad nauseam. Note that you can click on a item in the &arecipe tree&r and it's recipes will be pulled up."
+				"&c[❤]&r и &a[┴]&r используются в сочетании в &aдереве рецептов&r. Нажатие &a[┴]&r откроет окно &aдерева рецептов&r данного предмета. Нажатие &c[❤]&r отмечает рецепт как &cстандартный рецепт&r для данного предмета и он будет отображаться (и все его ингредиенты) в &aдереве рецептов&r. Затем, вы можете добавить &cстандартный рецепт&r для этих ингредиентов, и так пока не надоест. Заметьте, что вы можете нажать на предмет в &aдереве рецептов&r и открыть его рецепт."
+				""
 				"{@pagebreak}"
-				"In the &arecipe tree&r GUI, you can change the batch size by scrolling on the number to the right of the final result. Finally, and most importantly, you can press the &6Magnifying Glass&r to switch to &6Crafting Tree Mode&r, this will &edisplay the items that you need for every step to craft the number of items that you specified&r in your sidebar, and will dynamically update as you craft items. You can click on these &6Synethic Favorites&r with your Craft to Inventory bind (unbinded by default) to &eautomatically craft and then push items back into your inventory&r when using a crafting table, or push the exact number of items needed if using a different inventory.&r"
+				"В интерфейсе &aдерева рецептов&r колёсиком мыши можно изменять число создаваемой партии, правее от финального результата. Наконец, самое важное, вы можете нажать на &6увеличительное стекло&r что бы переключится &6режим дерева создания&r. Он будет &eпоказывать необходимые предметы для каждого шага крафта нужного количества заданного предмета&r в боковой панели и динамически обновляться в течение создания. На эти &6мнимые избранные&r предметы можно нажать клавишой «Создать в инвентарь» (не назначено по умолчанию), что бы &eавтоматически создать и отправить результат обратно в инвентарь&r при работе с верстаком, или выложить точное число сырья при работе с другим инвентарём.&r"
 				""
-				"Also note that EMI will commit &cdefault recipes&r to memory, meaning that as you save more and more recipes, EMI will remember them all, and will automatically use them when you pull up a &arecipe tree&r for any given item. Also, you can change the &cdefault recipe&r for an item, and EMI will automatically update the &arecipe tree&r as well. You can also click the &a[┴]&r button found in the bottom left of your screen and it will pull up the &arecipe tree&r GUI as well."
+				"Так же заметьте, что EMI сохраняет &cстандартные рецепты&r в память, означая что можно сохранять всё больше и больше рецептов - EMI запомнит их все и будет автоматически использовать их каждый раз, когда вы откроете &aдерево рецептов&r для любого предмета. Кстати, изменив &cстандартный рецепт&r для предмета, EMI изменит его в &aдереве рецептов&r. В левом нижнем углу экрана есть клавиша &a[┴]&r, которая открывает интерфейс последнего &aдерева рецептов&r."
 			]
 			disable_toast: true
 			icon: "gtceu:crafting_table_cover"
@@ -1622,23 +1623,23 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bEffortless Building&r is a mod that makes it much easier to build. You can create large platforms or various other shapes in just a few clicks, and even build multiple identical structures at the same time!"
+				"&bEffortless Building&r — это мод значительно упрощающий строительство. С ним вы сможете создавать огромные платформы или другие разные формы лишь в несколько кликов и даже строить несколько идентичных структур одновременно."
 				""
-				"To use &bEffortless Building&r, start by pressing and holding the &6Alt&r key. This opens a wheel-shaped menu displaying &especial building modes&r. With this menu open, simply move your cursor over the desired building mode and release &6Alt&r. This will select that mode and you can begin building."
+				"[\"Чтобы воспользоваться &bEffortless Building&r нажмите и держите клавишу \",{\"keybind\":\"key.effortlessbuilding.mode.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Режимы строительства\\\" в настройках управления\"}},\". Это откроет меню-колесо с различными \",{\"text\":\"режимами строительства\",\"color\":\"yellow\"},\".\"]"
 				""
-				"Choose the starting location for your shape by &6right-clicking&r on a blockspace while holding your desired building block. Next, move your cursor to another blockspace to see a preview of the final structure. &6Right-click&r again on the desired ending block to actually build the shape from blocks in your inventory."
+				"Выберите в мире стартовую позицию вашей фигуры &6правой кнопкой мыши&r, держа в руках нужный блок. Затем, передвиньте курсор на конечную точку в мире, что бы увидеть предосмотр готовой структуры. Нажмите &6правую кнопку мыши&r снова что бы построить заданную фигуру из блоков из инвентаря."
 				"{@pagebreak}"
-				"Most shapes are flat and are defined using a starting and ending location, but 3D shapes have a third location to complete the shape. Some special modes also have &eoptions&r, like making a &ehollow cube&r instead of a &efilled cube&r."
+				"Большинство фигур плоские и задаются лишь стартовой и конечной точкой, но для 3Д фигур нужно три точки, чтобы завершить фигуру. У некоторых режимов есть &eальтернативы&r, например &eполый куб&r вместо &eзаполненного куба&r."
 				""
-				"If you made a mistake, you can use the &aUndo&r button in the menu to break the blocks you just placed so you can collect them and try again."
+				"Если в чём-то ошиблись нажмите &aОтменить&r в круговом меню, что бы сломать последнюю построенную фигуру, вернуть ресурсы и попробовать снова."
 				""
-				"To change building modes, just open the menu with &6Alt&r as before and pick a different one. To exit the special building modes, select the &eNormal&r mode."
+				"[\"Чтобы выбрать другой режим, вновь откройте меню клавишей \",{\"keybind\":\"key.effortlessbuilding.mode.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Режимы строительства\\\" в настройках управления\"}},\" и выберите любой другой режим. Чтобы выйти из режима строительства, выберите режим \",{\"text\":\"«по старинке»\",\"color\":\"yellow\"},\".\"]"
 				""
-				"&cMake sure you return to Normal mode when you're done building shapes, since the special building modes will interfere with normal gameplay.&r"
+				"&cОбязательно вернитесь в нормальный режим как закончите строить, так как строительные режимы могут помешать игровому процессу.&r"
 				"{@pagebreak}"
-				"The size of shapes you can make in special building modes is limited by your &ereach&r, which is how far away you can click from yourself to start building, or from the previous location to complete a shape. You can craft and eat several tiers of &areach upgrades&r in succession to increase your reach to very high numbers."
+				"Размеры фигур, которые вы можете сделать в особых режимах строительства, ограниченны вашей &eдосягаемостью&r, тоесть на сколько далеко вы можете нажать от себя чтобы начать строить, или от предыдущей точки чтобы закончить фигуру. Вы можете смастерить или съесть несколько уровней подряд &aулучшений досягаемости&r чтобы увеличить дальность размаха во много раз."
 				""
-				"Overall, &bEffortless Building&r is a powerful mod that is very useful for construction. Experiment with it and you'll see how much time it can save you!"
+				"В целом, &bEffortless Building&r - очень удобный мод для строительства. Поэксперементируйте и вы заметите сколько времени он вам сэкономит!"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1649,7 +1650,7 @@
 				id: "23ED12507CA3130E"
 				type: "checkmark"
 			}]
-			title: "Мод Effortless Building"
+			title: "Строительство без хлопот"
 			x: -11.5d
 			y: 2.5d
 		}
@@ -1677,15 +1678,15 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&n&9Monifactory&r&r shares an official Discord server with Pansmith's other projects, which serves as a useful community resource."
+				"&n&9Monifactory&r&r разделяет официальный сервер Discord с другими проектами Pansmith'а, который является полезным источником информации от сообщества."
 				""
-				"On the server, there are flowcharts and guides to help you with many parts of the pack accessable via the server's helpful bot, development announcements and more are available in the &nMoni-News&r channel, and the community helps with tech support questions, and investigates possible bug reports."
+				"На серверах, через умницу-бота, вы можете найти схемы-графы и гайды которые вам помогут во многих частях сборки. Объявления о разработке и многое другое можно найти на канале &nMoni-News&r. Также, сообщество может помочь с вопросами касательно тех-поддержки и разобраться в возможных багах."
 				""
-				"You can also chat with many fellow players there if you like, who are largely willing to help with general questions one might have."
+				"Если хотите, вы можете пообщатся с многими другими игроками, которые в основном готовы помочь по общим вопросам, которые могут возникнуть."
 				"{@pagebreak}"
-				"[\"To join the server, you can use the button on the Main Menu to go to the join URL, or if you're not into Discord you can find my projects on GitHub on my page \", {\"text\": \"here.\", \"color\": \"blue\", \"underlined\": \"true\", \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/ThePansmith\"}}, \".\"]"
+				"[\"Чтобы присоединиться к серверу, можете нажать кнопку в главном меню для подключение через ссылку или, если вас не интересует Discord, вы сможете найти мои другие проекты на моей \", {\"text\": \"странице GitHub\", \"color\": \"blue\", \"underlined\": \"true\", \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/ThePansmith\"}}, \".\"]"
 				""
-				"[\"Issue tracking and development is handled on the respective GitHub project repositories. The repository for this pack is \", {\"text\": \"here\", \"color\": \"blue\", \"underlined\": \"true\", \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/ThePansmith/Monifactory\"}}, \".\"]"
+				"[\"Разработки и отслеживание ошибок проходит на соответствующем репозитории проекта GitHub. Репозиторий этой сборки \", {\"text\": \"здесь\", \"color\": \"blue\", \"underlined\": \"true\", \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://github.com/ThePansmith/Monifactory\"}}, \".\"]"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1777,9 +1778,9 @@
 		{
 			dependencies: ["2FA9404468E4BBD9"]
 			description: [
-				"The &9Tinker's Workstation&r is able to charge items at a modest rate, but can only charge items that use &aRF&r. &9This is also used for upgrading thermal items&r."
+				"&9Верстак мастеров&r способен заряжать предметы умеренным темпом, но принимает лишь предметы использующие &aРТ&r. &9А также он нужен для улучшения предметов из Thermal Series&r."
 				""
-				"The Turbo Charger is a little more expensive, but is able to charge items at a &omuch&r faster rate and is able to charge items that use &aRF&r and &aEU&r."
+				"&9Зарядное устройство&r чуть подороже, но способно заряжать предметы &oгораздо&r быстрее и может принимать предметы использующие &aРТ&r и &aЕЭ&r."
 			]
 			icon: "gtceu:lv_charger_4x"
 			id: "06E9B9DDDB245F38"
@@ -1820,15 +1821,15 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"Whether or not you (or your server admin) picked the default &bLost Cities&r overworld type, you have the option of teleporting yourself to the &eLost Cities Dimension&r. This is useful if you like other world types but want to still be able to explore cities for things like &eloot and spawners&r."
+				"Захотели ли вы или нет(или за вас решил админ сервера) играть на стандартной генерации мира &b«Потерянные города»&r, у вас всегда есть возможность телепортироваться в &eизмерение потерянных городов&r. Это удобно, если вам хочется исследовать другие типы генерации миров, но всё-равно хочется исследовать города в поисках &eсокровищ и спавнеров&r."
 				""
-				"To create a portal, you must place a &aBed&r down on two &6Blocks of Diamond&r. Then, you surround the bed with any kind of &eMonster Skulls&r. Sleep in this bed and you will be teleported there."
+				"Для создания портала нужно поставить &aкровать&r на два &6блока алмаза&r. Затем, окружите кровать любыми &eчерепами монстра&r. Поспите на этой кровати и вас телепортирует."
 				""
-				"&cDon't forget to have a way to get back!&r You can use the &e/sethome&r command to register where your house is, and &e/home&r to return to it. If you supply a name (default \"home\") then you can register and go to multiple locations. There are some &erestrictions&r on this though: &eit takes a few seconds of standing still to activate&r and there is a &ecooldown&r between uses."
+				"&cНе забудьте про возможность вернуться!&r Вы можете использовать команду &e/sethome&r, чтобы установить точку дома, и команду &e/home&r что бы вернуться к ней. Если добавить какое-нибудь имя (по умолчанию «home»), то можно задать и телепортироваться на несколько локаций. Однако, есть несколько &eограничений&r: &eтелепортация занимает несколько секунд и неподвижности на месте для активации&r и между использовании должно пройти некоторое время для &eперезарядки&r команды."
 				""
-				"Later on you'll have other means of teleportation."
+				"Позже вам будут доступны иные методы телепортации."
 				""
-				"Monster Skulls might take a little while to get if you're playing in &ePeaceful&r&r. &6Skeleton Skulls&r would be the way to go in that case."
+				"Черепа монстров может быть трудно достать на &eмирной&r сложности. В данном случае легче всего заполучить &6черепа скелетов&r."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1852,7 +1853,7 @@
 							value: "forge:heads"
 						}
 					}
-					title: "Any Heads"
+					title: "Любая голова"
 					type: "item"
 				}
 				{
@@ -1864,7 +1865,7 @@
 							value: "minecraft:beds"
 						}
 					}
-					title: "Any Bed"
+					title: "Любая кровать"
 					type: "item"
 				}
 				{
@@ -1882,9 +1883,9 @@
 			can_repeat: true
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"If you &osomehow&r run out of charge on your prospector. Simply submit it back in, and we'll give you a fresh one!"
+				"Если у вас &oкаким-то образом&r разрядился искатель, то просто сдайте его обратно и мы вам выдадим новенький!"
 				""
-				"Available once per hour."
+				"Доступно раз в час."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1928,9 +1929,9 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"[\"The \",{\"text\":\"Progression tab\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Click to go to the chapter\"}},\" was added so you can keep track of the important bits of the pack.\"]"
+				"[\"Вкладка \",{\"text\":\"«Прогресс»\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Нажмите, что бы перейти к главе\"}},\" добавлена для визуализации важных частей сборки.\"]"
 				""
-				"Circuits are the baseline of the entire Monifactory progression, so keep climbing!"
+				"Электросхемы - основа всего прогресса Monifactory, так что вперёд — к успеху!"
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1948,9 +1949,9 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"[\"\",{\"text\":\"This tab\",\"color\":\"dark_green\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"055C0B43FE14258F\",\"contents\":\"Click to go to the chapter\"}},{\"text\":\" was added to help you visualise and give you tips on making chemicals, among other important things to automate. Use it wisely!\",\"color\":\"dark_green\"}]"
+				"[\"\",{\"text\":\"Эта вкладка\",\"color\":\"dark_green\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"055C0B43FE14258F\",\"contents\":\"Нажмите, что бы перейти к главе\"}},{\"text\":\" поможет вам визуализировать и подсказать по изготовлению химикаты наряду с прочими немало важными ингредиентами для автоматизации. Пользуйтесь ею с умом!\",\"color\":\"dark_green\"}]"
 				""
-				"Each quest in the tab will give you a description of the machine and the minimum voltage required to run the recipe. Furthermore, although each quest can be completed via a checkbox, all quests in a processing line will auto-complete once you get the item positioned on the right. Either the checkbox or achieving the product will complete the quests."
+				"Каждый квест в этой владке имеет описание машин и их минимальное напряжение, требуемое для работы с рецептом. Более того, каждый квест можно выполнить поставив галочку, либо же все вся цепочка квестов производственных процессов авто-завершится, как только вы получите предмет, расположенный справа. В любом случае, или галочка, или получение предмета выполнит задание."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -1967,7 +1968,7 @@
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["[\"This pack has \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\", allowing for quick, customizable, and easy sorting of any inventory! The keybind is \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Sort Player Inventory\\\" in keybind option\"}}]"]
+			description: ["[\"В этой сборке установлен \",{\"text\":\"Inventory Tweaks\",\"color\":\"aqua\"},\". Он быстрый, настраиваемый и лёгок в использпользовании для сортировки любого инвентаря. Горячая клавиша — \",{\"keybind\":\"key.invtweaks_sort_player.desc\",\"color\":\"gold\",\"bold\":true,\"underlined\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"\\\"Сортировка инвентаря игрока\\\" в настройках управления\"}}]"]
 			disable_toast: true
 			hide_dependency_lines: true
 			icon: "minecraft:chest"
@@ -1985,17 +1986,17 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bGregTech&r adds an &einteractive in-world preview&r for all &bGregTech&r multiblocks! &6Shift-right-click&r a placed controller &ewith an empty hand&r to activate a hologram depicting the default layout of the structure to help you with building. As you place blocks, the structure will be validated and the &efirst incorrect block&r it detects will be highlighted in red."
+				"&bGregTech&r добавляет &eинтерактивые голограммы&r для всех многоблочных струкрур &bGregTech&r! Нажмите &6Shift-ПКМ&r на поставленном контроллере &eсвободной рукой&r чтобы активировать голограмму, изображающую стандартную планировку структуры для упрощения строительства. По мере установки блоков, структура будет проверяться и все &eнеправильные блоки&r будут подсвечены красным."
 				"{@pagebreak}"
-				"&6Sneak-right-click&r to cycle from the full view through each layer. When on the final layer of the preview, this will remove the preview."
+				"&6Shift-ПКМ&r для переключения от общего обзора голограммы к предосмотру разреза каждого слоя. После переключения последнего слоя - голограмма выключится."
 				""
-				"&6Sneak-left-click&r to go back to the previous layer, or close the preview from the full view."
+				"&6Shift-ЛКМ&r чтобы вернутся на предыдущий слой или закрыть предосмотр из общего обзора."
 				""
-				"In the &eJEI previews&r for multiblocks, &6left-click&r and drag the mouse to rotate the preview."
+				"В &eпредосмотрах JEI&r для многоблочных структур нажмите и двигайте &6ЛКМ&r для вращения предосмотра."
 				""
-				"Additionally, you can &6right-click&r and drag the mouse to pan the preview or &6shift-right-click&r and drag to zoom in or out."
+				"В добавок, можно нажать и двигать &6ПКМ&r, чтобы рассмотреть структуру, или &6Shift-ПКМ&r, чтобы приблизить или отдалить."
 				""
-				"Some blocks in the multiblock preview have additional tooltips to provide more information on how the multiblock can form."
+				"У некоторых блоков в предосмотре структуры есть дополнительные подсказки к тому, как структура может быть сформирована."
 			]
 			disable_toast: true
 			hide_dependency_lines: true
@@ -2016,13 +2017,13 @@
 				"06E9B9DDDB245F38"
 			]
 			description: [
-				"Basic &aFlux Capacitors&r hold a whopping lot of energy - &9500 kRF&r - and are useful for keeping your &aRF-powered&r equipment and tools charged."
+				"Базовые &aТоковые конденсаторы&r могут хранить огромное количество энергии — &9500 кРТ&r — и очень удобны для поддержания заряда вашего &aРТ&r снаряжения и инструментов."
 				""
-				"Put one into your newly crafted &9Charger&r to charge it. You can then put it in your inventory to charge your items with &aRF&r."
+				"Зарядите его в вашем новеньком &9зарядном устройстве&r. После, он сможет разяжать ваши &aРТ&r инструменты прямо из инвентаря."
 				""
-				"The Flux Capacitor is a &bBauble&r, so open your inventory and look for the Baubles button, click it to reveal the additional bauble slots menu and put it into any slot you wish."
+				"Токовый конденсатор — это &bаксессуар&r, так что поищите в инвентаре иконку аксессуаров, нажав на неё откроется меню дополнительных ячеек аксессуаров, где вы можете надеть его в любую ячейку."
 				""
-				"Finally, you can charge up all those depleted &m&6Dark Boots&r&r and &6The Ender&r swords you've looted."
+				"Наконец-то вы сможете зарядить все ваши разряженные &m&9ботинки из тёмной стали&r&r и &6мечи Края&r."
 			]
 			icon: {
 				Count: 1b
@@ -2065,11 +2066,11 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&6Sulfur Ore&r is the only source of &6Sulfur Dust&r that's currently available to you."
+				"&6Руда серы&r — единственный источник &6пыли серы&r доступный вам на этом этапе."
 				""
-				"You may want to spend a few &9Monicoins&r on the ore to jumpstart your power storage."
+				"Возможно, вы захотите потратить несолько &9Монимонет&r на руду, чтобы начать конструировать энергохранилище."
 				""
-				"Otherwise the ore is only available in &athe Nether&r, and the only way to get there is with a &6Nether Cake&r. Oh no!"
+				"Другой вариант — это руда, доступная только в &aНезере&r и единственный способ туда попасть — это &6Незерский торт&r. Ох, нет!"
 			]
 			hide_dependency_lines: true
 			icon: "gtceu:sulfur_ore"
@@ -2119,9 +2120,9 @@
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
 			description: [
-				"Although most &ealloys&f require an &3Alloy Smelter&f, some alloys can be made simply by mixing the correct metal dusts together. "
+				"Многие &eсплавы&f требуют особую &3печь для сплавов&f, но некоторые могут быть сделаны просто смешав вместе нужную металлическую пыль."
 				""
-				"&9Steel is one of these alloys, being made by mixing wrought iron dust with coal dust or charcoal dust&r. &2Steel forms the basis of LV Machine Hulls&r, and allows you to make &6Belt Pouches&r, for upgrading your &eTool Belt&r."
+				"&9Сталь - один из таких сплавов, создаваемый из смеси пыли кованного железа с пылью каменного или древесного угля. &2Сталь составляет основу корпусов машин НН&r и позволяет создать &6поясной мешочек&r для улучшения &eпояса инструментов&r."
 			]
 			hide_dependency_lines: true
 			id: "17312BF0197B87A8"
