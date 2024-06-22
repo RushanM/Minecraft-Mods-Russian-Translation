@@ -52,12 +52,7 @@ jobs:
       - name: Создание архивов редакций для каждой из веток
         run: |
           for version in 1.16 1.17 1.18 1.19 1.20 1.21; do
-            (
-              cd "$version" || exit
-              zip -r "../Rus-For-Mods-$version-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip" ./*
-              cd ..
-              zip -r "Rus-For-Mods-$version-Dev-1.zip" "pack.png" "PeruseOrBruise.txt"
-            )
+            zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip $version/assets $version/dynamicmcpack.json $version/pack.mcmeta pack.png PeruseOrBruise.txt
           done
 
 
