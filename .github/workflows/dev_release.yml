@@ -52,27 +52,27 @@ jobs:
       - name: Создание архивов редакций для каждой из веток
         run: |
           cd 1.16
-          zip -r ../Rus-For-Mods-1.16-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          zip -r Rus-For-Mods-1.16-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           cd 1.17
-          zip -r ../Rus-For-Mods-1.17-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          zip -r Rus-For-Mods-1.17-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           cd 1.18
-          zip -r ../Rus-For-Mods-1.18-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          zip -r Rus-For-Mods-1.18-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           cd 1.19
-          zip -r ../Rus-For-Mods-1.19-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          zip -r Rus-For-Mods-1.19-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           cd 1.20
-          zip -r ../Rus-For-Mods-1.20-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          zip -r Rus-For-Mods-1.20-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           cd 1.21
-          zip -r ../Rus-For-Mods-1.21-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          zip -r Rus-For-Mods-1.21-Dev-{{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
           cd ..
           zip -g Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
 
