@@ -1,4 +1,4 @@
-name: Dev Versions Wizard
+name: Мастер выпуска предварительных редакций
 
 on:
   push:
@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Install ZIP
+      - name: Установка утилиты ZIP
         run: sudo apt-get install -y zip
 
-      - name: Get latest release
+      - name: Проверка последнего предварительного выпуска
         id: get_latest_release
         uses: actions/github-script@v6
         with:
@@ -49,13 +49,13 @@ jobs:
 
             core.setOutput('next_version', next_version);
 
-      - name: Create ZIP archives
+      - name: Создание архивов редакций для каждой из веток
         run: |
           for version in 1.16 1.17 1.18 1.19 1.20 1.21; do
-            zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip $version/ pack.png PeruseOrBruise.txt
+            zip -r Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip -j $version/* pack.png PeruseOrBruise.txt
           done
 
-      - name: Create GitHub Tag
+      - name: Создание тега для выпуска
         id: create_tag
         run: |
           tag_name="dev${{ steps.get_latest_release.outputs.next_version }}"
@@ -64,7 +64,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create GitHub Release
+      - name: Создание выпуска
         id: create_release
         uses: actions/create-release@v1
         env:
@@ -75,7 +75,7 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Upload Release Assets
+      - name: Загрузка архива ветки 1.16 в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -85,7 +85,7 @@ jobs:
           asset_name: Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Upload 1.17 Release Assets
+      - name: Загрузка архива ветки 1.17 в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -95,7 +95,7 @@ jobs:
           asset_name: Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Upload 1.18 Release Assets
+      - name: Загрузка архива ветки 1.18 в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -105,7 +105,7 @@ jobs:
           asset_name: Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Upload 1.19 Release Assets
+      - name: Загрузка архива ветки 1.19 в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -115,7 +115,7 @@ jobs:
           asset_name: Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Upload 1.20 Release Assets
+      - name: Загрузка архива ветки 1.20 в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -125,7 +125,7 @@ jobs:
           asset_name: Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Upload 1.21 Release Assets
+      - name: Загрузка архива ветки 1.21 в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
