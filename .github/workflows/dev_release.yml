@@ -1,0 +1,158 @@
+name: Мастер выпуска предварительных редакций
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Клонирование репозитория
+        uses: actions/checkout@v2
+
+      - name: Установка утилиты ZIP
+        run: sudo apt-get install -y zip
+
+      - name: Проверка последнего предварительного выпуска
+        id: get_latest_release
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const token = core.getInput("github-token");
+            const headers = {
+              "Authorization": `token ${token}`,
+              "Accept": "application/vnd.github.v3+json"
+            };
+
+            const response = await fetch(`https://api.github.com/repos/${context.repo.owner}/${context.repo.repo}/releases`, {
+              method: "GET",
+              headers: headers
+            });
+            const releases = await response.json();
+
+            let next_version;
+            if (releases.length === 0) {
+              next_version = 1;
+            } else {
+              const latestRelease = releases.find(release => release.tag_name.startsWith('dev'));
+              if (latestRelease) {
+                const latestVersion = parseInt(latestRelease.tag_name.replace('dev', ''));
+                next_version = latestVersion + 1;
+              } else {
+                next_version = 1;
+              }
+            }
+
+            core.setOutput('next_version', next_version);
+
+      - name: Создание архивов редакций для каждой из веток
+        run: |
+          cd 1.16
+          zip -r ../Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          cd ..
+          zip -g Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+          cd 1.17
+          zip -r ../Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          cd ..
+          zip -g Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+          cd 1.18
+          zip -r ../Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          cd ..
+          zip -g Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+          cd 1.19
+          zip -r ../Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          cd ..
+          zip -g Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+          cd 1.20
+          zip -r ../Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          cd ..
+          zip -g Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+          cd 1.21
+          zip -r ../Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+          cd ..
+          zip -g Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
+
+      - name: Создание тега для выпуска
+        id: create_tag
+        run: |
+          tag_name="dev${{ steps.get_latest_release.outputs.next_version }}"
+          git tag $tag_name
+          git push origin $tag_name
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Создание выпуска
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        env:
+          token: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          body: Это автоматический выпуск со всеми последними изменениями. Обратите внимание, что изменения, совершённые в этом выпуске, не проверены для выпуска и могут быть нестабильными. О них НЕ НУЖНО сообщать разработчику, так как все проблемы скорее всего будут рано или поздно исправлены в следующих предварительных редакциях.
+          tag_name: dev${{ steps.get_latest_release.outputs.next_version }}
+          name: Предварительная редакция №${{ steps.get_latest_release.outputs.next_version }}
+          draft: false
+          prerelease: true
+
+      - name: Загрузка архива ветки 1.16 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.16-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива ветки 1.17 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.17-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива ветки 1.18 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.18-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива ветки 1.19 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.19-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива ветки 1.20 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.20-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива ветки 1.21 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
