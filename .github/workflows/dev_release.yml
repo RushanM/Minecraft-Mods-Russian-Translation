@@ -60,6 +60,9 @@ jobs:
           cd Сборки/Monifactory/Перевод/
           zip -r ../../../Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
+          cd Сборки/The Ferret Business/Перевод/
+          zip -r ../../../The-Ferret-Business-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip .
+          cd ../../../
 
       - name: Создание тега для выпуска
         id: create_tag
@@ -142,7 +145,7 @@ jobs:
           asset_name: Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Загрузка архива Monifactory Russian Translation в выпуск
+      - name: Загрузка архива перевода Monifactory в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -150,4 +153,14 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_name: Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+        - name: Загрузка архива перевода «Хорькового бизнеса» в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./The-Ferret-Business-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: The-Ferret-Business-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip

@@ -1,4 +1,4 @@
-# The Ferret Business («Хорьковый бизнес»)
+# Русский перевод сборки The Ferret Business («Хорьковый бизнес»)
 
 <p align="center"><img src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/the_ferret_business.png?raw=true" height="250" alt="Logo"></p>
 <p align="center"><b><i>Исследование, поиск и пакеты с сюрпризом.</i></b></p>
@@ -21,10 +21,6 @@
 ## Установка
 
 Установите сборку со [страницы в CurseForge](https://www.curseforge.com/minecraft/modpacks/the-ferret-business). Скачайте файлы открытой сейчас вами папки в этом репозитории и поместите по следующим путям:
-
-| Папка | Располагается по пути |
-| - | - |
-| **`lore.ogg`** | `Буква диска:\Users\Пользователь\AppData\Roaming\Лончер\instances\Название установки сборки\minecraft\config\hqm\lore.ogg` |
 
 ## Использованный контент
 
