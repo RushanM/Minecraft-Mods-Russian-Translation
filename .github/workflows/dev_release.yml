@@ -51,7 +51,7 @@ jobs:
 
       - name: Создание архивов редакций для каждой из веток
         run: |
-          for version in 1.16 1.17 1.18 1.19 1.20 1.21; do
+          for version in 1.7 1.16 1.17 1.18 1.19 1.20 1.21; do
             cd $version
             zip -r ../Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
             cd ..
@@ -84,6 +84,16 @@ jobs:
           name: Предварительная редакция №${{ steps.get_latest_release.outputs.next_version }}
           draft: false
           prerelease: true
+
+      - name: Загрузка архива ветки 1.7 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Rus-For-Mods-1.7-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.7-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.16 в выпуск
         uses: actions/upload-release-asset@v1
