@@ -57,6 +57,9 @@ jobs:
             cd ..
             zip -g Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           done
+          cd /Сборки/Monifactory/Перевод/
+          zip -r ../../../Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip .
+          cd ../../../
 
       - name: Создание тега для выпуска
         id: create_tag
@@ -137,4 +140,14 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_name: Rus-For-Mods-1.21-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива Monifactory Russian Translation в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
