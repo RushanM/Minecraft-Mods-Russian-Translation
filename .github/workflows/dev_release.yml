@@ -57,7 +57,7 @@ jobs:
             cd ..
             zip -g Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           done
-          cd /Сборки/Monifactory/Перевод/
+          cd Сборки/Monifactory/Перевод/
           zip -r ../../../Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
 
