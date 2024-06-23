@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","file/Ru-Minor-Fixes-1.20-1.0.zip","file/Moni-Russian-Fixes-1.20-1.0.zip","Moonlight Mods Dynamic Assets","mod_resources","gtceu:dynamic_assets"]
+resourcePacks:["vanilla","file/Ru-Minor-Fixes-1.20-1.0.zip","Moonlight Mods Dynamic Assets","mod_resources","gtceu:dynamic_assets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
