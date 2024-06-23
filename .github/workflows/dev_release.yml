@@ -155,7 +155,7 @@ jobs:
           asset_name: Monifactory-Russian-Translation-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-        - name: Загрузка архива перевода «Хорькового бизнеса» в выпуск
+      - name: Загрузка архива перевода «Хорькового бизнеса» в выпуск
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
