@@ -109,17 +109,17 @@
 				"62BBD1F6767A4D90"
 			]
 			description: [
-				"A &6Programmed Circuit&r is an item used to configure machines. In essence, they tell a machine what to make if there's multiple things it could make from a certain input."
+				"&6Программируемая схема&r используется для настройки конфигурации машин. В сущности, она говорит машине что именно нужно сделать при конфликте рецептов из одних ингредиентов."
 				""
-				"For example, the &3Wiremill&r produces different thicknesses of &6wires&r depending on the config - &ecircuit 1&r produces &61x wires&r, &ecircuit 4&r produces &64x wires&r, etc. The &eEMI&r recipe will tell you which circuit configuration is required."
+				"Например, в зависимости от конфигурации &3волочильный стан&r может создавать разную толщину проводов — &eсхема 1&r производит &61x провод&r. &eСхема 4&r производит &64x провод&r и так далее. Рецепты в &eEMI&r показывают нужную конфигурацию схемы."
 				"{@pagebreak}"
-				"Each machine and item input bus comes with a &2free \"ghost circuit\"&r. Click the circuit slot on the &9bottom right&r of the GUI to access this ghost circuit. Left- and right-click or scroll to adjust the configuration. "
+				"У каждой машины и предметного люка есть встроенная &2«призрачная схема»&r. Нажмите на слот схемы в &9правом нижнем углу&r интерфейса чтобы настроить её. ЛКМ и ПКМ, или колёсиком можно изменять её конфигурацию."
 				""
-				"That said, the Programmed Circuit item (crafted from a single &6LV Circuit&r) still has its uses:"
+				"Однако, у программируемой схемы как предмет (создаваемый из одной &6электросхемы НН&r) всё ещё есть преимущества:"
 				""
-				"- Whilst holding a programmed circuit, shift-right click the machine to set a &bGhost Circuit&r of the same configuration in the machine's circuit slot."
+				"— Пока держите в руках программируемую схему нажмите Shift-ПКМ по машине чтобы задать &bпризрачной схеме&r такую же конфигурацию;"
 				""
-				"- When you're sure that the items you put into a machine won't have any conflicts, you can put &emultiple circuit configs&r into a machine, and it will be able to handle recipes which call for any of those configs. This is useful for machines such as the &3Alloy Blast Smelter&r, but you won't encounter that for a while."
+				"— Если вы уверены, что предметы в машине точно не будут конфликтовать, то вы можете задать &rнесколько конфигураций схем&r в машине и обрабатывать несколько рецептов, которым нужна одна из конфигураций. Это полезно таким машинам, как &3доменный печь для сплавов&r, но до неё ещё не скоро."
 			]
 			icon: {
 				Count: 1b
@@ -152,13 +152,13 @@
 		{
 			dependencies: ["055193574D203872"]
 			description: [
-				"&2Assembling Machines come early in CEu! Circuit recipes are handled through a separate machine, the Circuit Assembler. &r"
+				"&2Сборочная машина доступна раньше в CEu! Электросхемы создаются в другой машине — сборщик микросхем.&r"
 				""
-				"Assembling Machines open up a plethora of &eequal or more efficient recipes that don't require hand tools&r. &2For example, you can make up to 4 Vacuum Tubes in a single craft! &rCheck &eEMI&r for all the components you've been making to see if the Assembler can improve their recipes."
+				"Сборочная машина открывает изобилие &eравно или более эффективных рецептов без использования ручных инструментов&r. &2Например, вы можете смастерить до 4х электровакуумных ламп за один крафт!&r Проверьте в &eEMI&r все компоненты, что вы до этого делали, для улучшенной их алтернативы в сборочной машине."
 				""
-				"Many of the Assembler's recipes require &9fluids&r. Hence, the &3Extractor&r will be required to take full advantage of this machine. "
+				"Большинство рецептов в сборщике требуют &9жидкости&r. Потому, &3экстрактор&r необходим чтобы в полной мере работать с ним."
 				""
-				"Hand tool recipes also don't play nice with &bApplied Energistics&r. Take advantage of Assembling Machines: &cphase out all use of hand tools for crafting items in your automation going forward.&r Once you have all the important machines, you will never need hand tools for crafting."
+				"Рецепты с ручными инструментами плохо работают с &bApplied Energistics&r. Пользуйтесь сборочной машиной: &cизбавьтесь от использования ручных инструментов при дальнейшей автоматизации.&r Как только у вас будут все важные машины, вам больше никогда не понадобятся ручные инструменты."
 			]
 			id: "6197C51E04761371"
 			rewards: [{
@@ -282,9 +282,9 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"Great for automatically converting between Nuggets, Ingots, and Blocks of metals, or simply storing massive amounts of things. Also works with &9monicoins&r."
+				"Идеален для автоматической конвертации между самородками, слитками и блоками металов, или для простого хранения огромное количества ресурса. Также работает с &9монимонетами&r."
 				""
-				"The appearance can be customized by crafting the drawer into &aFramed Compacting Drawer&r and then using a &9Framing Template&r or your crafting grid."
+				"Внешний вид может быть персонализирован при создании ящика в &aобрамляемый копрессирующий ящик&r и использования на нём &9шаблона обрамления&r или в верстаке."
 			]
 			id: "7460F22545A4EFB2"
 			rewards: [{
@@ -325,9 +325,9 @@
 				"7A12743F5ECCED90"
 			]
 			description: [
-				"&3Extractors&r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or &6Rubber Sheets&r into liquid &9Rubber&r."
+				"&3Экстрактор&r полезен для сплавки вещей в жидкости. Например, вы можете расплавить слитки в расплав металлов или &6резиновые пластины&r в жидкую &9резину&r."
 				""
-				"When you have access to &6Steel&r, you can make molds and use &3Fluid Solidifiers&r to form various components more efficiently from fluids, like &6Gears&r."
+				"Когда у вас будет &6сталь&r, вы сможете сделать формы для отлива и с помощью &3жидкостного отвердителя&r эффективнее формировать различные детали из жидкостей, например, &6шестерни&r."
 			]
 			id: "038D06BCA022C1BF"
 			shape: "hexagon"
@@ -344,19 +344,19 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"&3Macerators&r are useful for grinding things down, replacing the &aMortars&r you've needed until now. This is an important machine you will be using for many things in the future."
+				"&3Мацератор&r используется для передрабливания, заменяя &aступу&r в которой вы до сих пор нуждались. Эта машина много где играет важную роль в ближайшем будущем."
 				""
-				"You don't really need a LV one, as you can use the superior &3Steam Grinder&r. LV or MV ones could be used for automation. However, HV ones provide chanced output, extremely important for &eOre Processing&r and other processes."
+				"Вариант НН мало вам понадобится, так как есть альтернатива по-лучше — &3паровой измельчитель&r. Версии НН и СН могут быть использованы в автоматизации. Однако версия ВН может с шансом создать побочный результат — крайне важная часть &eобработки руды&r и других процессов."
 				""
-				"One useful application for a Macerator in the near future is grinding down &6Clay&r or &6Terracotta&r into &6Clay Dust&f."
+				"Ещё одно полезное применение мацератора: в ближайшем будущем нужно будет дробить &6глину&r или &6терракоту&r в &6глиняную пыль&f."
+				"{@pagebreak}"
+				"Не считая нескончаемую прочность, главное преимущество мацератора над ступой — шанс получить дополнительные ресурсы при дроблении. Это назвается &eпобочные продукты&r и их способны получать мацераторы напряжением ВН и все выше, имеющие три  ячейки выхода."
 				""
-				"Besides not having limited durability, a key advantage of Macerators over Mortars is the chance to get additional materials when grinding things down. These are called &ebyproducts&r, and HV or better Macerators have three slots instead of one so byproducts can appear."
+				"Глядя на рецепты в &bEMI&r можно различить какой результат побочный, глядя на контекстное окно: &eу побочных продуктов подписан шанс выхода&r, когда у гарантированного выхода шанс не приписывается. &2Шансы увеличиваются на определённую величину с каждым уровнем машины выше уровня рецепта. Эти шансы также подписаны."
 				""
-				"When reading Macerator recipes in &bEMI&r, you can tell which outputs are byproducts by seeing if &ethe tooltip tells you it has a chance to appear&r: guaranteed outputs do not list a chance. &2The chance increases by a certain amount for each tier of machine you have above the tier of recipe. This chance is also listed in the tooltip."
+				"Мацераторы способны перерабатывать ненужные машины для дополнительных материалов&r"
 				""
-				"Macerators can now also recycle your old Machines for some extra materials.&r"
-				""
-				"Finally, a Macerator will only start processing if there is room for all possible outputs. Make sure you empty them so they can keep working."
+				"Наконец, мацератор начнёт свою работу только если в ячейках выхода есть место для всех возможных результатов работы. Убедитель, что машину освободили перед началом работы."
 			]
 			id: "4685AC9E6CD87B77"
 			rewards: [{
@@ -1653,13 +1653,13 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"Mixes dusts together."
+				"Смешивает пыль вместе."
 				""
-				"For now, you'll be using it to make &6Energetic Alloy Dust&r."
+				"На первое время он вам нужен будет для создания &6пыли энергитического сплава&r."
 				""
-				"Energetic Alloy Dust is made from &6Redstone&r, &6Gold Dust&r and &6Glowstone Dust&r. "
+				"Пыль энергетического сплава получается из смеси &6редстоуна&r, &6пыли золота&r и &6пыли светокамня&r."
 				""
-				"You should have some Glowstone from your adventures in the &cNether&r, but you can also make it by mixing &6Tricalcium Phosphate Dust&r&r&r and &6&6&6Gold Dust&r&r&r."
+				"У вас должен быть светокамень после походок в &cНезер&r, но вы также можете смешать его из &6пыли фосфата трикальция&r м &6пыли золота&r."
 			]
 			id: "1DBBE96165C7987D"
 			rewards: [{
