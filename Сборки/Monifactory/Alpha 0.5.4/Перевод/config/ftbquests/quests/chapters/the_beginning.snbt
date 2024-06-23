@@ -250,18 +250,18 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"The &3Bending Machine&r improves the yield of a great deal of items. Most notably, you can use it to get one &6Plate&r from a single ingot, instead of having to spend two ingots for a single plate."
+				"&3Листогибочный станок&r улучшает выработку значительного числа предметов. В особенности, его можно использовать для создания &6пластин&r из одного слитка вместо старого затратного способа: двух слитков к одной пластине."
 				""
-				"As with the &3Wiremill&r, this requires a &6Programmed Circuit&r to tell it what to make. For plates, this is &econfiguration 1&r. Refer to &eEMI&r for which configuration to use for your recipe."
-				" "
-				"Other materials it can produce include:"
-				"- 4 &6Foils&r from a Plate"
-				"- &6Double Plates&r from two Plates"
-				"- &6Dense Plates&r from nine Plates"
-				"- &6Small Springs&r from one Rod"
-				"- &6Springs&r from one Long Rod. "
-				"&r"
-				"If you played the CE version of &9Nomifactory&r, note that the functions of the &3Compressor&r (for making Plates) and &3Cluster Mill&r are merged into this machine."
+				"Как и &3волочильный стан&r, ему требуется &6программируемая схема&r для задания рецепта. Для пластин — &eконфигурация 1&r. Проверяйте рецепт в &eEMI&r для нужной конфигурации."
+				""
+				"Листогиб способен производить и другие материалы, такие как:"
+				"— 4 &6фольги&r из пластины;"
+				"— &6Двойные пластины&r из двух пластин;"
+				"— &6Плотные пластины&r из девяти пластин;"
+				"— &6Маленькие пружины&r из одного стержня;"
+				"— &6Пружины&r из одного большого стержня."
+				""
+				"Если вы играли в CE версию &9Nomifactory&r, учтите, что функции &3компрессора&r (для создания пластин) и &3многовалкового прокатного стана&r совмещены в эту машину."
 			]
 			id: "3EDD0A986384F2A7"
 			rewards: [{
@@ -304,9 +304,9 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"&2&2Most plates are made in the Bending Machine instead of here. (Technically this was the case in CE, but this modpack transferred its recipes to the Compressor.)&r"
+				"&2Большинство пластин создаются в листогибочном стане, а не здесь. (технически так было в CE, но этот модпак перенёс эти рецепты на компрессор)&r"
 				""
-				"However, this machine will still see use for compressing &eNuggets&r into&e Ingots&r, &eIngots&r into &eBlocks&r, &eGem Dusts&r into &ePlates&r (such as &6Certus Quartz&r), as well as various other useful recipes."
+				"Однако, в нём всё ещё можно скомпрессировать &eсамородки&r в &eслиток&r, &eслиток&r в &eблок&r, &eпыль самоцветов&r в &eпластины&r (к примеру &6истинный кварц&r), а также другие разные полезные рецепты."
 			]
 			id: "5795EE147D4879B7"
 			shape: "hexagon"
@@ -400,9 +400,9 @@
 				"404C9497C46E7608"
 			]
 			description: [
-				"If you don't want to mine Obsidian by hand, consider using a Fluid Solidifier to turn &cLava&r into &6Obsidian Blocks&r for you. The process is slow and energy intensive, though."
+				"Если вы не хотите копать обсидиан вручную, воспользуйтесь жидкостным отвердителем для превращения &cлавы&r в &6блоки обсидиана&r за вас. Однако, это процесс не быстрый и энергозатратный."
 				""
-				"&3Fluid Solidifiers&r are useful for lots of other things too, of course. Look through the various molds to see what you can make with one."
+				"&3Жидкостный отвердитель&r полезен и для многого другого, конечно же. Пересмотрите рецепты с различными отливными формами для подходящих вариантов."
 			]
 			id: "4EAD8756BAAC6B2E"
 			rewards: [{
@@ -420,7 +420,7 @@
 		}
 		{
 			dependencies: ["6A262AA410619C23"]
-			description: ["&2Pumps are now available in GT. Useful for gathering Oil or perhaps Lava from the Nether."]
+			description: ["&2Помпы теперь есть в GT. Они помогут в выкачке нефти или даже лавы из Незера."]
 			id: "09C0CDC1DFA7842D"
 			rewards: [{
 				id: "1A7962BB3B58AA55"
@@ -439,9 +439,9 @@
 		{
 			dependencies: ["038D06BCA022C1BF"]
 			description: [
-				"An &3Autoclave&r is a machine that uses liquids (usually water) to polish stones, carve gems into lenses, infuse gems with special liquids, and crystallize various dusts."
+				"&3Автоклав&r — машина, использующая жидкости (в основном воду) для шлифовки камней, вырезать из драгоценных камней линзы особой жидкостью и кристализировать различную пыль."
 				""
-				"You'll need an Autoclave for many recipes, but most presently you will need it to make &6Pulsating Crystals&r and &6Vibrant Crystals&r from &bEnderIO&r."
+				"Вам понадобится автоклав для множества рецептов, но сейчас он вам нужен для создания &6пульсирующих кристаллов&r и &6оживлённых кристаллов&r из &bEnderIO&r."
 			]
 			id: "47094A5717952699"
 			shape: "hexagon"
@@ -460,15 +460,15 @@
 				"273F3F8DD6A3DCC5"
 			]
 			description: [
-				"This pack has &aSnad&r, which is simply a sand-like block that instantly grows sugar cane/cactus on top of it when it receives either a block update or a redstone update."
+				"В этой сборке есть &aПосек&r — блок схожий на песок, который моментально выращивает сахарный тросник/кактус на нём, когда тот обновляется через обновление состояния блока или обновление редстоуна."
 				""
-				"The sugar cane it produces can be used as a fuel for your dynamos, and later you can even brew it for &9Biomass&r."
+				"Производимый сахарный тросник можно использовать как топливо для динамо, а позже варить его в &9биомассу&r."
 				""
-				"This quest calls for a &aRedstone Clock&r, but there are other ways to make snad grow sugar cane even faster (like a vanilla observer clock pointing into the Snad). Make sure to set the timer to pulse as fast as possible."
+				"Этот квест требует &aредстоуновые часы&r, но существуют и другие способы заставить посек выращивать сахарный тросник ещё быстрее (например, оригинальные часы из наблюдателей, смотрящие в сепок). Убедитесь, что поставили таймер пульсировать как можно чаще."
 				""
-				"To collect the sugar cane, you can use a piston and an observer."
+				"Для сбора тросника используйте наблюдатель и поршень."
 				""
-				"For now, a &3Vacuum Chest&r should help keep the floor clean, and causes less lag than Hoppers. A &aVoid Upgrade&r in a &6Storage Drawer&r will automatically delete any items that overflow the drawer's capacity, so it's a good way to ensure you don't crash your server from accumulating a massive sugar cane pile before safer block breakers are available to you."
+				"На первое время &3вакуумого сундука&r должно хватать для сбора предметов с пола и создавать меньше лагов, по сравнению с воронками. &aУлучшение бездны&r в &6ящике&r будет автоматически удалять переизбыток вместимости ящика. Это хороший способ снизить нагрузку на сервер от большого количества тросника, пока у вас не появятся другие разрушители блоков."
 			]
 			icon: "snad:snad"
 			id: "529D50CE814AF449"
@@ -503,11 +503,11 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"&aMolds&r are used in a &3Fluid Solidifier&r or &3Alloy Smelter&r to form materials into specific shapes. These are not consumed or damaged during crafting, so you can leave them in a machine to dedicate it to that shape."
+				"&aОтливные формы&r используются в &3жидкостном отвердителе&r или &3печи для сплавов&r для формирования материаллов в различные формы. Они не расходуются в рецептах и не изнашиваются, так что их можно оставить в машине и специализировать её под эту форму."
 				""
-				"The Fluid Solidifier tends to be the more efficient option: for example, you can use &e8 ingots&r to make one &6Gear&r in an Alloy Smelter, but with an Extractor and Solidifier you can accomplish the same result with &e4 ingots&r."
+				"Жизкостный отвердитель является более эффективным вариантом: например, можно потратить &e8 слитков&r на одну &eшестерню&r в печи для сплавов, но с помощью экстрактора и отвердителя вы получите тот же результат за &e4 слитка&r."
 				""
-				"Be careful not to accidentally make &aExtruder Shapes&r. Those are for a machine you will get access to later. The three molds in this quest are ones you will find useful right away."
+				"Будьте осторожны случайно не сделав &aформу экструдера&r. Это для чуть более поздних машин. Три формы, что требуются в задании, это те что могут сейчас вам понадобиться."
 			]
 			icon: "gtceu:gear_casting_mold"
 			id: "404C9497C46E7608"
@@ -547,9 +547,9 @@
 		{
 			dependencies: ["29A487F0BC43AAF9"]
 			description: [
-				"&6Pulsating Dust&r is a mysterious magical material that taps into the power of Ender. It has all sorts of strange and potentially dangerous applications, including the ability to make &6Pulsating Ingots&r and &6Ender Pearls&r."
+				"&6Пульсирующая пыль&r — это загадочный магический материал, который берёт энергию самого Эндера. Он имеет различные странные и потенциально опасные применения, включая возможность создания &6пульсирующих слитов&r и &6жемчужин Эндера&r."
 				""
-				"Your first source of Pulsating Dust is &6Uraninite&r, which you can get from &6Uraninite Ore&r. Later on, you'll be able to produce Pulsating Dust by smelting &6Resonant Clathrates&r."
+				"Первым источником пульсирующей пыли является &6уранитит&r, который добывается из &6руды уранитита&r. Позже, вы сможете сами производить пульсирующую пыль переплавляя &6резоринующие клатраты&r."
 			]
 			icon: "kubejs:pulsating_dust"
 			id: "30EBD4E7BBFFEF2C"
@@ -572,7 +572,7 @@
 		}
 		{
 			dependencies: ["30EBD4E7BBFFEF2C"]
-			description: ["If you can't find one otherwise, &6Ender Pearls&r can be crafted using Pulsating Dust and a &6Diamond&r in an &3Alloy Smelter&r."]
+			description: ["Если у вас не получается найти &6жемчуг эндера&r, то его можно создать из пульсирующей пыли и &6алмаза&r в &3печи для сплавов&r."]
 			icon: "gtceu:pulsating_alloy_ingot"
 			id: "273F3F8DD6A3DCC5"
 			shape: "hexagon"
@@ -595,7 +595,7 @@
 		}
 		{
 			dependencies: ["29A487F0BC43AAF9"]
-			description: ["You might want to save your &6Coal Dust&r for circuits and use &6Charcoal Dust&r instead. Later, you can also process either of these dusts, &6Coal Coke Dust&r, &2or Diamond Dust&r into &6Carbon Dust&r, which can be used for Steel and other useful things."]
+			description: ["Стоит отложить &6угольную пыль&r для микросхем и использовать &6пыль древесного угля&r. Позже, любую из этой пыли, &6пыли коксового угля&r &2или алмазную пыть&r можно будет переработать в &6пыль углерода&r, которая также используется для стали и других полезных вещей."]
 			id: "5301E546BAA69844"
 			rewards: [{
 				id: "424A2A6FAB412F69"
@@ -649,9 +649,9 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"&3Alloy Smelters&r are used to create alloys by melting and reforming items together."
+				"&3Печь для сплавов&r используется для создания сплавов переплавлением и объединением предметов вместе."
 				""
-				"Now you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible."
+				"Теперь вам не придётся измельчать металлы в пыль и смешивать их в пыль сплавов! В добавок, вам становятся доступны большая часть более комплексных сплавов, которые нельзя было сделать таким способом."
 			]
 			id: "29A487F0BC43AAF9"
 			rewards: [{
@@ -671,7 +671,7 @@
 		}
 		{
 			dependencies: ["29A487F0BC43AAF9"]
-			description: ["Needs 2 &6Water Source Blocks&r around it to generate water. You will also need a way to pull the water out of the accumulator, such as using the &5LV water pump&f as a &acover&f."]
+			description: ["Для генерирования воды окружите двумя &6блоками-источниками воды&r. Вам также нужен будет способ экспортировать воду из сборщика, для этого сгодится &5жидкостная помпа НН&r как &aнасадка&r."]
 			icon: {
 				Count: 1b
 				id: "thermal:device_water_gen"
@@ -699,11 +699,11 @@
 		{
 			dependencies: ["29A487F0BC43AAF9"]
 			description: [
-				"Using plain &3Steam Dynamos&f is pretty inefficient."
+				"Использовать простую &3паровую динамо&r совсем не эффективно."
 				""
-				"It's strongly recommended to upgrade your dynamos into &3steam boilers&f and &3steam turbines&f. The ratio is always &a1:2&r if all Dynamos are equally upgraded."
+				"Настоятельно рекомендуется улучшить динамо до &3паровых бойлеров&r и &3паровых турбин&r. Их соотношение всегда &a1:2&r, если все динамо одинаково улучшены."
 				""
-				"This greatly increases the overall efficiency and the amount of power produced, from &a40 RF/t&r per basic steam dynamo to &a320 RF/t&r per set of three augmented dynamos."
+				"Это значительно увеличивает общую эффективность и количество произведённой энергии от &a40 РТ/т&r за каждую базовую паровую динамо до &a320 РТ/т&r за комплект из трёх аугментированных динамо."
 			]
 			icon: "systeams:steam_dynamo"
 			id: "545CCC24D9401794"
@@ -797,9 +797,9 @@
 		{
 			dependencies: ["30EBD4E7BBFFEF2C"]
 			description: [
-				"&6&6String&r and &6Coal Dust&r can be baked together into a &6Carbon Mesh&r in an &3Alloy Furnace&r."
+				"&6Нить&r и &6угольная пыль&r вместе выпекаются в &6углеродное волокно&r в &3печи для сплавов&r."
 				""
-				"Combine that with &6Pulsating Dust&r to get a &6Pulsating Mesh&r."
+				"Объедините его с &6пульсирующей пылью&r, чтобы получить &6пульсирующее волокно&r."
 			]
 			icon: "kubejs:pulsating_mesh"
 			id: "645B1DCB3DA7198A"
@@ -945,9 +945,9 @@
 				"5B0200011DF8E1B6"
 			]
 			description: [
-				"A refined type of steel, made from &6Silicon Dust&r and &6Steel&r."
+				"Тип обработанной стали, созданный из &6пыли кремния&r и &6стали&r."
 				""
-				"This material is frequently used in electronics and digital equipment."
+				"Этот материал часто используется в электронике и цифровых устройствах."
 			]
 			id: "025543EDB0A4AC22"
 			rewards: [{
@@ -1250,9 +1250,9 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"&3Electrolyzers&r use electricity to separate items into their more basic components."
+				"&3Электролизёр&r с помощью электричества разделяет материалы на их базовые компоненты."
 				""
-				"For example, you can break down Water into &9Hydrogen Gas&r and &9Oxygen Gas&r, or break down &6Clay Dust&r into &6Sodium Dust&r, &6Silicon Dust&r, &6Lithium Dust&r, and &6Aluminium Dust&r."
+				"Например, вы можете разделить воду на &9водород&r и &9кислород&r или разделить &6глиняную пыль&r в &6пыль натрия&r, &6пыль кремния&r, &6пыль лития&r и &6пыль алюминия&r."
 			]
 			id: "5B0200011DF8E1B6"
 			rewards: [{
@@ -1858,9 +1858,9 @@
 		{
 			dependencies: ["273F3F8DD6A3DCC5"]
 			description: [
-				"Item conduits are useful for moving items between inventories over moderate distances."
+				"Предметные трубопроводы полезны при транспортировке предметов между инвентарями на среднее расстояние."
 				""
-				"Crafting them in an Assembling Machine instead of by hand gives twice as many conduits."
+				"Создание их в сборочной машине вдвое эффективнее, чем вручную на верстаке."
 			]
 			id: "4F239316765C7CA1"
 			rewards: [{
