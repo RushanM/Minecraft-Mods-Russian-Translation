@@ -2,7 +2,7 @@
     "pack": {
         "description": {
             "fallback": "Корректировка переводов Дефлекты под Forge",
-            "translate": "minecraft.resource_pack.rumodsfabric"
+            "translate": "minecraft.resource_pack.modsrufabric"
         },
         "name": "Forge-надстройка",
         "pack_format": 6,
