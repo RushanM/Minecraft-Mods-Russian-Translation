@@ -1,14 +1,14 @@
 tail.none.name=Ничего
 tail.dragon.0.name=Хвост ящера
-tail.dragon.1.name=Драконий хвост
-tail.fluffy.0.name=Пушистый хвост
-tail.fluffy.1.name=Двойной хвост
-tail.fluffy.2.name=Девять хвостов
+tail.dragon.1.name=Дракон. хвост
+tail.fluffy.0.name=Пушист. хвост
+tail.fluffy.1.name=2 хвоста
+tail.fluffy.2.name=9 хвостов
 tail.raccoon.0.name=Хвост енота
 tail.devil.0.name=Хвост демона
 tail.devil.1.name=Хвост демона (без кончика)
 tail.cat.0.name=Кошачий хвост
-tail.bird.0.name=Птичий хвост
+tail.bird.0.name=Птич. хвост
 tail.shark.0.name=Акулий хвост
 
 tail.texture.foxTail.name=Лисица
@@ -22,7 +22,7 @@ tail.texture.birdTail.name=Птица
 tail.texture.sharkTail.name=Акула
 
 ears.fox.0.name=Лисьи ушки
-ears.fox.1.name=Альтернативные лисьи ушки
+ears.fox.1.name=Другие лисьи ушки
 ears.cat.0.name=Кошачьи ушки
 ears.catSmall.0.name=Маленькие кошачьи ушки
 ears.panda.0.name=Ушки панды
@@ -35,17 +35,17 @@ ears.texture.pandaEars.name=Панда
 wings.big.0.name=Большие крылья
 wings.big.1.name=Маленькие крылья
 
-wings.texture.metalWings.name=Металлические крылья
-wings.texture.bigWings.name=Ангельские крылья
-wings.texture.dragonWings.name=Драконьи крылья
-wings.texture.dragonBonelessWings.name=Альтернативные драконьи крылья
+wings.texture.metalWings.name=Метал. крылья
+wings.texture.bigWings.name=Ангел. крылья
+wings.texture.dragonWings.name=Дракон. крылья
+wings.texture.dragonBonelessWings.name=Другие дракон. крылья
 
 gui.export.title=Варианты экспортирования
 gui.export.information=Tails обладает очень полезной функцией, позволяющей другим игрокам видеть ваш хвост, даже если мод не установлен на сервере (но сами игроки должны установить Tails). Для этой цели мод использует некоторые неиспользуемые пиксели на вашем скине. Ниже вы можете выбрать, куда экспортировать скин или загрузить его напрямую на сервера скинов. Наведите на кнопки, чтобы увидеть местоположения файлов.
 
 gui.button.livepreview=Прямая демонстрация
 gui.button.livepreview.0.tooltip=Отображает прямую демонстрацию вашего хвоста по мере изменения значений настроек
-gui.button.export=Экспортировать
+gui.button.export=Экспорт.
 gui.button.export.0.tooltip=Экспортировать изменённую версию вашего скина, на которую нанесены пиксели данных Tails, чтобы другие игроки могли видеть ваш хвост без мода на сервере
 gui.button.export.tooltip=Сохранить изменённую версию вашего скина в %s
 gui.button.export.userdir=Сохранить в папку пользователя
@@ -56,7 +56,7 @@ gui.button.export.custom=Сохранить в...
 gui.button.export.custom.tooltip=Сохранить в свою папку
 gui.button.openfolder.tooltip=Открыть папку, куда вы сохранили свой скин
 gui.button.openfolder=Открыть каталог экспорта
-gui.button.editor=Редактор Tails
+gui.button.editor=Хвосты
 gui.button.reset=Сброс
 gui.button.save=Сохранить
 gui.button.edit=Изменить
@@ -70,8 +70,8 @@ gui.button.delete=Удалить
 gui.button.upload=Загрузить на сервер
 gui.button.savelocal=Сохранить в локальную библиотеку
 gui.button.share=Сохранить в буфер обмена. Отправьте экспортированный код друзьям!
-gui.button.mode.library=Библиотека
-gui.button.mode.editor=Редактор
+gui.button.mode.library=Библ.
+gui.button.mode.editor=Ред.
 gui.button.all=Всё
 
 gui.slider.red.tooltip=Красный
@@ -82,14 +82,14 @@ gui.slider.saturation.tooltip=Насыщенность
 gui.slider.brightness.tooltip=Яркость
 
 # Строки библиотеки интерфейса
-gui.library.create=Создать новую запись
+gui.library.create=Создать запись
 gui.library.entry.default=Новая запись
 gui.library.entry=Запись библиотеки
 gui.library.info.created=Создана
-gui.library.info.createdate=Создана на
+gui.library.info.createdate=Создана
 gui.library.info.toast.export=Данные о записях библиотеки скопированы в буфер обмена!
-gui.library.import.skin=Импортировать со скина
-gui.library.import.string=Импортировать со строки
+gui.library.import.skin=Импорт. со скина
+gui.library.import.string=Импорт. со строки
 gui.library.import.toast.skin=Данные с вашего скина загружены!
 gui.library.import.toast.success=Импортирование данных частей завершено успешно %s
 gui.library.import.toast.invalid=Не удалось импортировать, данные либо отсутствуют, либо неверны!
