@@ -625,9 +625,9 @@
 		{
 			dependencies: ["29A487F0BC43AAF9"]
 			description: [
-				"Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein."
+				"Никель получается из нескольких типов руды, включая пентландит и гарниерит, но их оба можно найти в одной жиле."
 				""
-				"Nickel is used mostly for several very important alloys, including Invar and Cupronickel."
+				"Никель в основном используется для некоторых очень важных сплавов вроде инвара и купроникеля."
 			]
 			id: "3F6EDC2481D5877F"
 			rewards: [{
@@ -727,15 +727,15 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"&2Technically not new to CEu, but it was disabled in the original version, and it had much less functionality in CE.&r"
+				"&2Технически не новинка в CEu, но она была отключена в оригинальной версии и имела гораздо меньше функционала в CE.&r"
 				""
-				"The Arc Furnace allows you to make &6Annealed Copper&r, which will be used in the MV Age. It can also make 2 pieces of Glass from 1 Sand. Later, it can make &2Tempered Glass&r for use in higher-tier recipes."
+				"Дуговая печь позволяет создавать &6отожённая медь&r для использования в эпохе СН. Он также может плавить 2 блока стекла из 1 песка. Пjзже, в ней можно будет делать &2закалённое стекло&r для продвинутых рецептов."
 				""
-				"The Arc Furnace also functions as a &auniversal recycling machine&r. Pretty much anything can be recycled into ingots and dusts of its base components."
+				"Дуговая печь функционирует как &aуниверсальная машина для переработки&r. Практически всё может быть переработанно в слитки и пыль их составных компонентов."
 				""
-				"All of its recipes require Oxygen."
+				"Все рецепты потребляют кислород."
 				""
-				"All Arc Furnace recipes use exactly 30 EU/t, so you can get away with using LV Arc Furnaces for the whole pack!"
+				"Все рецепты дуговой печи используют ровно 30 ЕЭ/т, такчто можно продержаться на дуговой печи низкого напряжения до самого конца игры."
 			]
 			id: "500E619D568C07C2"
 			rewards: [{
@@ -755,11 +755,11 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"&oThis is represented in a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation.&r"
+				"&oПроверьте вкладку «Производственные процессы» для большей наглядности, полезной информации и подсказок.&r"
 				""
-				"Now that you have acquired &6Steel&r, your path to infinite cobblestone awaits! The &6Igneous Extruder&r continuously generates cobblestone for free."
+				"Теперь, когда у вас есть &6сталь&r, вы на пути к бесконечному генератору булыжника! &6Вулканический пресс&r без остановки генерирует булыжник."
 				""
-				"Later on, you could look into the &6Rock Crusher&r, which can do it faster at the cost of requiring power."
+				"Позже появится возможность перейти на &6камнелом&r, который работает в разы быстрее ценой энергии."
 			]
 			id: "4624889F738AB21B"
 			rewards: [{
@@ -778,7 +778,7 @@
 		}
 		{
 			dependencies: ["4624889F738AB21B"]
-			description: ["&2This isn't new in CEu either, but in this version, you will use this to break Cobblestone into Gravel and Gravel into Sand. It's also used to combine 2 Rods into 1 Long Rod."]
+			description: ["&2В CEu молот тоже не новинка, но в этой версии он понадобится вам для обработки булыжника в гравий, а гравий в песок. Он так же может объединять 2 стержня в 1 длинный стержень."]
 			id: "0EDFB0C24B9129AB"
 			rewards: [{
 				id: "6BE647D018E97BB3"
@@ -876,11 +876,11 @@
 		{
 			dependencies: ["545CCC24D9401794"]
 			description: [
-				"&2This Steam multiblock was intended for use in the Steam Age. This pack skips the Steam Age, but it may still be worth using.&r"
+				"&2Паровые многоблочные структуры были предназначены для парового этапа. В этой сборке эпоху пара пропустили, но они все ещё могут быть полезны."
 				""
-				"The &6Steam Grinder&r functions as 5.3 &7LV &3Macerators&r in parallel! It requires an input of &9Steam&r through a &eSteam Hatch&r, but it uses very little Steam."
+				"&6Паровой измельчитель&r работает на той же скорости как 5.3 &3мацератора &7низкого напряжения&r в параллели! Очевидно, он работает на &9пару&r подаваемый через &eпаровой люк&r и потребляет его совсем немного."
 				""
-				"You may want to consider setting up a rudimentary &eore-doubling&r setup with it. Point the output in the direction of several upgraded &3Furnaces&r."
+				"С его помощью вы сможете спроектировать примитивную линию обработки по &eудвоению руды&r и направить люк выхода на несколько улучшенных &3печей&r. "
 			]
 			icon: "gtceu:steam_grinder"
 			id: "41C2E49E70D76330"
@@ -966,13 +966,13 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"You'll need &6Obsidian&r to make &6Dark Steel&r. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:"
+				"&6Обсидиан&r необходим для производства &6тёмной стали&r. Большинство инструментов не способны сломать обсидиан, но у вас есть несколько возможных вариантов. На текущий момент вы можете использовать:"
 				""
-				"1) A &aDiamond Pickaxe&r or &aDiamond Mining Hammer&r."
+				"1) &aалмазную кирку&r или &aалмазный рудный молот&r;"
 				""
-				"2) A &aPlatinum Mining Hammer&r (not pickaxe though)."
+				"2) &aплатиновый рудный молот&r (не кирку)."
 				""
-				"Later. you can use a &3Rock Breaker&r at voltage &aHV&r or higher to make &6Obsidian&r without spending &6Lava&r!"
+				"Позже, с помощью &3камнелома&r на напряжении &6ВН&r или выше вы сможете делать &6обсидиан&r без использования &6лавы&r!"
 			]
 			id: "74B5CA5A48CE7B39"
 			rewards: [{
@@ -1200,14 +1200,14 @@
 		{
 			dependencies: ["025543EDB0A4AC22"]
 			description: [
-				"What?!"
-				"&6STEAM DYNAMO&r is evolving!"
+				"Что!?"
+				"&6ПАРОВАЯ ДИНАМО&r эволюционирует!"
 				""
-				"Upgrade kits can be applied to Thermal Expansion Dynamos, machines, and even Portable Tanks. Machines and dynamos get additional augment slots."
+				"Набор улучшения можно применить на динамо, машины Thermal Expansion и даже на портативные резервуары. У машин и динамо добавляются дополнительные ячейки аугментации."
 				""
-				"When applied to a dynamo, it increases the &apower generation and fuel burn rate to 150%&r."
+				"Применив к динамо, он увеличивает &aпроизводимую энергию и потребление топлива на 150%&r."
 				""
-				"Allows machines operate at &a150% of base power per tick&r. The more power a machine can use, the faster it works."
+				"Позволяет машинам работать на &a150% от изначального энергопотребления в такт&r. Чем больше энергии машина может потреблять, тем быстрее она работает."
 			]
 			id: "356DA8DE256356B8"
 			tasks: [{
@@ -1311,7 +1311,7 @@
 		}
 		{
 			dependencies: ["3F6EDC2481D5877F"]
-			description: ["Carry &oeven more&r stuff."]
+			description: ["Носите &oбольше&r."]
 			icon: {
 				Count: 1b
 				id: "sophisticatedbackpacks:iron_backpack"
@@ -1361,11 +1361,11 @@
 				"6197C51E04761371"
 			]
 			description: [
-				"&6Cupronickel Coils&r form part of the structure of a few multiblocks. Presently, those are the &3Electric Blast Furnace&r and &3Pyrolyse Oven&r. Each tier of coil unlocks new recipes and provides various bonuses to the multiblock they are attached to."
+				"&6Купроникелиевые катушки&r являются частью некоторых многоблочных структур. На данный момент они нужны для &3электрической домееной печи&r и для &3пиролизной печи&r. Каждый уровень катушек открывает ряд новых рецептов и в целом улучшает рабочие параметры структуры, в которой они находятся."
 				""
-				"Cupronickel Coils are produced in the &3Assembler&r with &62x Cupronickel Wire&r, &6Bronze Foil&r, and &9Tin Alloy fluid&r."
+				"Купроникелиевые катушки создаются в &3сборщике&r из &62х жильных купроникелиевых проводов&r, &6пронзовой фольги&r и &9жидкого сплава олова&r."
 				""
-				"For now, you need 16 coils for the &3Electric Blast Furnace&r and 16 for the &3Pyrolyse Oven&r. That totals to 176 Copper, 128 Nickel, 32 Tin, and 16 Iron."
+				"На первое время вам потребуется 16 катушек на &3электрическую доменную печь&r и 16 на &3пиролизную печь&r. Суммарная их стоимость составляет 176 меди, 128 никеля, 32 олова и 16 железа."
 			]
 			id: "4CD6C60CBEFFA317"
 			rewards: [{
@@ -1995,11 +1995,11 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"The &bPhytogenic Insolator&r is a way to &9passively produce wood in the earlygame&r. While somewhat slow, it only requires &a10 rf/t&r to operate, meaning you can just set it down and not have to worry about it, and then come back to wood when you need some for crafting or steel production."
+				"&bФитогенный излучатель&r — способ &9пассивного производства дерева на ранних этапах&r. Пусть и медленный, но он потребляет &a10 РТ/т&r, что значит можно настроить несколько и забыть о них, пока не понадобится дерево на производство стали или ещё куда-нибудь."
 				""
-				"Using &bHardened Integral Components&r in it will cause it to work 1.5x faster, while only requiring an extra &a5 rf/t&r to operate, and using &6Bonemeal&r or otherwise will boost how much wood you get per cycle."
+				"Улучшение &bукреплённым интегральным компонентом&r ускорит машину в 1,5 раза, при этом увеличив потребление на &a5 РТ/т&r, а использование &6костной муки&r или подобных увеличит количество производимого дерева за цикл."
 				""
-				"By the way, &bThermal&r Machines are capable of Automatic I/O, try placing a 2x2 drawer beside your &bPhytogenic Insolator&r and configuring it to both push to and pull from the side with the drawer."
+				"Кстати, все &bThermal&r машины имеют автоматический импорт/экспорт. Поставьте 2х2 ящик вплотную к &bфитогенному излучателю&r и настройте его на вход и выход у стороны где ящик."
 			]
 			id: "2607F8404B56773B"
 			rewards: [{
@@ -2007,7 +2007,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "...и посадки тоже, полагаю."
+			subtitle: "...и посевы тоже, полагаю."
 			tasks: [{
 				id: "4ED486548C376854"
 				item: "thermal:machine_insolator"
@@ -2057,7 +2057,7 @@
 		}
 		{
 			dependencies: ["545CCC24D9401794"]
-			description: ["The &6Steam Foundry&r functions as 5.3 &7LV &3Alloy Smelters&r in parallel! It requires an input of &9Steam&r through a &eSteam Hatch&r, but it uses very little Steam, perfect for bulk crafting alloys or mold recipes."]
+			description: ["&6Паровая литейная&r работает на скорости 5.3 &3печи для справов &7низкого напряжения&r в параллели! Очевидно, он работает на &9пару&r подаваемый через &eпаровой люк&r и потребляет его совсем немного. Идеально для литья сплавов или отлива в формы в больших партиях."]
 			icon: "steamadditions:steam_foundry"
 			id: "5D60CAE3A33000C3"
 			rewards: [{
