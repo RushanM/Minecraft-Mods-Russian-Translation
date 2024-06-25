@@ -1,7 +1,7 @@
 {
     "pack": {
         "description": {
-            "fallback": "Русифицирует моды и улучшает их имеющиеся переводы",
+            "fallback": "Русифицирует моды и приводит имеющиеся переводы в порядок",
             "translate": "minecraft.resource_pack.modsru"
         },
         "name": "Русский перевод модов",
