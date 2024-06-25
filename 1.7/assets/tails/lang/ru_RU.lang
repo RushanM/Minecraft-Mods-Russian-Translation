@@ -81,7 +81,7 @@ gui.slider.hue.tooltip=Оттенок
 gui.slider.saturation.tooltip=Насыщенность
 gui.slider.brightness.tooltip=Яркость
 
-# Строки библиотеки интерфейса
+# Библиотека
 gui.library.create=Создать запись
 gui.library.entry.default=Новая запись
 gui.library.entry=Запись библиотеки
