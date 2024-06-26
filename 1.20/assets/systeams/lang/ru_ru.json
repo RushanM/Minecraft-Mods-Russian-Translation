@@ -30,7 +30,7 @@
     "info.systeams.air_volume": "Воздух",
     "info.systeams.air_volume_unit": "мл",
     "info.systeams.augment.type.DynamoBoiler": "Динамо и бойлер",
-    "info.systeams.boiler.throttle": "Не тратить забуференное топливо, если выход переполнен.",
+    "info.systeams.boiler.throttle": "Не тратит забуференное топливо, если выход переполнен.",
     "info.systeams.compression_boiler.0": "Производит пар, используя горючие жидкости.",
     "info.systeams.disenchantment_boiler.0": "Производит пар, используя зачарованные предметы.",
     "info.systeams.disenchantment_boiler.1": "Предмет уничтожается вместе с зачарованием. Работает, да и ладно.",
