@@ -991,9 +991,9 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"Obtaining &6Grains of Infinity&r will require you to mine all the way down to Bedrock level."
+				"Чтобы получить &6зёрна бесконечности&r вам потребуется забуриться до самого бедрока."
 				""
-				"&5You can automate grains via molecular reassembly, as current automation methods are nonfunctional."
+				"&5Зёрна можно автоматизировать через молекулярный реконструктор, так как текущие методы автоматизации не работают."
 			]
 			icon: "enderio:grains_of_infinity"
 			id: "1CA6D620309F2B9E"
@@ -1157,9 +1157,9 @@
 		{
 			dependencies: ["025543EDB0A4AC22"]
 			description: [
-				"The first tier of &6capacitors&r. These (or stronger versions) are required to make &bEnderIO&r machines run. They're also used as components in a variety of recipes."
+				"Ваши первые &6конденсаторы&r. Они (или версии по-лучше) обязательны для работы &bEnderIO&r машин. Они также используются как компоненты в разных рецептах."
 				""
-				"Higher tier capacitors will significantly increase the speed at which these machines operate, among other machine-specific properties."
+				"Чем выше уровень конденсатора, чем значительно выше их скорость работы и ряд других специфичных машинам свойств."
 			]
 			id: "7842EC1C389C4B7E"
 			rewards: [{
@@ -1179,9 +1179,9 @@
 		{
 			dependencies: ["7842EC1C389C4B7E"]
 			description: [
-				"Expandable multi-block storage for RF power."
+				"Расширяемое многоблочное хранилище энергии РТ."
 				""
-				"This first tier isn't much, but you can upgrade them over time to hold substantial amounts of power."
+				"Первый уровень хранит немного, но со временем его можно улучшить до значительно большего хранилища энергии."
 			]
 			id: "2845151447537433"
 			rewards: [{
@@ -1524,11 +1524,11 @@
 				"1BC6DDC2D50F9C46"
 			]
 			description: [
-				"This alloy is made from &2mixing 2 Gold Dust, 1 Redstone, and 1 Glowstone Dust in a Mixer, creating Energetic Alloy Dust,&r and putting it in your new &3Electric Blast Furnace&r."
+				"Этот сплав создаётся путём &2смешивания 2 пыли золота, 1 редстоуна и 1 пыли глоустоуна в миксере, создавая пыль энергетического сплава&r и обработкой её в &3электрической доменной печи&r."
 				""
-				"Throw &2the prepared dust into the input bus&r and in twenty seconds your &6Energetic Alloy Ingot&r will be in the output bus."
+				"Бросьте &2готовую пыль в люк входа&r и через двадцать секунд &6слиток энергетического сплава&r будет готов в люке выхода."
 				""
-				"&2In EV Age, you can build an Alloy Blast Smelter which doubles the yield."
+				"&2На ЭН эпохе вы сможете построить доменную печь для сплавов, которая удваивает выход сплавов."
 			]
 			id: "6A914B240E1A7BCB"
 			rewards: [{
@@ -1548,9 +1548,9 @@
 		{
 			dependencies: ["6A914B240E1A7BCB"]
 			description: [
-				"Another alloy."
+				"Ещё один сплав."
 				""
-				"&2In EV Age, you can build an Alloy Blast Smelter which doubles the yield."
+				"&2На ЭН эпохе вы сможете построить доменную печь для сплавов, которая удваивает выход сплавов."
 			]
 			id: "73C1AB31431B5C11"
 			rewards: [{
@@ -1570,11 +1570,11 @@
 		{
 			dependencies: ["6A914B240E1A7BCB"]
 			description: [
-				"Now that you have &6Energetic Alloy&r, it's time to make some better conduits!"
+				"Теперь когда у вас есть &6энергетический сплав&r пришло время сделать улучшенные энергопроводы!"
 				""
-				"Each time you upgrade your conduits, you'll also get more of them. Neat!"
+				"С каждым лучшением энергопроводов их становится больше. Класс!"
 				""
-				"If you don't have an &3Assembling Machine&r, you'll have to make them by hand. This method isn't as efficient as the machine, but you'll make one soon enough."
+				"Если у вас ещё нет &3сборочной машины&r, то вам придется делать их на верстаке. Этот способ не эффективен по сравнению с сборщиком, но вы скоро его сделаете."
 			]
 			id: "4F4F120AFB3A9250"
 			rewards: [{
@@ -1682,11 +1682,11 @@
 		{
 			dependencies: ["1DBBE96165C7987D"]
 			description: [
-				"When making circuits, you'll need either molten &9Tin&r, or molten &9Soldering Alloy&r&r&r. &2Soldering Alloy is made in the Mixer with 6 parts Tin Dust, 3 parts Lead Dust and 1 part Antimony Dust.&r You then process it in an &3Extractor &rfor the usual 144mB of fluid per unit."
+				"При создани электросхем вам потребуется или расплав &9олова&r или &9паяльный сплав&r. &2Припой создаётся в миксере из 6 единиц пыли олова, 3 единиц пыли свинца и 1 пыли сурьмы.&r Затем можете расплавить его в &3экстракторе&r для привычных 144мл жидкости за единицу."
 				""
-				"The &2Circuit Assembler&r will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it's very efficient to use this stuff."
+				"&2Сборщик микросхем&r потребляет вдвое меньше припоя, чем если бы использовал расплав олова (72мл и 144мл соответственно), так что его очень выгодно использовать."
 				""
-				"&2Antimony can be directly smelted from Stibnite Ore, allowing you to skip ore processing for this."
+				"&2Сурьму можно напрямую расплавить из руды стибнита, тем самым пропустив обработку руды."
 			]
 			icon: "gtceu:soldering_alloy_bucket"
 			id: "56924FC6B029BA0F"
