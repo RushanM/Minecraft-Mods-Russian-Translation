@@ -1433,11 +1433,11 @@
 		{
 			dependencies: ["4CD6C60CBEFFA317"]
 			description: [
-				"The &3Electric Blast Furnace&r is a major, major milestone in your &bGregTech&r career. It has the power to smelt more advanced materials. The first of which, &6Aluminium&r, is going to be important in the immediate future."
+				"&3Электрическая доменная печь&r это очень, очень важная ступень в вашей карьере &3GregTech&r. У неё есть способность плавить продвинутые материалы. Первый из которых — алюминий, он станет важным эллементом в ближайшем будущем."
 				""
-				"Since smelting &6Aluminium&r requires MV power, you're going to have to power this with 2 LV Energy Input Hatches."
+				"Так как плавка &6алюминия&r требует энергию СН, вам нужно будет «разогнать» печь 2 входными раъёмами энергии НН."
 				""
-				"There is a diagram of how to build the EBF in &bEMI&r. The second and third levels must be a 3x3 square shape of Coil Blocks (&6Cupronickel&r is the only type of coil block you have access to for now) with an empty center. You can also &6sneak-right click&r the controller to enable the in-world preview."
+				"В &bEMI&r есть диаграмма для предосмотра структуры ЭДП. Второй и третий ряды обязательно должны сформировать 3х3 квадрат из блоков катушек(&6купроникель&r это единственный тип катушек вам сейчас доступный) с полым центром. При нажатии &6Shift-ПКМ&r рукой по контроллеру для отображения голограммы структуры в мире."
 				""
 				"К счастью, нижний и верхний ряд можно настроить по своему. &6Контроллер ЭДП&r должен стоить на &eнижнем ряду&r структуры и &eпо центру скраю&r; &6Люк глушителя&r должен находится &eточно по центру верхнего ряда&r. В остальном, люки и раъёмы можно ставить где угодно, заполнив дыры в каждом ряду &6жаропрочными корпусами&r. Стоит заметить, что обязательно нужно использовать минимум &29&e жаропрочных корпусов, иначе структура не сформируется&r."
 				""
