@@ -345,7 +345,7 @@ tab.aether_armor=The Aether: Броня
 tab.aether_food=The Aether: Еда
 tab.aether_accessories=The Aether: Аксессуары
 tab.aether_material=The Aether: Материалы
-tab.aether_misc=The Aether: Разное
+tab.aether_misc=The Aether
 
 # Вкладки
 tab.accessories.name=Аксессуары

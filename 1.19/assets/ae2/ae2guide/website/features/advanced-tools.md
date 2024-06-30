@@ -1,5 +1,6 @@
 ---
 navigation:
+  parent: website/index.md
   title: Продвинутые инструменты
 ---
 
