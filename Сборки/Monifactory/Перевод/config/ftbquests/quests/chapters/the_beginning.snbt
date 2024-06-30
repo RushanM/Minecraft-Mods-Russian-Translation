@@ -1114,14 +1114,14 @@
 		{
 			dependencies: ["6D03BB4A6A4BBA27"]
 			description: [
-				"Fluix is initially made via in-world crafting, by dropping &6Redstone&r, &6Nether Quartz&r, and a &6Charged Certus Quartz Crystal&r in the same block of &9Water&r. You'll see some sparks then the items will merge into a &6Fluix Crystal&r. Be sure to turn off any nearby item magnets/collectors or they might interrupt this crafting process."
+				"Кристаллы тока изначально создаются в мире путём смешивания &6редстоуна&r, &6адского кварца&r и &6заряжённого кристала истинного кварца&r в блоке &6воды&r. Вы увидите, как предметы начнут искрится, а затем превратятся в &6кристаллы тока&r. Убедитесь, что отключили все магниты и сборщики поблизости, иначе они могут помешать процессу создания."
 				""
-				"The &3Energy Acceptor&r converts RF power into AE power that Applied Energistics uses, in a 2 RF to 1 AE ratio. This power will be transmitted through adjacent full-block ME Network devices, as well as along all connected &6ME Cables&r, &6ME Conduits&r, and &6Quartz Fiber&r. "
+				"&3Приёмщик энергии&r конвертирует РТ энергию в энергию АЕ для использования в Applied Energistics в соотношении 2 РТ к 1 АЕ. Эта энергия передаётся через любые прилегающие цельно-блочные устройства сети МЭ, а также через все соединённые &6кабели МЭ&r, &6трубы МЭ&r и &6кварцевые волокна&r."
 				""
-				"Quartz Fiber are &emicroparts&r you can put between an ME Cable and any ME Network block or another ME Cable. This will allow transmission of AE power but not data, which is useful for having data-isolated ME Networks all sharing the same power source."
-				"Applied Energistics 2 can be complicated for a new player, so I recommend either using &9the ingame guide&r or a video as a supplement to this chapter if need be. "
+				"Кварцевое волокно — это &eмикродеталь&r, которая может соединять кабеля МЭ или любые другие блоки сети МЭ и передавать между ними энергию, но не информацию. Это оплезно для разделения нескольких метей МЭ, но при этом иметь общий источник энергии."
+				"Applied energistics 2 может быть сложным и непонятным для новичка, так что рекомендуется обратиться к &9внутриигровому гайду&r или видео как добавочный материал к этой главе, если нужно."
 				""
-				"[\"I personally recommend \",{\"text\": \"Pansmith's guide to Applied Energistics 2\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://www.youtube.com/watch?v=u0ouTWgdcXk\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Click to copy to clipboard!\"}}, \", while written for the 1.12 verison of AE2, most of the infomation is the exact same between the versions, and was made with Nomifactory players in mind.\"]"
+				"[\"Лично я рекомендую \",{\"text\": \"гайд Pansmith'а по Applied Energistics 2\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://www.youtube.com/watch?v=u0ouTWgdcXk\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Нажмите, чтобы скопировать!\"}}, \". Он хоть и создавался для версии 1.12 AE2, но большинство информации подходит для новых версий, а также он создавался как гайд для игроков Nomifactory.\"]"
 			]
 			icon: "ae2:energy_acceptor"
 			id: "4174A6C6403DD245"
@@ -1710,19 +1710,20 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"&2Certain multiblocks in CEu will require a Maintenance Hatch and/or Muffler Hatch. These cannot be shared between multiblocks. If you knew Maintenance in GT5u, fret not - Maintenance mechanics are far less punishing in CEu."
+				"&2Некоторые многоблоки в CEu требуют люк обслуживания или люк глушителя. Эти люки нельзя разделять между многоблоками. Если вы ранбще пользовались люком обслуживания в GT5u — в CEu люки обслуживания гораздо менее карательные.&r"
 				""
-				"&r- &aMuffler&r: This hatch must be &cunobstructed&r so it can output its beautiful smoke particles. When a recipe is performed, there is a small chance for the &3Muffler Hatch&r to give bonus items, typically tiny Dusts of Ash. It voids excess when full, so do not worry about it stopping machines from running."
+				"— &aГлушитель&r: этот люк &cнельзя закрывать блоками&r для того, чтобы выхлоп мог создавать прекрасные частицы дыма. В процессе работы рецепта есть малый шанс получить в &3люке глушителя&r бонусный побочный продукт, в основном это мелкие частицы пепла. Люк автоматически удаляет излишки, так что не переживайте о том, что это остановит процесс работы машины."
 				""
-				"- &aMaintenance&r: You will need to do Maintenance for the Multiblock to begin operating. This is done by having a &9Wrench&r, a &9Screwdriver&r, a &9Soft Mallet&r, a &9Hammer&r, a &9Wire Cutter&r, and a &9Crowbar&r in your inventory, opening the Maintenance Hatch and &eclicking the center spot once&r. &cNo need to move tools individually&r. Alternatively, you can fix problems by placing &9Tape&r in the Maintenance Hatch. "
+				"— &aОбслуживание&r: Перед началом работы вам нужно будет провести обслуживание многоблока. Это делается путём починки различных проблем соответствующими инструментами в инвентаре. У вас в инвентаре должны быть: &9гаечный ключ&r, &9отвёртка&r, &9киянка&r, &9молот&r, &9кусачки&r и &9монтировка&r. Открыв люк обслуживания &eнажмите один раз на центральную ячейку&r. &cДаже не нужно вручную кликать на неё инструментами&r. Или же можно починить все проблемы одной &9изолентой&r. "
 				""
-				"Maintenance problems may occur after &948 real hours of activity&r. Needless to say, they are very rare. Each problem increases the recipe durations by 10%%. Fixing the problems is done the same way as above."
+				"{@pagebreak}"
+				"Каждые &948 реальных часов работы&r у многоблока могут возникнуть проблемы обслуживания. Само собой это очень редко, но с каждой проблемой скорость работы машины понижается на 10%. Починить их можно темже способом, что был упомянут выше."
 				""
-				"Later, you will unlock other Maintenance Hatches that do not enforce fixing the problems manually. Both start with &6no Maintenance required&r:"
+				"Позже вы откроете альтернативные люки обслуживания, избавляющие вас от ручной работы обслуживания. Оба формируют структуру &6без потребности в обслуживании&r:"
 				""
-				"- &3Automatic Maintenance Hatch&r (&9IV&r): Eliminates the need for Maintenance, &6forever&r."
+				"— &3Люк автоматического осблуживания&r (&9БН&r): &6навсегда&r избавляет многоблок от возникновения проблем с облуживанием."
 				""
-				"- &3Configurable Maintenance Hatch&r (&6HV&r): You can configure it to cut off &a10%% duration&r on recipes, at the cost of making Maintenance issues happen three times as fast. That is &916 real hours&r of activity. &9Tape&r can fix problems in this Hatch as well."
+				"— &3Настраиваемый люк обслуживания&r (&9ВН&r): с его помощью можно разогнать машину срезав &a10% времени&r на рецепт ценой утраивания скорости возникновления проблем обслуживания. Это примерно &916 реальных часов&r работы. &9Изолента&r здесь тоже может помочь."
 			]
 			hide_dependency_lines: true
 			icon: "gtceu:maintenance_hatch"
@@ -1763,28 +1764,28 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bGregTech&r adds a very versatile way of augmenting machines with &aMachine Covers&r. Covers are \"upgrades\" that you can put on any &eGregTech machine, crate, or drum&r to expand its functionality. These are seperate on each side of the machine, meaning you can have up to six different covers! &9Covers can be edited and removed via the given machine's GUI&r, but for the others, you'll need to make yourself a &aScrewdriver&r to configure covers, and a &aCrowbar&r to remove covers without having to break the machine."
+				"&bGregTech&r добавляет множество универсальных аугментаций машин в виде &aнасадок&r. Насадки являются «улучшениями» которые можно установить на любую &eGregTech машину, ящик или бочку&r для расширения их функционала. Они раздельны для каждой стороны машины, что значит можно установить до шести разных насадок! &9Насадки можно редактировать или снимать через интерфейс машины&r, но для другого необходима &aотвёртка&r для настройки насадки и &aмонтировка&r, чтобы её снять. "
 				""
-				"Here's a list of some covers there are in the game, and what they do:"
+				"В игре есть разные насадки и вот что они делают:"
 				""
-				"- &lConveyor&r: transfers items continuously to or from an adjacent inventory, capable of round robin."
+				"— &lКонвеер&r: постоянно перемещает предметы в или из соседнего инвентаря, способный работать по круговой очереди;"
 				""
-				"- &lPump&r: is much like a &aConveyor&f, but for fluids."
+				"— &lПомпа&r: то же, что и &aконвеер&r, но для жидкости;"
 				""
-				"- &lRobotic Arm&r: is much like &aConveyor&r, but has two additional modes:"
-				"    * &eKeep Exact&r: moves items to keep a stock of at most the specified number of items"
-				"    * &eSupply Exact&r: transfers precisely the specified number of items per operation."
-				"This cover is very useful for crafting automation."
+				"— &lРоботизированная рука&r: то же, что и конвеер, но имеет два дополнительных режима:"
+				" * &eподдерживать ровно&r: перемещать предметы для поддержания определённого числа предметов в запасе"
+				" * &eперемещать ровно&r: перемещает точное количество предмета за операцию."
+				"Эта насадка очень полезна для автоматизации."
 				""
-				"- &lFluid Regulator&r: is like a &aRobotic Arm&r, but works with fluids instead of items."
+				"— &lЖидкостный регулятор&r: то же, что и &aроботизированная рука&r, но для жидкостей;"
 				""
-				"- &lShutter&r: prevents automation from interacting with a specific side of a machine."
+				"— &lЗатвор&r: предотвращает взаимодействие автоматизации с определённой стороной машины;"
 				""
-				"- &lDetector&2: Available in Item, Fluid, Energy, Activity, and Advanced Activity flavours. Emits a Redstone signal depending on the status of whatever it's detecting."
+				"— &lДетектор&r: работает с предметами, жидкостями, энергией, активностью и их продвинутые вариации. Выдают сигнал редстоуна в зависимости от состояния того, что детектор проверяет."
 				""
-				"- &lDigital Interface&r: &2A graphical display for the machine's current status. Can display things like contained fluids, energy levels, etc.&r"
+				"— &lЦифровой интерфейс&r: &2Графический дисплей текущего статуса машины. Он может отображать состав хранилища, уровни энергии и тд.&r"
 				""
-				"Covers that move items or fluids can have a &aFilter&r placed inside them. These modify the functionality of covers in ways explained in their own quests."
+				"Насадки, которые работают с предметами или жидкостями могут настраиваться &aфильтром&r. Их функционал описывается в отдельном квесте."
 			]
 			icon: "gtceu:lv_electric_pump"
 			id: "1A427A8CB43C8B59"
@@ -1799,7 +1800,7 @@
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["&9Pressing the second tab in any given machine's GUI will open up a view showing the machine and any blocks it is touching&r. From there, you can click on a side of the machine and easily add, edit and remove &acovers&r, and configure if the machine should &3automatically output&r it's output and which side it should output to. "]
+			description: ["&9Вторая вкладка в интерфейсе любой машины открывает предосмотр машины и всех блоков сторон которых она касается&r. Здесь, можно с лёгкостью настраивать, добавлять или снимать &aнасадки&r, а также настраивать сторону &3автовыхода&r результата работы машины."]
 			icon: "minecraft:hopper"
 			id: "431BB650AC492C84"
 			size: 1.5d
