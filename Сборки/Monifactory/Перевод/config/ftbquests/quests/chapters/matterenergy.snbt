@@ -128,11 +128,11 @@
 				"5C4E189A3E401566"
 			]
 			description: [
-				"&3Inscribers&r are machines used to make &6inscribed circuits&r for &bApplied Energistics&r."
+				"&3Прессователь&r используется для создания &6печатных плат&r для устройств &bApplied Energistics&r."
 				""
-				"&9Inscribers can be set to automatically export items, can hold up to a stack of items within, as well as a variety of other features to aid in automation."
+				"&3Прессователь может автоматически экспортировать предметы, хранить до стака ингредиента внутри и ещё множество полезных функций, помогающие в его автоматизации."
 				""
-				"&9The silicon used in inscribed circuits no longer requires an EBF with HV power."
+				"&9Кремний, используемый в печатных платах, больше не требует ЭДП высокого напряжения."
 			]
 			id: "295E3D32083676E6"
 			rewards: [{
@@ -142,13 +142,13 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "Angry light forcing rocks to think"
+			subtitle: "Злые лучи света заставляют камни думать"
 			tasks: [{
 				id: "3C32EC54A06596C3"
 				item: "ae2:inscriber"
 				type: "item"
 			}]
-			title: "&9Inscribing"
+			title: "&9Гравировка"
 			x: 4.0d
 			y: 0.5d
 		}
@@ -174,11 +174,11 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"These are the basic cables used by &3Applied Energistics&r to transport network connectivity. Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables."
+				"Это базовые кабеля используемые в моде &3Applied energistics&r для создания сети на ЭМ. Так как каналы отключены, эти кабеля станут главным методом структурирования сети вместо плотного кабеля."
 				""
-				"These cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept &3Applied Energistics &6Facades&r, so they can be hidden very easily. Keep in mind that a large number of facades leads to FPS lag."
+				"Эти кабеля не разделяют место в блоки в трубами или кабелями других модов, так что может быть немного неудобно их прокладывать. К счастью, их можно спрятать с помощью &6фасадами &3Applied Energistics&r. Однако помните, что большое количество фасадов может сильно понизить частоту кадров."
 				""
-				"Later you can make a variant of the cable that can share blockspace with &3Ender IO&r conduits."
+				"Чуть позже вам станет доступен другой вариант кабелей, который может разделять место в блоке с другими проводами &3Ender IO&r."
 			]
 			id: "1D3A5DCCE1B40D29"
 			rewards: [{
@@ -187,13 +187,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "AE Networking"
+			subtitle: "Сетевая инфраструктура AE"
 			tasks: [{
 				id: "13B1ADE4FC0B56A6"
 				item: "ae2:fluix_glass_cable"
 				type: "item"
 			}]
-			title: "ME Cables"
+			title: "Кабеля ЭМ"
 			x: -2.0d
 			y: 0.5d
 		}
@@ -241,9 +241,9 @@
 		{
 			dependencies: ["670C69611ECFF5C8"]
 			description: [
-				"If you like exploring you can find them in meteors with a &aMeteor Compass&r."
+				"Если вам нравится путешествовать, то вы можете найти метеориты с помощью &aметеоритного компаса&r."
 				""
-				"If you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a &3Precision Laser Engraver&r."
+				"Если этого делать не хочется или не получается найти его, то можете сами выгравировать их с помощью &3точечного лазерного гравировщика&r."
 			]
 			id: "7FC4297F2BC90F55"
 			rewards: [{
@@ -251,7 +251,7 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "&aPresses&r are needed for &3Inscribers&r."
+			subtitle: "&aПечати&r нужны для &3прессователя&r."
 			tasks: [
 				{
 					id: "15825F0D2F98105E"
@@ -281,9 +281,9 @@
 		{
 			dependencies: ["6D03BB4A6A4BBA27"]
 			description: [
-				"This compass will lead you to the nearest meteor impact. Use your favorite mining tools to smash through the &6Skystone&r shell and get to the juicy center where a &6Mysterious Cube&r with the plates are found."
+				"Этот компас направит вас к ближайшему кратеру метеорита. Используйте любой любимый шахтёрский инструмент для вскрытия оболочки из &6небесного камня&r и пробурится внутрь в сочный центр метеорита, где прячется &6загадочный куб&r и печатные шаблоны."
 				""
-				"Please note that while they're often in a big crater, the meteors might be buried underground; when the compass is spinning wildly, you're right on top of one."
+				"Учтите, что метеориты зачастую находятся в огромном кратере, но иногда могут быть закопаны вглубь под землю; если компас дико крутится на месте, значит вы прямо над метеоритом."
 			]
 			hide_dependency_lines: true
 			icon: "ae2:meteorite_compass"
@@ -294,7 +294,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&bApplied Energistics&r uses &aPresses&r found in cubes at the heart of meteors as templates for &3Inscribers&r to make &6inscribed circuits&r."
+			subtitle: "В &bApplied Energistics&r &aпечати&r, которые хранятся в сердцах метеоритов, служат шаблоном для создания &6печатных плат&r в &3прессователе&r."
 			tasks: [
 				{
 					id: "0B6706026E84DC3C"
@@ -307,7 +307,7 @@
 					type: "checkmark"
 				}
 			]
-			title: "Meteorite Hunter"
+			title: "Охотник на метеориты"
 			x: 4.0d
 			y: -3.0d
 		}
