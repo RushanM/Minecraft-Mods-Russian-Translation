@@ -244,6 +244,10 @@
 Если вы установите [DynamicPack](https://modrinth.com/mod/dynamicpack), русификатор всегда будет обновляться до последней редакции и вам не нужно будет следить за тем, когда выйдет новая.
 
 ## 📛 Способствовали разработке
+<details>
+<summary>Раскрыть список</summary>
+<br>
+
 * [**Дефлекта**](https://github.com/RushanM): Большая часть переводов
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский моды 
 * * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
@@ -259,7 +263,20 @@
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
 * [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
+* [**cutiegin**](https://github.com/cutiegin): Предложила свои переводы модов (они пока в процессе вычитки)
+* * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
+* * [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
+* * [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
+* * [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
+* * [Macaw's Holidays](https://modrinth.com/mod/macaws-holidays)
+* * [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
+* * [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings)
+* * [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings)
+* * [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs)
+* * [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors)
+* * [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
+</details>
 
 ## ✉️ Контакты
 Есть личная просьба, предложение или любая другая причина обратиться лично ко мне? Вы можете написать мне в одной из этих сетей:
