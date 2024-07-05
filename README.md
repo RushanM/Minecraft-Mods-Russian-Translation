@@ -129,7 +129,7 @@
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат. | ❌ | ❌ |
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Macaw's Holidays](https://modrinth.com/mod/macaws-holidays) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -277,7 +277,7 @@
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
 * [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
-* [**cutiegin**](https://github.com/cutiegin): Предложила свои переводы модов (они пока в процессе вычитки)
+* [**cutiegin**](https://github.com/cutiegin): Предложила свои переводы модов
 * * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 * * [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
 * * [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
