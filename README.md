@@ -128,7 +128,7 @@
 | [Loqui](https://loqui.imb11.dev) | ❌ | ❌ | 🌌 | 🌌 | 🌌 | ✅ Рус. | ✅ Рус. |
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат. | ❌ | ❌ |
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. |
+| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
