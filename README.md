@@ -198,6 +198,7 @@
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xenon](https://modrinth.com/mod/xenon-forge) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Ryoamium](https://modrinth.com/mod/ryoamium) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
 
 Список будет пополняться.
 </details>
