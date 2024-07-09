@@ -3,7 +3,7 @@
     "key.modmenu.open_menu": "Открыть список модов",
     "modmenu.title": "Моды",
     "modmenu.nameTranslation.modmenu": "Меню модов",
-    "modmenu.descriptionTranslation.modmenu": "Добавляет меню для просмотра списка установленных модов.",
+    "modmenu.descriptionTranslation.modmenu": "Добавляет меню для просмотра списка установленных модов",
     "modmenu.loaded": "(загружено: %s)",
     "modmenu.loaded.short": "(%s)",
     "modmenu.loaded.69.secret": "(загружено: %s... Идеально.)",

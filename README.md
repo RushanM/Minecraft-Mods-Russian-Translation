@@ -35,23 +35,26 @@
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | 🌌 | ❌ | ❌ | ❌ | 🌌 | 🌌 | 🌌
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | 🌌 | ❌ | 🌌 | 🌌 | 🌌 | ✅ Рус. | ❌ |
 | [Additional Additions](https://modrinth.com/mod/addadd) | 🌌 | ❌ | 🌌 | ❌ | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус. |
-| [Adorn](https://modrinth.com/mod/adorn) | 🌌 | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Adorn](https://modrinth.com/mod/adorn) | 🌌 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
+| [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ❌ | ❌ | 🌌 | 🌌 | ❌ | ❌ | ✅ Рус. |
 | [Animatica](https://modrinth.com/mod/animatica) | ❌ | ❌ | 🌌 | ❌ | ❌ | ❌ | ✅ Рус. |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | ❌ | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. |
-| [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | ❌ |
-| [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | ❌ | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ❌
+| [Applied Energistics 2](https://modrinth.com/mod/ae2) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | ❌ | ❌
+| [ArmorStatusHUD](https://www.curseforge.com/minecraft/mc-mods/armorstatushud) | 🌌 | 🌌 | 🌌 | 🌌 | 🌌 | 🌌 | ✅ Рус. |
+| [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
 | [Artifacts](https://modrinth.com/mod/artifacts) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Auto Workstations](https://modrinth.com/mod/auto-workstations) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | ❌ |
-| [Back Up Beds](https://modrinth.com/mod/back-up-beds) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Backported Wolves](https://modrinth.com/mod/backported-wolves) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Baubles 2](https://modrinth.com/mod/baubles-2) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | 🌌 |
-| [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | ❌ |
-| [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ❌ | ✅ Рус. | ❌ | ❌ | ❌ | ❌ |
+| [Automatic Tool Swap](https://www.curseforge.com/minecraft/mc-mods/automatic-tool-swap) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | ❌ | ❌
+| [Back Up Beds](https://modrinth.com/mod/back-up-beds) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Backported Wolves](https://modrinth.com/mod/backported-wolves) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
+| [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Baubles 2](https://modrinth.com/mod/baubles-2) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | 🌌 | ❌
+| [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ❌ | ❌ | ✅ Рус. | ❌ | ❌ | ❌ | ❌
+| [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | ❌ | ✅ Рус. | ❌ | ❌ | ❌ | ❌ | ❌
 | [Botania](https://modrinth.com/mod/botania) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | ❌ | ❌ | 🌌 | ❌ | ❌ | ❌ | ❌ |
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ❌ | ✅ Рус. | ✅ Рус. | ❌ | ❌ | ❌ |
@@ -85,7 +88,7 @@
 | [Enhanced Attack Indicator](https://modrinth.com/mod/enhanced-attack-indicator) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Enigmatic Legacy](https://modrinth.com/mod/enigmatic-legacy) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Fabric](https://fabricmc.net) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
+| [Fabric](https://fabricmc.net) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ❌ |
 | [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат. |
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -125,6 +128,17 @@
 | [Loqui](https://loqui.imb11.dev) | ❌ | ❌ | 🌌 | 🌌 | 🌌 | ✅ Рус. | ✅ Рус. |
 | [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Тат. | ❌ | ❌ |
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
+| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Holidays](https://modrinth.com/mod/macaws-holidays) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Mahou Tsukai](https://modrinth.com/mod/mahou-tsukai) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Mana and Artifice](https://modrinth.com/mod/mana-and-artifice) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -154,35 +168,37 @@
 | [Ribbits](https://modrinth.com/mod/ribbits) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌ |
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [SecurityCraft](https://modrinth.com/mod/security-craft) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Showcase Item](https://modrinth.com/mod/showcase-item) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌ |
 | [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌ |
-| [SimplyStatus](https://modrinth.com/mod/simplystatus) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
-| [Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
-| [Snad](https://www.curseforge.com/minecraft/mc-mods/snad) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Sodium](https://modrinth.com/mod/sodium) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ❌ |
+| [SimplyStatus](https://modrinth.com/mod/simplystatus) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ | ❌
+| [Smooth Boot (Reloaded)](https://modrinth.com/mod/smooth-boot-reloaded) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ | ❌
+| [Snad](https://www.curseforge.com/minecraft/mc-mods/snad) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
+| [Sodium](https://modrinth.com/mod/sodium) | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ❌ | ❌
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Subnautica Flow](https://modrinth.com/mod/subnautica-flow) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | ❌ | ❌ | 🌌 | 🌌 | 🌌 | ✅ Рус. | 🌌 |
-| [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
-| [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. |
-| [Thermal Systeams: Monifactory Edition](https://github.com/ThePansmith/Monifactory/blob/main/mods/systeams-1.20.1-1.7.1.jar) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
-| [Tool Stats](https://modrinth.com/mod/tool-stats) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [Tails](https://www.curseforge.com/minecraft/mc-mods/tails) | ✅ Рус. | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
+| [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ | ❌
+| [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌
+| [Thermal Systeams: Monifactory Edition](https://github.com/ThePansmith/Monifactory/blob/main/mods/systeams-1.20.1-1.7.1.jar) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Thigh highs etc.](https://modrinth.com/mod/thigh-highs-etc) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Title Fixer](https://modrinth.com/mod/title-fixer) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
+| [Tool Stats](https://modrinth.com/mod/tool-stats) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌
 | [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [VoxelMap](https://modrinth.com/mod/voxelmap-updated) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xenon](https://modrinth.com/mod/xenon-forge) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Tails](https://www.curseforge.com/minecraft/mc-mods/tails) | ✅ Рус. | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Ryoamium](https://modrinth.com/mod/ryoamium) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
 
 Список будет пополняться.
 </details>
@@ -244,6 +260,10 @@
 Если вы установите [DynamicPack](https://modrinth.com/mod/dynamicpack), русификатор всегда будет обновляться до последней редакции и вам не нужно будет следить за тем, когда выйдет новая.
 
 ## 📛 Способствовали разработке
+<details>
+<summary>Раскрыть список</summary>
+<br>
+
 * [**Дефлекта**](https://github.com/RushanM): Большая часть переводов
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский моды 
 * * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
@@ -259,7 +279,20 @@
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
 * [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
+* [**cutiegin**](https://github.com/cutiegin): Предложила свои переводы модов
+* * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
+* * [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
+* * [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
+* * [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
+* * [Macaw's Holidays](https://modrinth.com/mod/macaws-holidays)
+* * [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps)
+* * [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings)
+* * [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings)
+* * [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs)
+* * [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors)
+* * [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
+</details>
 
 ## ✉️ Контакты
 Есть личная просьба, предложение или любая другая причина обратиться лично ко мне? Вы можете написать мне в одной из этих сетей:
