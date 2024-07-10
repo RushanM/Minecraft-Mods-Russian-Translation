@@ -69,13 +69,7 @@
 			subtitle: "Автоматические магнитизаторы"
 			tasks: [{
 				id: "2AAE22F760F73AD8"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "moni:polarizer"
-					}
-				}
+				item: "gtceu:lv_polarizer"
 				title: "Поляризатор низкого или среднего напряжения"
 				type: "item"
 			}]

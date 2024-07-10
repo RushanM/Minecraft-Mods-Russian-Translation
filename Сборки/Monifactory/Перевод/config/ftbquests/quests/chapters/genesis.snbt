@@ -188,9 +188,9 @@
 				id: "02543E826A43185A"
 				item: {
 					Count: 1b
-					id: "itemfilters:tag"
+					id: "sophisticatedstorage:gold_barrel"
 					tag: {
-						value: "functionalstorage:drawer"
+						woodType: "oak"
 					}
 				}
 				title: "Любой ящик"
@@ -1730,13 +1730,7 @@
 				}
 				{
 					id: "3A3F4984E9A1A81E"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "moni_quest:backpack"
-						}
-					}
+					item: "sophisticatedbackpacks:backpack"
 					title: "Любой рюкзак Sophisticated Backpacks"
 					type: "item"
 				}
