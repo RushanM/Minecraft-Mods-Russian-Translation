@@ -75,6 +75,7 @@
 | [CraftPresence](https://modrinth.com/mod/craftpresence) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [CreRaces](https://modrinth.com/mod/creraces) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус.<br>✅ Бел. |
+| [Decocraft](https://modrinth.com/mod/decocraft) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Delightful Creators](https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Ding](https://modrinth.com/mod/ding) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | ❌ | ❌ | ❌ | ✅ Рус. | ❌ | ❌ |
@@ -168,6 +169,7 @@
 | [Ribbits](https://modrinth.com/mod/ribbits) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌ |
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [Ryoamium](https://modrinth.com/mod/ryoamium) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
 | [SecurityCraft](https://modrinth.com/mod/security-craft) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Showcase Item](https://modrinth.com/mod/showcase-item) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | ❌ | ❌ | ❌ | ✅ Рус. | ✅ Рус. | ❌ |
@@ -198,7 +200,6 @@
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Xenon](https://modrinth.com/mod/xenon-forge) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Ryoamium](https://modrinth.com/mod/ryoamium) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. | ❌ |
 
 Список будет пополняться.
 </details>
@@ -280,6 +281,7 @@
 * [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
 * [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
 * [**cutiegin**](https://github.com/cutiegin): Предложила свои переводы модов
+* * [Decocraft](https://modrinth.com/mod/decocraft)
 * * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 * * [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
 * * [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls)
@@ -291,6 +293,7 @@
 * * [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs)
 * * [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors)
 * * [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
+* * [SecurityCraft](https://modrinth.com/mod/security-craft)
 * [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 </details>
 
