@@ -381,7 +381,7 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "Network Recursion"
+			subtitle: "Рекурсия сети"
 			tasks: [{
 				id: "10CF79220AE28192"
 				item: {
@@ -391,7 +391,7 @@
 				}
 				type: "item"
 			}]
-			title: "P2P Tunnels"
+			title: "Туннель Точка-точка"
 			x: 4.0d
 			y: 5.5d
 		}
@@ -600,14 +600,13 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"If you've tried to insert or remove a lot of items quickly, you might notice your ME network"
-				"&eflickers offline&r briefly. This is because digitizing and re-materializing items requires energy!"
+				"Вы может могли заметить, что если быстро перемещать предметы внутрь или из системы, то вся сеть ЭМ будет &eморгать&r. Это потому, что отцифрование и материализация предметов потребляет энергию!"
 				""
-				"Your network doesn't naturally store very much energy and the &6Energy Acceptor&r only intermittently refills the network's power. To keep things stable, you will need to add some energy storage in your network using &6Energy Cells&r."
+				"Ваша сеть сама по себе энергии много не хранит и лишь &6приёмщик энергии&r переодически подпитывает сеть энергией. Для поддержания стабильности необходимо добавить буффер энергии в виде нескольких &6ячеек энергии&r."
 				""
-				"Just place one anywhere in your network and it will fill up with AE energy received from the Energy Acceptor. Now, you should have enough energy in your network to prevent these power losses. Feel free to add more energy cells, or upgrade to &6Dense Energy Cells&r, if you continue to experience problems."
+				"Просто поставьте один куда-нибудь в вашей сети и он будет заряжаться энергией АЕ через приёмщик энергии. Теперь сети будет достаточно энергии для стабилизации в случае резкого скачка потребления. Если проблемы будут продолжаться, то можно добавить больше энергоячеек или улучшить их до &6плотных энергоячеек&r."
 				""
-				"If you've opted to enable channels in your AE2 configs, you will innately have some energy storage from the &3ME Controller&r, but we assume you know what you're doing at that point. &eAE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned."
+				"Если вы решили включить каналы в конфигурации, у вас изначально будет небольшой буффер энергии от &3контроллера ЭМ&r, но мы предположим, что вы понимаете что нужно делать. &eМеханика каналов АЕ2 выходит за рамки этой книги квестов и это единственный раз когда она будет упомянута."
 			]
 			icon: {
 				Count: 1b
@@ -615,7 +614,7 @@
 				tag: { }
 			}
 			id: "5A83E1115F965393"
-			subtitle: "Oops... A blackout!"
+			subtitle: "Упс... всё погасло!"
 			tasks: [{
 				id: "714C125E0ED99334"
 				item: {
@@ -669,7 +668,7 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			subtitle: "&bApplied Energistics&r использует &6ячейки хранилища&r как основной способ цифрового хранения предметов и жидкостей."
+			subtitle: "&bApplied Energistics&r использует &6ячейки хранения&r как основной способ цифрового хранения предметов и жидкостей."
 			tasks: [{
 				id: "631B9DD6D42ECBE4"
 				item: {
@@ -754,14 +753,14 @@
 		}
 		{
 			dependencies: ["15AE607E2EDD0369"]
-			description: ["Used for storing really big amounts of things, like in a &664k ME Storage Cell&r."]
+			description: ["Нужно для хранения большого количества вещей в &664 к ячейке хранения ЭМ&r."]
 			id: "60BC08DE447E5007"
 			rewards: [{
 				id: "7417C31CB32C97BC"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "The penultimate item storage component in &bApplied Energistics&r."
+			subtitle: "Предпоследний компонент хранения в &bApplied Energistics&r."
 			tasks: [{
 				id: "6A51C195328840CF"
 				item: "ae2:cell_component_64k"
@@ -777,17 +776,18 @@
 				"1175ED9EF0AB82F6"
 			]
 			description: [
-				"Firstly, you will need a &3Matter Condenser&r. Stick a &664k ME Storage Component&r in, change the mode to 'Singularity', and stuff lots of items (or fluids) in, &9done easily with a infinity cell&r."
+				"Для начала вам понадобится &3конденсатор материи&r. Установив в него &664к компонент хранения&r, измените режим на «сингулярность» и загрузите в него множество предметов (или жидкости). &9Проще всего через ячейку бесконечности&r."
 				""
-				"If you don't have that, you can surround it with &6Dense Cobblestone Generators&r."
+				"Вместо этого можно окружить его &6&mплотным генератором булыжника&r. "
+				""
 				"{@pagebreak}"
-				"After you have made the &eSingularity&r you will need from the &3Matter Condenser&r, you need to setup a &aQuantum Ring Multiblock&r. Build a 3 by 3 vertical ring with your &6Quantum Rings&r, leaving a hole in the middle. Finally, stick your &6Quantum Link Chamber&r in the hole, and connect it to your ME system. If you built it correctly, the textures of the rings should combine, leaving you with a &aMultiblock&r."
+				"Когда вы получите &eсингулярность&r в &3конденсаторе материи&r, вам нужно будет сконструировтаь &aквантовые кольца&r. Сформируйте квертикальное кольцо размером в 3 на 3 блока из блоков &6квантовых колец&r, оставляя дыру по середине. Затем, установите в центр &6камеру квантовой связи&r и подключите его к вашей системе ЭМ. Если всё построено правильно, то текстура кольца должна объединится и сформировать &aмногоблок&r."
 				""
-				"Once you have the &eSingularity&r, you have to link them by throwing Ender Dust, The Singularity into any explosion."
+				"Затем, бросьте &eсингулярность&r и пыль эндер-жемчуга в любой взрыв для того чтобы связать квантовую сингулярность."
 				""
-				"&9With your Quantum-entangled Singularity, put one into the&r &6Quantum Link Chamber&r&9 of the &r&aQuantum Ring&r&9, and the other in the&r &6Wireless Terminal&r! "
+				"&9Теперь у вас есть сингулярность квантовой запутанности. Положите одну в &6камеру квантовой связи&9 в &aквантовом кольце&9 и вторую в ваш &6беспроводной терминал&r!"
 				""
-				"You should be good to go! You can now access AE2 anywhere, including in different dimensions!"
+				"Всё должно заработать! Вы можете взаимодействовать с вашей сетью АЕ2 из любой части мира и даже из других измерений!"
 			]
 			icon: "ae2wtlib:quantum_bridge_card"
 			id: "553F85782265C350"
@@ -797,7 +797,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Accessing AE2 from anywhere is a bit more expensive and complex, but its well worth it."
+			subtitle: "Получить доступ к сети АЕ2 отовсюду немного дорого и сложно, но оно определённо того стоит."
 			tasks: [
 				{
 					count: 3L
@@ -829,7 +829,7 @@
 					type: "item"
 				}
 			]
-			title: "&9AE2 Everywhere!"
+			title: "&9AE2 везде!"
 			x: 1.5d
 			y: -6.5d
 		}
@@ -839,21 +839,22 @@
 				"41B4EA53D6D7AE37"
 			]
 			description: [
-				"Accessing &bApplied Energistics 2&r wirelessly saves a huge amount of time, and is highly recommended to set up."
+				"Беспроводной доступ к сети &bApplied Energistics 2&r экономит много времени и настоятельно рекомендуется к созданию."
 				""
-				"First, you will need a &6Wireless Access Point&r. Connect it to your network. Like the &6Terminal&r, the Wireless Access Point is a &emicropart&r, so you must place it on a &6ME Cable&r."
+				"Для начала вам понадобится &6точка беспроводного доступа&r. Подключите его к сети. Как и &6терминалы&r точка беспроводного доступа является &eмикрочастью&r, так что их необходимо крепить на &6кабель ЭМ&r."
 				""
-				"Next, you need a &6Wireless Terminal&r, or its varients. You can have as many Wireless Terminals or their varients on the system at the same time."
+				"Далее, создайте &6беспроводной терминал&r или его вариации. Одновременно в системе может быть множество беспроводных терминалов и их вариаций."
 				""
-				"Finally, put your &6Wireless Terminal&r into the &6Wireless Access Point&r. This will connect it to the system. "
+				"И наконец, свяжите &6беспроводной терминал&r с системой через &6точку беспроводного доступа&r. "
+				""
 				"{@pagebreak}"
-				"You can equip these as a bauble, and use a hotkey to open them. Search 'Applied Energistics' as a &ecategory&r to see and edit these hotkeys."
+				"Терминал можно экипировать в слот аксессуаров и открывать его через горячую клавишу. Ищите &eкатегорию&r «Applied Energistics» в настройках управления."
 				""
-				"You can only go 16 blocks away. However, you can put &6Wireless Boosters&r into the &6Wireless Access Point&r to increase the range. A better, but more expensive solution, that allows access from anyhere, will be explained in the following quest, 'AE2 Everywhere!'."
+				"Изначальная дистанция точки доступа — 16 блоков. Её можно увеличить с помощью &6беспроводных усилителей&r. Позже, вам будет доступен более дорогой вариант, который позволит получить доступ к беспроводной сети буквально отовсюду. Подробнее об этом в следующем квесте — «AE2 везде!»."
 			]
 			id: "1175ED9EF0AB82F6"
 			shape: "hexagon"
-			subtitle: "AE2 From Anywhere... Almost"
+			subtitle: "АЕ2 везде... почти"
 			tasks: [{
 				id: "564AFB42CC6805FF"
 				item: "ae2:wireless_terminal"
@@ -861,16 +862,16 @@
 				type: "item"
 				weak_nbt_match: true
 			}]
-			title: "Wireless Terminal"
+			title: "Беспроводной терминал"
 			x: 0.0d
 			y: -6.5d
 		}
 		{
 			dependencies: ["60BC08DE447E5007"]
 			description: [
-				"The ultimate item storage component in &bApplied Energistics&r."
+				"Ультимативный компонент хранения в &bApplied Energistics&r."
 				""
-				"These have a massive capacity, hundreds of times that of a &61k ME Storage Component&r."
+				"У них огромная вместимость, в сто раз больше чем в &61к компоненте хранения&r."
 			]
 			id: "241FADD2C751BE74"
 			rewards: [{
@@ -878,13 +879,13 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "&9New to Monifactory!&r"
+			subtitle: "&9Новинка в Monifactory!&r"
 			tasks: [{
 				id: "11828E352A22BA71"
 				item: "ae2:cell_component_256k"
 				type: "item"
 			}]
-			title: "&9256k Item Storage"
+			title: "&9256k хранилище"
 			x: 3.5d
 			y: -8.0d
 		}
@@ -1055,14 +1056,14 @@
 				"15AE607E2EDD0369"
 				"6169C04DF463502F"
 			]
-			description: ["Placing these in one of your &6ME Drives&r will provide your ME network with an &ainfinite&r amount of water or cobblestone. Use &6interfaces&r or &6export busses&r to provide said substances to whereever you need it."]
+			description: ["Подключите один такой в &6стойку для ячеек ЭМ&r и у системы ЭМ будет &aбесконечный&r запас воды и булыжника. Используйте &6интерфейс&r или &6шину экспорта&r для транспортировки этих вещест там где они необходимы."]
 			id: "26C9F1514FD08C81"
 			rewards: [{
 				id: "144A810C0576A3E0"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "It doesn't get any faster than this."
+			subtitle: "Быстрее чем это ничего уже не будет."
 			tasks: [
 				{
 					id: "4EFDB9B627864D5D"
@@ -1093,7 +1094,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Infinitest Water and Stone"
+			title: "&9Бесконечнейший источник воды и булыжника"
 			x: 5.5d
 			y: -8.0d
 		}
