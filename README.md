@@ -131,7 +131,7 @@
 | [Lycanthropy](https://modrinth.com/mod/lycanthropy) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
-| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ Рус. |
+| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | ❌ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Macaw's Holidays](https://modrinth.com/mod/macaws-holidays) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Macaw's Lights and Lamps](https://modrinth.com/mod/macaws-lights-and-lamps) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
