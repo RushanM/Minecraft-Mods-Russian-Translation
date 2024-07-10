@@ -249,8 +249,8 @@
     "block.mcwdoors.warped_waffle_door": "Искажённая вафельная дверь",
     "block.mcwdoors.mangrove_waffle_door": "Мангровая вафельная дверь",
     "block.mcwdoors.bamboo_waffle_door": "Бамбуковая вафельная дверь",
-    "block.mcwdoors.wooden_portcullis": "Деревянная подъёмная решётка",
-    "block.mcwdoors.iron_portcullis": "Железная подъёмная решётка",
+    "block.mcwdoors.wooden_portcullis": "Деревянная решётка",
+    "block.mcwdoors.iron_portcullis": "Железная решётка",
     "block.mcwdoors.store_door": "Магазинная дверь",
     "block.mcwdoors.sliding_glass_door": "Раздвижная стеклянная дверь"
 }
