@@ -89,7 +89,7 @@ tile.diorite.6.desc=Диоритовые маленькие плитки
 
 #Andesite
 tile.chisel.andesite.name=Андезит
-tile.andesite.0.desc=Генерируется в Вашем мире
+tile.andesite.0.desc=Генерируется в вашем мире
 tile.andesite.1.desc=Гладкий андезит
 tile.andesite.2.desc=Колонна из андезита
 tile.andesite.3.desc=Андезитовые кирпичи
@@ -99,13 +99,13 @@ tile.andesite.6.desc=Андезитовые маленькие плитки
 
 #Granite
 tile.chisel.granite.name=Гранит
-tile.granite.0.desc=Генерируется в Вашем мире
+tile.granite.0.desc=Генерируется в вашем мире
 tile.granite.1.desc=Гладкий гранит
-tile.granite.2.desc=Колонна из гранита
-tile.granite.3.desc=Гранитовые кирпичи
+tile.granite.2.desc=Гранитная колонна
+tile.granite.3.desc=Гранитные кирпичи
 tile.granite.4.desc=Декоративный гранит
 tile.granite.5.desc=Призматический гранит
-tile.granite.6.desc=Гранитовые маленькие плитки
+tile.granite.6.desc=Гранитные маленькие плиты
 
 #Auto Chisel
 tile.chisel.autoChisel.name=Автоматическое долото
