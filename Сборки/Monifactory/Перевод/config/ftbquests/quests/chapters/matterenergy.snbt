@@ -363,17 +363,18 @@
 		{
 			dependencies: ["0FD703A1A1E5055E"]
 			description: [
-				"A &6P2P Tunnel&r (&aPoint-to-Point Tunnel&r) is a powerful tool from &bApplied Energistics 2&r that can be used to send items, redstone, RF/EU or fluids from one location to another, using your ME system, without the need to use any disk storage space. &cTransporting RF/EU has a 5%% tax on the input energy.&r"
+				"&6Туннель Р2Р&r (&aтуннель точка-точка&r) это очень полезный инструмент из &bApplied Energistics 2&r, который способен передавать вещи, сигнал редстоуна, РТ/ЕЭ или жидкости из одной точки в другую через систему ЭМ без использования места на диске. &cТранспортировка РТ/ЕЭ имеет налог размером 5% от входящей энергии.&r"
 				""
-				"Each P2P tunnel system may have only &cone input&r but &eany number of outputs&r. There is no limit on how many P2P tunnels, or P2P tunnel systems, you can have on one network."
+				"Каждый туннель Р2Р может иметь только &cодин вход&r, но любое &eмножество выходов&r. В сети нет ограничений на количество туннелей Р2Р или на количество сетей Р2Р."
 				""
-				"By default, a P2P tunnel is an &6ME tunnel&r, which transmits Applied Energistics channels and power. Since channels are disabled, you will most likely not be using the default tunnel. You can change the mode of your P2P tunnels by right clicking the tunnel with the respective item seen in &bREI&r."
+				"Изначально туннель Р2Р настроен как &6туннель ЭМ&r, который передаёт каналы и энергию Applied Energistics. Но так как каналы отключены, вы скорее всего не воспользуетесь оригинальной конфигурацией. Режим туннеля можно изменить нажав на него соответствующим предметом, как показано в &bREI&r."
 				"{@pagebreak}"
-				"To configure your P2P tunnels, take a &6Memory Card&r. While holding the memory card, &ashift-right click&r the unconfigured tunnel, to set the frequency of the input, and save the frequency to the memory card. Once the first tunnel has been set up this way and the memory card is configured with the frequency, any subsequent tunnel you &aright-click&r with the memory card will be set as the output of the most recent frequency used."
+				"Для конфигурации туннелей Р2Р потребуется &6карта памяти&r. Чтобы настроить частоту туннеля нажмите картой &ashift-ПКМ&r по туннелю, чтобы сохранить частоту входа. После этого, нажав &aПКМ&r по другим туннелям картой скопирует на них конфигурацию частоты карты."
 				""
-				"You can also use memory cards to copy the configuration of ME blocks and tile-entities, such as &6Interfaces&r and &6Storage Buses&r. &aShift-right click&r a ME block to copy its configuration, and &aright-click&r to paste that configuration. Note that this doesn't copy upgrades applied to the block."
+				"Также картой памяти можно копировать конфигурацию блоков ЭМ и блоки-сущности, такие как &6интерфейсы&r и &6шины хранения&r."
+				"&aShift-ПКМ&r по блоку для записи конфигурации на карту и &aПКМ&r для копирования на блок. Учтите, что это не скопирует улучшения, установленные на блок."
 				""
-				"You can also &ashift-right click&r to empty the frequency, or the ME block configuration, set in the card."
+				"Для очистки частоты или настроек машины на ЭМ с карты нажмите &ashift-ПКМ&r по воздуху."
 			]
 			id: "410EA68D6EF15CEC"
 			rewards: [{
@@ -391,7 +392,7 @@
 				}
 				type: "item"
 			}]
-			title: "Туннель Точка-точка"
+			title: "Туннель Р2Р"
 			x: 4.0d
 			y: 5.5d
 		}
@@ -401,9 +402,9 @@
 				"0FD703A1A1E5055E"
 			]
 			description: [
-				"This handy terminal allows you to see the pattern slots of all &aME Pattern Providers&r in your network in one place."
+				"Этот удобный терминал позволяет взаимодействовать со всеми &aпоставщиками шаблонов ЭМ&r в сети."
 				""
-				"This means you don't have to run to your ME Pattern Providers each time you make a new pattern for them."
+				"Больше не придётся бегать к каждому поставщику шаблонов каждый раз, чтобы добавить новый шаблон с рецептом."
 			]
 			id: "2E079747A46D48CF"
 			shape: "hexagon"
@@ -412,7 +413,7 @@
 				item: "ae2:pattern_access_terminal"
 				type: "item"
 			}]
-			title: "Pattern Access Terminal"
+			title: "Терминал доступа шаблонов"
 			x: 5.5d
 			y: 5.5d
 		}
@@ -445,7 +446,7 @@
 		}
 		{
 			dependencies: ["1040D941027962B1"]
-			description: ["This version of the Pattern Provider boosts the pattern capacity from 9 to 36. It can be made directly, or it can be upgraded to using a &6Pattern Provider Upgrade&r."]
+			description: ["Эта версия поставщика шаблонов расширяет вместимость шаблонов от 9 до 36. Его можно создать напрямую или через улучшение с помощью &6улучшения поставщика шаблонов&r."]
 			icon: "expatternprovider:ex_pattern_provider"
 			id: "0FA4CAD4F68BC0F8"
 			rewards: [{
@@ -453,7 +454,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "A very useful upgrade to the Pattern Provider."
+			subtitle: "Очень полезное улучшение поставщика шаблонов"
 			tasks: [{
 				id: "1FE9B2CBA70D22B9"
 				item: {
@@ -463,29 +464,30 @@
 						value: "expatternprovider:extended_pattern_provider"
 					}
 				}
-				title: "Any Extended Pattern Provider"
+				title: "Любой расширенный поставщик шаблонов"
 				type: "item"
 			}]
-			title: "&9Extended Pattern Provider"
+			title: "&9Расширенный поставщик шаблонов"
 			x: 6.75d
 			y: 7.0d
 		}
 		{
 			dependencies: ["1F4D2DAF4267DB77"]
 			description: [
-				"&aME Pattern Providers&r and &aME Interfaces&r are extremely important for automation. You'll be making a lot of these, if you're playing the pack right."
+				"&aПоставщик шаблонов ЭМ&r и &aинтерфейс ЭМ&r — одни из важнейшей деталей автоматизации. Вам понадобится много таких, если проходить сборку правильно."
 				""
-				"These can be filled with encoded &aPatterns&r to perform on-demand autocrafting. Any item pushed into an &aME Pattern Provider&r is digitized and placed in your ME Network storage."
+				"В поставщик можно загрузить &aшаблоны&r для автосборки по запросу. Любой предмет, помещённый в &aпоставщик шаблонов ЭМ&r, будет отцифрован и помещён в сетевое хранилище ЭМ."
 				""
-				"When adjacent to one or more &aMolecular Assemblers&r, crafting table patterns can be crafted. It will use as many adjacent &aMolecular Assemblers&r as possible, restricted by availability and number of &aCo-processors&r in your crafting CPU multiblock."
+				"Если поместить его вплотную к &aмолекулярному сборщику&r, то будут использоваться шаблоны с рецептами верстака. Он будет пытаться использовать как можно больше соседних &aмолекулярных сборщиков&r, ограничиваясь лишь количеством &aпроцессорами параллелизации&r в многоблочной структуре центрального процессора сборки."
+				""
 				"{@pagebreak}"
-				"When adjacent to any other block, you can use &aprocessing patterns&r with a machine to insert items into the machine. Processing patterns require that the finished item is inserted back into the ME Network through &aInterfaces&r or &aPattern Providers&r."
+				"Если поставить его вплотную к любому другому блоку, то он будет использовать &aшаблоны обработки&r. Шаблоны обработки требуют, чтобы результат рецепта был отправлен в сеть ЭМ через &aинтерфейс&r или &aпоставщик шаблонов&r."
 				""
-				"&aME Pattern Providers&r can be wrenched to ensure they only communicate with a particular adjacent block, or can be crafted into a micropart form to fit multiple in the same block space (each micropart only interacting with the adjacent block face)."
+				"&aПоставщик шаблонов ЭМ&r можно повернуть ключом, чтобы убедиться что он будет взаимодействовать с машиной только с опредлённой стороны или можно использовать форму микрочасти для использования нескольких поставщиков в одном блоке (каждая микрочасть взаимодействует лишь с примыкающей стороной)."
 				""
-				"Also, if you connect a gadget from &bBuilding Gadgets&r to the Pattern Provider, the gadget will pull materials straight from the attached AE2 network, &aNOT&r the Pattern Provider."
+				"В добавок, если привязать гаджет из мода &bBuilding Gadgets&r к поставщику шаблонов, то он будет использовать материалы напрямую из подключённой сети АЕ2, но &aНЕ&r из поставщика шаблонов."
 				""
-				"There is information of the Gadgets, and how to connect them to inventories, in the &eInspector Gadget&r quest in &cGenesis&r in &cMatter Energy&r or &cThe Beginning&r."
+				"Для большей информации про гаджеты и как их связывать с инвентарями, прочтите квест &eИнспектор Гаджет&r в главе &cГенезис&r, &cЭнергия материи&r и &cНачало&r."
 			]
 			icon: "ae2:pattern_provider"
 			id: "1040D941027962B1"
@@ -495,7 +497,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&lNot&r An Interface"
+			subtitle: "&lНЕ&r интерфейс"
 			tasks: [{
 				id: "24069DF90AE106FD"
 				item: {
@@ -505,10 +507,10 @@
 						value: "ae2:pattern_provider"
 					}
 				}
-				title: "Any Pattern Provider"
+				title: "Любой поставщик шаблонов"
 				type: "item"
 			}]
-			title: "&9Pattern Provider"
+			title: "&9Поставщик шаблонов"
 			x: 5.5d
 			y: 7.0d
 		}
@@ -520,13 +522,13 @@
 				"6169C04DF463502F"
 			]
 			description: [
-				"Encode them in a &aPattern Encoding Terminal&r."
+				"Записать на них рецепт можно в &aтерминале кодирования шаблонов&r."
 				""
-				"Note that recipes encoded with Substitutions on will use existing equivalent items, but &ewill only automatically craft the exact item specified in the recipe.&r"
+				"Учтите, что рецепты, созданные с взаимозаменяемостью, будут испрользовать любой подходящий предмет, но &eбудет создавать точно тот предмет, указанный в рецепте.&r"
 				""
-				"&2Preferably aim for recipes without tools.&r"
+				"&2Старайтесь избегать рецептов с инструментами.&r"
 				""
-				"Use recipes that use machines instead!"
+				"Вместо этого пользуйтесь рецептами машин!"
 			]
 			id: "6F32A8739D8E792A"
 			rewards: [{
@@ -536,13 +538,13 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "&aPatterns&r are used to encode a single crafting table or processing recipe for on-demand automation with &bApplied Energistics&r."
+			subtitle: "&aШаблоны&r используются для кодирования рецептов верстака или рецептов обработки для автоматизации в &bApplied Energistics&r."
 			tasks: [{
 				id: "384964EBBD93B59C"
 				item: "ae2:blank_pattern"
 				type: "item"
 			}]
-			title: "Autocrafting Patterns"
+			title: "Шаблоны автосборки"
 			x: 4.0d
 			y: 8.5d
 		}
@@ -857,7 +859,39 @@
 			subtitle: "АЕ2 везде... почти"
 			tasks: [{
 				id: "564AFB42CC6805FF"
-				item: "ae2:wireless_terminal"
+				item: {
+					Count: 1b
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "ae2:wireless_terminal"
+							}
+							{
+								Count: 1b
+								id: "ae2:wireless_crafting_terminal"
+								tag: { }
+							}
+							{
+								Count: 1b
+								id: "ae2wtlib:wireless_pattern_encoding_terminal"
+							}
+							{
+								Count: 1b
+								id: "ae2wtlib:wireless_pattern_access_terminal"
+							}
+							{
+								Count: 1b
+								id: "expatternprovider:wireless_ex_pat"
+							}
+							{
+								Count: 1b
+								id: "ae2wtlib:wireless_universal_terminal"
+							}
+						]
+					}
+				}
 				title: "Any Wireless Terminal"
 				type: "item"
 				weak_nbt_match: true
@@ -1100,7 +1134,7 @@
 		}
 		{
 			dependencies: ["6F32A8739D8E792A"]
-			description: ["The &6Extended Molecular Assembler&r is able to perform &a8 crafts at a time&r, and does each of those crafts &atwice as fast&r, meaning this assembler can do some serious work."]
+			description: ["&6Расширенный молекулярный сборщик&r способен выполнять &a8 сборочных задач за раз&r и делает он это &aв два раза быстрее&r — он быстро справится с тяжёлой нагрузкой."]
 			id: "631F5DFF43F7A289"
 			rewards: [{
 				count: 2
@@ -1108,13 +1142,13 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "More Parallel Crafting"
+			subtitle: "Больше параллельной сборки"
 			tasks: [{
 				id: "0671F628E93E9BA6"
 				item: "expatternprovider:ex_molecular_assembler"
 				type: "item"
 			}]
-			title: "&9Extended Assembling"
+			title: "&9Расширенный сборщик"
 			x: 4.0d
 			y: 10.0d
 		}
@@ -1178,7 +1212,7 @@
 				"6F32A8739D8E792A"
 				"1F4D2DAF4267DB77"
 			]
-			description: ["These can be configured to stock up to &99 item stacks (or 576 items)&r or &99 fluid types, 4 buckets each&r for passive autocrafting and to push into other inventories&r. Any item pushed into an &aME Interface&r is digitized and placed in your ME Network storage."]
+			description: ["Их можно конфигурировать для хранения запаса до &99 стаков (или 576 предметов)&r или &99 типов жидкостей, 4 ведра каждый&r для пассивной автоматизации и экспортировать в другие инвентари&r. Любой предмет направленный в &aинтерфейс ЭМ&r будет отцифрован и помещён в сетевое хранилище на ЭМ."]
 			icon: "ae2:interface"
 			id: "3A26187DC3FAD6B1"
 			rewards: [{
@@ -1187,7 +1221,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&9I dont hold patterns!"
+			subtitle: "&9Я не храню шаблоны!"
 			tasks: [{
 				id: "713C7B1C67D4771E"
 				item: {
@@ -1197,16 +1231,16 @@
 						value: "ae2:interface"
 					}
 				}
-				title: "Any Interface"
+				title: "Любой интерфейс"
 				type: "item"
 			}]
-			title: "Interface"
+			title: "Интерфейс"
 			x: 5.5d
 			y: 8.5d
 		}
 		{
 			dependencies: ["3A26187DC3FAD6B1"]
-			description: ["This version of &aME Interface&r acts like four ME Interfaces in one block, allowing for 1152 items or 72 buckets of fluids."]
+			description: ["Эта версия &aинтерфейса ЭМ&r работает как 4 интерфейса ЭМ в одном блоке с объемом в 1152 предмета или 72 ведра жидкости."]
 			icon: "expatternprovider:ex_interface"
 			id: "5B3AF79FBDF80C51"
 			rewards: [{
@@ -1214,7 +1248,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Neither do I, check my neighbour Extended Pattern Provider instead"
+			subtitle: "Я тоже нет. Лучше спроси моего соседа — расширенного поставщика шаблонов."
 			tasks: [{
 				id: "53C8B8B483EF6121"
 				item: {
@@ -1227,7 +1261,7 @@
 				title: "Any Extended Interface"
 				type: "item"
 			}]
-			title: "&9Extended Interface"
+			title: "&9Расширенный интерфейс"
 			x: 6.75d
 			y: 8.5d
 		}
@@ -1261,9 +1295,9 @@
 		{
 			dependencies: ["3A26187DC3FAD6B1"]
 			description: [
-				"Combining an &aI/O Bus&r and an &aME Interface&r into a single block, these can be used in place of &aInput&r and &aOutput Buses&r in GregTech multiblocks to connect them directly to your AE2 network."
+				"Сочетание &aлюка входа\\выхода&r и &aинтерфейса ЭМ&r в одном блоке. Они могут заменить &aвходные&r и &aвыходные люки&r в многоблочных структурах GregTech и подключаться напрямую к сети АЕ2."
 				""
-				"Note that only the Interface-textured side will connect to an ME network."
+				"Учтите, что к сети ЭМ подключится только сторона с текстурой интерфейса."
 			]
 			id: "7C0A37EEA3C63B16"
 			rewards: [{
@@ -1293,7 +1327,7 @@
 					type: "item"
 				}
 			]
-			title: "&2ME Multiblock Buses"
+			title: "&2Люки для многоблоков на ЭМ"
 			x: 6.75d
 			y: 10.0d
 		}
@@ -1343,7 +1377,7 @@
 		}
 		{
 			dependencies: ["410EA68D6EF15CEC"]
-			description: ["Managing P2P tunnels can be a pain in large numbers, thankfully, the &6Advanced Memory Card&r fixes that, by allowing you to manage all of your connections within a single card, and bind and unbind things on the fly, among other features."]
+			description: ["Управлять большой сетью Р2Р может быть проблематично. К счастью, с этим поможет &6продвинутая карта памяти&r. Она позволяет настраивать любые соединения во всей сети ЭМ через одну карту, привязывать или отвязывать туннели на ходу и многое другое."]
 			id: "1AC8700C190E84BC"
 			rewards: [{
 				count: 3
@@ -1351,7 +1385,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "They really do have a GUI for everything now"
+			subtitle: "Теперь у всего есть графический интерфейс"
 			tasks: [{
 				id: "75CE8F67A574D433"
 				item: {
@@ -1364,7 +1398,7 @@
 				}
 				type: "item"
 			}]
-			title: "&9Better P2P Management"
+			title: "&9Улучшенное управление сетями Р2Р"
 			x: 2.5d
 			y: 5.5d
 		}
@@ -1374,9 +1408,9 @@
 				"410EA68D6EF15CEC"
 			]
 			description: [
-				"&3Pattern P2P&r is somewhat like the other &aP2P&r types, but is able to copy a pattern provider's patterns to all of its outputs."
+				"&3Р2Р шаблонов&r работает как и другие типы &aР2Р&r, но он копирует шаблоны через стороны поставщика шаблонов."
 				""
-				"For example, you could have a Pattern P2P Input placed on a pattern provider, then 5 Outputs with the same ID placed on assemblers. All 5 of those assemblers would then &6act as if they each had their own pattern provider that all just so happened to have the same exact patterns&r, and will obey blocking rules, parallelize, and such. "
+				"Например, входную сторону туннеля Р2Р шаблонов установить на поставщик шаблонов, а 5 выходов с одинаковым ID установить на сборщики. Эти 5 сборщиков будут &6работать, словно у них у всех свлй поставщик шаблонов и у всех одинаковые шаблоны рецептов&r, и они будут следовать правилам блокирования, параллелизировать и тд."
 			]
 			id: "6646E6DBEF368924"
 			rewards: [{
@@ -1391,7 +1425,7 @@
 				item: "mae2:pattern_p2p_tunnel"
 				type: "item"
 			}]
-			title: "&9Pattern P2P"
+			title: "&9Р2Р шаблонов"
 			x: 2.5d
 			y: 7.0d
 		}

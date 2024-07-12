@@ -188,9 +188,9 @@
 				id: "02543E826A43185A"
 				item: {
 					Count: 1b
-					id: "sophisticatedstorage:gold_barrel"
+					id: "itemfilters:tag"
 					tag: {
-						woodType: "oak"
+						value: "functionalstorage:drawer"
 					}
 				}
 				title: "Любой ящик"
