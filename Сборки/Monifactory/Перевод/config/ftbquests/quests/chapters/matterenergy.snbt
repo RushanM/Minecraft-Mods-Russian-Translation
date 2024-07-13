@@ -871,7 +871,6 @@
 							{
 								Count: 1b
 								id: "ae2:wireless_crafting_terminal"
-								tag: { }
 							}
 							{
 								Count: 1b
@@ -1031,7 +1030,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Automating Extended Crafting"
+			title: "&9Автоматизация расширенных верстаков"
 			x: 2.5d
 			y: 11.5d
 		}
