@@ -67,7 +67,7 @@
 | [Classic Steam Dynamo](https://www.curseforge.com/minecraft/mc-mods/steam-dynamo) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | ✅ Рус. |
-| [Cobblemon](https://modrinth.com/mod/cobblemon) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Cobblemon](https://modrinth.com/mod/cobblemon) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [ComputerCraft](https://modrinth.com/mod/computercraft)  | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 |
 | [Continuity](https://modrinth.com/mod/continuity) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
@@ -203,6 +203,7 @@
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Xenon](https://modrinth.com/mod/xenon-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | ✅ Рус. | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
 
 Список будет пополняться.
 </details>
