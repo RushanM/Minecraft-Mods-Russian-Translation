@@ -81,7 +81,7 @@
 		}
 		{
 			dependencies: ["295E3D32083676E6"]
-			description: ["Прогоняя пластины через соответствующие &aпечати&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования вычислительного процессора."]
+			description: ["Прогоняя пластины через соответствующие &aпресс-формы&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования вычислительного процессора."]
 			id: "133FB7996362498C"
 			rewards: [{
 				id: "035F2955DB950CCA"
@@ -104,7 +104,7 @@
 				"295E3D32083676E6"
 				"1F4D2DAF4267DB77"
 			]
-			description: ["&3Расширенный пресосватель&r способен выполнять 4 задачи в параллели, что значительно упрощает автоматизацию."]
+			description: ["&3Расширенный прессователь&r способен выполнять 4 задачи одновременно, что значительно упрощает автоматизацию."]
 			id: "057D8689F19564AA"
 			rewards: [{
 				id: "56704F2D2C2EC831"
@@ -154,7 +154,7 @@
 		}
 		{
 			dependencies: ["295E3D32083676E6"]
-			description: ["Прогоняя пластины через соответствующие &aпечати&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования логического процессора."]
+			description: ["Прогоняя пластины через соответствующие &aпресс-формы&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования логического процессора."]
 			id: "1F4D2DAF4267DB77"
 			rewards: [{
 				id: "52D7FCB9D1EC2573"
@@ -252,7 +252,7 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "&aПечати&r нужны для &3прессователя&r."
+			subtitle: "&aПресс-формы&r нужны для &3прессователя&r."
 			tasks: [
 				{
 					id: "15825F0D2F98105E"
@@ -342,7 +342,7 @@
 		}
 		{
 			dependencies: ["295E3D32083676E6"]
-			description: ["Прогоняя пластины через соответствующие &aпечати&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования инженерного процессора."]
+			description: ["Прогоняя пластины через соответствующие &aпресс-формы&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования инженерного процессора."]
 			id: "0FD703A1A1E5055E"
 			rewards: [{
 				id: "128EF2992A9B077F"
@@ -551,19 +551,19 @@
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"&bPackagedAuto&r is an addon for &bApplied Energistics 2&r. Its main purpose in &5monifactory&r is to allow you to eventually automate &bExtended Crafting&r recipes, but you may come up with other fun uses for it as well."
+				"&bPackagedAuto&r — это аддон для &bApplied Energistics 2&r. Его роль в &5монифактори&r — это возможность настроить автокрафт рецепты &bрасширенного создания&r, но, может быть, вы найдёте ему и другое интересное применение."
 				""
-				"&bApplied Energistics 2&r stores recipes in &aPatterns&r, but so far they have been limited to at most 9 stacks of items as input (a standard 3x3 crafting grid). PackagedAuto stores recipes in &aPackage Recipe Holders&r, which don't have this limitation. Additionally, each Holder can store up to &e20 different recipes&r. Holders must be encoded in the &3Package Recipe Encoder&r."
+				"&bApplied Energistics 2&r хранит рецепты в &aшаблонах&r, но они ограничены 9ю стаками предметов как входной ингридиент (стандартная 3х3 сетка верстака). PackagedAuto хранит рецепты в &aносителях программы рецепта&r, у которых нет такого ограничения. В добавок, каждый носитель может хранить &e20 разных рецептов&r. Носитель можно закодировать в &3кодировщике программ рецептов&r."
 				""
-				"In the vast majority of situations you'll need two identically-encoded Holders, as the following machines work together."
+				"В большинстве сучаев вам понадобится два идентично-закодированных носителя, так как следующие машины работают вместе."
 				"{@pagebreak}"
-				"The &3Packager&r is a machine that compresses ingredients for a specific recipe into a set of &6Recipe Packages&r. Each package in a set can hold up to 9 stacks of ingredient items. A simple recipe might consist of one package, but a complex recipe can have up to 9 packages in its set (for 81 total item stacks)."
+				"&3Упаковщик&r — это машина, которая компрессирует ингредиенты для специфичного рецепта в &6упаковка рецепта&r. Каждая упаковка в наборе может хранить до 9 стаков игредиентов. Простой рецепт может состоять из одной упаковки, но в более комплексном рецепте до 9 упаковок в наборе (около 81 стаков предметов)."
 				""
-				"The &3Unpackager&r is a machine that extracts ingredient items from complete sets of Recipe Packages made in a Packager, ejecting the items into an adjacent inventory. It will only extract the items if &eall packages in a set are present&r."
+				"&3Распаковщик&r — это машина, которая извлекает игредиенты из готовых наборов упаковок рецептов созданных в упаковщике, выталкивая предметы в соседний инвентарь. Он начнёт извлекать предметы только если &eвсе упаковки из набора присутствуют&r."
 				""
-				"When both a Packager and Unpackager are connected to an ME Network and have the same recipe, the resulting item will appear as craftable in your &aTerminal&r."
+				"Если упаковщик и распаковщик подключены к сети ЭМ и имеют одинаковый рецепт, то результат предмета будет отображаться доступным к созданию в вашем &aтерминале&r."
 				""
-				"&3Packager Extensions&r will act like a clone of an adjacent Packager - including access to patterns in its Package Recipe Holder - allowing you to craft recipe packages faster. Simply place the Packager Extensions around the Packager. Up to 26 extensions in a 3x3x3 cube around the Packager are supported."
+				"&3Расширитель упаковщика&r работает как клон ближайшего упаковщика — включая доступ к шаблонам в носителе программ рецепта — позволяя создавать упаковки рецепта быстрее. Просто поставьте расширитель упаковщика вокруг упаковщика. Можно установить до 26 расширений в форме 3х3х3 куба вокруг упаковщика."
 			]
 			icon: "packagedauto:package"
 			id: "74469710D910C19D"
@@ -653,9 +653,9 @@
 			description: [
 				"Все неформатированные ячейки хранения ограничены максимум на 63 различных типа предметов, где каждый тип предмета забирает часть байтов общего объёма хранилища ячейки, а все последующие предметы существующих типов начнут занимать уже меньшее количество байтов."
 				""
-				"&61к ячейка хранения ЭМ&r — это первая и самая маленькая ячейка для хранения предметов. Если планируете хранить множество различных предметов в сети, то вам понадобится &6стойка для ячеек ЭМ&r и заполнить её множеством ячеек."
+				"&6Ячейка хранения ЭМ на 1к&r — это первая и самая маленькая ячейка для хранения предметов. Если планируете хранить множество различных предметов в сети, то вам понадобится &6стойка для ячеек ЭМ&r и заполнить её множеством ячеек."
 				""
-				"Далее по размеру — &64к ячейка хранения ЭМ&r. В четыре раза больше байт для хранения значительно большего числа предметов на тип, но для нужна более продвинутые технологии, которые вам могут быть недоступны на данный момент: &6процессоры&r AE создаваемые в &3прессователе&r."
+				"Далее по размеру — &6ячейка хранения ЭМ на 4к&r. В четыре раза больше байт для хранения значительно большего числа предметов на тип, но для нужна более продвинутые технологии, которые вам могут быть недоступны на данный момент: &6процессоры&r AE создаваемые в &3прессователе&r."
 			]
 			icon: {
 				Count: 1b
@@ -731,7 +731,7 @@
 				item: "ae2:cell_component_4k"
 				type: "item"
 			}]
-			title: "4к хранилище"
+			title: "Хранилище на 4К"
 			x: 5.5d
 			y: -4.0d
 		}
@@ -749,7 +749,7 @@
 				item: "ae2:cell_component_16k"
 				type: "item"
 			}]
-			title: "16к хранилище"
+			title: "Хранилище на 16к"
 			x: 5.5d
 			y: -6.5d
 		}
@@ -768,7 +768,7 @@
 				item: "ae2:cell_component_64k"
 				type: "item"
 			}]
-			title: "64k хранилище"
+			title: "Хранилище на 64к"
 			x: 3.5d
 			y: -6.5d
 		}
@@ -919,28 +919,28 @@
 				item: "ae2:cell_component_256k"
 				type: "item"
 			}]
-			title: "&9256k хранилище"
+			title: "&9Хранилище на 256к"
 			x: 3.5d
 			y: -8.0d
 		}
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"This quest teaches you the basics about &bApplied Energistics 2&r autocrafting. If you are new this mod, it is highly recommended that you watch a video or &9&lread the builtin guide&r&r. Just remember that channels are disabled by default in this pack."
+				"Этот квест обучает основам автокрафта &bApplied Energistics 2&r. Если вы играете с этим модом впервые, то очень рекомендуется к просмотру видео гайд или &9&lпрочитать внутриигровой гайд&r. Просто помните, что каналы отключены по умолчанию."
 				""
-				"By now, you should have &6ME Pattern Providers, &6Molecular Assemblers, Crafting Units, Patterns&r and a &6Pattern Encoding Terminal&r. "
+				"На текущий момент у вас должны быть: &6поставщик шаблонов ЭМ, молекулярный сборщик, блок создания, шаблоны&r и &6терминал кодирования шаблонов&r."
 				""
-				"First, for all crafts, you'll need a &eCrafting CPU&r. These are structures that must be in a rectangular prism, and can be only one block. These compose of:"
-				"* &6Crafting Storages&r, which determine how big a craft can be. For now, &64K Crafting Storages&r should be enough. You must have at least one per CPU."
-				"* &6Co-Processing Units&r, which are used to craft multiple things at once. These are optional."
-				"* &6Crafting Monitors&r, used to see what is crafting. Not needed, and you can right-click on the CPU to find out what is crafting anyways, so this is pretty much just decoration."
-				"* &6Crafting Units&r, which aren't needed at all, and are just used to fill holes, if you have a lack of materials."
+				"Во-первых, для манипуляции с крафтом, вам понадобится &eпроцессор создания&r. Он представляет из себя структуру в форме параллепипеда и может быть лишь одним блоком. В его состав входит:"
+				"* &6Хранилище для создания&r, которое определяет размер допустимой цепочки рецептов. На первое время &6хранилища для создания на 4к&r хватит. Для работы обязательно иметь хотя бы один на процессор."
+				"* &6Ячейка параллелизации&r, которая используется для обработки нескольких крафтов одновременно. Она опциональна."
+				"* &6Монитор создания&r используется для визуализации текущего процесса крафта. Не обязателен и вместо него можно открыть интерфейс процессора, чтобы открыть его интерфейс. Так что по большей части это просто декорация."
+				"* &6Блок создания&r, который совсем не обязателен и скорее нужен для заполнения дыр в структуре, если нехватает материалов."
 				"{@pagebreak}"
-				"Second, you'll need the place for the autocrafting. For Crafting Table recipes, you'll need &6Molecular Assemblers&r. &6Pattern Providers&r are placed next to them. Autocrafting with &bGregTech&r is explained later, in the quest following this one."
+				"Во-вторых, нужно место для самого процесса авто-создания. Для рецептов на верстаке используется &6молекулярный сборщик&r. &6Поставщик шаблонов&r устанавливается вполную рядом с ним. Автосоздание с &bGregTech&r разберём в позже в следующем квесте."
 				""
-				"Finally, you'll need a &6Pattern&r. In order to make this, put empty &6Patterns&r in the &6Pattern Encoding Terminal&r, and find the recipe in &bREI&r, while still in the &6Pattern Encoding Terminal&r. Then, click '+' in &bREI&r, and press the arrow to encode the recipe. This goes in the &6Interface&r that you set up in the last step. You can use &6Interface Terminals&r to access &6Interfaces'&r pattern slots."
+				"И наконец, вам понадобится &6шаблон&r. Для кодировки рецепта на него используйте пустой &6шаблон&r в &6терминале кодирования шаблонов&r. С помощью &bREI&r найдите нужный рецепт и с открытым &6терминалом кодировки&r нажмите «+» возле рецепта и нажмите стрелочку для сохранения рецепта на шаблон. Далее, поместите его в &6поставщик шаблонов&r с прошлого шага. Для удобства можно пользоваться &6терминалом доступа к шаблонам&r для быстрого редактирования ячеек шаблонов в &6поставщиках&r."
 				""
-				"Eventually, you'll need a lot of &6Patterns&r, lots of CPUs, and ones with more storage, and lots of &6&6&6Pattern Providers&r&r&r. If you run out of pattern slots in an &6Pattern Provider&r, you can add more &6Pattern Providers&r, or use &6Extended Pattern Providers&r, which have 36 slots each."
+				"В ближайшем будущем у вас будет много &6шаблонов&r, множество процессоров, некоторые с расширенной вместимостью, и множество &6поставщиков шаблонов&r. Если у вас закончится место в &6поставщиках&r, то можно использовать больше &6поставщиков&r или улучшить их до &6расширенных поставщиков шаблонов&r, которые имеют до 36 ячеек для шаблонов каждый."
 			]
 			icon: "ae2:crafting_monitor"
 			id: "0EF85170074E70B3"
@@ -979,17 +979,17 @@
 		{
 			dependencies: ["74469710D910C19D"]
 			description: [
-				"Now that you have &6Osmium&r and &6Iridium&r from the &6Tier Four Micro Miner&r or &6Platinum Group Processing&r, you can begin automating &bExtended Crafting&r recipes. While it is possible to use &6Auto Crafting Tables&r for this task, you have access to something &ovastly&r better&r: &bPackagedExCrafting&r."
+				"Теперь, когда вы получили &6осмий&r и &6иридий&r из &6микрокопателя четвёртого уровня&r или через &6обработку платиновой группы&r, вы можете начать автоматизировать рецепты &bрасширенного создания&r. Хоть возможно обойтись &6столом авто создания&r для этой задачи, у вас есть доступ кое к чему &oгораздо&r лучше: &bPackagedExCrafting&r."
 				""
-				"To begin, you'll need to craft one of each extended &3Package Crafter&r listed on the right. Put an &3Unpackager&r on top of each one, and then a &3Packager&r anywhere you want. These are all AE2 devices, so you'll need to connect them to an ME Network."
+				"Для начала вам нужно скрафтить каждый из расширенных &3упаковочных авто-верстаков&r из списка. На каждый установите &3распаковщик&r, а затем &3упаковщик&r в любом другом месте. Это всё устройства АЕ2, так что их нужно подключить к сети ЭМ."
 				"{@pagebreak}"
-				"Next, right-click the &3Package Recipe Encoder&r, and you should see a button saying \"Processing\": this button cycles through recipe types, including the various Extended Crafting tables. You'll have to choose the appropriate table for the recipe you want to encode."
+				"Далее, откройте &3кодировщик программ рецепта&r. В нём вы найдёте вкладку кнопку «обработка»: эта кнопка меняет тип рецепта, включая различные расширенные верстаки. Вам необходимо выбрать подходящий верстак для рецепта, который вы хотите закодировать."
 				""
-				"&6Holders&r must be encoded in pairs: one for the Packager, and one for the Unpackager. Select the appropriate table for the recipe, look up the recipe you want to encode, and press &6[+]&r in &bREI&r to fill it in. Put two Holders in the top-left slot and press Save to encode the recipe to both of them. Finally, put each Holder into the respective machines."
+				"&6Носители&r нужно кодировать парами: один для упаковщика и один для распаковщика. Выберите нужный стол для рецепта, найдите нужный рецепт, который вы хотите закодировать и нажмите &6[+]&r в &bREI&r для его заполнения. Положите два носителя в верхнюю левую ячейку и нажмите «Сохранить» для кодирования рецепта на оба носителя. И наконец, установите оба носителя в соответствующие машины."
 				""
-				"If you've done everything correctly, you should see the item appear as craftable in a Terminal."
+				"Если всё сделали правильно, то предмет появится доступным к созаднию в терминале."
 				""
-				"While it might seem that the crafting process is slow, &ePackagedAuto is excellent at parallelizing&r. You can surround an Unpackager with Crafters and it will use all of them. It's also possible to add more Unpackagers with Crafters to keep up with the Packager, as long as the Holders are all the same."
+				"Процесс создания вам может показаться медленным, однако &ePackagedAuto прекрасно работает в параллели&r. Вы можете окружить распаковщик авто-сборщиками и он будет работать с каждым. Также можно увеличить число распаковщиков и сборщиков, чтобы успевать за упаковщиком. Главное, чтобы носители рецептов были одинаковы."
 			]
 			icon: "extendedcrafting:elite_auto_table"
 			id: "70D9B3C6539720DE"
@@ -1038,17 +1038,17 @@
 		{
 			dependencies: ["0EF85170074E70B3"]
 			description: [
-				"You can easily automate most &bGregTech&r machines with &aME Pattern Providers&r and processing &aPatterns&r early on by using the machines' auto-output feature."
+				"По началу вы можете запросто автоматизировать большинство машин &bGregTech&r через &aпоставщики шаблонов ЭМ&r и &aшаблоны&r обработки благодаря функции авто-экспорта продукта у машин."
 				""
-				"Use &9the Machine's GUI&r to relocate the output side of a machine where you want it to be, then press the auto output and permit input buttons, then put an ME Pattern Provider on that side of the machine."
+				"Воспользуйтесь &9интерфейсом машины&r для ищменения стороны выхода у машины, затем включите автовыход и разрешите вход со стороны выхода, затем подключите поставщик шаблонов ЭМ на эту сторону машины."
 				""
-				"You can also permit input from the output side by shift-right-clicking with a screwdriver on the output side via the machine grid."
+				"Также можно разрешить вход со стороны выхода машины нажатием shift-ПКМ отвёрткой по стороне выхода у машины."
 				""
-				"Right-click the machine and enable item auto-output (&6orange box&r in the bottom-left corner of the GUI)."
+				"&mОткройте интерфейс машины и включите предметный авто-выход (&6оранжевая кнопка&r&m в правой нижней части интерфейса).&r"
 				"{@pagebreak}"
-				"Now, stuff the ME Pattern Provider with processing patterns. The next time you order an item, the ME Pattern Provider will push ingredients into the machine, and the machine will push outputs back into the Pattern Provider once they're ready, completing the craft. No need to use conduits or import buses!"
+				"Так, далее заполните поставщик шаблонов ЭМ шаблонами обработки. Теперь, если заказать предмет, поставщик шаблонов ЭМ отправить ингридиенты в машину и результат обработки будет отправлен обратно в систему через сторону выхода машины в поставщик шаблонов, тем самым завершив крафт. Даже не нужно подключать провода на ЭМ или шины импорта!"
 				""
-				"Furthermore, you can use Blocking Mode, which ensures that no items are in the inventory before placing the items in, which is a handy way to prevent conflicts. Even better, blocking mode now ignores Programmable Circuits and Molds! Please note that non-consumable items should stay in the machine, and not be included in the pattern made. Yes, this means you should make a seperate machine for each non-consumable, as well as fluids, at least until you get PAs and Large Machines."
+				"Более того можно использовать режим блокирования, который гарантирует что игредиенты не будут отправлены в машину, пока её инвентарь не опустошится. Крайне полезный способ избежать конфликтов рецетпов. К тому же, режим блокировки игнорирует программируемые схемы и формы! Учтите, что все нерасходуемые ингредиенты не должны включаться в рецепт шаблона. Да, это значит что придётся делать отдельную машину для каждого нерасходуемого предмета, а также для жидкостей, по крайней мере пока у вас не будет больших машин и линии обработки."
 			]
 			icon: "minecraft:book"
 			id: "6E27B9938B280291"
@@ -1064,11 +1064,11 @@
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"Handling &6Patterns&r gets tedious pretty quickly, from not having enough slots to move tens of them at a time, to having to multiply them when upgrading your &3Large Machines&r, which, when equipped with &3Parallel Control Hatches&r, may require you to supply more than one item at a time to utilize them to their fullest."
+				"Работать с &6шаблонами&r станосится утомительно довольно быстро: то места для них нехватает, то приходится перемещать их десятками, то порой приходится умножать их после улучшения &3больших машин&r, в особенности если они работают с &3люком контроля параллелизации&r, которые требуют снабжения более чем одним ресурсом за раз, чтобы воспользоваться его преимуществом по полной."
 				""
-				"You don't want to supply one ingot and get two wires when your &3Large Wire Factory&r can take &e64 ingots&r and make &e128 wires&r at a time, right?"
+				"Вы же не хотите поставлять по одному слитку в большую &3большую волочильную фабрику&r и делать 2 провода, которая может обрабатывать &e64 слитка&r и делать &e128 проводов&r за раз, правда?"
 				""
-				"That's where the the &6Pattern Modifier&r comes into play, which makes it possible to &emove, multiply, divide and clear patterns in bulk&r. "
+				"С этим вам поможет &6модификтатор шаблонов&r, который может &eперемещать, умножать, делить и очищать шаблоны партиями&r."
 			]
 			id: "73908E06B75B9C9E"
 			rewards: [{
@@ -1081,7 +1081,7 @@
 				item: "expatternprovider:pattern_modifier"
 				type: "item"
 			}]
-			title: "&9Mastering Patterns"
+			title: "&9Овладение мастерством шаблонов"
 			x: 4.0d
 			y: 11.5d
 		}
@@ -1354,11 +1354,11 @@
 		{
 			dependencies: ["6E27B9938B280291"]
 			description: [
-				"[\"When setting up your AE2 network, generally you either \",{\"text\": \"passive or on-demand things\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://youtu.be/u0ouTWgdcXk?si=4l4UpQnWsYS5b-gT&t=803\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Click to copy to clipboard!\"}}, \", depending on how often you need them, recipe complexity, and so on.\"]"
+				"[\"При планировании сети АЕ2 чаще всего предметы ставят на \",{\"text\": \"пассивное создание или создание по запросу\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://youtu.be/u0ouTWgdcXk?si=4l4UpQnWsYS5b-gT&t=803\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Нажмите, чтобы скопировать!\"}}, \", в зависимости от требуемого количества предмета, его сложность рецепта и так далее.\"]"
 				""
-				"Gregtech circuits fall in this weird middle area where while you need a ton of them, the recipes you will be using change often enough to where passiving them at this point isn't viable."
+				"Электросхемы GregTech попадают в категорию где-то между ними: схем нужно много, но их рецепт будет изменяться достаточно часто, что проектирование пассивого их создания просто не примемлимо."
 				""
-				"You could use a crafting card to help you, but the &9ME Requester&r allows for a better solution, being able to tell your system to keep a stock of many different items and how many it should craft at a time, perfect for keeping circuits stocked."
+				"Для этого, конечно, можно использовать карту создания, но &9запрашиватель ЭМ&r способен поддерживать в системе ЭМ определённое количество предметов в запасе и сколько за раз их можно создавать. Идеально подходит для запасания электросхемами."
 			]
 			id: "0D1A64EBBA742196"
 			rewards: [{
@@ -1371,7 +1371,7 @@
 				item: "merequester:requester"
 				type: "item"
 			}]
-			title: "&9ME Requester"
+			title: "&9Запрашиватель ЭМ"
 			x: 6.75d
 			y: 11.5d
 		}
