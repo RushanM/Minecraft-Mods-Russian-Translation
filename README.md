@@ -172,7 +172,7 @@
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Respackopts](https://modrinth.com/mod/respackopts) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
-| [Ribbits](https://modrinth.com/mod/ribbits) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
+| [Ribbits](https://modrinth.com/mod/ribbits) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
 | [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | ✅ Рус. | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
