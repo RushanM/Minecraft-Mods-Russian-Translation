@@ -161,21 +161,21 @@
 | [Neighborly](https://www.curseforge.com/minecraft/mc-mods/neighborly) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [NeoForge](https://neoforged.net) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Nevermore!](https://modrinth.com/datapack/nevermore) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Pigsteel](https://modrinth.com/mod/pigsteel-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
+| [Pigsteel](https://modrinth.com/mod/pigsteel-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
 | [Pokeblocks](https://modrinth.com/mod/pokeblocks) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Powah!](https://modrinth.com/mod/powah) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Raised](https://modrinth.com/mod/raised) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Rats](https://modrinth.com/mod/rats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Raised](https://modrinth.com/mod/raised) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Rats](https://modrinth.com/mod/rats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Red Pandas!](https://modrinth.com/mod/red-pandas-wueffi) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛
-| [Redstone Clock](https://www.curseforge.com/minecraft/mc-mods/redstone-clock) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
+| [Redstone Clock](https://www.curseforge.com/minecraft/mc-mods/redstone-clock) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Respackopts](https://modrinth.com/mod/respackopts) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
-| [Ribbits](https://modrinth.com/mod/ribbits) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Respackopts](https://modrinth.com/mod/respackopts) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
+| [Ribbits](https://modrinth.com/mod/ribbits) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
 | [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | ✅ Рус. | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
-| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 |
-| [Roughly Enough Items](https://modrinth.com/mod/rei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Ryoamium](https://modrinth.com/mod/ryoamium) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
+| [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥
+| [Roughly Enough Items](https://modrinth.com/mod/rei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Ryoamium](https://modrinth.com/mod/ryoamium) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥
 | [SecurityCraft](https://modrinth.com/mod/security-craft) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Showcase Item](https://modrinth.com/mod/showcase-item) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium) | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 |
