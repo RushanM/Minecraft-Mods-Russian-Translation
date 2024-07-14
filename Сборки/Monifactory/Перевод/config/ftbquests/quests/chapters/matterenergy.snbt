@@ -35,13 +35,13 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"Normally, this block acts as a source of &echannels&r, but that mechanic is disabled by default in &5Monifactory&r."
+				"Обычно, этот блок служит источником &eканалов&r, но эта механика в &5Монифактори&r по-умолчанию отключена."
 				""
-				"You don't have to make this to operate a network when channels are disabled, but if you do, &eyour network will consume less power&r than if it did not have a Controller. Plus, they look kind of cool."
+				"Для работы сети без каналов он не обязателен, однако с ним &eсеть будет потреблять гораздо меньше энергии&r, чем без контроллера. В добавок, он выглядит классно."
 				""
-				"&mMake sure you craft the AE2 one though, and not the one from &bChisel&r!&r"
+				"&mТолько постарайтесь сделать контроллер из AE2, а не из &bChisel&r!&r"
 				""
-				"Food for thought."
+				"Пища для размышлений."
 			]
 			id: "7E59E0E33962D787"
 			rewards: [{
@@ -49,19 +49,19 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "The &aME Controller&r acts as the `brain' and a bit of power storage for an &eME Network&r."
+			subtitle: "&aКонтроллер ЭМ&r выполняет роль «мозга» и немного хранилище энергии для &eсети ЭМ&r."
 			tasks: [{
 				id: "34FE8D1065808917"
 				item: "ae2:controller"
 				type: "item"
 			}]
-			title: "ME Controller"
+			title: "Контроллер ЭМ"
 			x: 1.0d
 			y: 2.5d
 		}
 		{
 			dependencies: ["4174A6C6403DD245"]
-			description: ["Please note that all six variants of &6ME Terminals&r are &emicroparts&r, which means they need to be attached to an &6ME Cable&r (not conduit) to function."]
+			description: ["Все шесть вариантов &6терминалов ЭМ&r являются &eмикрочастями&r, что значит что для работы они должны крепится на &6кабели на ЭМ&r (не провода)."]
 			id: "41B4EA53D6D7AE37"
 			rewards: [{
 				id: "6BCE103B9FF87A10"
@@ -69,19 +69,19 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Access all of your items on a single screen. Soon, anyway."
+			subtitle: "Доступ ко всем ваши предметам из одного экрана! Вскоре..."
 			tasks: [{
 				id: "25CB53FBDBE5C347"
 				item: "ae2:terminal"
 				type: "item"
 			}]
-			title: "Terminal"
+			title: "Терминал"
 			x: 0.0d
 			y: 4.0d
 		}
 		{
 			dependencies: ["295E3D32083676E6"]
-			description: ["Run the plates through the respective &3Inscribers&r with &aPresses&r to make the printed plates, then combine the plates and circuit to form the Calculation Processor."]
+			description: ["Прогоняя пластины через соответствующие &aпресс-формы&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования вычислительного процессора."]
 			id: "133FB7996362498C"
 			rewards: [{
 				id: "035F2955DB950CCA"
@@ -89,13 +89,13 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&6Calculation Processors&r are made from a &6Certus Plate&r, a &6Silicon Plate&r, and any &6tier one circuit&r."
+			subtitle: "&6Вычислительные процессоры&r создаются из &6пластины истинного кварца&r, &6кремниевой подложки&r, и любой &6схемы первого уровня&r."
 			tasks: [{
 				id: "63ED16CB8306DC8C"
 				item: "ae2:calculation_processor"
 				type: "item"
 			}]
-			title: "Calculation Processor"
+			title: "Вычислительный процессор"
 			x: 2.5d
 			y: 2.5d
 		}
@@ -104,20 +104,20 @@
 				"295E3D32083676E6"
 				"1F4D2DAF4267DB77"
 			]
-			description: ["&3Extended Inscribers&r are able to perform up to 4 inscribing jobs at the same time, allowing easier automation."]
+			description: ["&3Расширенный прессователь&r способен выполнять 4 задачи одновременно, что значительно упрощает автоматизацию."]
 			id: "057D8689F19564AA"
 			rewards: [{
 				id: "56704F2D2C2EC831"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Not advanced, but extended"
+			subtitle: "Не продвинутый, а расширенный"
 			tasks: [{
 				id: "58217F13FB40032C"
 				item: "expatternprovider:ex_inscriber"
 				type: "item"
 			}]
-			title: "&9Extended Inscribing"
+			title: "&9Расширенный прессователь"
 			x: 5.5d
 			y: 0.5d
 		}
@@ -128,11 +128,11 @@
 				"5C4E189A3E401566"
 			]
 			description: [
-				"&3Inscribers&r are machines used to make &6inscribed circuits&r for &bApplied Energistics&r."
+				"&3Прессователь&r используется для создания &6печатных плат&r для устройств &bApplied Energistics&r."
 				""
-				"&9Inscribers can be set to automatically export items, can hold up to a stack of items within, as well as a variety of other features to aid in automation."
+				"&3Прессователь может автоматически экспортировать предметы, хранить до стака ингредиента внутри и ещё множество полезных функций, помогающие в его автоматизации."
 				""
-				"&9The silicon used in inscribed circuits no longer requires an EBF with HV power."
+				"&9Кремний, используемый в печатных платах, больше не требует ЭДП высокого напряжения."
 			]
 			id: "295E3D32083676E6"
 			rewards: [{
@@ -142,19 +142,19 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "Angry light forcing rocks to think"
+			subtitle: "Злые лучи света заставляют камни думать"
 			tasks: [{
 				id: "3C32EC54A06596C3"
 				item: "ae2:inscriber"
 				type: "item"
 			}]
-			title: "&9Inscribing"
+			title: "&9Гравировка"
 			x: 4.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["295E3D32083676E6"]
-			description: ["Run the plates through the respective &3Inscribers&r with &aPresses&r to make the printed plates, then combine the plates and circuit to form the Logic Processor."]
+			description: ["Прогоняя пластины через соответствующие &aпресс-формы&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования логического процессора."]
 			id: "1F4D2DAF4267DB77"
 			rewards: [{
 				id: "52D7FCB9D1EC2573"
@@ -162,7 +162,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&6Logic Processors&r are made from a &6Gold Plate&r, a &6Silicon Plate&r, and any tier one circuit."
+			subtitle: "&6Логические процессоры&r создаются из &6пластины золота&r, &6кремниевой подложки&r, и любой &6схемы первого уровня&r."
 			tasks: [{
 				id: "3A650FC102D75669"
 				item: "ae2:logic_processor"
@@ -174,11 +174,11 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"These are the basic cables used by &3Applied Energistics&r to transport network connectivity. Due to the fact that channels are disabled, these cables will be your main method of transporting network connectivity, rather than the dense cables."
+				"Это базовые кабеля используемые в моде &3Applied energistics&r для создания сети на ЭМ. Так как каналы отключены, эти кабеля станут главным методом структурирования сети вместо плотного кабеля."
 				""
-				"These cables do not share blockspace with conduits or cables for other mods, so they can be somewhat unweildy to build with, but they do accept &3Applied Energistics &6Facades&r, so they can be hidden very easily. Keep in mind that a large number of facades leads to FPS lag."
+				"Эти кабеля не разделяют место в блоки в трубами или кабелями других модов, так что может быть немного неудобно их прокладывать. К счастью, их можно спрятать с помощью &6фасадов &3Applied Energistics&r. Однако помните, что большое количество фасадов может сильно понизить частоту кадров."
 				""
-				"Later you can make a variant of the cable that can share blockspace with &3Ender IO&r conduits."
+				"Чуть позже вам станет доступен другой вариант кабелей, который может разделять место в блоке с другими проводами &3Ender IO&r."
 			]
 			id: "1D3A5DCCE1B40D29"
 			rewards: [{
@@ -187,40 +187,41 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "AE Networking"
+			subtitle: "Сетевая инфраструктура AE"
 			tasks: [{
 				id: "13B1ADE4FC0B56A6"
 				item: "ae2:fluix_glass_cable"
 				type: "item"
 			}]
-			title: "ME Cables"
+			title: "Кабеля ЭМ"
 			x: -2.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["1D3A5DCCE1B40D29"]
-			description: ["The only downside is that &ethey will not connect to &bApplied Energistics&r &emicroparts&r like slab-form &6Interfaces&r or &6Level Emitters&r, so you have to use AE cables like &6Fluix Cables&r for those. &2Furthermore, they are known to sometimes disconnect from machine hulls and full-block interfaces, so use AE cables like &6Fluix Cables&r for those."]
+			description: ["Единственных их недостаток — &eОни не соединяются с &eмикрочастями&r &bApplied Energistics&r в виде полублоков, к примеру &6интерфейс&r или &6излучатель уровня ЭМ&r, так что для такого случая нужно использовать &6кабели на ЭМ&r. &2Более того, иногда они могут отключится от цельных полноблочных интерфейсов и машинных корпусов, так что для них тоже нужны &6кабели на ЭМ&r."]
 			id: "474423E607A129DA"
 			rewards: [{
 				id: "53E441288FAE3708"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "&6ME Conduits&r have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make."
+			subtitle: "&6Провода на ЭМ&r имеют преимущество возможностью разделять один блок с другими проводами EnderIO. О, а ещё они довольно дешёвые."
 			tasks: [{
 				id: "703E2AFC71E4CDD3"
 				item: "enderio:me_conduit"
 				type: "item"
 			}]
+			title: "Провод на ЭМ"
 			x: -3.5d
 			y: 0.5d
 		}
 		{
 			dependencies: ["41B4EA53D6D7AE37"]
 			description: [
-				"This is a rudimentary digital item storage device. By placing a &6Storage Cell&r inside it, you can access the contents as though you were looking through a chest. You can carry the disk to another location and place it down in a different ME Chest if you want, and the items will come with it."
+				"Это элементарное устройство цифрового хранения. Подключив в него &6ячейку хранения&r, можно получить доступ к её содержимому, словно глядя в сундук. Этот диск можно перести в другое место и установить в другой сундук ЭМ и все предметы перенесутся вместе с ним."
 				""
-				"&cDon't put Storage Cells inside other portable mod inventories like a Satchel, (or vice-versa) as you risk corrupting the contents of the Satchel and the Storage Cell.&r There's technical reasons why this happens (NBT overflow), and it's not unique to these items, but that's not really worth going into."
+				"&cНе храните ячейки хранения внутри портативных инвентарей из модов на подобии сумки (из Thermal Series) и наоборот, так как вы рискуете повредить содержимое сумки и ячейки хранения.&r Для этого есть технические причины (переполнение NBT) и это не уникально только для этих предметов, но в это лучше не углубляться."
 			]
 			id: "073533F489D121FF"
 			rewards: [{
@@ -229,7 +230,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "The &aME Chest&r is somewhat impractical to use on its own, but it's a necessary ingredient for the much more useful &6ME Drive&r."
+			subtitle: "Сам по себе &aсундук ЭМ&r непрактичен, но он является важным компонентом для создания гораздо более полезной &6стойки для ячеек ЭМ&r."
 			tasks: [{
 				id: "1DD4F411495C54D8"
 				item: "ae2:chest"
@@ -241,9 +242,9 @@
 		{
 			dependencies: ["670C69611ECFF5C8"]
 			description: [
-				"If you like exploring you can find them in meteors with a &aMeteor Compass&r."
+				"Если вам нравится путешествовать, то вы можете найти метеориты с помощью &aметеоритного компаса&r."
 				""
-				"If you don't want to do that, or are having trouble finding one you need, feel free to etch them yourself with a &3Precision Laser Engraver&r."
+				"Если этого делать не хочется или не получается найти его, то можете сами выгравировать их с помощью &3точечного лазерного гравировщика&r."
 			]
 			id: "7FC4297F2BC90F55"
 			rewards: [{
@@ -251,7 +252,7 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "&aPresses&r are needed for &3Inscribers&r."
+			subtitle: "&aПресс-формы&r нужны для &3прессователя&r."
 			tasks: [
 				{
 					id: "15825F0D2F98105E"
@@ -281,9 +282,9 @@
 		{
 			dependencies: ["6D03BB4A6A4BBA27"]
 			description: [
-				"This compass will lead you to the nearest meteor impact. Use your favorite mining tools to smash through the &6Skystone&r shell and get to the juicy center where a &6Mysterious Cube&r with the plates are found."
+				"Этот компас направит вас к ближайшему кратеру метеорита. Используйте любой любимый шахтёрский инструмент для вскрытия оболочки из &6небесного камня&r и пробурится внутрь в сочный центр метеорита, где прячется &6загадочный куб&r и печатные шаблоны."
 				""
-				"Please note that while they're often in a big crater, the meteors might be buried underground; when the compass is spinning wildly, you're right on top of one."
+				"Учтите, что метеориты зачастую находятся в огромном кратере, но иногда могут быть закопаны вглубь под землю; если компас дико крутится на месте, значит вы прямо над метеоритом."
 			]
 			hide_dependency_lines: true
 			icon: "ae2:meteorite_compass"
@@ -294,7 +295,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&bApplied Energistics&r uses &aPresses&r found in cubes at the heart of meteors as templates for &3Inscribers&r to make &6inscribed circuits&r."
+			subtitle: "В &bApplied Energistics&r &aпечати&r, которые хранятся в сердцах метеоритов, служат шаблоном для создания &6печатных плат&r в &3прессователе&r."
 			tasks: [
 				{
 					id: "0B6706026E84DC3C"
@@ -307,7 +308,7 @@
 					type: "checkmark"
 				}
 			]
-			title: "Meteorite Hunter"
+			title: "Охотник на метеориты"
 			x: 4.0d
 			y: -3.0d
 		}
@@ -317,9 +318,9 @@
 				"3AB0402B19DD5BA8"
 			]
 			description: [
-				"With ten slots for Storage Cells, you can store a huge number of items inside this single block, and search through them all with a &6Terminal&r. You just gotta make all those Storage Cells."
+				"Благодаря десяти слотам для ячеек хранения в одном блоке можно хранить огромное количество предметов и взаимодействовать с ними через &6терминалы&r. Осталось сделать те самые ячейки хранения."
 				""
-				"If you somehow run out of room, you can make another ME Drive for even more slots! So many cells, so many items!"
+				"Если каким-то образом у вас закончится место, то поставьте рядом ещё одну стойку ячеек ЭМ для ещё большей вместимости. Больше ячеек, больше предметов!"
 			]
 			id: "52837FD72580F141"
 			rewards: [{
@@ -329,19 +330,19 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "*Slaps &6ME Drive&r* this bad boy can fit so many &6Storage Cells&r in it!"
+			subtitle: "*Стучит по &6стойке&r* в эту малышку вмещается много &6ячеек хранения&r."
 			tasks: [{
 				id: "4A88B561BC4FC5F7"
 				item: "ae2:drive"
 				type: "item"
 			}]
-			title: "Digital Storage For Days"
+			title: "Цифровое хранилище на века"
 			x: -2.0d
 			y: 6.0d
 		}
 		{
 			dependencies: ["295E3D32083676E6"]
-			description: ["Run the plates through the respective &3Inscribers&r with &aPresses&r to make the printed plates, then combine the plates and circuit to form the Engineering Processor."]
+			description: ["Прогоняя пластины через соответствующие &aпресс-формы&r в &3прессователе&r можно получить печатные платы, а после — объединить их и электросхему для формирования инженерного процессора."]
 			id: "0FD703A1A1E5055E"
 			rewards: [{
 				id: "128EF2992A9B077F"
@@ -349,7 +350,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&6Engineering Processors&r are made from a &6Diamond Plate&r, a &6Silicon Plate&r, and any tier one circuit."
+			subtitle: "&6Инженерные процессоры&r создаются из &6алмазной пластины&r, &6кремниевой подложки&r, и любой &6схемы первого уровня&r."
 			tasks: [{
 				id: "2D4C3E3A6D443BB0"
 				item: "ae2:engineering_processor"
@@ -362,17 +363,18 @@
 		{
 			dependencies: ["0FD703A1A1E5055E"]
 			description: [
-				"A &6P2P Tunnel&r (&aPoint-to-Point Tunnel&r) is a powerful tool from &bApplied Energistics 2&r that can be used to send items, redstone, RF/EU or fluids from one location to another, using your ME system, without the need to use any disk storage space. &cTransporting RF/EU has a 5%% tax on the input energy.&r"
+				"&6Туннель Р2Р&r (&aтуннель точка-точка&r) это очень полезный инструмент из &bApplied Energistics 2&r, который способен передавать вещи, сигнал редстоуна, РТ/ЕЭ или жидкости из одной точки в другую через систему ЭМ без использования места на диске. &cТранспортировка РТ/ЕЭ имеет налог размером 5% от входящей энергии.&r"
 				""
-				"Each P2P tunnel system may have only &cone input&r but &eany number of outputs&r. There is no limit on how many P2P tunnels, or P2P tunnel systems, you can have on one network."
+				"Каждый туннель Р2Р может иметь только &cодин вход&r, но любое &eмножество выходов&r. В сети нет ограничений на количество туннелей Р2Р или на количество сетей Р2Р."
 				""
-				"By default, a P2P tunnel is an &6ME tunnel&r, which transmits Applied Energistics channels and power. Since channels are disabled, you will most likely not be using the default tunnel. You can change the mode of your P2P tunnels by right clicking the tunnel with the respective item seen in &bREI&r."
+				"Изначально туннель Р2Р настроен как &6туннель ЭМ&r, который передаёт каналы и энергию Applied Energistics. Но так как каналы отключены, вы скорее всего не воспользуетесь оригинальной конфигурацией. Режим туннеля можно изменить нажав на него соответствующим предметом, как показано в &bREI&r."
 				"{@pagebreak}"
-				"To configure your P2P tunnels, take a &6Memory Card&r. While holding the memory card, &ashift-right click&r the unconfigured tunnel, to set the frequency of the input, and save the frequency to the memory card. Once the first tunnel has been set up this way and the memory card is configured with the frequency, any subsequent tunnel you &aright-click&r with the memory card will be set as the output of the most recent frequency used."
+				"Для конфигурации туннелей Р2Р потребуется &6карта памяти&r. Чтобы настроить частоту туннеля нажмите картой &ashift-ПКМ&r по туннелю, чтобы сохранить частоту входа. После этого, нажав &aПКМ&r по другим туннелям картой скопирует на них конфигурацию частоты карты."
 				""
-				"You can also use memory cards to copy the configuration of ME blocks and tile-entities, such as &6Interfaces&r and &6Storage Buses&r. &aShift-right click&r a ME block to copy its configuration, and &aright-click&r to paste that configuration. Note that this doesn't copy upgrades applied to the block."
+				"Также картой памяти можно копировать конфигурацию блоков ЭМ и блоки-сущности, такие как &6интерфейсы&r и &6шины хранения&r."
+				"&aShift-ПКМ&r по блоку для записи конфигурации на карту и &aПКМ&r для копирования на блок. Учтите, что это не скопирует улучшения, установленные на блок."
 				""
-				"You can also &ashift-right click&r to empty the frequency, or the ME block configuration, set in the card."
+				"Для очистки частоты или настроек машины на ЭМ с карты нажмите &ashift-ПКМ&r по воздуху."
 			]
 			id: "410EA68D6EF15CEC"
 			rewards: [{
@@ -380,7 +382,7 @@
 				item: "kubejs:moni_quarter"
 				type: "item"
 			}]
-			subtitle: "Network Recursion"
+			subtitle: "Рекурсия сети"
 			tasks: [{
 				id: "10CF79220AE28192"
 				item: {
@@ -390,7 +392,7 @@
 				}
 				type: "item"
 			}]
-			title: "P2P Tunnels"
+			title: "Туннель Р2Р"
 			x: 4.0d
 			y: 5.5d
 		}
@@ -400,9 +402,9 @@
 				"0FD703A1A1E5055E"
 			]
 			description: [
-				"This handy terminal allows you to see the pattern slots of all &aME Pattern Providers&r in your network in one place."
+				"Этот удобный терминал позволяет взаимодействовать со всеми &aпоставщиками шаблонов ЭМ&r в сети."
 				""
-				"This means you don't have to run to your ME Pattern Providers each time you make a new pattern for them."
+				"Больше не придётся бегать к каждому поставщику шаблонов каждый раз, чтобы добавить новый шаблон с рецептом."
 			]
 			id: "2E079747A46D48CF"
 			shape: "hexagon"
@@ -411,7 +413,7 @@
 				item: "ae2:pattern_access_terminal"
 				type: "item"
 			}]
-			title: "Pattern Access Terminal"
+			title: "Терминал доступа шаблонов"
 			x: 5.5d
 			y: 5.5d
 		}
@@ -421,9 +423,9 @@
 				"133FB7996362498C"
 			]
 			description: [
-				"Well, you need patterns too I guess."
+				"Ну, вам ещё понадобятся шаблоны."
 				""
-				"The details of autocrafting will be explained in a later quest."
+				"Подробнее про автокрафт рассказано в следующем квесте."
 			]
 			id: "4A96659253CCFACF"
 			rewards: [{
@@ -432,19 +434,19 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Autocrafting at last."
+			subtitle: "Наконец, автокрафт"
 			tasks: [{
 				id: "4C488203562AD601"
 				item: "ae2:crafting_unit"
 				type: "item"
 			}]
-			title: "Crafting Units"
+			title: "Блок создания"
 			x: 4.0d
 			y: 2.5d
 		}
 		{
 			dependencies: ["1040D941027962B1"]
-			description: ["This version of the Pattern Provider boosts the pattern capacity from 9 to 36. It can be made directly, or it can be upgraded to using a &6Pattern Provider Upgrade&r."]
+			description: ["Эта версия поставщика шаблонов расширяет вместимость шаблонов от 9 до 36. Его можно создать напрямую или через улучшение с помощью &6улучшения поставщика шаблонов&r."]
 			icon: "expatternprovider:ex_pattern_provider"
 			id: "0FA4CAD4F68BC0F8"
 			rewards: [{
@@ -452,7 +454,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "A very useful upgrade to the Pattern Provider."
+			subtitle: "Очень полезное улучшение поставщика шаблонов"
 			tasks: [{
 				id: "1FE9B2CBA70D22B9"
 				item: {
@@ -462,29 +464,30 @@
 						value: "expatternprovider:extended_pattern_provider"
 					}
 				}
-				title: "Any Extended Pattern Provider"
+				title: "Любой расширенный поставщик шаблонов"
 				type: "item"
 			}]
-			title: "&9Extended Pattern Provider"
+			title: "&9Расширенный поставщик шаблонов"
 			x: 6.75d
 			y: 7.0d
 		}
 		{
 			dependencies: ["1F4D2DAF4267DB77"]
 			description: [
-				"&aME Pattern Providers&r and &aME Interfaces&r are extremely important for automation. You'll be making a lot of these, if you're playing the pack right."
+				"&aПоставщик шаблонов ЭМ&r и &aинтерфейс ЭМ&r — одни из важнейшей деталей автоматизации. Вам понадобится много таких, если проходить сборку правильно."
 				""
-				"These can be filled with encoded &aPatterns&r to perform on-demand autocrafting. Any item pushed into an &aME Pattern Provider&r is digitized and placed in your ME Network storage."
+				"В поставщик можно загрузить &aшаблоны&r для автосборки по запросу. Любой предмет, помещённый в &aпоставщик шаблонов ЭМ&r, будет отцифрован и помещён в сетевое хранилище ЭМ."
 				""
-				"When adjacent to one or more &aMolecular Assemblers&r, crafting table patterns can be crafted. It will use as many adjacent &aMolecular Assemblers&r as possible, restricted by availability and number of &aCo-processors&r in your crafting CPU multiblock."
+				"Если поместить его вплотную к &aмолекулярному сборщику&r, то будут использоваться шаблоны с рецептами верстака. Он будет пытаться использовать как можно больше соседних &aмолекулярных сборщиков&r, ограничиваясь лишь количеством &aпроцессорами параллелизации&r в многоблочной структуре центрального процессора сборки."
+				""
 				"{@pagebreak}"
-				"When adjacent to any other block, you can use &aprocessing patterns&r with a machine to insert items into the machine. Processing patterns require that the finished item is inserted back into the ME Network through &aInterfaces&r or &aPattern Providers&r."
+				"Если поставить его вплотную к любому другому блоку, то он будет использовать &aшаблоны обработки&r. Шаблоны обработки требуют, чтобы результат рецепта был отправлен в сеть ЭМ через &aинтерфейс&r или &aпоставщик шаблонов&r."
 				""
-				"&aME Pattern Providers&r can be wrenched to ensure they only communicate with a particular adjacent block, or can be crafted into a micropart form to fit multiple in the same block space (each micropart only interacting with the adjacent block face)."
+				"&aПоставщик шаблонов ЭМ&r можно повернуть ключом, чтобы убедиться что он будет взаимодействовать с машиной только с опредлённой стороны или можно использовать форму микрочасти для использования нескольких поставщиков в одном блоке (каждая микрочасть взаимодействует лишь с примыкающей стороной)."
 				""
-				"Also, if you connect a gadget from &bBuilding Gadgets&r to the Pattern Provider, the gadget will pull materials straight from the attached AE2 network, &aNOT&r the Pattern Provider."
+				"В добавок, если привязать гаджет из мода &bBuilding Gadgets&r к поставщику шаблонов, то он будет использовать материалы напрямую из подключённой сети АЕ2, но &aНЕ&r из поставщика шаблонов."
 				""
-				"There is information of the Gadgets, and how to connect them to inventories, in the &eInspector Gadget&r quest in &cGenesis&r in &cMatter Energy&r or &cThe Beginning&r."
+				"Для большей информации про гаджеты и как их связывать с инвентарями, прочтите квест &eИнспектор Гаджет&r в главе &cГенезис&r, &cЭнергия материи&r и &cНачало&r."
 			]
 			icon: "ae2:pattern_provider"
 			id: "1040D941027962B1"
@@ -494,7 +497,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&lNot&r An Interface"
+			subtitle: "&lНЕ&r интерфейс"
 			tasks: [{
 				id: "24069DF90AE106FD"
 				item: {
@@ -504,10 +507,10 @@
 						value: "ae2:pattern_provider"
 					}
 				}
-				title: "Any Pattern Provider"
+				title: "Любой поставщик шаблонов"
 				type: "item"
 			}]
-			title: "&9Pattern Provider"
+			title: "&9Поставщик шаблонов"
 			x: 5.5d
 			y: 7.0d
 		}
@@ -519,13 +522,13 @@
 				"6169C04DF463502F"
 			]
 			description: [
-				"Encode them in a &aPattern Encoding Terminal&r."
+				"Записать на них рецепт можно в &aтерминале кодирования шаблонов&r."
 				""
-				"Note that recipes encoded with Substitutions on will use existing equivalent items, but &ewill only automatically craft the exact item specified in the recipe.&r"
+				"Учтите, что рецепты, созданные с взаимозаменяемостью, будут испрользовать любой подходящий предмет, но &eбудет создавать точно тот предмет, указанный в рецепте.&r"
 				""
-				"&2Preferably aim for recipes without tools.&r"
+				"&2Старайтесь избегать рецептов с инструментами.&r"
 				""
-				"Use recipes that use machines instead!"
+				"Вместо этого пользуйтесь рецептами машин!"
 			]
 			id: "6F32A8739D8E792A"
 			rewards: [{
@@ -535,32 +538,32 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "&aPatterns&r are used to encode a single crafting table or processing recipe for on-demand automation with &bApplied Energistics&r."
+			subtitle: "&aШаблоны&r используются для кодирования рецептов верстака или рецептов обработки для автоматизации в &bApplied Energistics&r."
 			tasks: [{
 				id: "384964EBBD93B59C"
 				item: "ae2:blank_pattern"
 				type: "item"
 			}]
-			title: "Autocrafting Patterns"
+			title: "Шаблоны автосборки"
 			x: 4.0d
 			y: 8.5d
 		}
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"&bPackagedAuto&r is an addon for &bApplied Energistics 2&r. Its main purpose in &5monifactory&r is to allow you to eventually automate &bExtended Crafting&r recipes, but you may come up with other fun uses for it as well."
+				"&bPackagedAuto&r — это аддон для &bApplied Energistics 2&r. Его роль в &5монифактори&r — это возможность настроить автокрафт рецепты &bрасширенного создания&r, но, может быть, вы найдёте ему и другое интересное применение."
 				""
-				"&bApplied Energistics 2&r stores recipes in &aPatterns&r, but so far they have been limited to at most 9 stacks of items as input (a standard 3x3 crafting grid). PackagedAuto stores recipes in &aPackage Recipe Holders&r, which don't have this limitation. Additionally, each Holder can store up to &e20 different recipes&r. Holders must be encoded in the &3Package Recipe Encoder&r."
+				"&bApplied Energistics 2&r хранит рецепты в &aшаблонах&r, но они ограничены 9ю стаками предметов как входной ингридиент (стандартная 3х3 сетка верстака). PackagedAuto хранит рецепты в &aносителях программы рецепта&r, у которых нет такого ограничения. В добавок, каждый носитель может хранить &e20 разных рецептов&r. Носитель можно закодировать в &3кодировщике программ рецептов&r."
 				""
-				"In the vast majority of situations you'll need two identically-encoded Holders, as the following machines work together."
+				"В большинстве сучаев вам понадобится два идентично-закодированных носителя, так как следующие машины работают вместе."
 				"{@pagebreak}"
-				"The &3Packager&r is a machine that compresses ingredients for a specific recipe into a set of &6Recipe Packages&r. Each package in a set can hold up to 9 stacks of ingredient items. A simple recipe might consist of one package, but a complex recipe can have up to 9 packages in its set (for 81 total item stacks)."
+				"&3Упаковщик&r — это машина, которая компрессирует ингредиенты для специфичного рецепта в &6упаковка рецепта&r. Каждая упаковка в наборе может хранить до 9 стаков игредиентов. Простой рецепт может состоять из одной упаковки, но в более комплексном рецепте до 9 упаковок в наборе (около 81 стаков предметов)."
 				""
-				"The &3Unpackager&r is a machine that extracts ingredient items from complete sets of Recipe Packages made in a Packager, ejecting the items into an adjacent inventory. It will only extract the items if &eall packages in a set are present&r."
+				"&3Распаковщик&r — это машина, которая извлекает игредиенты из готовых наборов упаковок рецептов созданных в упаковщике, выталкивая предметы в соседний инвентарь. Он начнёт извлекать предметы только если &eвсе упаковки из набора присутствуют&r."
 				""
-				"When both a Packager and Unpackager are connected to an ME Network and have the same recipe, the resulting item will appear as craftable in your &aTerminal&r."
+				"Если упаковщик и распаковщик подключены к сети ЭМ и имеют одинаковый рецепт, то результат предмета будет отображаться доступным к созданию в вашем &aтерминале&r."
 				""
-				"&3Packager Extensions&r will act like a clone of an adjacent Packager - including access to patterns in its Package Recipe Holder - allowing you to craft recipe packages faster. Simply place the Packager Extensions around the Packager. Up to 26 extensions in a 3x3x3 cube around the Packager are supported."
+				"&3Расширитель упаковщика&r работает как клон ближайшего упаковщика — включая доступ к шаблонам в носителе программ рецепта — позволяя создавать упаковки рецепта быстрее. Просто поставьте расширитель упаковщика вокруг упаковщика. Можно установить до 26 расширений в форме 3х3х3 куба вокруг упаковщика."
 			]
 			icon: "packagedauto:package"
 			id: "74469710D910C19D"
@@ -599,14 +602,13 @@
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"If you've tried to insert or remove a lot of items quickly, you might notice your ME network"
-				"&eflickers offline&r briefly. This is because digitizing and re-materializing items requires energy!"
+				"Вы может могли заметить, что если быстро перемещать предметы внутрь или из системы, то вся сеть ЭМ будет &eморгать&r. Это потому, что отцифрование и материализация предметов потребляет энергию!"
 				""
-				"Your network doesn't naturally store very much energy and the &6Energy Acceptor&r only intermittently refills the network's power. To keep things stable, you will need to add some energy storage in your network using &6Energy Cells&r."
+				"Ваша сеть сама по себе энергии много не хранит и лишь &6приёмщик энергии&r переодически подпитывает сеть энергией. Для поддержания стабильности необходимо добавить буффер энергии в виде нескольких &6ячеек энергии&r."
 				""
-				"Just place one anywhere in your network and it will fill up with AE energy received from the Energy Acceptor. Now, you should have enough energy in your network to prevent these power losses. Feel free to add more energy cells, or upgrade to &6Dense Energy Cells&r, if you continue to experience problems."
+				"Просто поставьте один куда-нибудь в вашей сети и он будет заряжаться энергией АЕ через приёмщик энергии. Теперь сети будет достаточно энергии для стабилизации в случае резкого скачка потребления. Если проблемы будут продолжаться, то можно добавить больше энергоячеек или улучшить их до &6плотных энергоячеек&r."
 				""
-				"If you've opted to enable channels in your AE2 configs, you will innately have some energy storage from the &3ME Controller&r, but we assume you know what you're doing at that point. &eAE2 Channels mechanics are outside the scope of the quest book, and this is the only time it will be mentioned."
+				"Если вы решили включить каналы в конфигурации, у вас изначально будет небольшой буффер энергии от &3контроллера ЭМ&r, но мы предположим, что вы понимаете что нужно делать. &eМеханика каналов АЕ2 выходит за рамки этой книги квестов и это единственный раз когда она будет упомянута."
 			]
 			icon: {
 				Count: 1b
@@ -614,7 +616,7 @@
 				tag: { }
 			}
 			id: "5A83E1115F965393"
-			subtitle: "Oops... A Blackout!"
+			subtitle: "Упс... всё погасло!"
 			tasks: [{
 				id: "714C125E0ED99334"
 				item: {
@@ -639,21 +641,21 @@
 						]
 					}
 				}
-				title: "Any Energy Cell"
+				title: "Любая ячейка энергии"
 				type: "item"
 			}]
-			title: "Energy Cell"
+			title: "Ячейка энергии"
 			x: 0.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"All unformatted Storage Cells are limited to at most 63 distinct item types, with the first item of each new type taking up a chunk of the total bytes of cell storage, and subsequent items of existing types taking a small number of bytes thereafter."
+				"Все неформатированные ячейки хранения ограничены максимум на 63 различных типа предметов, где каждый тип предмета забирает часть байтов общего объёма хранилища ячейки, а все последующие предметы существующих типов начнут занимать уже меньшее количество байтов."
 				""
-				"A &61k ME Storage Cell&r is the first and smallest cell for storing items. If you are going to be storing many different kinds of items in your network, you will need to make an &6ME Drive&r and fill it with multiple Storage Cells."
+				"&6Ячейка хранения ЭМ на 1к&r — это первая и самая маленькая ячейка для хранения предметов. Если планируете хранить множество различных предметов в сети, то вам понадобится &6стойка для ячеек ЭМ&r и заполнить её множеством ячеек."
 				""
-				"The &64k ME Storage Cell&r is the next size up. With four times the bytes it holds substantially more items per type, but it requires a more advanced technology than you currently have available: AE &6Processors&r made in an &3Inscriber&r."
+				"Далее по размеру — &6ячейка хранения ЭМ на 4к&r. В четыре раза больше байт для хранения значительно большего числа предметов на тип, но для нужна более продвинутые технологии, которые вам могут быть недоступны на данный момент: &6процессоры&r AE создаваемые в &3прессователе&r."
 			]
 			icon: {
 				Count: 1b
@@ -668,7 +670,7 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			subtitle: "&bApplied Energistics&r uses &6Storage Cells&r as its primary means of digital item and fluid storage."
+			subtitle: "&bApplied Energistics&r использует &6ячейки хранения&r как основной способ цифрового хранения предметов и жидкостей."
 			tasks: [{
 				id: "631B9DD6D42ECBE4"
 				item: {
@@ -707,7 +709,7 @@
 				title: "Any Storage Cell"
 				type: "item"
 			}]
-			title: "Digital Storage At Last"
+			title: "Наконец, цифровое хранилище"
 			x: 2.25d
 			y: -4.0d
 		}
@@ -716,20 +718,20 @@
 				"680C4363C268B223"
 				"1F4D2DAF4267DB77"
 			]
-			description: ["Unformatted disks always have a hard limit of 63 distinct types of items, but each step up has roughly four times the total storage space of the prior disk."]
+			description: ["Неформатированные диски всегда имеют лимит в 63 различных типа предметов, но с каждым уровнем общая вместимость повышается в примерно четыре раза."]
 			id: "72AFBEFCEAE86EC1"
 			rewards: [{
 				id: "7906B965172DE5A6"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "A component used primarily for making bigger &6Storage Cells&r."
+			subtitle: "Компонент для создания &6ячеек хранения&r большей вместимости."
 			tasks: [{
 				id: "6A0C5DAC7C23F6C1"
 				item: "ae2:cell_component_4k"
 				type: "item"
 			}]
-			title: "4k Item Storage"
+			title: "Хранилище на 4К"
 			x: 5.5d
 			y: -4.0d
 		}
@@ -741,32 +743,32 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "The third component for AE item &6Storage Cells&r."
+			subtitle: "Третий компонент для &6ячеек хранения&r АЕ."
 			tasks: [{
 				id: "25D1BDBF3A962C46"
 				item: "ae2:cell_component_16k"
 				type: "item"
 			}]
-			title: "16k Item Storage"
+			title: "Хранилище на 16к"
 			x: 5.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["15AE607E2EDD0369"]
-			description: ["Used for storing really big amounts of things, like in a &664k ME Storage Cell&r."]
+			description: ["Нужно для хранения большого количества вещей в &664 к ячейке хранения ЭМ&r."]
 			id: "60BC08DE447E5007"
 			rewards: [{
 				id: "7417C31CB32C97BC"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "The penultimate item storage component in &bApplied Energistics&r."
+			subtitle: "Предпоследний компонент хранения в &bApplied Energistics&r."
 			tasks: [{
 				id: "6A51C195328840CF"
 				item: "ae2:cell_component_64k"
 				type: "item"
 			}]
-			title: "64k Item Storage"
+			title: "Хранилище на 64к"
 			x: 3.5d
 			y: -6.5d
 		}
@@ -776,17 +778,18 @@
 				"1175ED9EF0AB82F6"
 			]
 			description: [
-				"Firstly, you will need a &3Matter Condenser&r. Stick a &664k ME Storage Component&r in, change the mode to 'Singularity', and stuff lots of items (or fluids) in, &9done easily with a infinity cell&r."
+				"Для начала вам понадобится &3конденсатор материи&r. Установив в него &664к компонент хранения&r, измените режим на «сингулярность» и загрузите в него множество предметов (или жидкости). &9Проще всего через ячейку бесконечности&r."
 				""
-				"If you don't have that, you can surround it with &6Dense Cobblestone Generators&r."
+				"Вместо этого можно окружить его &6&mплотным генератором булыжника&r. "
+				""
 				"{@pagebreak}"
-				"After you have made the &eSingularity&r you will need from the &3Matter Condenser&r, you need to setup a &aQuantum Ring Multiblock&r. Build a 3 by 3 vertical ring with your &6Quantum Rings&r, leaving a hole in the middle. Finally, stick your &6Quantum Link Chamber&r in the hole, and connect it to your ME system. If you built it correctly, the textures of the rings should combine, leaving you with a &aMultiblock&r."
+				"Когда вы получите &eсингулярность&r в &3конденсаторе материи&r, вам нужно будет сконструировтаь &aквантовые кольца&r. Сформируйте квертикальное кольцо размером в 3 на 3 блока из блоков &6квантовых колец&r, оставляя дыру по середине. Затем, установите в центр &6камеру квантовой связи&r и подключите его к вашей системе ЭМ. Если всё построено правильно, то текстура кольца должна объединится и сформировать &aмногоблок&r."
 				""
-				"Once you have the &eSingularity&r, you have to link them by throwing Ender Dust, The Singularity into any explosion."
+				"Затем, бросьте &eсингулярность&r и пыль эндер-жемчуга в любой взрыв для того чтобы связать квантовую сингулярность."
 				""
-				"&9With your Quantum-entangled Singularity, put one into the&r &6Quantum Link Chamber&r&9 of the &r&aQuantum Ring&r&9, and the other in the&r &6Wireless Terminal&r! "
+				"&9Теперь у вас есть сингулярность квантовой запутанности. Положите одну в &6камеру квантовой связи&9 в &aквантовом кольце&9 и вторую в ваш &6беспроводной терминал&r!"
 				""
-				"You should be good to go! You can now access AE2 anywhere, including in different dimensions!"
+				"Всё должно заработать! Вы можете взаимодействовать с вашей сетью АЕ2 из любой части мира и даже из других измерений!"
 			]
 			icon: "ae2wtlib:quantum_bridge_card"
 			id: "553F85782265C350"
@@ -796,7 +799,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Accessing AE2 from anywhere is a bit more expensive and complex, but its well worth it."
+			subtitle: "Получить доступ к сети АЕ2 отовсюду немного дорого и сложно, но оно определённо того стоит."
 			tasks: [
 				{
 					count: 3L
@@ -828,7 +831,7 @@
 					type: "item"
 				}
 			]
-			title: "&9AE2 Everywhere!"
+			title: "&9AE2 везде!"
 			x: 1.5d
 			y: -6.5d
 		}
@@ -838,21 +841,22 @@
 				"41B4EA53D6D7AE37"
 			]
 			description: [
-				"Accessing &bApplied Energistics 2&r wirelessly saves a huge amount of time, and is highly recommended to set up."
+				"Беспроводной доступ к сети &bApplied Energistics 2&r экономит много времени и настоятельно рекомендуется к созданию."
 				""
-				"First, you will need a &6Wireless Access Point&r. Connect it to your network. Like the &6Terminal&r, the Wireless Access Point is a &emicropart&r, so you must place it on a &6ME Cable&r."
+				"Для начала вам понадобится &6точка беспроводного доступа&r. Подключите его к сети. Как и &6терминалы&r точка беспроводного доступа является &eмикрочастью&r, так что их необходимо крепить на &6кабель ЭМ&r."
 				""
-				"Next, you need a &6Wireless Terminal&r, or its varients. You can have as many Wireless Terminals or their varients on the system at the same time."
+				"Далее, создайте &6беспроводной терминал&r или его вариации. Одновременно в системе может быть множество беспроводных терминалов и их вариаций."
 				""
-				"Finally, put your &6Wireless Terminal&r into the &6Wireless Access Point&r. This will connect it to the system. "
+				"И наконец, свяжите &6беспроводной терминал&r с системой через &6точку беспроводного доступа&r. "
+				""
 				"{@pagebreak}"
-				"You can equip these as a bauble, and use a hotkey to open them. Search 'Applied Energistics' as a &ecategory&r to see and edit these hotkeys."
+				"Терминал можно экипировать в слот аксессуаров и открывать его через горячую клавишу. Ищите &eкатегорию&r «Applied Energistics» в настройках управления."
 				""
-				"You can only go 16 blocks away. However, you can put &6Wireless Boosters&r into the &6Wireless Access Point&r to increase the range. A better, but more expensive solution, that allows access from anyhere, will be explained in the following quest, 'AE2 Everywhere!'."
+				"Изначальная дистанция точки доступа — 16 блоков. Её можно увеличить с помощью &6беспроводных усилителей&r. Позже, вам будет доступен более дорогой вариант, который позволит получить доступ к беспроводной сети буквально отовсюду. Подробнее об этом в следующем квесте — «AE2 везде!»."
 			]
 			id: "1175ED9EF0AB82F6"
 			shape: "hexagon"
-			subtitle: "AE2 From Anywhere... Almost"
+			subtitle: "АЕ2 везде... почти"
 			tasks: [{
 				id: "564AFB42CC6805FF"
 				item: {
@@ -867,7 +871,6 @@
 							{
 								Count: 1b
 								id: "ae2:wireless_crafting_terminal"
-								tag: { }
 							}
 							{
 								Count: 1b
@@ -892,16 +895,16 @@
 				type: "item"
 				weak_nbt_match: true
 			}]
-			title: "Wireless Terminal"
+			title: "Беспроводной терминал"
 			x: 0.0d
 			y: -6.5d
 		}
 		{
 			dependencies: ["60BC08DE447E5007"]
 			description: [
-				"The ultimate item storage component in &bApplied Energistics&r."
+				"Ультимативный компонент хранения в &bApplied Energistics&r."
 				""
-				"These have a massive capacity, hundreds of times that of a &61k ME Storage Component&r."
+				"У них огромная вместимость, в сто раз больше чем в &61к компоненте хранения&r."
 			]
 			id: "241FADD2C751BE74"
 			rewards: [{
@@ -909,34 +912,34 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "&9New to Monifactory!&r"
+			subtitle: "&9Новинка в Monifactory!&r"
 			tasks: [{
 				id: "11828E352A22BA71"
 				item: "ae2:cell_component_256k"
 				type: "item"
 			}]
-			title: "&9256k Item Storage"
+			title: "&9Хранилище на 256к"
 			x: 3.5d
 			y: -8.0d
 		}
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"This quest teaches you the basics about &bApplied Energistics 2&r autocrafting. If you are new this mod, it is highly recommended that you watch a video or &9&lread the builtin guide&r&r. Just remember that channels are disabled by default in this pack."
+				"Этот квест обучает основам автокрафта &bApplied Energistics 2&r. Если вы играете с этим модом впервые, то очень рекомендуется к просмотру видео гайд или &9&lпрочитать внутриигровой гайд&r. Просто помните, что каналы отключены по умолчанию."
 				""
-				"By now, you should have &6ME Pattern Providers, &6Molecular Assemblers, Crafting Units, Patterns&r and a &6Pattern Encoding Terminal&r. "
+				"На текущий момент у вас должны быть: &6поставщик шаблонов ЭМ, молекулярный сборщик, блок создания, шаблоны&r и &6терминал кодирования шаблонов&r."
 				""
-				"First, for all crafts, you'll need a &eCrafting CPU&r. These are structures that must be in a rectangular prism, and can be only one block. These compose of:"
-				"* &6Crafting Storages&r, which determine how big a craft can be. For now, &64K Crafting Storages&r should be enough. You must have at least one per CPU."
-				"* &6Co-Processing Units&r, which are used to craft multiple things at once. These are optional."
-				"* &6Crafting Monitors&r, used to see what is crafting. Not needed, and you can right-click on the CPU to find out what is crafting anyways, so this is pretty much just decoration."
-				"* &6Crafting Units&r, which aren't needed at all, and are just used to fill holes, if you have a lack of materials."
+				"Во-первых, для манипуляции с крафтом, вам понадобится &eпроцессор создания&r. Он представляет из себя структуру в форме параллепипеда и может быть лишь одним блоком. В его состав входит:"
+				"* &6Хранилище для создания&r, которое определяет размер допустимой цепочки рецептов. На первое время &6хранилища для создания на 4к&r хватит. Для работы обязательно иметь хотя бы один на процессор."
+				"* &6Ячейка параллелизации&r, которая используется для обработки нескольких крафтов одновременно. Она опциональна."
+				"* &6Монитор создания&r используется для визуализации текущего процесса крафта. Не обязателен и вместо него можно открыть интерфейс процессора, чтобы открыть его интерфейс. Так что по большей части это просто декорация."
+				"* &6Блок создания&r, который совсем не обязателен и скорее нужен для заполнения дыр в структуре, если нехватает материалов."
 				"{@pagebreak}"
-				"Second, you'll need the place for the autocrafting. For Crafting Table recipes, you'll need &6Molecular Assemblers&r. &6Pattern Providers&r are placed next to them. Autocrafting with &bGregTech&r is explained later, in the quest following this one."
+				"Во-вторых, нужно место для самого процесса авто-создания. Для рецептов на верстаке используется &6молекулярный сборщик&r. &6Поставщик шаблонов&r устанавливается вполную рядом с ним. Автосоздание с &bGregTech&r разберём в позже в следующем квесте."
 				""
-				"Finally, you'll need a &6Pattern&r. In order to make this, put empty &6Patterns&r in the &6Pattern Encoding Terminal&r, and find the recipe in &bREI&r, while still in the &6Pattern Encoding Terminal&r. Then, click '+' in &bREI&r, and press the arrow to encode the recipe. This goes in the &6Interface&r that you set up in the last step. You can use &6Interface Terminals&r to access &6Interfaces'&r pattern slots."
+				"И наконец, вам понадобится &6шаблон&r. Для кодировки рецепта на него используйте пустой &6шаблон&r в &6терминале кодирования шаблонов&r. С помощью &bREI&r найдите нужный рецепт и с открытым &6терминалом кодировки&r нажмите «+» возле рецепта и нажмите стрелочку для сохранения рецепта на шаблон. Далее, поместите его в &6поставщик шаблонов&r с прошлого шага. Для удобства можно пользоваться &6терминалом доступа к шаблонам&r для быстрого редактирования ячеек шаблонов в &6поставщиках&r."
 				""
-				"Eventually, you'll need a lot of &6Patterns&r, lots of CPUs, and ones with more storage, and lots of &6&6&6Pattern Providers&r&r&r. If you run out of pattern slots in an &6Pattern Provider&r, you can add more &6Pattern Providers&r, or use &6Extended Pattern Providers&r, which have 36 slots each."
+				"В ближайшем будущем у вас будет много &6шаблонов&r, множество процессоров, некоторые с расширенной вместимостью, и множество &6поставщиков шаблонов&r. Если у вас закончится место в &6поставщиках&r, то можно использовать больше &6поставщиков&r или улучшить их до &6расширенных поставщиков шаблонов&r, которые имеют до 36 ячеек для шаблонов каждый."
 			]
 			icon: "ae2:crafting_monitor"
 			id: "0EF85170074E70B3"
@@ -955,37 +958,37 @@
 				"41B4EA53D6D7AE37"
 			]
 			dependency_requirement: "one_completed"
-			description: ["It's a micropart, so you need to place it on &6ME Cable&r (not a conduit)."]
+			description: ["Это &eмикрочасть&r, так что его нужно крепить на &6кабель на ЭМ&r (не провод)."]
 			id: "480EE330E12084E8"
 			rewards: [{
 				id: "26AC32A839C6603B"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "As the name suggests, this terminal lets you encode recipes onto &aBlank Patterns&r."
+			subtitle: "Как гласит его имя, этот терминал позволяет кодировать рецепты в &aпустые шаблоны&r."
 			tasks: [{
 				id: "39CFFF1B37F39741"
 				item: "ae2:pattern_encoding_terminal"
 				type: "item"
 			}]
-			title: "Pattern Encoding Terminal"
+			title: "Терминал кодирования шаблонов"
 			x: 0.0d
 			y: 8.5d
 		}
 		{
 			dependencies: ["74469710D910C19D"]
 			description: [
-				"Now that you have &6Osmium&r and &6Iridium&r from the &6Tier Four Micro Miner&r or &6Platinum Group Processing&r, you can begin automating &bExtended Crafting&r recipes. While it is possible to use &6Auto Crafting Tables&r for this task, you have access to something &ovastly&r better&r: &bPackagedExCrafting&r."
+				"Теперь, когда вы получили &6осмий&r и &6иридий&r из &6микрокопателя четвёртого уровня&r или через &6обработку платиновой группы&r, вы можете начать автоматизировать рецепты &bрасширенного создания&r. Хоть возможно обойтись &6столом авто создания&r для этой задачи, у вас есть доступ кое к чему &oгораздо&r лучше: &bPackagedExCrafting&r."
 				""
-				"To begin, you'll need to craft one of each extended &3Package Crafter&r listed on the right. Put an &3Unpackager&r on top of each one, and then a &3Packager&r anywhere you want. These are all AE2 devices, so you'll need to connect them to an ME Network."
+				"Для начала вам нужно скрафтить каждый из расширенных &3упаковочных авто-верстаков&r из списка. На каждый установите &3распаковщик&r, а затем &3упаковщик&r в любом другом месте. Это всё устройства АЕ2, так что их нужно подключить к сети ЭМ."
 				"{@pagebreak}"
-				"Next, right-click the &3Package Recipe Encoder&r, and you should see a button saying \"Processing\": this button cycles through recipe types, including the various Extended Crafting tables. You'll have to choose the appropriate table for the recipe you want to encode."
+				"Далее, откройте &3кодировщик программ рецепта&r. В нём вы найдёте вкладку кнопку «обработка»: эта кнопка меняет тип рецепта, включая различные расширенные верстаки. Вам необходимо выбрать подходящий верстак для рецепта, который вы хотите закодировать."
 				""
-				"&6Holders&r must be encoded in pairs: one for the Packager, and one for the Unpackager. Select the appropriate table for the recipe, look up the recipe you want to encode, and press &6[+]&r in &bREI&r to fill it in. Put two Holders in the top-left slot and press Save to encode the recipe to both of them. Finally, put each Holder into the respective machines."
+				"&6Носители&r нужно кодировать парами: один для упаковщика и один для распаковщика. Выберите нужный стол для рецепта, найдите нужный рецепт, который вы хотите закодировать и нажмите &6[+]&r в &bREI&r для его заполнения. Положите два носителя в верхнюю левую ячейку и нажмите «Сохранить» для кодирования рецепта на оба носителя. И наконец, установите оба носителя в соответствующие машины."
 				""
-				"If you've done everything correctly, you should see the item appear as craftable in a Terminal."
+				"Если всё сделали правильно, то предмет появится доступным к созаднию в терминале."
 				""
-				"While it might seem that the crafting process is slow, &ePackagedAuto is excellent at parallelizing&r. You can surround an Unpackager with Crafters and it will use all of them. It's also possible to add more Unpackagers with Crafters to keep up with the Packager, as long as the Holders are all the same."
+				"Процесс создания вам может показаться медленным, однако &ePackagedAuto прекрасно работает в параллели&r. Вы можете окружить распаковщик авто-сборщиками и он будет работать с каждым. Также можно увеличить число распаковщиков и сборщиков, чтобы успевать за упаковщиком. Главное, чтобы носители рецептов были одинаковы."
 			]
 			icon: "extendedcrafting:elite_auto_table"
 			id: "70D9B3C6539720DE"
@@ -1027,24 +1030,24 @@
 					type: "item"
 				}
 			]
-			title: "&9Automating Extended Crafting"
+			title: "&9Автоматизация расширенных верстаков"
 			x: 2.5d
 			y: 11.5d
 		}
 		{
 			dependencies: ["0EF85170074E70B3"]
 			description: [
-				"You can easily automate most &bGregTech&r machines with &aME Pattern Providers&r and processing &aPatterns&r early on by using the machines' auto-output feature."
+				"По началу вы можете запросто автоматизировать большинство машин &bGregTech&r через &aпоставщики шаблонов ЭМ&r и &aшаблоны&r обработки благодаря функции авто-экспорта продукта у машин."
 				""
-				"Use &9the Machine's GUI&r to relocate the output side of a machine where you want it to be, then press the auto output and permit input buttons, then put an ME Pattern Provider on that side of the machine."
+				"Воспользуйтесь &9интерфейсом машины&r для ищменения стороны выхода у машины, затем включите автовыход и разрешите вход со стороны выхода, затем подключите поставщик шаблонов ЭМ на эту сторону машины."
 				""
-				"You can also permit input from the output side by shift-right-clicking with a screwdriver on the output side via the machine grid."
+				"Также можно разрешить вход со стороны выхода машины нажатием shift-ПКМ отвёрткой по стороне выхода у машины."
 				""
-				"Right-click the machine and enable item auto-output (&6orange box&r in the bottom-left corner of the GUI)."
+				"&mОткройте интерфейс машины и включите предметный авто-выход (&6оранжевая кнопка&r&m в правой нижней части интерфейса).&r"
 				"{@pagebreak}"
-				"Now, stuff the ME Pattern Provider with processing patterns. The next time you order an item, the ME Pattern Provider will push ingredients into the machine, and the machine will push outputs back into the Pattern Provider once they're ready, completing the craft. No need to use conduits or import buses!"
+				"Так, далее заполните поставщик шаблонов ЭМ шаблонами обработки. Теперь, если заказать предмет, поставщик шаблонов ЭМ отправить ингридиенты в машину и результат обработки будет отправлен обратно в систему через сторону выхода машины в поставщик шаблонов, тем самым завершив крафт. Даже не нужно подключать провода на ЭМ или шины импорта!"
 				""
-				"Furthermore, you can use Blocking Mode, which ensures that no items are in the inventory before placing the items in, which is a handy way to prevent conflicts. Even better, blocking mode now ignores Programmable Circuits and Molds! Please note that non-consumable items should stay in the machine, and not be included in the pattern made. Yes, this means you should make a seperate machine for each non-consumable, as well as fluids, at least until you get PAs and Large Machines."
+				"Более того можно использовать режим блокирования, который гарантирует что игредиенты не будут отправлены в машину, пока её инвентарь не опустошится. Крайне полезный способ избежать конфликтов рецетпов. К тому же, режим блокировки игнорирует программируемые схемы и формы! Учтите, что все нерасходуемые ингредиенты не должны включаться в рецепт шаблона. Да, это значит что придётся делать отдельную машину для каждого нерасходуемого предмета, а также для жидкостей, по крайней мере пока у вас не будет больших машин и линии обработки."
 			]
 			icon: "minecraft:book"
 			id: "6E27B9938B280291"
@@ -1060,11 +1063,11 @@
 		{
 			dependencies: ["6F32A8739D8E792A"]
 			description: [
-				"Handling &6Patterns&r gets tedious pretty quickly, from not having enough slots to move tens of them at a time, to having to multiply them when upgrading your &3Large Machines&r, which, when equipped with &3Parallel Control Hatches&r, may require you to supply more than one item at a time to utilize them to their fullest."
+				"Работать с &6шаблонами&r станосится утомительно довольно быстро: то места для них нехватает, то приходится перемещать их десятками, то порой приходится умножать их после улучшения &3больших машин&r, в особенности если они работают с &3люком контроля параллелизации&r, которые требуют снабжения более чем одним ресурсом за раз, чтобы воспользоваться его преимуществом по полной."
 				""
-				"You don't want to supply one ingot and get two wires when your &3Large Wire Factory&r can take &e64 ingots&r and make &e128 wires&r at a time, right?"
+				"Вы же не хотите поставлять по одному слитку в большую &3большую волочильную фабрику&r и делать 2 провода, которая может обрабатывать &e64 слитка&r и делать &e128 проводов&r за раз, правда?"
 				""
-				"That's where the the &6Pattern Modifier&r comes into play, which makes it possible to &emove, multiply, divide and clear patterns in bulk&r. "
+				"С этим вам поможет &6модификтатор шаблонов&r, который может &eперемещать, умножать, делить и очищать шаблоны партиями&r."
 			]
 			id: "73908E06B75B9C9E"
 			rewards: [{
@@ -1077,7 +1080,7 @@
 				item: "expatternprovider:pattern_modifier"
 				type: "item"
 			}]
-			title: "&9Mastering Patterns"
+			title: "&9Овладение мастерством шаблонов"
 			x: 4.0d
 			y: 11.5d
 		}
@@ -1086,14 +1089,14 @@
 				"15AE607E2EDD0369"
 				"6169C04DF463502F"
 			]
-			description: ["Placing these in one of your &6ME Drives&r will provide your ME network with an &ainfinite&r amount of water or cobblestone. Use &6interfaces&r or &6export busses&r to provide said substances to whereever you need it."]
+			description: ["Подключите один такой в &6стойку для ячеек ЭМ&r и у системы ЭМ будет &aбесконечный&r запас воды и булыжника. Используйте &6интерфейс&r или &6шину экспорта&r для транспортировки этих вещест там где они необходимы."]
 			id: "26C9F1514FD08C81"
 			rewards: [{
 				id: "144A810C0576A3E0"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "It doesn't get any faster than this."
+			subtitle: "Быстрее чем это ничего уже не будет."
 			tasks: [
 				{
 					id: "4EFDB9B627864D5D"
@@ -1124,13 +1127,13 @@
 					type: "item"
 				}
 			]
-			title: "&9Infinitest Water and Stone"
+			title: "&9Бесконечнейший источник воды и булыжника"
 			x: 5.5d
 			y: -8.0d
 		}
 		{
 			dependencies: ["6F32A8739D8E792A"]
-			description: ["The &6Extended Molecular Assembler&r is able to perform &a8 crafts at a time&r, and does each of those crafts &atwice as fast&r, meaning this assembler can do some serious work."]
+			description: ["&6Расширенный молекулярный сборщик&r способен выполнять &a8 сборочных задач за раз&r и делает он это &aв два раза быстрее&r — он быстро справится с тяжёлой нагрузкой."]
 			id: "631F5DFF43F7A289"
 			rewards: [{
 				count: 2
@@ -1138,22 +1141,22 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "More Parallel Crafting"
+			subtitle: "Больше параллельной сборки"
 			tasks: [{
 				id: "0671F628E93E9BA6"
 				item: "expatternprovider:ex_molecular_assembler"
 				type: "item"
 			}]
-			title: "&9Extended Assembling"
+			title: "&9Расширенный сборщик"
 			x: 4.0d
 			y: 10.0d
 		}
 		{
 			dependencies: ["4174A6C6403DD245"]
 			description: [
-				"&6Certus quartz&r can be grown from &6Budding Certus Quartz&r blocks!"
+				"&6Истинный кварц&r можно выращивать на блоках &6цветущего истинного кварца&r!"
 				""
-				"Check out the &9&lingame guide&r&r or &eG&r on the item for specifics on how to get this set up."
+				"Загляните во &9внутреигровой гайд&r или нажмите клавишу &eG&r на предмете для открытия руководства."
 			]
 			icon: "ae2:flawless_budding_quartz"
 			id: "62356B88D5366D33"
@@ -1162,7 +1165,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Just Like Amethyst"
+			subtitle: "Прям как аметист"
 			tasks: [
 				{
 					id: "3EBBAF2494BBA8A8"
@@ -1190,7 +1193,7 @@
 							]
 						}
 					}
-					title: "Any Budding Certus Quartz"
+					title: "Любой блок цветущего истинного кварца"
 					type: "item"
 				}
 				{
@@ -1199,7 +1202,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Crystal Growing"
+			title: "Выращивание кристаллов"
 			x: -2.0d
 			y: 2.5d
 		}
@@ -1208,7 +1211,7 @@
 				"6F32A8739D8E792A"
 				"1F4D2DAF4267DB77"
 			]
-			description: ["These can be configured to stock up to &99 item stacks (or 576 items)&r or &99 fluid types, 4 buckets each&r for passive autocrafting and to push into other inventories&r. Any item pushed into an &aME Interface&r is digitized and placed in your ME Network storage."]
+			description: ["Их можно конфигурировать для хранения запаса до &99 стаков (или 576 предметов)&r или &99 типов жидкостей, 4 ведра каждый&r для пассивной автоматизации и экспортировать в другие инвентари&r. Любой предмет направленный в &aинтерфейс ЭМ&r будет отцифрован и помещён в сетевое хранилище на ЭМ."]
 			icon: "ae2:interface"
 			id: "3A26187DC3FAD6B1"
 			rewards: [{
@@ -1217,7 +1220,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "&9I dont hold patterns!"
+			subtitle: "&9Я не храню шаблоны!"
 			tasks: [{
 				id: "713C7B1C67D4771E"
 				item: {
@@ -1227,16 +1230,16 @@
 						value: "ae2:interface"
 					}
 				}
-				title: "Any Interface"
+				title: "Любой интерфейс"
 				type: "item"
 			}]
-			title: "Interface"
+			title: "Интерфейс"
 			x: 5.5d
 			y: 8.5d
 		}
 		{
 			dependencies: ["3A26187DC3FAD6B1"]
-			description: ["This version of &aME Interface&r acts like four ME Interfaces in one block, allowing for 1152 items or 72 buckets of fluids."]
+			description: ["Эта версия &aинтерфейса ЭМ&r работает как 4 интерфейса ЭМ в одном блоке с объемом в 1152 предмета или 72 ведра жидкости."]
 			icon: "expatternprovider:ex_interface"
 			id: "5B3AF79FBDF80C51"
 			rewards: [{
@@ -1244,7 +1247,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Neither do I, check my neighbour Extended Pattern Provider instead"
+			subtitle: "Я тоже нет. Лучше спроси моего соседа — расширенного поставщика шаблонов."
 			tasks: [{
 				id: "53C8B8B483EF6121"
 				item: {
@@ -1257,7 +1260,7 @@
 				title: "Any Extended Interface"
 				type: "item"
 			}]
-			title: "&9Extended Interface"
+			title: "&9Расширенный интерфейс"
 			x: 6.75d
 			y: 8.5d
 		}
@@ -1267,9 +1270,9 @@
 				"133FB7996362498C"
 			]
 			description: [
-				"Crafting in a digital grid is heaven after using primitive wooden tables for so long."
+				"Крафт в цифровой форме — просто рай по сравнению с примитивным древесным верстаком спустя столько времени."
 				""
-				"It's a micropart, so you need to place it on &6ME Cable&r (not a conduit)."
+				"Это &eмикрочасть&r, так что его нужно крепить на &6кабель на ЭМ&r (не провод)."
 			]
 			id: "4BEC129D530376BF"
 			rewards: [{
@@ -1278,22 +1281,22 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Bye-bye Crafting Table"
+			subtitle: "Прощай, верстак"
 			tasks: [{
 				id: "391327778690A86F"
 				item: "ae2:crafting_terminal"
 				type: "item"
 			}]
-			title: "Crafting Terminal"
+			title: "Терминал создания"
 			x: 2.5d
 			y: 4.0d
 		}
 		{
 			dependencies: ["3A26187DC3FAD6B1"]
 			description: [
-				"Combining an &aI/O Bus&r and an &aME Interface&r into a single block, these can be used in place of &aInput&r and &aOutput Buses&r in GregTech multiblocks to connect them directly to your AE2 network."
+				"Сочетание &aлюка входа\\выхода&r и &aинтерфейса ЭМ&r в одном блоке. Они могут заменить &aвходные&r и &aвыходные люки&r в многоблочных структурах GregTech и подключаться напрямую к сети АЕ2."
 				""
-				"Note that only the Interface-textured side will connect to an ME network."
+				"Учтите, что к сети ЭМ подключится только сторона с текстурой интерфейса."
 			]
 			id: "7C0A37EEA3C63B16"
 			rewards: [{
@@ -1323,13 +1326,13 @@
 					type: "item"
 				}
 			]
-			title: "&2ME Multiblock Buses"
+			title: "&2Люки для многоблоков на ЭМ"
 			x: 6.75d
 			y: 10.0d
 		}
 		{
 			dependencies: ["52837FD72580F141"]
-			description: ["The &aExtended Drive&r allows to store up to 20 Storage Disks"]
+			description: ["&aРасширенная стойка для ячеек ЭМ&r может вмещать в себе до 20 дисков!"]
 			id: "58F73E3D1069F52C"
 			rewards: [{
 				count: 2
@@ -1337,24 +1340,24 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Dense Storage"
+			subtitle: "Уплотнённое хранилище"
 			tasks: [{
 				id: "6553F798A482EEDE"
 				item: "expatternprovider:ex_drive"
 				type: "item"
 			}]
-			title: "&9Extended Drive"
+			title: "&9Расширенная стойка"
 			x: -2.0d
 			y: 8.5d
 		}
 		{
 			dependencies: ["6E27B9938B280291"]
 			description: [
-				"[\"When setting up your AE2 network, generally you either \",{\"text\": \"passive or on-demand things\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://youtu.be/u0ouTWgdcXk?si=4l4UpQnWsYS5b-gT&t=803\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Click to copy to clipboard!\"}}, \", depending on how often you need them, recipe complexity, and so on.\"]"
+				"[\"При планировании сети АЕ2 чаще всего предметы ставят на \",{\"text\": \"пассивное создание или создание по запросу\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://youtu.be/u0ouTWgdcXk?si=4l4UpQnWsYS5b-gT&t=803\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Нажмите, чтобы скопировать!\"}}, \", в зависимости от требуемого количества предмета, его сложность рецепта и так далее.\"]"
 				""
-				"Gregtech circuits fall in this weird middle area where while you need a ton of them, the recipes you will be using change often enough to where passiving them at this point isn't viable."
+				"Электросхемы GregTech попадают в категорию где-то между ними: схем нужно много, но их рецепт будет изменяться достаточно часто, что проектирование пассивого их создания просто не примемлимо."
 				""
-				"You could use a crafting card to help you, but the &9ME Requester&r allows for a better solution, being able to tell your system to keep a stock of many different items and how many it should craft at a time, perfect for keeping circuits stocked."
+				"Для этого, конечно, можно использовать карту создания, но &9запрашиватель ЭМ&r способен поддерживать в системе ЭМ определённое количество предметов в запасе и сколько за раз их можно создавать. Идеально подходит для запасания электросхемами."
 			]
 			id: "0D1A64EBBA742196"
 			rewards: [{
@@ -1367,13 +1370,13 @@
 				item: "merequester:requester"
 				type: "item"
 			}]
-			title: "&9ME Requester"
+			title: "&9Запрашиватель ЭМ"
 			x: 6.75d
 			y: 11.5d
 		}
 		{
 			dependencies: ["410EA68D6EF15CEC"]
-			description: ["Managing P2P tunnels can be a pain in large numbers, thankfully, the &6Advanced Memory Card&r fixes that, by allowing you to manage all of your connections within a single card, and bind and unbind things on the fly, among other features."]
+			description: ["Управлять большой сетью Р2Р может быть проблематично. К счастью, с этим поможет &6продвинутая карта памяти&r. Она позволяет настраивать любые соединения во всей сети ЭМ через одну карту, привязывать или отвязывать туннели на ходу и многое другое."]
 			id: "1AC8700C190E84BC"
 			rewards: [{
 				count: 3
@@ -1381,7 +1384,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "They really do have a GUI for everything now"
+			subtitle: "Теперь у всего есть графический интерфейс"
 			tasks: [{
 				id: "75CE8F67A574D433"
 				item: {
@@ -1394,7 +1397,7 @@
 				}
 				type: "item"
 			}]
-			title: "&9Better P2P Management"
+			title: "&9Улучшенное управление сетями Р2Р"
 			x: 2.5d
 			y: 5.5d
 		}
@@ -1404,9 +1407,9 @@
 				"410EA68D6EF15CEC"
 			]
 			description: [
-				"&3Pattern P2P&r is somewhat like the other &aP2P&r types, but is able to copy a pattern provider's patterns to all of its outputs."
+				"&3Р2Р шаблонов&r работает как и другие типы &aР2Р&r, но он копирует шаблоны через стороны поставщика шаблонов."
 				""
-				"For example, you could have a Pattern P2P Input placed on a pattern provider, then 5 Outputs with the same ID placed on assemblers. All 5 of those assemblers would then &6act as if they each had their own pattern provider that all just so happened to have the same exact patterns&r, and will obey blocking rules, parallelize, and such. "
+				"Например, входную сторону туннеля Р2Р шаблонов установить на поставщик шаблонов, а 5 выходов с одинаковым ID установить на сборщики. Эти 5 сборщиков будут &6работать, словно у них у всех свлй поставщик шаблонов и у всех одинаковые шаблоны рецептов&r, и они будут следовать правилам блокирования, параллелизировать и тд."
 			]
 			id: "6646E6DBEF368924"
 			rewards: [{
@@ -1421,7 +1424,7 @@
 				item: "mae2:pattern_p2p_tunnel"
 				type: "item"
 			}]
-			title: "&9Pattern P2P"
+			title: "&9Р2Р шаблонов"
 			x: 2.5d
 			y: 7.0d
 		}

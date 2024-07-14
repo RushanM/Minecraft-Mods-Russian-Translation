@@ -109,17 +109,17 @@
 				"62BBD1F6767A4D90"
 			]
 			description: [
-				"A &6Programmed Circuit&r is an item used to configure machines. In essence, they tell a machine what to make if there's multiple things it could make from a certain input."
+				"&6Программируемая схема&r используется для настройки конфигурации машин. В сущности, она говорит машине что именно нужно сделать при конфликте рецептов из одних ингредиентов."
 				""
-				"For example, the &3Wiremill&r produces different thicknesses of &6wires&r depending on the config - &ecircuit 1&r produces &61x wires&r, &ecircuit 4&r produces &64x wires&r, etc. The &eEMI&r recipe will tell you which circuit configuration is required."
+				"Например, в зависимости от конфигурации &3волочильный стан&r может создавать разную толщину проводов — &eсхема 1&r производит &61x провод&r. &eСхема 4&r производит &64x провод&r и так далее. Рецепты в &eEMI&r показывают нужную конфигурацию схемы."
 				"{@pagebreak}"
-				"Each machine and item input bus comes with a &2free \"ghost circuit\"&r. Click the circuit slot on the &9bottom right&r of the GUI to access this ghost circuit. Left- and right-click or scroll to adjust the configuration. "
+				"У каждой машины и предметного люка есть встроенная &2«призрачная схема»&r. Нажмите на слот схемы в &9правом нижнем углу&r интерфейса чтобы настроить её. ЛКМ и ПКМ, или колёсиком можно изменять её конфигурацию."
 				""
-				"That said, the Programmed Circuit item (crafted from a single &6LV Circuit&r) still has its uses:"
+				"Однако, у программируемой схемы как предмет (создаваемый из одной &6электросхемы НН&r) всё ещё есть преимущества:"
 				""
-				"- Whilst holding a programmed circuit, shift-right click the machine to set a &bGhost Circuit&r of the same configuration in the machine's circuit slot."
+				"— Пока держите в руках программируемую схему нажмите Shift-ПКМ по машине чтобы задать &bпризрачной схеме&r такую же конфигурацию;"
 				""
-				"- When you're sure that the items you put into a machine won't have any conflicts, you can put &emultiple circuit configs&r into a machine, and it will be able to handle recipes which call for any of those configs. This is useful for machines such as the &3Alloy Blast Smelter&r, but you won't encounter that for a while."
+				"— Если вы уверены, что предметы в машине точно не будут конфликтовать, то вы можете задать &rнесколько конфигураций схем&r в машине и обрабатывать несколько рецептов, которым нужна одна из конфигураций. Это полезно таким машинам, как &3доменный печь для сплавов&r, но до неё ещё не скоро."
 			]
 			icon: {
 				Count: 1b
@@ -152,13 +152,13 @@
 		{
 			dependencies: ["055193574D203872"]
 			description: [
-				"&2Assembling Machines come early in CEu! Circuit recipes are handled through a separate machine, the Circuit Assembler. &r"
+				"&2Сборочная машина доступна раньше в CEu! Электросхемы создаются в другой машине — сборщик микросхем.&r"
 				""
-				"Assembling Machines open up a plethora of &eequal or more efficient recipes that don't require hand tools&r. &2For example, you can make up to 4 Vacuum Tubes in a single craft! &rCheck &eEMI&r for all the components you've been making to see if the Assembler can improve their recipes."
+				"Сборочная машина открывает изобилие &eравно или более эффективных рецептов без использования ручных инструментов&r. &2Например, вы можете смастерить до 4х электровакуумных ламп за один крафт!&r Проверьте в &eEMI&r все компоненты, что вы до этого делали, для улучшенной их алтернативы в сборочной машине."
 				""
-				"Many of the Assembler's recipes require &9fluids&r. Hence, the &3Extractor&r will be required to take full advantage of this machine. "
+				"Большинство рецептов в сборщике требуют &9жидкости&r. Потому, &3экстрактор&r необходим чтобы в полной мере работать с ним."
 				""
-				"Hand tool recipes also don't play nice with &bApplied Energistics&r. Take advantage of Assembling Machines: &cphase out all use of hand tools for crafting items in your automation going forward.&r Once you have all the important machines, you will never need hand tools for crafting."
+				"Рецепты с ручными инструментами плохо работают с &bApplied Energistics&r. Пользуйтесь сборочной машиной: &cизбавьтесь от использования ручных инструментов при дальнейшей автоматизации.&r Как только у вас будут все важные машины, вам больше никогда не понадобятся ручные инструменты."
 			]
 			id: "6197C51E04761371"
 			rewards: [{
@@ -250,18 +250,18 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"The &3Bending Machine&r improves the yield of a great deal of items. Most notably, you can use it to get one &6Plate&r from a single ingot, instead of having to spend two ingots for a single plate."
+				"&3Листогибочный станок&r улучшает выработку значительного числа предметов. В особенности, его можно использовать для создания &6пластин&r из одного слитка вместо старого затратного способа: двух слитков к одной пластине."
 				""
-				"As with the &3Wiremill&r, this requires a &6Programmed Circuit&r to tell it what to make. For plates, this is &econfiguration 1&r. Refer to &eEMI&r for which configuration to use for your recipe."
-				" "
-				"Other materials it can produce include:"
-				"- 4 &6Foils&r from a Plate"
-				"- &6Double Plates&r from two Plates"
-				"- &6Dense Plates&r from nine Plates"
-				"- &6Small Springs&r from one Rod"
-				"- &6Springs&r from one Long Rod. "
-				"&r"
-				"If you played the CE version of &9Nomifactory&r, note that the functions of the &3Compressor&r (for making Plates) and &3Cluster Mill&r are merged into this machine."
+				"Как и &3волочильный стан&r, ему требуется &6программируемая схема&r для задания рецепта. Для пластин — &eконфигурация 1&r. Проверяйте рецепт в &eEMI&r для нужной конфигурации."
+				""
+				"Листогиб способен производить и другие материалы, такие как:"
+				"— 4 &6фольги&r из пластины;"
+				"— &6Двойные пластины&r из двух пластин;"
+				"— &6Плотные пластины&r из девяти пластин;"
+				"— &6Маленькие пружины&r из одного стержня;"
+				"— &6Пружины&r из одного большого стержня."
+				""
+				"Если вы играли в CE версию &9Nomifactory&r, учтите, что функции &3компрессора&r (для создания пластин) и &3многовалкового прокатного стана&r совмещены в эту машину."
 			]
 			id: "3EDD0A986384F2A7"
 			rewards: [{
@@ -282,9 +282,9 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"Great for automatically converting between Nuggets, Ingots, and Blocks of metals, or simply storing massive amounts of things. Also works with &9monicoins&r."
+				"Идеален для автоматической конвертации между самородками, слитками и блоками металов, или для простого хранения огромное количества ресурса. Также работает с &9монимонетами&r."
 				""
-				"The appearance can be customized by crafting the drawer into &aFramed Compacting Drawer&r and then using a &9Framing Template&r or your crafting grid."
+				"Внешний вид может быть персонализирован при создании ящика в &aобрамляемый копрессирующий ящик&r и использования на нём &9шаблона обрамления&r или в верстаке."
 			]
 			id: "7460F22545A4EFB2"
 			rewards: [{
@@ -304,9 +304,9 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"&2&2Most plates are made in the Bending Machine instead of here. (Technically this was the case in CE, but this modpack transferred its recipes to the Compressor.)&r"
+				"&2Большинство пластин создаются в листогибочном стане, а не здесь. (технически так было в CE, но этот модпак перенёс эти рецепты на компрессор)&r"
 				""
-				"However, this machine will still see use for compressing &eNuggets&r into&e Ingots&r, &eIngots&r into &eBlocks&r, &eGem Dusts&r into &ePlates&r (such as &6Certus Quartz&r), as well as various other useful recipes."
+				"Однако, в нём всё ещё можно скомпрессировать &eсамородки&r в &eслиток&r, &eслиток&r в &eблок&r, &eпыль самоцветов&r в &eпластины&r (к примеру &6истинный кварц&r), а также другие разные полезные рецепты."
 			]
 			id: "5795EE147D4879B7"
 			shape: "hexagon"
@@ -325,9 +325,9 @@
 				"7A12743F5ECCED90"
 			]
 			description: [
-				"&3Extractors&r are useful for melting things into liquids. For example, you can melt down ingots into molten metals, or &6Rubber Sheets&r into liquid &9Rubber&r."
+				"&3Экстрактор&r полезен для сплавки вещей в жидкости. Например, вы можете расплавить слитки в расплав металлов или &6резиновые пластины&r в жидкую &9резину&r."
 				""
-				"When you have access to &6Steel&r, you can make molds and use &3Fluid Solidifiers&r to form various components more efficiently from fluids, like &6Gears&r."
+				"Когда у вас будет &6сталь&r, вы сможете сделать формы для отлива и с помощью &3жидкостного отвердителя&r эффективнее формировать различные детали из жидкостей, например, &6шестерни&r."
 			]
 			id: "038D06BCA022C1BF"
 			shape: "hexagon"
@@ -344,19 +344,19 @@
 		{
 			dependencies: ["7A12743F5ECCED90"]
 			description: [
-				"&3Macerators&r are useful for grinding things down, replacing the &aMortars&r you've needed until now. This is an important machine you will be using for many things in the future."
+				"&3Мацератор&r используется для передрабливания, заменяя &aступу&r в которой вы до сих пор нуждались. Эта машина много где играет важную роль в ближайшем будущем."
 				""
-				"You don't really need a LV one, as you can use the superior &3Steam Grinder&r. LV or MV ones could be used for automation. However, HV ones provide chanced output, extremely important for &eOre Processing&r and other processes."
+				"Вариант НН мало вам понадобится, так как есть альтернатива по-лучше — &3паровой измельчитель&r. Версии НН и СН могут быть использованы в автоматизации. Однако версия ВН может с шансом создать побочный результат — крайне важная часть &eобработки руды&r и других процессов."
 				""
-				"One useful application for a Macerator in the near future is grinding down &6Clay&r or &6Terracotta&r into &6Clay Dust&f."
+				"Ещё одно полезное применение мацератора: в ближайшем будущем нужно будет дробить &6глину&r или &6терракоту&r в &6глиняную пыль&f."
+				"{@pagebreak}"
+				"Не считая нескончаемую прочность, главное преимущество мацератора над ступой — шанс получить дополнительные ресурсы при дроблении. Это назвается &eпобочные продукты&r и их способны получать мацераторы напряжением ВН и все выше, имеющие три  ячейки выхода."
 				""
-				"Besides not having limited durability, a key advantage of Macerators over Mortars is the chance to get additional materials when grinding things down. These are called &ebyproducts&r, and HV or better Macerators have three slots instead of one so byproducts can appear."
+				"Глядя на рецепты в &bEMI&r можно различить какой результат побочный, глядя на контекстное окно: &eу побочных продуктов подписан шанс выхода&r, когда у гарантированного выхода шанс не приписывается. &2Шансы увеличиваются на определённую величину с каждым уровнем машины выше уровня рецепта. Эти шансы также подписаны."
 				""
-				"When reading Macerator recipes in &bEMI&r, you can tell which outputs are byproducts by seeing if &ethe tooltip tells you it has a chance to appear&r: guaranteed outputs do not list a chance. &2The chance increases by a certain amount for each tier of machine you have above the tier of recipe. This chance is also listed in the tooltip."
+				"Мацераторы способны перерабатывать ненужные машины для дополнительных материалов&r"
 				""
-				"Macerators can now also recycle your old Machines for some extra materials.&r"
-				""
-				"Finally, a Macerator will only start processing if there is room for all possible outputs. Make sure you empty them so they can keep working."
+				"Наконец, мацератор начнёт свою работу только если в ячейках выхода есть место для всех возможных результатов работы. Убедитель, что машину освободили перед началом работы."
 			]
 			id: "4685AC9E6CD87B77"
 			rewards: [{
@@ -400,9 +400,9 @@
 				"404C9497C46E7608"
 			]
 			description: [
-				"If you don't want to mine Obsidian by hand, consider using a Fluid Solidifier to turn &cLava&r into &6Obsidian Blocks&r for you. The process is slow and energy intensive, though."
+				"Если вы не хотите копать обсидиан вручную, воспользуйтесь жидкостным отвердителем для превращения &cлавы&r в &6блоки обсидиана&r за вас. Однако, это процесс не быстрый и энергозатратный."
 				""
-				"&3Fluid Solidifiers&r are useful for lots of other things too, of course. Look through the various molds to see what you can make with one."
+				"&3Жидкостный отвердитель&r полезен и для многого другого, конечно же. Пересмотрите рецепты с различными отливными формами для подходящих вариантов."
 			]
 			id: "4EAD8756BAAC6B2E"
 			rewards: [{
@@ -420,7 +420,7 @@
 		}
 		{
 			dependencies: ["6A262AA410619C23"]
-			description: ["&2Pumps are now available in GT. Useful for gathering Oil or perhaps Lava from the Nether."]
+			description: ["&2Помпы теперь есть в GT. Они помогут в выкачке нефти или даже лавы из Незера."]
 			id: "09C0CDC1DFA7842D"
 			rewards: [{
 				id: "1A7962BB3B58AA55"
@@ -439,9 +439,9 @@
 		{
 			dependencies: ["038D06BCA022C1BF"]
 			description: [
-				"An &3Autoclave&r is a machine that uses liquids (usually water) to polish stones, carve gems into lenses, infuse gems with special liquids, and crystallize various dusts."
+				"&3Автоклав&r — машина, использующая жидкости (в основном воду) для шлифовки камней, вырезать из драгоценных камней линзы особой жидкостью и кристализировать различную пыль."
 				""
-				"You'll need an Autoclave for many recipes, but most presently you will need it to make &6Pulsating Crystals&r and &6Vibrant Crystals&r from &bEnderIO&r."
+				"Вам понадобится автоклав для множества рецептов, но сейчас он вам нужен для создания &6пульсирующих кристаллов&r и &6оживлённых кристаллов&r из &bEnderIO&r."
 			]
 			id: "47094A5717952699"
 			shape: "hexagon"
@@ -460,15 +460,15 @@
 				"273F3F8DD6A3DCC5"
 			]
 			description: [
-				"This pack has &aSnad&r, which is simply a sand-like block that instantly grows sugar cane/cactus on top of it when it receives either a block update or a redstone update."
+				"В этой сборке есть &aПосек&r — блок схожий на песок, который моментально выращивает сахарный тросник/кактус на нём, когда тот обновляется через обновление состояния блока или обновление редстоуна."
 				""
-				"The sugar cane it produces can be used as a fuel for your dynamos, and later you can even brew it for &9Biomass&r."
+				"Производимый сахарный тросник можно использовать как топливо для динамо, а позже варить его в &9биомассу&r."
 				""
-				"This quest calls for a &aRedstone Clock&r, but there are other ways to make snad grow sugar cane even faster (like a vanilla observer clock pointing into the Snad). Make sure to set the timer to pulse as fast as possible."
+				"Этот квест требует &aредстоуновые часы&r, но существуют и другие способы заставить посек выращивать сахарный тросник ещё быстрее (например, оригинальные часы из наблюдателей, смотрящие в сепок). Убедитесь, что поставили таймер пульсировать как можно чаще."
 				""
-				"To collect the sugar cane, you can use a piston and an observer."
+				"Для сбора тросника используйте наблюдатель и поршень."
 				""
-				"For now, a &3Vacuum Chest&r should help keep the floor clean, and causes less lag than Hoppers. A &aVoid Upgrade&r in a &6Storage Drawer&r will automatically delete any items that overflow the drawer's capacity, so it's a good way to ensure you don't crash your server from accumulating a massive sugar cane pile before safer block breakers are available to you."
+				"На первое время &3вакуумого сундука&r должно хватать для сбора предметов с пола и создавать меньше лагов, по сравнению с воронками. &aУлучшение бездны&r в &6ящике&r будет автоматически удалять переизбыток вместимости ящика. Это хороший способ снизить нагрузку на сервер от большого количества тросника, пока у вас не появятся другие разрушители блоков."
 			]
 			icon: "snad:snad"
 			id: "529D50CE814AF449"
@@ -503,11 +503,11 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"&aMolds&r are used in a &3Fluid Solidifier&r or &3Alloy Smelter&r to form materials into specific shapes. These are not consumed or damaged during crafting, so you can leave them in a machine to dedicate it to that shape."
+				"&aОтливные формы&r используются в &3жидкостном отвердителе&r или &3печи для сплавов&r для формирования материаллов в различные формы. Они не расходуются в рецептах и не изнашиваются, так что их можно оставить в машине и специализировать её под эту форму."
 				""
-				"The Fluid Solidifier tends to be the more efficient option: for example, you can use &e8 ingots&r to make one &6Gear&r in an Alloy Smelter, but with an Extractor and Solidifier you can accomplish the same result with &e4 ingots&r."
+				"Жизкостный отвердитель является более эффективным вариантом: например, можно потратить &e8 слитков&r на одну &eшестерню&r в печи для сплавов, но с помощью экстрактора и отвердителя вы получите тот же результат за &e4 слитка&r."
 				""
-				"Be careful not to accidentally make &aExtruder Shapes&r. Those are for a machine you will get access to later. The three molds in this quest are ones you will find useful right away."
+				"Будьте осторожны случайно не сделав &aформу экструдера&r. Это для чуть более поздних машин. Три формы, что требуются в задании, это те что могут сейчас вам понадобиться."
 			]
 			icon: "gtceu:gear_casting_mold"
 			id: "404C9497C46E7608"
@@ -547,9 +547,9 @@
 		{
 			dependencies: ["29A487F0BC43AAF9"]
 			description: [
-				"&6Pulsating Dust&r is a mysterious magical material that taps into the power of Ender. It has all sorts of strange and potentially dangerous applications, including the ability to make &6Pulsating Ingots&r and &6Ender Pearls&r."
+				"&6Пульсирующая пыль&r — это загадочный магический материал, который берёт энергию самого Эндера. Он имеет различные странные и потенциально опасные применения, включая возможность создания &6пульсирующих слитов&r и &6жемчужин Эндера&r."
 				""
-				"Your first source of Pulsating Dust is &6Uraninite&r, which you can get from &6Uraninite Ore&r. Later on, you'll be able to produce Pulsating Dust by smelting &6Resonant Clathrates&r."
+				"Первым источником пульсирующей пыли является &6уранитит&r, который добывается из &6руды уранитита&r. Позже, вы сможете сами производить пульсирующую пыль переплавляя &6резоринующие клатраты&r."
 			]
 			icon: "kubejs:pulsating_dust"
 			id: "30EBD4E7BBFFEF2C"
@@ -572,7 +572,7 @@
 		}
 		{
 			dependencies: ["30EBD4E7BBFFEF2C"]
-			description: ["If you can't find one otherwise, &6Ender Pearls&r can be crafted using Pulsating Dust and a &6Diamond&r in an &3Alloy Smelter&r."]
+			description: ["Если у вас не получается найти &6жемчуг эндера&r, то его можно создать из пульсирующей пыли и &6алмаза&r в &3печи для сплавов&r."]
 			icon: "gtceu:pulsating_alloy_ingot"
 			id: "273F3F8DD6A3DCC5"
 			shape: "hexagon"
@@ -595,7 +595,7 @@
 		}
 		{
 			dependencies: ["29A487F0BC43AAF9"]
-			description: ["You might want to save your &6Coal Dust&r for circuits and use &6Charcoal Dust&r instead. Later, you can also process either of these dusts, &6Coal Coke Dust&r, &2or Diamond Dust&r into &6Carbon Dust&r, which can be used for Steel and other useful things."]
+			description: ["Стоит отложить &6угольную пыль&r для микросхем и использовать &6пыль древесного угля&r. Позже, любую из этой пыли, &6пыли коксового угля&r &2или алмазную пыть&r можно будет переработать в &6пыль углерода&r, которая также используется для стали и других полезных вещей."]
 			id: "5301E546BAA69844"
 			rewards: [{
 				id: "424A2A6FAB412F69"
@@ -625,9 +625,9 @@
 		{
 			dependencies: ["29A487F0BC43AAF9"]
 			description: [
-				"Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein."
+				"Никель получается из нескольких типов руды, включая пентландит и гарниерит, но их оба можно найти в одной жиле."
 				""
-				"Nickel is used mostly for several very important alloys, including Invar and Cupronickel."
+				"Никель в основном используется для некоторых очень важных сплавов вроде инвара и купроникеля."
 			]
 			id: "3F6EDC2481D5877F"
 			rewards: [{
@@ -649,9 +649,9 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"&3Alloy Smelters&r are used to create alloys by melting and reforming items together."
+				"&3Печь для сплавов&r используется для создания сплавов переплавлением и объединением предметов вместе."
 				""
-				"Now you won't need to grind up metals into dusts and mix them for alloy dusts! Plus, many of the more complex alloys you couldn't make that way are now possible."
+				"Теперь вам не придётся измельчать металлы в пыль и смешивать их в пыль сплавов! В добавок, вам становятся доступны большая часть более комплексных сплавов, которые нельзя было сделать таким способом."
 			]
 			id: "29A487F0BC43AAF9"
 			rewards: [{
@@ -671,7 +671,7 @@
 		}
 		{
 			dependencies: ["29A487F0BC43AAF9"]
-			description: ["Needs 2 &6Water Source Blocks&r around it to generate water. You will also need a way to pull the water out of the accumulator, such as using the &5LV water pump&f as a &acover&f."]
+			description: ["Для генерирования воды окружите двумя &6блоками-источниками воды&r. Вам также нужен будет способ экспортировать воду из сборщика, для этого сгодится &5жидкостная помпа НН&r как &aнасадка&r."]
 			icon: {
 				Count: 1b
 				id: "thermal:device_water_gen"
@@ -699,11 +699,11 @@
 		{
 			dependencies: ["29A487F0BC43AAF9"]
 			description: [
-				"Using plain &3Steam Dynamos&f is pretty inefficient."
+				"Использовать простую &3паровую динамо&r совсем не эффективно."
 				""
-				"It's strongly recommended to upgrade your dynamos into &3steam boilers&f and &3steam turbines&f. The ratio is always &a1:2&r if all Dynamos are equally upgraded."
+				"Настоятельно рекомендуется улучшить динамо до &3паровых бойлеров&r и &3паровых турбин&r. Их соотношение всегда &a1:2&r, если все динамо одинаково улучшены."
 				""
-				"This greatly increases the overall efficiency and the amount of power produced, from &a40 RF/t&r per basic steam dynamo to &a320 RF/t&r per set of three augmented dynamos."
+				"Это значительно увеличивает общую эффективность и количество произведённой энергии от &a40 РТ/т&r за каждую базовую паровую динамо до &a320 РТ/т&r за комплект из трёх аугментированных динамо."
 			]
 			icon: "systeams:steam_dynamo"
 			id: "545CCC24D9401794"
@@ -727,15 +727,15 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"&2Technically not new to CEu, but it was disabled in the original version, and it had much less functionality in CE.&r"
+				"&2Технически не новинка в CEu, но она была отключена в оригинальной версии и имела гораздо меньше функционала в CE.&r"
 				""
-				"The Arc Furnace allows you to make &6Annealed Copper&r, which will be used in the MV Age. It can also make 2 pieces of Glass from 1 Sand. Later, it can make &2Tempered Glass&r for use in higher-tier recipes."
+				"Дуговая печь позволяет создавать &6отожённая медь&r для использования в эпохе СН. Он также может плавить 2 блока стекла из 1 песка. Пjзже, в ней можно будет делать &2закалённое стекло&r для продвинутых рецептов."
 				""
-				"The Arc Furnace also functions as a &auniversal recycling machine&r. Pretty much anything can be recycled into ingots and dusts of its base components."
+				"Дуговая печь функционирует как &aуниверсальная машина для переработки&r. Практически всё может быть переработанно в слитки и пыль их составных компонентов."
 				""
-				"All of its recipes require Oxygen."
+				"Все рецепты потребляют кислород."
 				""
-				"All Arc Furnace recipes use exactly 30 EU/t, so you can get away with using LV Arc Furnaces for the whole pack!"
+				"Все рецепты дуговой печи используют ровно 30 ЕЭ/т, такчто можно продержаться на дуговой печи низкого напряжения до самого конца игры."
 			]
 			id: "500E619D568C07C2"
 			rewards: [{
@@ -755,11 +755,11 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"&oThis is represented in a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation.&r"
+				"&oПроверьте вкладку «Производственные процессы» для большей наглядности, полезной информации и подсказок.&r"
 				""
-				"Now that you have acquired &6Steel&r, your path to infinite cobblestone awaits! The &6Igneous Extruder&r continuously generates cobblestone for free."
+				"Теперь, когда у вас есть &6сталь&r, вы на пути к бесконечному генератору булыжника! &6Вулканический пресс&r без остановки генерирует булыжник."
 				""
-				"Later on, you could look into the &6Rock Crusher&r, which can do it faster at the cost of requiring power."
+				"Позже появится возможность перейти на &6камнелом&r, который работает в разы быстрее ценой энергии."
 			]
 			id: "4624889F738AB21B"
 			rewards: [{
@@ -778,7 +778,7 @@
 		}
 		{
 			dependencies: ["4624889F738AB21B"]
-			description: ["&2This isn't new in CEu either, but in this version, you will use this to break Cobblestone into Gravel and Gravel into Sand. It's also used to combine 2 Rods into 1 Long Rod."]
+			description: ["&2В CEu молот тоже не новинка, но в этой версии он понадобится вам для обработки булыжника в гравий, а гравий в песок. Он так же может объединять 2 стержня в 1 длинный стержень."]
 			id: "0EDFB0C24B9129AB"
 			rewards: [{
 				id: "6BE647D018E97BB3"
@@ -797,9 +797,9 @@
 		{
 			dependencies: ["30EBD4E7BBFFEF2C"]
 			description: [
-				"&6&6String&r and &6Coal Dust&r can be baked together into a &6Carbon Mesh&r in an &3Alloy Furnace&r."
+				"&6Нить&r и &6угольная пыль&r вместе выпекаются в &6углеродное волокно&r в &3печи для сплавов&r."
 				""
-				"Combine that with &6Pulsating Dust&r to get a &6Pulsating Mesh&r."
+				"Объедините его с &6пульсирующей пылью&r, чтобы получить &6пульсирующее волокно&r."
 			]
 			icon: "kubejs:pulsating_mesh"
 			id: "645B1DCB3DA7198A"
@@ -876,11 +876,11 @@
 		{
 			dependencies: ["545CCC24D9401794"]
 			description: [
-				"&2This Steam multiblock was intended for use in the Steam Age. This pack skips the Steam Age, but it may still be worth using.&r"
+				"&2Паровые многоблочные структуры были предназначены для парового этапа. В этой сборке эпоху пара пропустили, но они все ещё могут быть полезны."
 				""
-				"The &6Steam Grinder&r functions as 5.3 &7LV &3Macerators&r in parallel! It requires an input of &9Steam&r through a &eSteam Hatch&r, but it uses very little Steam."
+				"&6Паровой измельчитель&r работает на той же скорости как 5.3 &3мацератора &7низкого напряжения&r в параллели! Очевидно, он работает на &9пару&r подаваемый через &eпаровой люк&r и потребляет его совсем немного."
 				""
-				"You may want to consider setting up a rudimentary &eore-doubling&r setup with it. Point the output in the direction of several upgraded &3Furnaces&r."
+				"С его помощью вы сможете спроектировать примитивную линию обработки по &eудвоению руды&r и направить люк выхода на несколько улучшенных &3печей&r. "
 			]
 			icon: "gtceu:steam_grinder"
 			id: "41C2E49E70D76330"
@@ -945,9 +945,9 @@
 				"5B0200011DF8E1B6"
 			]
 			description: [
-				"A refined type of steel, made from &6Silicon Dust&r and &6Steel&r."
+				"Тип обработанной стали, созданный из &6пыли кремния&r и &6стали&r."
 				""
-				"This material is frequently used in electronics and digital equipment."
+				"Этот материал часто используется в электронике и цифровых устройствах."
 			]
 			id: "025543EDB0A4AC22"
 			rewards: [{
@@ -966,13 +966,13 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"You'll need &6Obsidian&r to make &6Dark Steel&r. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:"
+				"&6Обсидиан&r необходим для производства &6тёмной стали&r. Большинство инструментов не способны сломать обсидиан, но у вас есть несколько возможных вариантов. На текущий момент вы можете использовать:"
 				""
-				"1) A &aDiamond Pickaxe&r or &aDiamond Mining Hammer&r."
+				"1) &aалмазную кирку&r или &aалмазный рудный молот&r;"
 				""
-				"2) A &aPlatinum Mining Hammer&r (not pickaxe though)."
+				"2) &aплатиновый рудный молот&r (не кирку)."
 				""
-				"Later. you can use a &3Rock Breaker&r at voltage &aHV&r or higher to make &6Obsidian&r without spending &6Lava&r!"
+				"Позже, с помощью &3камнелома&r на напряжении &6ВН&r или выше вы сможете делать &6обсидиан&r без использования &6лавы&r!"
 			]
 			id: "74B5CA5A48CE7B39"
 			rewards: [{
@@ -991,9 +991,9 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"Obtaining &6Grains of Infinity&r will require you to mine all the way down to Bedrock level."
+				"Чтобы получить &6зёрна бесконечности&r вам потребуется забуриться до самого бедрока."
 				""
-				"&5You can automate grains via molecular reassembly, as current automation methods are nonfunctional."
+				"&5Зёрна можно автоматизировать через молекулярный реконструктор, так как текущие методы автоматизации не работают."
 			]
 			icon: "enderio:grains_of_infinity"
 			id: "1CA6D620309F2B9E"
@@ -1030,7 +1030,7 @@
 				"1CA6D620309F2B9E"
 				"3BD20358F137E7C6"
 			]
-			description: ["Better flying."]
+			description: ["Улучшенный полёт."]
 			id: "4C2FE08AF5EF37F7"
 			rewards: [{
 				count: 2
@@ -1057,9 +1057,9 @@
 		{
 			dependencies: ["4C2FE08AF5EF37F7"]
 			description: [
-				"Even better flying."
+				"Более улучшенный полёт."
 				""
-				"You're not getting up to Resonant for a long time, just FYI."
+				"Чтоб вы знали, вы ещё не скоро сможете сделать Resonant ранец."
 			]
 			id: "1657FEC07998C9D0"
 			rewards: [{
@@ -1086,13 +1086,13 @@
 		{
 			dependencies: ["3BD20358F137E7C6"]
 			description: [
-				"The main purpose for this device is to turn &6Certus Quartz&r into &6Charged Certus Quartz Crystals&r."
+				"Главное задача этой машины это превращать &6истинный кварц&r в &6заряжённый истинный кварц&r."
 				""
-				"This device can be powered with RF via energy conduits or use AE energy from a network via ME conduits or cables."
+				"Это устройство запитывается с РТ через энергопроводы или может использовать энергию АЕ из сети через МЕ провод или кабеля."
 				""
-				"It accepts power from &9five&r sides. Which &9five&r sides? It's pretty easy to guess."
+				"Он принимает энергию через &9пять&r сторон. Какие &9пять&r сторон? Довольно легко догадаться."
 				""
-				"You can also easily automate charging by having hoppers input item from top or sides, and pull items from the bottom."
+				"Также его можно запросто автоматизировать: воронаками импортировать ингредиенты с верхней стороны или сбоку и экспортировать готовый продукт снизу."
 			]
 			icon: "ae2:charger"
 			id: "6D03BB4A6A4BBA27"
@@ -1114,14 +1114,14 @@
 		{
 			dependencies: ["6D03BB4A6A4BBA27"]
 			description: [
-				"Fluix is initially made via in-world crafting, by dropping &6Redstone&r, &6Nether Quartz&r, and a &6Charged Certus Quartz Crystal&r in the same block of &9Water&r. You'll see some sparks then the items will merge into a &6Fluix Crystal&r. Be sure to turn off any nearby item magnets/collectors or they might interrupt this crafting process."
+				"Кристаллы тока изначально создаются в мире путём смешивания &6редстоуна&r, &6адского кварца&r и &6заряжённого кристала истинного кварца&r в блоке &6воды&r. Вы увидите, как предметы начнут искрится, а затем превратятся в &6кристаллы тока&r. Убедитесь, что отключили все магниты и сборщики поблизости, иначе они могут помешать процессу создания."
 				""
-				"The &3Energy Acceptor&r converts RF power into AE power that Applied Energistics uses, in a 2 RF to 1 AE ratio. This power will be transmitted through adjacent full-block ME Network devices, as well as along all connected &6ME Cables&r, &6ME Conduits&r, and &6Quartz Fiber&r. "
+				"&3Приёмщик энергии&r конвертирует РТ энергию в энергию АЕ для использования в Applied Energistics в соотношении 2 РТ к 1 АЕ. Эта энергия передаётся через любые прилегающие цельно-блочные устройства сети ЭМ, а также через все соединённые &6кабели ЭМ&r, &6проводы на ЭМ&r и &6кварцевые волокна&r."
 				""
-				"Quartz Fiber are &emicroparts&r you can put between an ME Cable and any ME Network block or another ME Cable. This will allow transmission of AE power but not data, which is useful for having data-isolated ME Networks all sharing the same power source."
-				"Applied Energistics 2 can be complicated for a new player, so I recommend either using &9the ingame guide&r or a video as a supplement to this chapter if need be. "
+				"Кварцевое волокно — это &eмикродеталь&r, которая может соединять кабеля ЭМ или любые другие блоки сети ЭМ и передавать между ними энергию, но не информацию. Это оплезно для разделения нескольких метей МЭ, но при этом иметь общий источник энергии."
+				"Applied energistics 2 может быть сложным и непонятным для новичка, так что рекомендуется обратиться к &9внутриигровому гайду&r или видео как добавочный материал к этой главе, если нужно."
 				""
-				"[\"I personally recommend \",{\"text\": \"Pansmith's guide to Applied Energistics 2\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://www.youtube.com/watch?v=u0ouTWgdcXk\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Click to copy to clipboard!\"}}, \", while written for the 1.12 verison of AE2, most of the infomation is the exact same between the versions, and was made with Nomifactory players in mind.\"]"
+				"[\"Лично я рекомендую \",{\"text\": \"гайд Pansmith'а по Applied Energistics 2\",\"color\": \"blue\",\"underlined\": true,\"clickEvent\": {\"action\": \"copy_to_clipboard\",\"value\": \"https://www.youtube.com/watch?v=u0ouTWgdcXk\"},\"hoverEvent\": {\"action\": \"show_text\",\"contents\": \"Нажмите, чтобы скопировать!\"}}, \". Он хоть и создавался для версии 1.12 AE2, но большинство информации подходит для новых версий, а также он создавался как гайд для игроков Nomifactory.\"]"
 			]
 			icon: "ae2:energy_acceptor"
 			id: "4174A6C6403DD245"
@@ -1157,9 +1157,9 @@
 		{
 			dependencies: ["025543EDB0A4AC22"]
 			description: [
-				"The first tier of &6capacitors&r. These (or stronger versions) are required to make &bEnderIO&r machines run. They're also used as components in a variety of recipes."
+				"Ваши первые &6конденсаторы&r. Они (или версии по-лучше) обязательны для работы &bEnderIO&r машин. Они также используются как компоненты в разных рецептах."
 				""
-				"Higher tier capacitors will significantly increase the speed at which these machines operate, among other machine-specific properties."
+				"Чем выше уровень конденсатора, чем значительно выше их скорость работы и ряд других специфичных машинам свойств."
 			]
 			id: "7842EC1C389C4B7E"
 			rewards: [{
@@ -1179,9 +1179,9 @@
 		{
 			dependencies: ["7842EC1C389C4B7E"]
 			description: [
-				"Expandable multi-block storage for RF power."
+				"Расширяемое многоблочное хранилище энергии РТ."
 				""
-				"This first tier isn't much, but you can upgrade them over time to hold substantial amounts of power."
+				"Первый уровень хранит немного, но со временем его можно улучшить до значительно большего хранилища энергии."
 			]
 			id: "2845151447537433"
 			rewards: [{
@@ -1200,14 +1200,14 @@
 		{
 			dependencies: ["025543EDB0A4AC22"]
 			description: [
-				"What?!"
-				"&6STEAM DYNAMO&r is evolving!"
+				"Что!?"
+				"&6ПАРОВАЯ ДИНАМО&r эволюционирует!"
 				""
-				"Upgrade kits can be applied to Thermal Expansion Dynamos, machines, and even Portable Tanks. Machines and dynamos get additional augment slots."
+				"Набор улучшения можно применить на динамо, машины Thermal Expansion и даже на портативные резервуары. У машин и динамо добавляются дополнительные ячейки аугментации."
 				""
-				"When applied to a dynamo, it increases the &apower generation and fuel burn rate to 150%&r."
+				"Применив к динамо, он увеличивает &aпроизводимую энергию и потребление топлива на 150%&r."
 				""
-				"Allows machines operate at &a150% of base power per tick&r. The more power a machine can use, the faster it works."
+				"Позволяет машинам работать на &a150% от изначального энергопотребления в такт&r. Чем больше энергии машина может потреблять, тем быстрее она работает."
 			]
 			id: "356DA8DE256356B8"
 			tasks: [{
@@ -1222,9 +1222,9 @@
 		{
 			dependencies: ["7842EC1C389C4B7E"]
 			description: [
-				"Being able to fly is nice. This is the first jetpack that uses &bEnderIO&r materials."
+				"Летать всегда приятно. Ваш первый реактивный ранец будет сконструирован из материалов &bEnderIO&r."
 				""
-				"There's also a quest chain for &bThermal Expansion&r material Jetpacks (starting with the &6Leadstone Jetpack&r). Eventually you'll need to make both, but not for a long time, so feel free to ignore at least one of these quest chains unless you really really like flying."
+				"У ранцев &bThermal expansion&r тоже есть цепочка квестов (начиная с &6leadstone реактивного ранца&r). В далёком будущем вам понадобятся оба, так что можете спокойно проигнорировать одну из цепочек, разве что если вам уж очень нравится летать."
 			]
 			id: "3A18C673D76382E9"
 			rewards: [{
@@ -1250,9 +1250,9 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"&3Electrolyzers&r use electricity to separate items into their more basic components."
+				"&3Электролизёр&r с помощью электричества разделяет материалы на их базовые компоненты."
 				""
-				"For example, you can break down Water into &9Hydrogen Gas&r and &9Oxygen Gas&r, or break down &6Clay Dust&r into &6Sodium Dust&r, &6Silicon Dust&r, &6Lithium Dust&r, and &6Aluminium Dust&r."
+				"Например, вы можете разделить воду на &9водород&r и &9кислород&r или разделить &6глиняную пыль&r в &6пыль натрия&r, &6пыль кремния&r, &6пыль лития&r и &6пыль алюминия&r."
 			]
 			id: "5B0200011DF8E1B6"
 			rewards: [{
@@ -1273,17 +1273,17 @@
 		{
 			dependencies: ["5B0200011DF8E1B6"]
 			description: [
-				"&oSilicon Dioxide is an important part of a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation of how to passively automate this.&r"
+				"&oДиоксид кремния — важная часть производственного процесса. Проверьте вкладку «Производственные процессы» для большей наглядности, полезной информации и подсказок.&r"
 				""
-				"Around this point, you will need large quantities of &6Hydrogen&r and &6Oxygen&r. "
+				"Примерно на вашем этапе потребуется большое количество &6водорода&r и &6кислорода&r. "
 				""
-				"The first way that comes to mind is electrolysing &9Water&r, but that is slow. "
+				"Первый способ, что приходит на ум, это электролиз &9воды&r, но этот процесс медленный."
 				""
-				"Instead, the best way of making early game &6Oxygen&r is &6Silicon Dioxide&r."
+				"Вместо этого, на ранних этапах лучше всего получать &6кислород&r из &6диоксида кремния&r."
 				""
-				"&6Hydrogen&r is a bit trickier, but you can put &6Methane&r and &6Water&r together in a &3Chemical Reactor&r. &6Methane&r can be achieved by centrifuging &6Food&r and &6Wood&r, processing &6Pyroluse Byproducts&r, or through &6Petroleum&r. "
+				"С &6водородом&r будет посложнее: объедините &6метан&r и &6воду&r в &3хим. реакторе&r. &6Метан&r можно получить путём обработки &6еды&r или &6дерева&r в центрифуге, обработки &6побочных продуктов пиролиза&r, или через &6петрохимию&r."
 				""
-				"Right now, for the small quantities you need, you can simply electrolyse &9Water&r. Just keep those other ways in mind, for later in the game."
+				"На данный момент в небольших количествах достаточно будет электролиза &9воды&r. Помните, что другие способы могут быть полезны позднее."
 			]
 			icon: "gtceu:oxygen_bucket"
 			id: "6FE99EDDC6223F2E"
@@ -1311,7 +1311,7 @@
 		}
 		{
 			dependencies: ["3F6EDC2481D5877F"]
-			description: ["Carry &oeven more&r stuff."]
+			description: ["Носите &oбольше&r."]
 			icon: {
 				Count: 1b
 				id: "sophisticatedbackpacks:iron_backpack"
@@ -1361,11 +1361,11 @@
 				"6197C51E04761371"
 			]
 			description: [
-				"&6Cupronickel Coils&r form part of the structure of a few multiblocks. Presently, those are the &3Electric Blast Furnace&r and &3Pyrolyse Oven&r. Each tier of coil unlocks new recipes and provides various bonuses to the multiblock they are attached to."
+				"&6Купроникелиевые катушки&r являются частью некоторых многоблочных структур. На данный момент они нужны для &3электрической домееной печи&r и для &3пиролизной печи&r. Каждый уровень катушек открывает ряд новых рецептов и в целом улучшает рабочие параметры структуры, в которой они находятся."
 				""
-				"Cupronickel Coils are produced in the &3Assembler&r with &62x Cupronickel Wire&r, &6Bronze Foil&r, and &9Tin Alloy fluid&r."
+				"Купроникелиевые катушки создаются в &3сборщике&r из &62х жильных купроникелиевых проводов&r, &6пронзовой фольги&r и &9жидкого сплава олова&r."
 				""
-				"For now, you need 16 coils for the &3Electric Blast Furnace&r and 16 for the &3Pyrolyse Oven&r. That totals to 176 Copper, 128 Nickel, 32 Tin, and 16 Iron."
+				"На первое время вам потребуется 16 катушек на &3электрическую доменную печь&r и 16 на &3пиролизную печь&r. Суммарная их стоимость составляет 176 меди, 128 никеля, 32 олова и 16 железа."
 			]
 			id: "4CD6C60CBEFFA317"
 			rewards: [{
@@ -1389,15 +1389,15 @@
 				"1BC6DDC2D50F9C46"
 			]
 			description: [
-				"With your EBF running, start to create a supply of &6Aluminium Ingots&r. These are crucial ingredients for MV machines, including &bApplied Energistics&r."
+				"Теперь пора начинать готовить поставку патрий &6слитков алюминия&r в новой рабочей ЭДП. Это станет важнейшим элементом для машин СН, включая компоненты &bApplied Energistics&r.."
 				""
-				"&2With LV power, you can only get Aluminium Dust from electrolyzing Clay Dust, Sapphire Dust or Green Sapphire Dust. Clay Dust is recommended. Once you make an MV Electrolyzer, you can get it from a plethora of other raw resources.&r"
+				"&2На НН есть несколько способов получить пыль алюминия: электролиз глиняной пыли, пыли сапфиров или пыли зелёных сапфиров. Всё же рекомендуется глиняная пыль. Когда у вас будет электролизёр СН, вы сможете получать алюминий из множества других разных ресурсов.&r"
 				""
-				"If you find your power supply is faltering, you may want to make additional dynamos and turn them into steam boilers and turbines. Upgrading your dynamos is also advisable."
+				"Если у вас проблемы с энергопроизводством, наверное, стоит сделать дополнительные динамо и улучшить их до паровых бойлеров и турбин. Рекомендуется также создать улучшения эффективности динамо."
 				""
-				"However, you're also about to reach MV. You're bound to discover a better power source than steam before long."
+				"Однако, вы уже одной ногой в СН и вскоре вы обязательно встретите иные способы производства энергии."
 				""
-				"&2You can cut by a third the smelting time of Aluminium and some other smelting processes with Nitrogen gas. Higher-tier processes may take different gases."
+				"&2Также можно срезать треть времени обработки алюминия и других процессов переплавки с помощью азота. Продвинутые процессы обработки могут потребовать другой газ."
 			]
 			id: "3AB0402B19DD5BA8"
 			rewards: [
@@ -1433,21 +1433,22 @@
 		{
 			dependencies: ["4CD6C60CBEFFA317"]
 			description: [
-				"The &3Electric Blast Furnace&r is a major, major milestone in your &bGregTech&r career. It has the power to smelt more advanced materials. The first of which, &6Aluminium&r, is going to be important in the immediate future."
+				"&3Электрическая доменная печь&r это очень, очень важная ступень в вашей карьере &3GregTech&r. У неё есть способность плавить продвинутые материалы. Первый из которых — алюминий, он станет важным эллементом в ближайшем будущем."
 				""
-				"Since smelting &6Aluminium&r requires MV power, you're going to have to power this with 2 LV Energy Input Hatches."
+				"Так как плавка &6алюминия&r требует энергию СН, вам нужно будет «разогнать» печь 2 входными раъёмами энергии НН."
 				""
-				"There is a diagram of how to build the EBF in &bEMI&r. The second and third levels must be a 3x3 square shape of Coil Blocks (&6Cupronickel&r is the only type of coil block you have access to for now) with an empty center. You can also &6sneak-right click&r the controller to enable the in-world preview."
+				"В &bEMI&r есть диаграмма для предосмотра структуры ЭДП. Второй и третий ряды обязательно должны сформировать 3х3 квадрат из блоков катушек(&6купроникель&r это единственный тип катушек вам сейчас доступный) с полым центром. При нажатии &6Shift-ПКМ&r рукой по контроллеру для отображения голограммы структуры в мире."
 				""
-				"However, the bottom and top layers are very flexible. The &6EBF Controller&r must be on the &ebottom layer&r of the structure, and on the &emiddle of an outer edge&r; the &6Muffler Hatch&r must be in the &eexact middle of the top layer&r. Otherwise, you can put the hatches and buses wherever you want, filling in all gaps in each layer with &6Heatproof Machine Casings&r. It's worth noting that you must &euse at least &29&e Heatproof Machine Casings in your layout or the structure will not form&r."
+				"К счастью, нижний и верхний ряд можно настроить по своему. &6Контроллер ЭДП&r должен стоить на &eнижнем ряду&r структуры и &eпо центру скраю&r; &6Люк глушителя&r должен находится &eточно по центру верхнего ряда&r. В остальном, люки и раъёмы можно ставить где угодно, заполнив дыры в каждом ряду &6жаропрочными корпусами&r. Стоит заметить, что обязательно нужно использовать минимум &29&e жаропрочных корпусов, иначе структура не сформируется&r."
 				""
-				"This quest calls for a &2maintenance hatch&r, two energy hatches, a fluid input and output, and an item input and output, which is a total of 7 positions. Their specific order and placement don't matter, as long as you can access them. The 8th position is your EBF controller, leaving 9 gaps to be filled by Heatproof Machine Casings. If you did everything right, the structure will form: the colors on its hatches and casings will unify, and the controller will say \"Idling.\""
+				"{@pagebreak}"
+				"Для этого квеста требуется собрать &2люк обслуживания&r, два разъёма НН, жидкостный и предметный люки входа и выхода, суммарно 7 возможных позиций. Их последовательность и расположение не имеет значение, главное иметь к ним доступ. 8ой блок - контроллер и оставшиеся 9 пропусков заполняются жаропрочными корпусами. Если всё сделали правильно, то структура сформируется: люки поменяют текстуру и у контроллера изменится статус на «ожидание»."
 				""
-				"Hatches and Buses can be replaced by Hatches and Buses of any tier, although the Input Bus must be at least LV, as there are 2 inputs."
+				"Люки и раъёмы могут быть любого уровня, главное чтобы предметный люк был хотя бы НН, так как для рецептов требуюется минимум две ячейки."
 				""
-				"You'll most likely want to locate your power quite near to the EBF. It is very power hungry, and if it cannot get enough energy, progress on the current item smelting will start to regress. Be careful to ensure the EBF has enough power, and keep a Soft Hammer nearby to pause it by tapping the controller if you run out of power."
+				"Скорее всего вам потребуется локализировать генерацию энергии поближе к ЭДП. Она очень прожорлива и если в процессе работы будет нехватать энергии, то прогресс будет спадать. Внимательно следите за подачей энергии к ЭДП и держите поблизости киянку, чтобы в случае перепадов энергии быть готовым приостановить работу ударом киянки по контроллеру."
 				""
-				"&2In GTCEu, all hatches except Maintenance can be shared between Multiblocks!"
+				"&2В GTCEu все люки, кроме люка обслуживания, могут использоваться несколькими многоблоками одновременно!"
 			]
 			icon: "gtceu:electric_blast_furnace"
 			id: "1BC6DDC2D50F9C46"
@@ -1523,11 +1524,11 @@
 				"1BC6DDC2D50F9C46"
 			]
 			description: [
-				"This alloy is made from &2mixing 2 Gold Dust, 1 Redstone, and 1 Glowstone Dust in a Mixer, creating Energetic Alloy Dust,&r and putting it in your new &3Electric Blast Furnace&r."
+				"Этот сплав создаётся путём &2смешивания 2 пыли золота, 1 редстоуна и 1 пыли глоустоуна в миксере, создавая пыль энергетического сплава&r и обработкой её в &3электрической доменной печи&r."
 				""
-				"Throw &2the prepared dust into the input bus&r and in twenty seconds your &6Energetic Alloy Ingot&r will be in the output bus."
+				"Бросьте &2готовую пыль в люк входа&r и через двадцать секунд &6слиток энергетического сплава&r будет готов в люке выхода."
 				""
-				"&2In EV Age, you can build an Alloy Blast Smelter which doubles the yield."
+				"&2На ЭН эпохе вы сможете построить доменную печь для сплавов, которая удваивает выход сплавов."
 			]
 			id: "6A914B240E1A7BCB"
 			rewards: [{
@@ -1547,9 +1548,9 @@
 		{
 			dependencies: ["6A914B240E1A7BCB"]
 			description: [
-				"Another alloy."
+				"Ещё один сплав."
 				""
-				"&2In EV Age, you can build an Alloy Blast Smelter which doubles the yield."
+				"&2На ЭН эпохе вы сможете построить доменную печь для сплавов, которая удваивает выход сплавов."
 			]
 			id: "73C1AB31431B5C11"
 			rewards: [{
@@ -1569,11 +1570,11 @@
 		{
 			dependencies: ["6A914B240E1A7BCB"]
 			description: [
-				"Now that you have &6Energetic Alloy&r, it's time to make some better conduits!"
+				"Теперь когда у вас есть &6энергетический сплав&r пришло время сделать улучшенные энергопроводы!"
 				""
-				"Each time you upgrade your conduits, you'll also get more of them. Neat!"
+				"С каждым лучшением энергопроводов их становится больше. Класс!"
 				""
-				"If you don't have an &3Assembling Machine&r, you'll have to make them by hand. This method isn't as efficient as the machine, but you'll make one soon enough."
+				"Если у вас ещё нет &3сборочной машины&r, то вам придется делать их на верстаке. Этот способ не эффективен по сравнению с сборщиком, но вы скоро его сделаете."
 			]
 			id: "4F4F120AFB3A9250"
 			rewards: [{
@@ -1594,13 +1595,13 @@
 		{
 			dependencies: ["6A914B240E1A7BCB"]
 			description: [
-				"The &aAuxiliary Transmission Coil &ris an augment that will work in all types of dynamos. It will consume fuel faster to produce a correspondingly higher RF per tick."
+				"&aВспомогательные катушки передачи&r — аугмент работающий с любым типом динамо. Это заставит потреблять топливо быстрее, тем самым увеличивая производство РТ в такт."
 				""
-				"Each augment increases both base power production and fuel consumption by 100%%, additively (so the second is 200%%, third is 300%%, etc.)."
+				"Каждый аугмент суммарно увеличивает базовое производство и потребление топлива на 100% (второй аугмент — 200%, третий — 300% и тд.)"
 				""
-				"Consider the tradeoffs however, as you could just make another dynamo, and you miss out on &aFuel Catalyzer&r augments that make fuels burn longer for more total RF generated. The Auxiliary Transmission Coil will put additional stress your fuel production infrastructure."
+				"Учтите и недостатки, ведь можно сделать ещё один динамо или добавить аугмент &aмногоцикловые форсунки&r, который увеличивает эффективность топлива. Вспомогательные катушки передачи могут сильно напрячь инфраструктуру производства топлива."
 				""
-				"If that's an acceptable tradeoff, then Auxiliary Transmission Coils are a cheap and effective way to boost your power production."
+				"Если это приемлимый компромисс, то вспомогательные катушки передачи это дешёвый и эффективный способ усилить производство энергии."
 			]
 			id: "780706A4C4AEB9CE"
 			tasks: [{
@@ -1620,17 +1621,16 @@
 				match_nbt: false
 				type: "item"
 			}]
-			title: "Вспомогательной передаточные катушки"
+			title: "Вспомогательные передаточные катушки"
 			x: 4.0d
 			y: 10.5d
 		}
 		{
 			dependencies: ["3AB0402B19DD5BA8"]
 			description: [
-				"You might notice that these hulls can be made more cheaply in an &3Assembling Machine&r, but you don't have that weird fluid. Don't worry, you'll be able to make that soon."
+				"Мы может заметили, что корпус можно сделать дешевле в &3сборочной машине&r, но у вас нет этой странной жидкости. Не волнуйтесь, скоро её можно будет сделать."
 				""
-				"&2Overclocking mechanics have changed in CEu. All overclocks now multiply the speed by 2.0x (instead of the 2.0/2.8 split in CE). This means that to save energy, you should build more low-tier machines over overclocking a high-tier machine, especially for passive processes."
-				"Additionally, ULV recipes will not overclock to LV. A ≤8 EU/t recipe won't overclock at all in an LV machine, will only overclock once in an MV machine, etc."
+				"&2Механика разгона изменилась в CEu. Все уровни разгона теперь умножают скорость в 2.0х раза (вместо 2.0х/2.8х в CE). Значит, для экономии энергии стоит делать больше низкоуровневых машин, а не разгонять с помощью машин большего напряжения, особенно для пассивных процессов. В добавок, рецепты УНН не разгоняются на НН. Рецепты ≤8 ЕЭ/Т тоже не разгоняются в машинах НН, а разгоняются только в машинах СН и тд."
 			]
 			id: "5C4E189A3E401566"
 			rewards: [{
@@ -1653,13 +1653,13 @@
 		{
 			dependencies: ["62BBD1F6767A4D90"]
 			description: [
-				"Mixes dusts together."
+				"Смешивает пыль вместе."
 				""
-				"For now, you'll be using it to make &6Energetic Alloy Dust&r."
+				"На первое время он вам нужен будет для создания &6пыли энергитического сплава&r."
 				""
-				"Energetic Alloy Dust is made from &6Redstone&r, &6Gold Dust&r and &6Glowstone Dust&r. "
+				"Пыль энергетического сплава получается из смеси &6редстоуна&r, &6пыли золота&r и &6пыли светокамня&r."
 				""
-				"You should have some Glowstone from your adventures in the &cNether&r, but you can also make it by mixing &6Tricalcium Phosphate Dust&r&r&r and &6&6&6Gold Dust&r&r&r."
+				"У вас должен быть светокамень после походок в &cНезер&r, но вы также можете смешать его из &6пыли фосфата трикальция&r м &6пыли золота&r."
 			]
 			id: "1DBBE96165C7987D"
 			rewards: [{
@@ -1681,11 +1681,11 @@
 		{
 			dependencies: ["1DBBE96165C7987D"]
 			description: [
-				"When making circuits, you'll need either molten &9Tin&r, or molten &9Soldering Alloy&r&r&r. &2Soldering Alloy is made in the Mixer with 6 parts Tin Dust, 3 parts Lead Dust and 1 part Antimony Dust.&r You then process it in an &3Extractor &rfor the usual 144mB of fluid per unit."
+				"При создани электросхем вам потребуется или расплав &9олова&r или &9паяльный сплав&r. &2Припой создаётся в миксере из 6 единиц пыли олова, 3 единиц пыли свинца и 1 пыли сурьмы.&r Затем можете расплавить его в &3экстракторе&r для привычных 144мл жидкости за единицу."
 				""
-				"The &2Circuit Assembler&r will only consume half as much Soldering Alloy as it would have consumed molten Tin per craft (72mB vs 144mB), so it's very efficient to use this stuff."
+				"&2Сборщик микросхем&r потребляет вдвое меньше припоя, чем если бы использовал расплав олова (72мл и 144мл соответственно), так что его очень выгодно использовать."
 				""
-				"&2Antimony can be directly smelted from Stibnite Ore, allowing you to skip ore processing for this."
+				"&2Сурьму можно напрямую расплавить из руды стибнита, тем самым пропустив обработку руды."
 			]
 			icon: "gtceu:soldering_alloy_bucket"
 			id: "56924FC6B029BA0F"
@@ -1710,19 +1710,20 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"&2Certain multiblocks in CEu will require a Maintenance Hatch and/or Muffler Hatch. These cannot be shared between multiblocks. If you knew Maintenance in GT5u, fret not - Maintenance mechanics are far less punishing in CEu."
+				"&2Некоторые многоблоки в CEu требуют люк обслуживания или люк глушителя. Эти люки нельзя разделять между многоблоками. Если вы ранбще пользовались люком обслуживания в GT5u — в CEu люки обслуживания гораздо менее карательные.&r"
 				""
-				"&r- &aMuffler&r: This hatch must be &cunobstructed&r so it can output its beautiful smoke particles. When a recipe is performed, there is a small chance for the &3Muffler Hatch&r to give bonus items, typically tiny Dusts of Ash. It voids excess when full, so do not worry about it stopping machines from running."
+				"— &aГлушитель&r: этот люк &cнельзя закрывать блоками&r для того, чтобы выхлоп мог создавать прекрасные частицы дыма. В процессе работы рецепта есть малый шанс получить в &3люке глушителя&r бонусный побочный продукт, в основном это мелкие частицы пепла. Люк автоматически удаляет излишки, так что не переживайте о том, что это остановит процесс работы машины."
 				""
-				"- &aMaintenance&r: You will need to do Maintenance for the Multiblock to begin operating. This is done by having a &9Wrench&r, a &9Screwdriver&r, a &9Soft Mallet&r, a &9Hammer&r, a &9Wire Cutter&r, and a &9Crowbar&r in your inventory, opening the Maintenance Hatch and &eclicking the center spot once&r. &cNo need to move tools individually&r. Alternatively, you can fix problems by placing &9Tape&r in the Maintenance Hatch. "
+				"— &aОбслуживание&r: Перед началом работы вам нужно будет провести обслуживание многоблока. Это делается путём починки различных проблем соответствующими инструментами в инвентаре. У вас в инвентаре должны быть: &9гаечный ключ&r, &9отвёртка&r, &9киянка&r, &9молот&r, &9кусачки&r и &9монтировка&r. Открыв люк обслуживания &eнажмите один раз на центральную ячейку&r. &cДаже не нужно вручную кликать на неё инструментами&r. Или же можно починить все проблемы одной &9изолентой&r. "
 				""
-				"Maintenance problems may occur after &948 real hours of activity&r. Needless to say, they are very rare. Each problem increases the recipe durations by 10%%. Fixing the problems is done the same way as above."
+				"{@pagebreak}"
+				"Каждые &948 реальных часов работы&r у многоблока могут возникнуть проблемы обслуживания. Само собой это очень редко, но с каждой проблемой скорость работы машины понижается на 10%. Починить их можно темже способом, что был упомянут выше."
 				""
-				"Later, you will unlock other Maintenance Hatches that do not enforce fixing the problems manually. Both start with &6no Maintenance required&r:"
+				"Позже вы откроете альтернативные люки обслуживания, избавляющие вас от ручной работы обслуживания. Оба формируют структуру &6без потребности в обслуживании&r:"
 				""
-				"- &3Automatic Maintenance Hatch&r (&9IV&r): Eliminates the need for Maintenance, &6forever&r."
+				"— &3Люк автоматического осблуживания&r (&9БН&r): &6навсегда&r избавляет многоблок от возникновения проблем с облуживанием."
 				""
-				"- &3Configurable Maintenance Hatch&r (&6HV&r): You can configure it to cut off &a10%% duration&r on recipes, at the cost of making Maintenance issues happen three times as fast. That is &916 real hours&r of activity. &9Tape&r can fix problems in this Hatch as well."
+				"— &3Настраиваемый люк обслуживания&r (&9ВН&r): с его помощью можно разогнать машину срезав &a10% времени&r на рецепт ценой утраивания скорости возникновления проблем обслуживания. Это примерно &916 реальных часов&r работы. &9Изолента&r здесь тоже может помочь."
 			]
 			hide_dependency_lines: true
 			icon: "gtceu:maintenance_hatch"
@@ -1739,15 +1740,15 @@
 		{
 			dependencies: ["2D31856F6EF1ED69"]
 			description: [
-				"&9GregTech Power&r can be tricky to handle. Luckily, there are several tools you can use to tackle some of the problems."
+				"Управлять &9энергией GregTech&r может быть непросто. К счастью, есть несколько удобных инструментов, которые помогут разобраться с возможными проблемами."
 				""
-				"- &aDiode&r: A block which accepts energy on 5 sides, and outputs it on a single side. Its main purpose is to limit Amperage flow through it - adjust it by right-clicking it with a Soft Hammer, &2and to transport power into Cleanrooms.&r Not to be confused with the Diodes used as crafting components."
+				"— &aДиод&r: блок, принимающий энергию на любой из 5 сторон и проводящий на одной стороне. Главная его задача это ограничивать поток ампер проходящий через него (настройте его с помощью киянки) и &2передавать энергию внутрь чистой комнаты&r. Не путать с диодами, которые используются как компонент электросхем."
 				""
-				"- &aTransformer&r: A block which changes between 4A of a lower voltage and 1A of a voltage one tier higher."
+				"— &aТрансформатор&r: блок, который трансформирует 4А низкого напряжение на 1А напряжения уровнем выше."
 				""
-				"- &2Adjustable Transformer&r: Similar to the Transformer, but can be configured to transform up to 64A Low <-> 16A High."
+				"— &2Настраевыемый трансформатор&r: схож с трансформатором, но его можно настроить на работу с напряжениями 64А низкого <—> 16A высшего."
 				""
-				"- &aBattery Buffer&r: A block which can hold GregTech Batteries. Each battery accepts up to 2A and can provide up to 1A. &2They have been reworked in CEu to not be as terrible to use."
+				"— &aБатарейный буффер&r: блок, который может хранить батареи GregTech. Каждая батарейка принимает до 2А и может отдавать 1А. &2Их переработали в CEu, теперь они работают лучше."
 			]
 			icon: "gtceu:mv_transformer_1a"
 			id: "18D8D18C4494C587"
@@ -1763,28 +1764,28 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&bGregTech&r adds a very versatile way of augmenting machines with &aMachine Covers&r. Covers are \"upgrades\" that you can put on any &eGregTech machine, crate, or drum&r to expand its functionality. These are seperate on each side of the machine, meaning you can have up to six different covers! &9Covers can be edited and removed via the given machine's GUI&r, but for the others, you'll need to make yourself a &aScrewdriver&r to configure covers, and a &aCrowbar&r to remove covers without having to break the machine."
+				"&bGregTech&r добавляет множество универсальных аугментаций машин в виде &aнасадок&r. Насадки являются «улучшениями» которые можно установить на любую &eGregTech машину, ящик или бочку&r для расширения их функционала. Они раздельны для каждой стороны машины, что значит можно установить до шести разных насадок! &9Насадки можно редактировать или снимать через интерфейс машины&r, но для другого необходима &aотвёртка&r для настройки насадки и &aмонтировка&r, чтобы её снять. "
 				""
-				"Here's a list of some covers there are in the game, and what they do:"
+				"В игре есть разные насадки и вот что они делают:"
 				""
-				"- &lConveyor&r: transfers items continuously to or from an adjacent inventory, capable of round robin."
+				"— &lКонвеер&r: постоянно перемещает предметы в или из соседнего инвентаря, способный работать по круговой очереди;"
 				""
-				"- &lPump&r: is much like a &aConveyor&f, but for fluids."
+				"— &lПомпа&r: то же, что и &aконвеер&r, но для жидкости;"
 				""
-				"- &lRobotic Arm&r: is much like &aConveyor&r, but has two additional modes:"
-				"    * &eKeep Exact&r: moves items to keep a stock of at most the specified number of items"
-				"    * &eSupply Exact&r: transfers precisely the specified number of items per operation."
-				"This cover is very useful for crafting automation."
+				"— &lРоботизированная рука&r: то же, что и конвеер, но имеет два дополнительных режима:"
+				" * &eподдерживать ровно&r: перемещать предметы для поддержания определённого числа предметов в запасе"
+				" * &eперемещать ровно&r: перемещает точное количество предмета за операцию."
+				"Эта насадка очень полезна для автоматизации."
 				""
-				"- &lFluid Regulator&r: is like a &aRobotic Arm&r, but works with fluids instead of items."
+				"— &lЖидкостный регулятор&r: то же, что и &aроботизированная рука&r, но для жидкостей;"
 				""
-				"- &lShutter&r: prevents automation from interacting with a specific side of a machine."
+				"— &lЗатвор&r: предотвращает взаимодействие автоматизации с определённой стороной машины;"
 				""
-				"- &lDetector&2: Available in Item, Fluid, Energy, Activity, and Advanced Activity flavours. Emits a Redstone signal depending on the status of whatever it's detecting."
+				"— &lДетектор&r: работает с предметами, жидкостями, энергией, активностью и их продвинутые вариации. Выдают сигнал редстоуна в зависимости от состояния того, что детектор проверяет."
 				""
-				"- &lDigital Interface&r: &2A graphical display for the machine's current status. Can display things like contained fluids, energy levels, etc.&r"
+				"— &lЦифровой интерфейс&r: &2Графический дисплей текущего статуса машины. Он может отображать состав хранилища, уровни энергии и тд.&r"
 				""
-				"Covers that move items or fluids can have a &aFilter&r placed inside them. These modify the functionality of covers in ways explained in their own quests."
+				"Насадки, которые работают с предметами или жидкостями могут настраиваться &aфильтром&r. Их функционал описывается в отдельном квесте."
 			]
 			icon: "gtceu:lv_electric_pump"
 			id: "1A427A8CB43C8B59"
@@ -1799,7 +1800,7 @@
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
-			description: ["&9Pressing the second tab in any given machine's GUI will open up a view showing the machine and any blocks it is touching&r. From there, you can click on a side of the machine and easily add, edit and remove &acovers&r, and configure if the machine should &3automatically output&r it's output and which side it should output to. "]
+			description: ["&9Вторая вкладка в интерфейсе любой машины открывает предосмотр машины и всех блоков сторон которых она касается&r. Здесь, можно с лёгкостью настраивать, добавлять или снимать &aнасадки&r, а также настраивать сторону &3автовыхода&r результата работы машины."]
 			icon: "minecraft:hopper"
 			id: "431BB650AC492C84"
 			size: 1.5d
@@ -1815,17 +1816,18 @@
 		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
-				"&aFilters&r are a type of machine cover that controls what items or fluids are allowed to pass through it. They can be used directly on the side of a machine to affect external automation or the Machine's &aAuto-Output Functionality&r."
+				"&aФильтры&r — это один из типов насадок, контролирующий какие предметы или жидкости могут пройти через него. Их можно использовать напрямую на стороне машины, чтобы контролировать внешнюю автоматизацию или &aфункциональность автовыхода&r машины."
 				""
-				"You can also &eplace filters inside of other covers&r to control what items or fluids that cover will interact with. When used in a &6Robot Arm&r, &aItem Filters&r make for a powerful automation tool for &ekeeping specific items in stock&r in specific quantities in Machines. With &6Fluid Regulators&r, similar behavior is possible with fluids using a &aFluid Filter&r. For &6Conveyors&r and &6Pumps&r, it simply limits what that cover will move."
+				"Эти фильтры можно устанавливать &eвнутри других насадок&r для контроля с какими предметами или жидкостями эта насадка может взаимодействовать. В &6роботизированной руке&r &aпредметный фильтр&r станет сильный иснтументом автоматизации для &eподдержания запаса определённых вещей&r в заданном количестве в машинах. Для &6жидкостного регулятора&r также работает похожая функция для жидкостей с помощью &aжидкостного фильтра&r. Для &6конвееров&r и &6помп&r фильтры просто ограничивают что эти насадки могут перемещать."
+				""
 				"{@pagebreak}"
-				"&aFilters&r all have 9 configurable slots and whitelist/blacklist modes, and can be applied to multiple sides of machines. When placed inside a &6Robot Arm&r in &eKeep Exact&r or &eSupply Exact&r mode&r, the item count in a filter can be incremented by &eRight Clicking&r and decremented by &eLeft Clicking&r. Holding &eShift&r causes the count to increase/decrease by a factor of 2. This controls the number of each type of item that will be kept in stock or moved at a time."
+				"&aФильтры&r имеют 9 ячеек конфигурации и режимы белого\\чёрного списка, а также могут быть использованы на нескольких сторонах машины. В &6роботизированной руке&r в режиме &eподдерживать ровно&r или &eперемещать ровно&r количество предмета в фильтре можно инкримировать через &eПКМ&r и декримировать через &eЛКМ&r. Удерживая &eShift&r изменяет количество в 2 раза. Благодаря этим настройкам каждый тип предмета будет поддерживать точное количество в каждой ячейке или ровно столько будет перемещаться."
 				""
-				"Similar controls are available for the &aFluid Filter&r when placed inside a &6Fluid Regulator&r."
+				"Схожие настройки доступны для &aжидкостного фильтра&r в &6жидкостном регуляторе&r."
 				""
-				"Additionally, the &aOre Dictionary Filter&r&r is a powerful tool that has a specialized filter which uses ore dictionary entries and &2uses regular expressions (regex)&r, e. g. \"&6ingotHot*&r\" will match all hot ingots, \"&6dustRegular*&r\" will match all regular dusts, and \"&6dustTiny*&r\" will match all tiny piles."
+				"Кроме того, &aтэг-фильтры&r имеют специализированный фильтр, который использует тэги предметов и &2используют обычные выражения (regex)&r, например «&6ingotHot*&r» будет пропускать все раскалённые слитки, «&6dustRegular*&r» будет пропускать всю обычную пыль, «&6dustTiny*&r» пропустит всю маленькую пыль"
 				""
-				"All &bGregTech&r Filters can be configured using ghost items from &bEMI&r."
+				"Все фильтры из &bGregTech&r могут быть конфигурированы используя призрачные предметы из &bEMI&r."
 			]
 			id: "5F6B13DBCABA5078"
 			size: 1.5d
@@ -1858,9 +1860,9 @@
 		{
 			dependencies: ["273F3F8DD6A3DCC5"]
 			description: [
-				"Item conduits are useful for moving items between inventories over moderate distances."
+				"Предметные трубопроводы полезны при транспортировке предметов между инвентарями на среднее расстояние."
 				""
-				"Crafting them in an Assembling Machine instead of by hand gives twice as many conduits."
+				"Создание их в сборочной машине вдвое эффективнее, чем вручную на верстаке."
 			]
 			id: "4F239316765C7CA1"
 			rewards: [{
@@ -1881,15 +1883,15 @@
 		{
 			dependencies: ["4CD6C60CBEFFA317"]
 			description: [
-				"The main function of this oven is to increase the fuel values of your wood and coal while also recovering some of the various potentially useful waste products."
+				"Главная функция этой печи — увеличить топливную ценность дерева и угля, одновременно извлекая потенциально полезные побочные продукты."
 				""
-				"Turning &6Coal&r into &6Coal Coke&r will not only make it more useful as fuel, but will also produce &9Phenol&r, which you'll need for circuits."
+				"Обработка &6угля&r в &6коксовый уголь&r не только сделает его полезнее как топливо, но также будет производить &9фенол&r, который потребуется для электросхем."
 				""
-				"The Pyrolyse Oven is also the source of several other fluids that can be distilled for useful ingredients."
+				"Пиролизная печь также источник и других жидкостей, которые можно дистилировать в не менее полезные ингридиенты."
 				""
-				"Remember that Hatches and Buses can be replaced by Hatches and Buses of any tier, although the Input Bus must be at least LV, as there are 2 inputs, and that you can  &6sneak-right click&r the controller to enable the in-world preview."
+				"Помните, что люки могут быть заменены люками любого другого уровня, но люк входа должен быть хотя бы НН, так как у рецептов минимум 2 ингридиента, а так же можно включить голограмму проекцию нажав &6шифт-ПКМ&r рукой по контроллеру."
 				""
-				"&2As stated in the tooltip, higher tier coils will make this faster."
+				"&2Как написано в всплывающей подсказке — чем выше уровень колец, тем быстрее скорость работы."
 			]
 			icon: "gtceu:pyrolyse_oven"
 			id: "0D6C8FFD01BE5C21"
@@ -1963,7 +1965,7 @@
 				"3AB0402B19DD5BA8"
 				"15808BD9C5DBA0F7"
 			]
-			description: ["Carry &o&leven more&r stuff."]
+			description: ["Носите &o&lещё больше&r."]
 			id: "1C2088A496D8FE4F"
 			rewards: [{
 				id: "4E4E7320F0994D1D"
@@ -1995,11 +1997,11 @@
 		{
 			dependencies: ["5301E546BAA69844"]
 			description: [
-				"The &bPhytogenic Insolator&r is a way to &9passively produce wood in the earlygame&r. While somewhat slow, it only requires &a10 rf/t&r to operate, meaning you can just set it down and not have to worry about it, and then come back to wood when you need some for crafting or steel production."
+				"&bФитогенный излучатель&r — способ &9пассивного производства дерева на ранних этапах&r. Пусть и медленный, но он потребляет &a10 РТ/т&r, что значит можно настроить несколько и забыть о них, пока не понадобится дерево на производство стали или ещё куда-нибудь."
 				""
-				"Using &bHardened Integral Components&r in it will cause it to work 1.5x faster, while only requiring an extra &a5 rf/t&r to operate, and using &6Bonemeal&r or otherwise will boost how much wood you get per cycle."
+				"Улучшение &bукреплённым интегральным компонентом&r ускорит машину в 1,5 раза, при этом увеличив потребление на &a5 РТ/т&r, а использование &6костной муки&r или подобных увеличит количество производимого дерева за цикл."
 				""
-				"By the way, &bThermal&r Machines are capable of Automatic I/O, try placing a 2x2 drawer beside your &bPhytogenic Insolator&r and configuring it to both push to and pull from the side with the drawer."
+				"Кстати, все &bThermal&r машины имеют автоматический импорт/экспорт. Поставьте 2х2 ящик вплотную к &bфитогенному излучателю&r и настройте его на вход и выход у стороны где ящик."
 			]
 			id: "2607F8404B56773B"
 			rewards: [{
@@ -2007,7 +2009,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "...и посадки тоже, полагаю."
+			subtitle: "...и посевы тоже, полагаю."
 			tasks: [{
 				id: "4ED486548C376854"
 				item: "thermal:machine_insolator"
@@ -2020,9 +2022,9 @@
 		{
 			dependencies: ["3EDD0A986384F2A7"]
 			description: [
-				"Now that you have a &3Wiremill&f and a &2Bending Machine&f, you can consider starting to do &eBounties&f. The &6Bounty Board&f has a global inventory containing quests to turn in specific items in exchange for &9monicoins&f. These quests have a fairly short duration, so make sure to &estockpile the items&f that come up on them or else they'll &cexpire before you can complete them&f."
+				"Теперь с помощью &3волочильного стана&f и &2листогиба&f вы можете начать выполнять задания &eобъявлений&f. &6Доска объявлений&f имеет общий глобальный инвентарь с заданиями с наградами в виде &9монимонет&f. Эти квесты имеют значительно короткий таймер, так что создавайте &eпредметы про запас&f чтобы их можно было вовремя обменять или &cсрок квеста истечёт до того, как вы сможете создать предметы&f."
 				""
-				"With renewable &9monicoins&f, you should feel free to spend the ones you have on whatever you need. &aSpend your coins!"
+				"Теперь, имея возобновляемые &9монимонеты&f, вы можете спокойно их тратить на всё что вам нужно. &aТратьте монеты!"
 			]
 			hide_dependency_lines: true
 			id: "3E69E1949316BD0C"
@@ -2057,7 +2059,7 @@
 		}
 		{
 			dependencies: ["545CCC24D9401794"]
-			description: ["The &6Steam Foundry&r functions as 5.3 &7LV &3Alloy Smelters&r in parallel! It requires an input of &9Steam&r through a &eSteam Hatch&r, but it uses very little Steam, perfect for bulk crafting alloys or mold recipes."]
+			description: ["&6Паровая литейная&r работает на скорости 5.3 &3печи для справов &7низкого напряжения&r в параллели! Очевидно, он работает на &9пару&r подаваемый через &eпаровой люк&r и потребляет его совсем немного. Идеально для литья сплавов или отлива в формы в больших партиях."]
 			icon: "steamadditions:steam_foundry"
 			id: "5D60CAE3A33000C3"
 			rewards: [{
