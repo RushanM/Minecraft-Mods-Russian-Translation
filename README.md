@@ -57,6 +57,7 @@
 | [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | ✅ Рус. | ⬛
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | ⬛
 | [Botania](https://modrinth.com/mod/botania) | 🟥 | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ⬛ |
+| [Burnt](https://modrinth.com/mod/burnt) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ⬛ | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥
 | [Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус. | ✅ Рус. | ⬛
@@ -165,11 +166,13 @@
 | [Powah!](https://modrinth.com/mod/powah) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Raised](https://modrinth.com/mod/raised) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Rats](https://modrinth.com/mod/rats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Red Pandas!](https://modrinth.com/mod/red-pandas-wueffi) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛
 | [Redstone Clock](https://www.curseforge.com/minecraft/mc-mods/redstone-clock) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Respackopts](https://modrinth.com/mod/respackopts) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Ribbits](https://modrinth.com/mod/ribbits) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | ✅ Рус. | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 |
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Ryoamium](https://modrinth.com/mod/ryoamium) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
@@ -184,6 +187,8 @@
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Sodium](https://modrinth.com/mod/sodium) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [SpaceworldMons [Cobblemon]](hhttps://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
+| [StaffDerpsMod](https://modrinth.com/mod/staffderpsmod) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛
 | [Subnautica Flow](https://modrinth.com/mod/subnautica-flow) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 | [Tails](https://www.curseforge.com/minecraft/mc-mods/tails) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
@@ -203,7 +208,6 @@
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Xenon](https://modrinth.com/mod/xenon-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | ✅ Рус. | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
 
 Список будет пополняться.
 </details>
