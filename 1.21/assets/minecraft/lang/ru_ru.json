@@ -1,5 +1,5 @@
 {
-    "modmenu.descriptionTranslation.dynamicpack": "Оснащает наборы ресурсов возможностью автообновления",
+    "modmenu.descriptionTranslation.dynamicpack": "Оснащает наборы ресурсов возможностью автообновления.",
     "modmenu.descriptionTranslation.fabric-language-kotlin": "Модуль поддержки Kotlin для языка, используемого Фабрик.",
     "modmenu.descriptionTranslation.flow": "Анимация открытия/закрытия инвентарей.",
     "modmenu.descriptionTranslation.kelui": "Альтернативный дизайн меню на вкус Кела, то есть, как Келу самому удобно использовать компоненты.",
@@ -100,5 +100,5 @@
     "rpo.modsru.specific.pokemonNames.tooltip": "Позволяет выбрать, играть вам со скучной транслитерацией или гениальной адаптацией Сыендука",
     "rpo.modsru.specific.pokemonNames.translit": "Транслитерация",
     "rpo.modsru.specific.shortResetAll": "«Сброс всего» (Controlling)",
-    "rpo.modsru.specific.shortResetAll.tooltip": "Умещает «Сбросить всё» в кнопку сокрашением до «Сброс всего». Возможно больше не актуально."
+    "rpo.modsru.specific.shortResetAll.tooltip": "Умещает «Сбросить всё» в кнопку сокращением до «Сброс всего». Возможно больше не актуально."
 }

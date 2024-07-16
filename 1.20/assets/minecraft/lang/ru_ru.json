@@ -249,7 +249,7 @@
     "rpo.modsru.general.translateModNames": "Перевод названий модов",
     "rpo.modsru.general.translateModNames.tooltip": "Переводить названия модов?",
     "rpo.modsru.general.wip": "Недоделанные переводы",
-    "rpo.modsru.general.wip.tooltip": "В русификаторе есть недоделанные переводы, часть текста которых остаётся на английском. Если в обновлениях модов появится полный русский перевод, отключите это, чтобы русификатор не перезаписал его английским текстом.",
+    "rpo.modsru.general.wip.tooltip": "В русификаторе есть недоделанные переводы, часть текста которых остаётся на английском.\nЕсли в обновлениях модов появится полный русский перевод, отключите это, чтобы\nрусификатор не перезаписал его английским текстом.",
     "rpo.modsru.specific": "Настройки конкретных модов",
     "rpo.modsru.specific.apricorn": "«Априкорн» (Cobblemon)",
     "rpo.modsru.specific.apricorn.tooltip": "Изменяет адаптацию apricorn как «абрижёлудь» на транслитерацию «априкорн»",
@@ -260,9 +260,9 @@
     "rpo.modsru.specific.modMenuEasterEggsFormalStyle": "Формальный стиль пасхалок (Mod Menu)",
     "rpo.modsru.specific.modMenuEasterEggsFormalStyle.tooltip": "Писать ли текст пасхалок с заглавной буквы, когда он идёт после многоточия?",
     "rpo.modsru.specific.pokemonNames": "Имена покемонов (Cobblemon)",
-    "rpo.modsru.specific.pokemonNames.sienduk": "Адаптация от Сыенудка",
+    "rpo.modsru.specific.pokemonNames.sienduk": "Сыендук",
     "rpo.modsru.specific.pokemonNames.tooltip": "Позволяет выбрать, играть вам со скучной транслитерацией или гениальной адаптацией Сыендука",
     "rpo.modsru.specific.pokemonNames.translit": "Транслитерация",
     "rpo.modsru.specific.shortResetAll": "«Сброс всего» (Controlling)",
-    "rpo.modsru.specific.shortResetAll.tooltip": "Умещает «Сбросить всё» в кнопку сокрашением до «Сброс всего». Возможно больше не актуально."
+    "rpo.modsru.specific.shortResetAll.tooltip": "Умещает «Сбросить всё» в кнопку сокращением до «Сброс всего». Возможно больше не актуально."
 }

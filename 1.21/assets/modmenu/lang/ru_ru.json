@@ -17,7 +17,7 @@
     "modmenu.configure.error": "Не удалось загрузить меню настроек «%s».\nСообщите разработчику «%s», а не Mod Menu.",
     "modmenu.credits": "Способствовали разработке:",
     "modmenu.credits.role.author": "Авторы",
-    "modmenu.credits.role.contributor": "Участники разработки",
+    "modmenu.credits.role.contributor": "Вкладчики",
     "modmenu.credits.role.illustrator": "Иллюстраторы",
     "modmenu.credits.role.maintainer": "Сопровождающие",
     "modmenu.credits.role.owner": "Владельцы",
