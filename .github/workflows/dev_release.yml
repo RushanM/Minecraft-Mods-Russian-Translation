@@ -57,7 +57,7 @@ jobs:
         run: |
           for version in 1.7 1.12 1.16 1.17 1.18 1.19 1.20 1.21; do
             cd $version
-            zip -r ../Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta
+            zip -r ../Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ..
             zip -g Rus-For-Mods-$version-Dev-${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           done
