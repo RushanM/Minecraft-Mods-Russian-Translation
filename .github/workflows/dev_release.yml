@@ -38,10 +38,14 @@ jobs:
             if (releases.length === 0) {
               next_version = 1;
             } else {
-              const latestRelease = releases.find(release => release.tag_name.startsWith('dev'));
+              const latestRelease = releases
+                .filter(release => release.tag_name.startsWith('dev'))
+                .map(release => parseInt(release.tag_name.replace('dev', ''), 10))
+                .filter(version => !isNaN(version))
+                .sort((a, b) => b - a)[0];
+
               if (latestRelease) {
-                const latestVersion = parseInt(latestRelease.tag_name.replace('dev', ''));
-                next_version = latestVersion + 1;
+                next_version = latestRelease + 1;
               } else {
                 next_version = 1;
               }
