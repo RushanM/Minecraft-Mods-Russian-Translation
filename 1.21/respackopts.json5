@@ -1,0 +1,43 @@
+{
+  capabilities: [
+    "FileFilter",
+    "DirFilter"
+  ],
+  conf: {
+    general: {
+      wip: true,
+      translateModNames: false,
+      modloader: [
+        "none",
+        "forge",
+        "fabric"
+      ],
+      modsWordStyle: [
+        "mod",
+        "modification",
+        "hybrid"
+      ],
+      translateJokes: true,
+      advancementsModNamesTranslation: false,
+      modsCreativeTabsStyle: [
+        "modItems",
+        "items",
+        "original"
+      ],
+      osteme: true
+    },
+    specific: {
+      modMenuEasterEggsFormalStyle: false,
+      pokemonNames: [
+        "translit",
+        "sienduk"
+      ],
+      shortResetAll: true,
+      enigmaticLegacyColoredTabs: true,
+      apricorn: false,
+      materialEnergy: false
+    }
+  },
+  id: "modsru",
+  version: 12
+}
