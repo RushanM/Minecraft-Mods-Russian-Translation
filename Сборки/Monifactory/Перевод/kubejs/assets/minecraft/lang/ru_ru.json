@@ -1,22 +1,8 @@
 {
-    "credits_and_attribution.screen.title": "Титры и авторы",
+    "credits_and_attribution.screen.title": "Титры и атрибуции",
     "menu.multiplayer": "Сетевая",
     "menu.options": "Настройки",
     "menu.quit": "Выйти",
     "menu.singleplayer": "Одиночная",
-    "options.accessibility": "Специальные возможности",
-    "options.chat": "Настройки чата",
-    "options.controls": "Управление",
-    "options.credits_and_attribution": "Титры и авторы",
-    "options.font": "Настройки шрифта",
-    "options.language": "Язык",
-    "options.mouse_settings": "Настройки мыши",
-    "options.multiplayer.title": "Настройки сетевой игры",
-    "options.online": "Онлайн",
-    "options.resourcepack": "Наборы ресурсов",
-    "options.skinCustomisation": "Внешний вид",
-    "options.sounds": "Музыка и звуки",
-    "options.telemetry": "Собираемые данные",
-    "options.video": "Настройки графики",
-    "selectWorld.moreWorldOptions": "Настройка мира"
+    "options.credits_and_attribution": "Титры и атрибуции..."
 }
