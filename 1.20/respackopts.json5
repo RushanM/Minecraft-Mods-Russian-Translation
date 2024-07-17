@@ -1,43 +1,42 @@
 {
-  capabilities: [
-    "FileFilter",
-    "DirFilter"
-  ],
-  conf: {
-    general: {
-      wip: true,
-      translateModNames: false,
-      modloader: [
-        "none",
-        "forge",
-        "fabric"
-      ],
-      modsWordStyle: [
-        "mod",
-        "modification",
-        "hybrid"
-      ],
-      translateJokes: true,
-      advancementsModNamesTranslation: false,
-      modsCreativeTabsStyle: [
-        "modItems",
-        "items",
-        "original"
-      ],
-      osteme: true
-    },
-    specific: {
-      modMenuEasterEggsFormalStyle: false,
-      pokemonNames: [
-        "translit",
-        "sienduk"
-      ],
-      shortResetAll: true,
-      enigmaticLegacyColoredTabs: true,
-      apricorn: false,
-      materialEnergy: false
+    id: "modsru",
+    version: 13,
+    capabilities: ["FileFilter","DirFilter"],
+    conf: {
+        general: {
+            betaTranslations: true,
+            modsWordStyle: [
+              "mod",
+              "modification",
+              "hybrid"
+            ],
+            translateModNames: false,
+            translateModNamesOnAdvancements: false,
+            translateJokes: true,
+            yourModloader: [
+              "none",
+              "forge",
+              "fabric"
+            ],
+            modsCreativeTabsStyle: [
+              "modItems",
+              "items",
+              "original"
+            ],
+            removeModInTatar: true
+        },
+        specific: {
+            materialEnergyInsteadOfMatterEnergy: false,
+            cobblemon: {
+              pokemonNamesTranslationStyle: [
+                "translit",
+                "sienduk"
+              ],
+              apricornInsteadOfAbrizhyolud: false
+            },
+            shortResetAll: true,
+            enigmaticLegacyColoredTabs: true,
+            modMenuEasterEggsFormalStyle: true
+        }
     }
-  },
-  id: "modsru",
-  version: 12
 }
