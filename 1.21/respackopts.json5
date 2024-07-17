@@ -6,19 +6,19 @@
   conf: {
     general: {
       wip: true,
-      translateModNames: false,
-      modloader: [
-        "none",
-        "forge",
-        "fabric"
-      ],
       modsWordStyle: [
         "mod",
         "modification",
         "hybrid"
       ],
-      translateJokes: true,
+      translateModNames: false,
       advancementsModNamesTranslation: false,
+      translateJokes: true,
+      modloader: [
+        "none",
+        "forge",
+        "fabric"
+      ],
       modsCreativeTabsStyle: [
         "modItems",
         "items",
@@ -27,15 +27,17 @@
       osteme: true
     },
     specific: {
-      modMenuEasterEggsFormalStyle: false,
-      pokemonNames: [
-        "translit",
-        "sienduk"
-      ],
+      materialEnergy: false,
+      cobblemon: true {
+        pokemonNames: [
+          "translit",
+          "sienduk"
+        ],
+        apricorn: false,
+      },
       shortResetAll: true,
       enigmaticLegacyColoredTabs: true,
-      apricorn: false,
-      materialEnergy: false
+      modMenuEasterEggsFormalStyle: true
     }
   },
   id: "modsru",
