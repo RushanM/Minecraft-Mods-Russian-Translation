@@ -1,0 +1,6 @@
+{
+    condition: "general.modsWordStyle.mod",
+    "fallbacks": [
+        "assets/libjf-config-core/lang/ru_ru_alt/modification.json"
+    ]
+}

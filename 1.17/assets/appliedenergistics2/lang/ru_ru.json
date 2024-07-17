@@ -302,7 +302,7 @@
     "gui.appliedenergistics2.SpatialAnchorLoadedChunks": "Загруженные чанки: %s",
     "gui.appliedenergistics2.SpatialAnchorStatistics": "Сетевая статистика",
     "gui.appliedenergistics2.SpatialAnchorUsedPower": "Использование энергии: %s",
-    "gui.appliedenergistics2.SpatialCapacity": "Емкость: %dx%dx%d",
+    "gui.appliedenergistics2.SpatialCapacity": "Ёмкость: %dx%dx%d",
     "gui.appliedenergistics2.SpatialIOPort": "Пространственный порт ввода\\вывода",
     "gui.appliedenergistics2.Start": "Старт",
     "gui.appliedenergistics2.StorageBus": "Шина хранения",
