@@ -75,6 +75,7 @@
     "rpo.modsru.general.modsWordStyle.tooltip": "Определите, каким вы хотите видеть перевод слова §amod§r",
     "rpo.modsru.general.removeModInTatar": "«§aӨстәмә§r»",
     "rpo.modsru.general.removeModInTatar.tooltip": "Заменить «§aмод§r» в татарском языке на более татарское «§dөстәмә§r»",
+    "rpo.modsru.general.tooltip": "Настройки, касающиеся большинства модов",
     "rpo.modsru.general.translateJokes": "Перевод шуток",
     "rpo.modsru.general.translateJokes.tooltip": "Включить адаптацию иностранных шуток. Иногда попытки бывают тщетны.",
     "rpo.modsru.general.translateModNames": "Перевод названий модов",
@@ -94,12 +95,14 @@
     "rpo.modsru.specific.cobblemon.pokemonNamesTranslationStyle.sienduk": "Сыендук",
     "rpo.modsru.specific.cobblemon.pokemonNamesTranslationStyle.tooltip": "Определите, хотите вы играть со скучной транслитерацией или гениальной адаптацией Сыендука",
     "rpo.modsru.specific.cobblemon.pokemonNamesTranslationStyle.translit": "Транслитерация",
+    "rpo.modsru.specific.cobblemon.tooltip": "Настройки, касающиеся мода §aCobblemon§r",
     "rpo.modsru.specific.enigmaticLegacyColoredTabs": "Заголовки вкладок творческого режима одного цвета (§aEnigmatic Legacy§r)",
     "rpo.modsru.specific.enigmaticLegacyColoredTabs.tooltip": "Покрасить вкладки инвентаря творческого режима §aEnigmatic Legacy§r в один цвет",
-    "rpo.modsru.specific.materialEnergyInsteadOfMatterEnergy": "«§dМатериальная энергия§r» (§aApplied Energistics 2§r)",
+    "rpo.modsru.specific.materialEnergyInsteadOfMatterEnergy": "«§aМатериальная энергия§r» (§dApplied Energistics 2§r)",
     "rpo.modsru.specific.materialEnergyInsteadOfMatterEnergy.tooltip": "Заменить «§dэнергия материи§r» в §aApplied Energistics 2§r на «§dматериальная энергия§r»",
-    "rpo.modsru.specific.modMenuEasterEggsFormalStyle": "Формальный стиль пасхалок (§2Mod Menu§r)",
+    "rpo.modsru.specific.modMenuEasterEggsFormalStyle": "Формальный стиль пасхалок (§aMod Menu§r)",
     "rpo.modsru.specific.modMenuEasterEggsFormalStyle.tooltip": "Включить более грамматически правильное написание текстов пасхалок §dMod Menu§r",
-    "rpo.modsru.specific.shortResetAll": "«§dСброс всего§r» (§aControlling§r)",
-    "rpo.modsru.specific.shortResetAll.tooltip": "Уместить «§dСбросить всё§r» в кнопку §aControlling§r сокращением до «§dСброс всего§r»"
+    "rpo.modsru.specific.shortResetAll": "«§aСброс всего§r» (§dControlling§r)",
+    "rpo.modsru.specific.shortResetAll.tooltip": "Уместить «§dСбросить всё§r» в кнопку §aControlling§r сокращением до «§dСброс всего§r»",
+    "rpo.modsru.specific.tooltip": "Настройки, касающиеся определённых модов"
 }
