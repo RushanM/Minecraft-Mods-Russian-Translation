@@ -14,9 +14,9 @@
             translateModNamesOnAdvancements: false,
             translateJokes: true,
             yourModloader: [
-              "none",
-              "forge",
-              "fabric"
+              "any",
+              "neoforgeOrForge",
+              "fabricOrQuilt"
             ],
             modsCreativeTabsStyle: [
               "modItems",
@@ -32,9 +32,10 @@
                 "translit",
                 "sienduk"
               ],
-              apricornInsteadOfAbrizhyolud: false
+              naturaInsteadOfKharakter: false,
+              apricornInsteadOfAbrizholud: false
             },
-            shortResetAll: true,
+            shortResetAllForControlling: true,
             enigmaticLegacyColoredTabs: true,
             modMenuEasterEggsFormalStyle: true
         }
