@@ -1,4 +1,6 @@
 {
+    "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
+    "minecraft.resource_pack.modsru_name": "Русский перевод модов",
     "modmenu.descriptionTranslation.dynamicpack": "Оснащает наборы ресурсов возможностью автообновления.",
     "modmenu.descriptionTranslation.fabric-language-kotlin": "Модуль поддержки Kotlin для языка, используемого Фабрик.",
     "modmenu.descriptionTranslation.flow": "Анимация открытия/закрытия инвентарей.",
