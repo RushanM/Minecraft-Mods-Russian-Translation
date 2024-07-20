@@ -36,7 +36,7 @@
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус. | ⬛ |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус. | 🟥 |
 | [Adorn](https://modrinth.com/mod/adorn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| - | - | - | - | - | - | - | ⬛ |
+| [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| ⬛ | ✅ Рус. | ✅ Рус. | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
