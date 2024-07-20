@@ -138,7 +138,7 @@
     "fml.modmismatchscreen.table.serverhas": "На сервере установлено:",
     "fml.modmismatchscreen.table.youhave": "У вас установлено:",
     "fml.modmismatchscreen.table.youneed": "Вам нужно установить:",
-    "fml.resources.modresources": "§7Ресурсы файлов {0,choice,1#1 мода|2<{0} модов}",
+    "fml.resources.modresources": "{0,choice,0#Ресурсы файлов модов|1#Ресурсы файлов 1 мода|2<Ресурсы файлов {0} модов}",
     "forge.block_reach": "Досягаемость блоков",
     "forge.chatType.system": "{0}",
     "forge.configgui.alwaysSetupTerrainOffThread": "Принудительная многопоточная отрисовка чанков",
