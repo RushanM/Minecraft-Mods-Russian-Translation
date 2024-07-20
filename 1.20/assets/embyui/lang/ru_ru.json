@@ -16,7 +16,7 @@
     "options.embyui.chunksfadein.fade_type.lined": "Линейное",
     "options.embyui.chunksfadein.mod_button_enabled": "Кнопка мода в настройках",
     "options.embyui.chunksfadein.mod_enabled": "Мод включен",
-    "options.embyui.chunksfadein.time_unit": "%.2f сек",
+    "options.embyui.chunksfadein.time_unit": "%.2f сек.",
     "options.embyui.chunksfadein.update_notifier_enabled": "Уведомление о обновлениях",
     "options.embyui.fabricskyboxes.debughud": "Показать HUD отладки",
     "options.embyui.fabricskyboxes.enabled": "Включить Fabric Skyboxes",
