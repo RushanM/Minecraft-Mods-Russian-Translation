@@ -36,7 +36,7 @@
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус. | ⬛ |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус. | 🟥 |
 | [Adorn](https://modrinth.com/mod/adorn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Aerlune RPG](https://www.curseforge.com/minecraft/mc-mods/aerlune-rpg) | - | - | - | - | - | - | 🟥 | - |
+| [Aerlune RPG](https://www.curseforge.com/minecraft/mc-mods/aerlune-rpg) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| ⬛ | ✅ Рус. | ✅ Рус. | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
@@ -45,6 +45,7 @@
 | [AnimaticaReforged](https://modrinth.com/mod/animaticareforged) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ⬛ | 🟥 | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | 🟥 |
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
 | [ArmorStatusHUD](https://www.curseforge.com/minecraft/mc-mods/armorstatushud) | ✅ Рус. | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Artifacts](https://modrinth.com/mod/artifacts) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛ |
@@ -55,6 +56,7 @@
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛
 | [Baubles 2](https://modrinth.com/mod/baubles-2) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. |
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | ⬛ | ⬛
+| [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/better-dungeons) | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥
 | [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ✅ Рус. | ⬛
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | ⬛
@@ -170,7 +172,7 @@
 | [Powah!](https://modrinth.com/mod/powah) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Raised](https://modrinth.com/mod/raised) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Rats](https://modrinth.com/mod/rats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Recrafted Creatures](https://www.curseforge.com/minecraft/mc-mods/recrafted-creatures)| - | - | - | - | - | - | - | - |
+| [Recrafted Creatures](https://www.curseforge.com/minecraft/mc-mods/recrafted-creatures)| 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Red Pandas!](https://modrinth.com/mod/red-pandas-wueffi) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛
 | [Redstone Clock](https://www.curseforge.com/minecraft/mc-mods/redstone-clock) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
@@ -201,7 +203,7 @@
 | [Tails](https://www.curseforge.com/minecraft/mc-mods/tails) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 |
-| [The Essentials mod](https://modrinth.com/mod/the-essentials-mod)| - | - | - | - | - | - | - | - |
+| [The Essentials mod](https://modrinth.com/mod/the-essentials-mod)| 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 |
 | [Thermal Systeams: Monifactory Edition](https://github.com/ThePansmith/Monifactory/blob/main/mods/systeams-1.20.1-1.7.1.jar) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
@@ -214,7 +216,7 @@
 | [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [VoxelMap](https://modrinth.com/mod/voxelmap-updated) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [WATERFrAMES](https://modrinth.com/mod/waterframes)| - | - | - | - | - | - | - | - |
+| [WATERFrAMES](https://modrinth.com/mod/waterframes)| 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Xenon](https://modrinth.com/mod/xenon-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |

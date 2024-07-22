@@ -10,8 +10,8 @@ strings.size=Размер
 strings.generate_structure=Создание структуры... Пожалуйста, подождите.
 strings.slots=Слоты
 
-key.categories.chocolatequest=Chocolate Quest
-key.party=Открыть меню Chocolate Quest
+key.categories.chocolatequest=Better Dungeons
+key.party=Открыть меню Better Dungeons
 key.next=Право
 key.prev=Влево
 
@@ -269,10 +269,9 @@ item.backpack.name= Рюкзак
 item.teleportStone.name= Камень телепортации
 item.elementStone.name= Элементальный камень
 
-#Bosses
 entity.chocolateQuest.spiderBoss.name= Shelob
 entity.chocolateQuest.monking.name= Король Обезьян
-entity.chocolateQuest.slimeBoss.name= Скользская лягушка
+entity.chocolateQuest.slimeBoss.name= Слизневая лягушка
 entity.chocolateQuest.turtleBoss.name= Гигантская черепаха
 entity.chocolateQuest.bull.name= Бык
 entity.chocolateQuest.greenDragon.name= Gotterfunken
@@ -280,16 +279,16 @@ entity.chocolateQuest.giantZombie.name= Гигантский зомби
 
 entity.chocolateQuest.necromancer.name= Некромант
 entity.chocolateQuest.Lich.name= Лич
-entity.chocolateQuest.specterBoss.name= Призрак-лорд
-entity.chocolateQuest.pirateBoss.name= Пират-капитан
-entity.chocolateQuest.abyssWalkerBoss.name= Король странников Бездны
+entity.chocolateQuest.specterBoss.name= Лорд призраков
+entity.chocolateQuest.pirateBoss.name= Капитан пиратов
+entity.chocolateQuest.abyssWalkerBoss.name= Король странников бездны
 entity.chocolateQuest.gremlinBoss.name= Вождь гремлинов
-entity.chocolateQuest.minotaurBoss.name= Злой минотавр
+entity.chocolateQuest.minotaurBoss.name= Сердитый минотавр
 entity.chocolateQuest.pigZombieBoss.name= Свинозомби-главарь
 entity.chocolateQuest.mummyBoss.name= Фараон
-#Entities
+
 entity.chocolateQuest.dummy.name= Манекен
-entity.chocolateQuest.SummonedUndead.name= Призванная нечисть
+entity.chocolateQuest.SummonedUndead.name= Призванная нежить
 entity.chocolateQuest.armoredSkeleton.name= Скелетон
 entity.chocolateQuest.armoredZombie.name= Зомби
 entity.chocolateQuest.mummy.name= Мумия
@@ -299,9 +298,7 @@ entity.chocolateQuest.specter.name= Призрак
 entity.chocolateQuest.gremlin.name= Гремлин
 entity.chocolateQuest.minotaur.name= Минотавр
 entity.chocolateQuest.pigzombie.name= Свинозомби
-entity.chocolateQuest.mechaHeavy.name= Тяжёлый механический робот
+entity.chocolateQuest.mechaHeavy.name= Тяжёлый мехаробот
 
-#Creative tabs
 itemGroup.dungeonGenerators= Генераторы подземелий
-itemGroup.adventureItems= Adventure items
-itemGroup.Items=Chocolate Quest
+itemGroup.adventureItems= Приключенческие предметы
