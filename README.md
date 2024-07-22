@@ -45,7 +45,7 @@
 | [AnimaticaReforged](https://modrinth.com/mod/animaticareforged) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ⬛ | 🟥 | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | 🟥 |
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
+| [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers) | 🟥 | 🟥 | ⬛ | ⬛ | ✅ Рус. | ⬛ | ✅ Рус. | ⬛ |
 | [ArmorStatusHUD](https://www.curseforge.com/minecraft/mc-mods/armorstatushud) | ✅ Рус. | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Artifacts](https://modrinth.com/mod/artifacts) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛ |
