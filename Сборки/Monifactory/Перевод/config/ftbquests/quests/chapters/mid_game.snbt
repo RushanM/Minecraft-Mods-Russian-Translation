@@ -2915,7 +2915,7 @@
 				"You will need a &aRotor&r to go into each &3Rotor Holder&r&r. The Rotor will grant multiplicative Power and Efficiency bonuses depending on its material. Each Rotor also has a Durability, which is the number of seconds it will last."
 				""
 				"&aExample: &r&6Large Gas Turbine&r, with &3HSS-E Rotor&r and &3IV Rotor Holder&r:"
-				"&aProduction:&r 4096 * 2.80 * 2=22938 EU/t (91752 RF/t)"
+				"&aProduction:&r 4096 * 2.80 * 2=22938 EU/t (91752 РТ/т)"
 				"&aEfficiency:&r 1.40 * 1.10=154.0%%"
 				"&aDurability:&r 205,600 s (57.1 h)"
 				""

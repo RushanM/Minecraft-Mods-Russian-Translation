@@ -232,7 +232,7 @@
 | - | - | - | - |
 | [All of Fabric 6](https://github.com/TeamAOF/All-of-Fabric-6) | [*Всё от Fabric 6*](https://github.com/TeamAOF/All-of-Fabric-6) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
 | [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
-| [Monifactory](/Сборки/Monifactory/) |  | Альфа 0.5.6 | Начало |
+| [Monifactory](/Сборки/Monifactory/) |  | Альфа 0.6.2 | Начало |
 | [The Ferret Business](/Сборки/The%20Ferret%20Business/) | [*Хорьковый бизнес*](/Сборки/The%20Ferret%20Business/) | Альфа 0.4.2 | Самое начало |
 
 
