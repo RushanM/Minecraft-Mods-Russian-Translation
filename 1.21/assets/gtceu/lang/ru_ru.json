@@ -4476,7 +4476,7 @@
     "item.gtceu.soc": "СнК",
     "item.gtceu.soc.tooltip": "§7Система на Кристалле",
     "item.gtceu.soc_wafer": "Пластина СНК",
-    "item.gtceu.soc_wafer.tooltip": "§7Необработанная обычная микросхема",
+    "item.gtceu.soc_wafer.tooltip": "§7Необработанная базовая схема",
     "item.gtceu.solar_panel": "Солнечная панель (Улучшение)",
     "item.gtceu.solar_panel.tooltip.0": "§7Да прибудет с тобой Солнце.",
     "item.gtceu.solar_panel.tooltip.1": "Производит §fЭнергию§7 от §eСолнца§7 работающий как §fУлучшение механизма§7.",
