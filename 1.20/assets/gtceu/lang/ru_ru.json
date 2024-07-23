@@ -3805,7 +3805,7 @@
     "gtceu.universal.tooltip.working_area_max": "§bМакс. рабочая область: §f%dx%d",
     "gtceu.vacuum_freezer": "Вакуумная морозильная камера",
     "gtceu.wiremill": "Волочильный станок",
-    "gui.widget.incrementButton.default_tooltip": "Задержите Shift, Ctrl или оба сразу, чтобы изменить количество",
+    "gui.widget.incrementButton.default_tooltip": "Задержите Shift, Ctrl или обе сразу, чтобы изменить количество",
     "gui.widget.recipeProgressWidget.default_tooltip": "Показать рецепт",
     "item.glass_lens": "Стеклянная линза (белый)",
     "item.gtceu.activity_detector_cover": "Детектор активности (улучшение)",
