@@ -3,7 +3,7 @@
     "modmenu.summaryTranslation.appleskin": "Добавляет ряд улучшений в отношении еды в HUD",
     "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Максимальная видимость в HUD прибавляемой сытости",
     "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Максимальная видимость мигающих значков добавляемой сытости в HUD в диапазоне от 0.0 до 1.0 (1.0 = полностью видимы, 0.0 = полностью невидимы)",
-    "text.autoconfig.appleskin.option.showFoodDebugInfo": "Показывать информацию AppleSkin в экране отладки",
+    "text.autoconfig.appleskin.option.showFoodDebugInfo": "Показывать информацию AppleSkin на экране отладки",
     "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "При включении, начинает показывать значения голода, насыщения и истощения в одной из строчек экрана отладки слева",
     "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Показывать сетку истощения",
     "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "При включении, за показателем сытости в HUD появляется сетка, олицетворяющая ваше истощение. Когда оно заполняет показатель сытости, вы теряете сытость.",
