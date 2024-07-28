@@ -6,7 +6,7 @@
   "sodium.option_impact.varies": "Варьируется",
   "sodium.options.pages.quality": "Качество",
   "sodium.options.pages.performance": "Производительность",
-  "sodium.options.pages.advanced": "Расширенные",
+  "sodium.options.pages.advanced": "Для продвинутых",
   "sodium.options.view_distance.tooltip": "Прорисовка определяет, насколько далеко будет отрисовываться местность. При малых значениях будет отрисовываться меньше местности, что увеличивает частоту кадров.",
   "sodium.options.brightness.tooltip": "Яркость (гамма) игры",
   "sodium.options.gui_scale.tooltip": "Размер пользовательского интерфейса. При значении «Автоматически», будет использоваться наибольший коэффициент масштабирования.",

@@ -39,7 +39,7 @@
     "sodium.options.leaves_quality.name": "Качество листьев",
     "sodium.options.leaves_quality.tooltip": "Контролирует качество листьев.",
     "sodium.options.mipmap_levels.tooltip": "Управляет количеством мипмапов, которые будут использоваться для текстур моделей блоков. Более высокие значения обеспечивают лучшую визуализацию блоков на расстоянии, но могут негативно повлиять на производительность при использовании большого количества анимированных текстур.",
-    "sodium.options.pages.advanced": "Расширенные",
+    "sodium.options.pages.advanced": "Для продвинутых",
     "sodium.options.pages.performance": "Производительность",
     "sodium.options.pages.quality": "Качество",
     "sodium.options.particle_quality.name": "Качество частиц",
