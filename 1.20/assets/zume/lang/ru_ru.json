@@ -9,7 +9,7 @@
     "zume.options.animation_easing_exponent.tooltip": "Показатель, используемый для сглаживания анимаций.\nПо умолчанию: квартический.",
     "zume.options.default_zoom.name": "Масштаб по умолчанию",
     "zume.options.default_zoom.tooltip": "Процент масштабирования при старте.\nПо умолчанию: 50%.",
-    "zume.options.disable.name": "Отключить",
+    "zume.options.disable.name": "Отключить Zume",
     "zume.options.disable.tooltip": "Если это помечено, мод будет отключён (на некоторых платформах горячие клавиши всё ещё будут отображаться в игровых настройках; они не будут работать, если это включено).\nТребуется перезапуск для вступления в силу.\nПо умолчанию: отключено.",
     "zume.options.enable_cinematic_zoom.name": "Включить кинематографическое приближение",
     "zume.options.enable_cinematic_zoom.tooltip": "Включить кинематографическую камеру при приближении.\nПо умолчанию: включено.",

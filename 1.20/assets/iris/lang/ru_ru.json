@@ -9,6 +9,8 @@
     "iris.shaders.reloaded": "Шейдеры перезагружены!",
     "options.iris.apply": "Применить",
     "options.iris.shaderPackSelection": "Наборы шейдеров",
+    "options.iris.colorSpace": "Цветовое пространство",
+    "options.iris.colorSpace.sodium_tooltip": "Цветовое пространство для преобразования экрана. Работает поверх наборов шейдеров. Используйте SRGB, если не уверены.",
     "options.iris.shaderPackSelection.addedPack": "Добавлен набор шейдеров «%s»",
     "options.iris.shaderPackSelection.addedPacks": "Добавлено %s наборов шейдеров",
     "options.iris.shaderPackSelection.title": "Наборы шейдеров"
