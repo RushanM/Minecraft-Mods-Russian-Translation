@@ -1,5 +1,5 @@
 {
-    "commands.datapack.fabric.internal": "Не удалось включить или выключить внутренний набор Fabric «%s».",
+    "commands.datapack.fabric.internal": "Нельзя включить или отключить внутренний набор Fabric «%s».",
     "pack.description.modResources": "Ресурсы модов",
     "pack.name.fabricMod": "Мод Fabric «%s»",
     "pack.name.fabricMod.subPack": "Мод Fabric «%s» (%s)",
