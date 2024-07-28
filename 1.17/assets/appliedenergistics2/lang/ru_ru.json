@@ -136,7 +136,7 @@
     "block.appliedenergistics2.vibration_chamber": "Вибрационная камера",
     "block.appliedenergistics2.wireless_access_point": "Беспроводная точка доступа на ЭМ",
     "chat.appliedenergistics2.AmmoDepleted": "Боеприпасы исчерпаны",
-    "chat.appliedenergistics2.ChestCannotReadStorageCell": "Сундук ЭМ не может прочесть ячейку хранения",
+    "chat.appliedenergistics2.ChestCannotReadStorageCell": "Сундук на ЭМ не может считывать данные этой ячейки хранения",
     "chat.appliedenergistics2.CommunicationError": "Ошибка связи с сетью",
     "chat.appliedenergistics2.DeviceNotLinked": "Устройство не подключено",
     "chat.appliedenergistics2.DeviceNotPowered": "Устройство разряжено",

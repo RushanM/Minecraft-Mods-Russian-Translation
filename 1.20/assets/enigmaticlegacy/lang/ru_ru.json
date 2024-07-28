@@ -715,7 +715,7 @@
     "tooltip.enigmaticlegacy.infernalShield3": "§6When blocking:",
     "tooltip.enigmaticlegacy.infernalShield4": "§5- Can block attacks immediately after being raised.",
     "tooltip.enigmaticlegacy.infernalShield5": "§5- Can block §6Piercing§5-enchanted arrows.",
-    "tooltip.enigmaticlegacy.infernalShield6": "§5- Cannot be disabled by weapons normally effective",
+    "tooltip.enigmaticlegacy.infernalShield6": "§5- Не игнорируется оружием, которое обычно эффективно против него",
     "tooltip.enigmaticlegacy.infernalShield7": "§5  against shields.",
     "tooltip.enigmaticlegacy.infernalShield8": "§5- Burns attackers when blocking melee damage.",
     "tooltip.enigmaticlegacy.infernalShield9": "§5- Successful blocks grant increasing §6Blazing Might§5",

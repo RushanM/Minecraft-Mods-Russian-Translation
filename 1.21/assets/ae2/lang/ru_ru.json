@@ -94,7 +94,7 @@
     "block.ae2.small_quartz_bud": "Малый истиннокварцевый бутон",
     "block.ae2.smooth_quartz_block": "Гладкий истинный кварц",
     "block.ae2.wireless_access_point": "Беспроводная точка доступа на ЭМ",
-    "chat.ae2.ChestCannotReadStorageCell": "Сундук на ЭМ не может прочитать данные камеры хранения",
+    "chat.ae2.ChestCannotReadStorageCell": "Сундук на ЭМ не может считывать данные этой ячейки хранения",
     "config.jade.plugin_ae2.pattern_provider": "Поставщик шаблонов на ЭМ",
     "entity.minecraft.villager.ae2.fluix_researcher": "Исследователь тока",
     "gui.ae2.BytesUsed": "Использовано %s байт.",
