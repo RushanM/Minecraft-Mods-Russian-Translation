@@ -86,7 +86,7 @@
 | [Delightful Creators](https://www.curseforge.com/minecraft/mc-mods/delightful-creators-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Ding](https://modrinth.com/mod/ding) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 |
-| [Duckling](https://modrinth.com/mod/duckling) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. |
+| [Duckling](https://modrinth.com/mod/duckling) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. |
 | [e4mc](https://modrinth.com/mod/e4mc) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. |
