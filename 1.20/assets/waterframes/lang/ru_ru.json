@@ -13,7 +13,7 @@
     "waterframes.commands.edit.position.success": "Position updated successfully",
     "waterframes.commands.edit.projection.failed": "Вы не можете обновить дальность проекции этого типа дисплея",
     "waterframes.commands.edit.projection.success": "Projection Distance updated successfully",
-    "waterframes.commands.edit.render_distance.success": "Render Distance updated successfully",
+    "waterframes.commands.edit.render_distance.success": "Дальность прорисовки успешно обновлена",
     "waterframes.commands.edit.rotation.failed": "Вы не можете обновить угол поворота этого типа дисплея",
     "waterframes.commands.edit.rotation.success": "Rotation updated successfully",
     "waterframes.commands.edit.size.failed": "Вы не можете обновить размер этого типа дисплея",

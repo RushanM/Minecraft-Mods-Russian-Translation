@@ -486,7 +486,7 @@
     "gui.button.cfm.cancel": "Отмена",
     "gui.button.cfm.enable_filters": "Включить все фильтры",
     "gui.button.cfm.disable_filters": "Отключить все фильтры",
-    "gui.tag_filter.cfm.general": "Общее",
+    "gui.tag_filter.cfm.general": "Основное",
     "gui.tag_filter.cfm.storage": "Хранение",
     "gui.tag_filter.cfm.bedroom": "Спальня",
     "gui.tag_filter.cfm.outdoors": "На улице",
