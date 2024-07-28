@@ -42,7 +42,7 @@
     "config.entity_texture_features.custom_block_entity.tooltip": "Включить  поддержку  пользовательских  текстур\nдля блоков-сущностей с использованием формата\nOptifine§l §rи§l §rслучайных§l §rтекстур§l §rформата§l §rETF.\n\n§c⚠§8 Несовместимо с Enhanced Block Entities.",
     "config.entity_texture_features.Debug_log_mode.chat": "Чат",
     "config.entity_texture_features.Debug_log_mode.log": "Журнал",
-    "config.entity_texture_features.Debug_log_mode.none": "Выкл",
+    "config.entity_texture_features.Debug_log_mode.none": "Выкл.",
     "config.entity_texture_features.debug_logging_mode.title": "Отладка данных сущностей",
     "config.entity_texture_features.debug_logging_mode.tooltip": "Выводить текущие данные сущности в чат\nили игровой журнал при нажатии на неё.",
     "config.entity_texture_features.debug_screen.mass_log": "Send ALL! ETF data to the log",

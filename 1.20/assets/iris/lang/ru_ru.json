@@ -8,5 +8,8 @@
     "iris.shaders.disabled": "Шейдеры выключены!",
     "iris.shaders.reloaded": "Шейдеры перезагружены!",
     "options.iris.apply": "Применить",
-    "options.iris.shaderPackSelection": "Наборы шейдеров"
+    "options.iris.shaderPackSelection": "Наборы шейдеров",
+    "options.iris.shaderPackSelection.addedPack": "Добавлен набор шейдеров «%s»",
+    "options.iris.shaderPackSelection.addedPacks": "Добавлено %s наборов шейдеров",
+    "options.iris.shaderPackSelection.title": "Наборы шейдеров"
 }
