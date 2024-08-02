@@ -175,11 +175,11 @@ item.spearSpider.name= Паучье копьё
 
 item.mecha.name= Механический голем
 item.mechaHeavy.name= Тяжёлый механический голем
-item.golemArmor.name= Улучшение: Броня 
+item.golemArmor.name= Улучшение: броня 
 item.golemField.name= Улучшение: Электрическое поле  
-item.golemShield.name= Улучшение: Барьер 
+item.golemShield.name= Улучшение: барьер 
 item.golemRockets.name= Улучшение: Турель 
-item.golemAutoRepair.name= Улучшение: Авторемонт 
+item.golemAutoRepair.name= Улучшение: авторемонт 
 item.golemGun.name= Пушка
 item.golemFlameThrower.name= Огнемёт
 item.golemRailGun.name= Винтовка

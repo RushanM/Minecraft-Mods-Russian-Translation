@@ -288,22 +288,22 @@
 <summary>Раскрыть список</summary>
 <br>
 
-* [**Дефлекта**](https://github.com/RushanM): Большая часть переводов
-* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): Перевёл на русский моды 
+* [**Дефлекта**](https://github.com/RushanM): большая часть переводов
+* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): перевёл на русский моды 
 * * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
 * * [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
 * * [Rotten Creatures](https://modrinth.com/mod/rottencreatures)
-* [**Inqurity**](https://github.com/Inqurity): Участвовал в русском и украинском переводах модов
+* [**Inqurity**](https://github.com/Inqurity): участвовал в русском и украинском переводах модов
 * * [Idwtialsimmoedm](https://modrinth.com/mod/idwtialsimmoedm)
 * * [e4mc](https://modrinth.com/mod/e4mc)
-* [**REXE**](https://github.com/RedmanEXE): Перевёл на белорусский моды
+* [**REXE**](https://github.com/RedmanEXE): перевёл на белорусский моды
 * * [Chat Heads](https://modrinth.com/mod/chat-heads)
 * * [AppleSkin](https://modrinth.com/mod/appleskin)
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
-* [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): Сделали полезные указания
-* [**SillyAsriel**](https://github.com/SillyAsriel): Участвовал в принятии решений, перевёл некоторые квесты Monifactory
-* [**TheAnaxMan**](https://github.com/TheAnaxMan): Предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
-* [**cutiegin**](https://github.com/cutiegin): Предложила свои переводы модов
+* [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): сделали полезные указания
+* [**SillyAsriel**](https://github.com/SillyAsriel): участвовал в принятии решений, перевёл некоторые квесты Monifactory
+* [**TheAnaxMan**](https://github.com/TheAnaxMan): предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
+* [**cutiegin**](https://github.com/cutiegin): предложила свои переводы модов
 * * [Decocraft](https://modrinth.com/mod/decocraft)
 * * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 * * [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
@@ -318,7 +318,7 @@
 * * [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 * * [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 * * [SecurityCraft](https://modrinth.com/mod/security-craft)
-* [**devin**](https://github.com/intergrav): Создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
+* [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 </details>
 
 ## ✉️ Контакты

@@ -37,7 +37,7 @@
 	"bedrockify.options.rotationalBackground": "Фоновая панорама на всех экранах:",
 	"bedrockify.options.rotationalBackground.old": "Использовать старый метод отрисовки панорамы:",
 	"bedrockify.options.rotationalBackground.old.tooltip": "Использует старый метод отрисовки вращающегося фона. Используйте только в том случае, если фон не движется.",
-	"bedrockify.options.rotationalBackground.tooltip": "ЭКСПЕРИМЕНТАЛЬНАЯ ФУНКЦИЯ: Включает вращающийся фон главного меню на всех экранах. Может конфликтовать с интерфейсами других модификаций",
+	"bedrockify.options.rotationalBackground.tooltip": "ЭКСПЕРИМЕНТАЛЬНАЯ ФУНКЦИЯ: включает вращающийся фон главного меню на всех экранах. Может конфликтовать с интерфейсами других модификаций",
 	"bedrockify.options.inventoryHighlight": "Подсветка слотов предметов инвентаря:",
 	"bedrockify.options.inventoryHighlight.color1": "Задний план подсветки слота:",
 	"bedrockify.options.inventoryHighlight.color2": "Передний план подсветки слота:",

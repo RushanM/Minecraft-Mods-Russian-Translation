@@ -1686,7 +1686,7 @@ itemGroup.tabOtherChiselBlocks=Chisel: Остальные блоки
 itemGroup.tabStoneChiselBlocks=Chisel: Каменные блоки
 itemGroup.tabWoodChiselBlocks=Chisel: Деревянные блоки
 itemGroup.tabMetalChiselBlocks=Chisel: Металлические блоки
-itemGroup.tabModdedChiselBlocks=Chisel: Блоки модификаций
+itemGroup.tabModdedChiselBlocks=Chisel: блоки модификаций
 itemGroup.tabStairChiselBlocks=Chisel: ступеньки
 itemGroup.tabChisel=Chisel: Предметы
 
