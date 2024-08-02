@@ -1,6 +1,7 @@
 {
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru_name": "Русский перевод модов",
+    "modmenu.descriptionTranslation.catalogue": "Современное меню модов, совместимое с любыми загрузчиками модов.",
     "modmenu.descriptionTranslation.dynamicpack": "Оснащает наборы ресурсов возможностью автообновления.",
     "modmenu.descriptionTranslation.fabric-language-kotlin": "Модуль поддержки Kotlin для языка, используемого Фабрик.",
     "modmenu.descriptionTranslation.flow": "Анимация открытия/закрытия инвентарей.",
@@ -16,6 +17,7 @@
     "modmenu.descriptionTranslation.xaeroworldmap": "Автоматически заполняемая полноэкранная карта, которая может использоваться как дополнение к «Мини-карте Заэро».",
     "modmenu.descriptionTranslation.yet_another_config_lib_v3": "«Ещё одна библиотека меню настроек» говорит сама за себя. Основанная на билдерах библиотека для создания меню настроек для Minecraft.",
     "modmenu.descriptionTranslation.zoomify": "Мод, добавляющий возможность приближения картинки, с безграничными вариациями настроек.",
+    "modmenu.nameTranslation.catalogue": "Каталог",
     "modmenu.nameTranslation.dynamicpack": "Динамические наборы",
     "modmenu.nameTranslation.fabric": "Фабрик",
     "modmenu.nameTranslation.fabric-convention-tags-v2": "Согласователь тегов Фабрик",
@@ -44,6 +46,7 @@
     "modmenu.nameTranslation.xaeroworldmap": "Карта мира Заэро",
     "modmenu.nameTranslation.yet_another_config_lib_v3": "Ещё одна библиотека меню настроек",
     "modmenu.nameTranslation.zoomify": "Зумирование",
+    "modmenu.summaryTranslation.catalogue": "Современное меню модов, совместимое с любыми загрузчиками модов",
     "modmenu.summaryTranslation.dynamicpack": "Добавляет автообновление наборам ресурсов",
     "modmenu.summaryTranslation.fabric-language-kotlin": "Модуль Kotlin для языка Фабрик",
     "modmenu.summaryTranslation.flow": "Анимация открытия/закрытия инвентарей",
