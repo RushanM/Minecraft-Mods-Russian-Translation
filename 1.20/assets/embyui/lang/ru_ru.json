@@ -25,7 +25,7 @@
     "options.embyui.lambdabettergrass.mode.fancy": "Красивый",
     "options.embyui.lambdabettergrass.mode.fast": "Оптимизированный",
     "options.embyui.lambdabettergrass.mode.fastest": "Лучшая оптимизация",
-    "options.embyui.lambdabettergrass.mode.off": "Выкл.",
+    "options.embyui.lambdabettergrass.mode.off": "выкл.",
     "options.embyui.lambdabettergrass.title": "Улучшенная трава",
     "options.embyui.titletweaks.automatically_scale_titles": "Автоматически подгонять заголовки",
     "options.embyui.titletweaks.automatically_scale_titles.tooltip": "Автоматически подгонять размер заголовков, если они выходят за края экрана.",

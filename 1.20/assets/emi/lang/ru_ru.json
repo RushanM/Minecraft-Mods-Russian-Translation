@@ -9,7 +9,7 @@
     "config.emi.dev.show_recipe_decorators": "Показывать декораторы рецептов",
     "config.emi.dev.show_recipe_ids": "Показывать идентификаторы рецептов",
     "config.emi.general.cheat_mode": "Чит-режим",
-    "config.emi.general.enabled": "Вкл.",
+    "config.emi.general.enabled": "вкл.",
     "config.emi.general.help_level": "Уровень помощи",
     "config.emi.general.index_source": "Источник индекса",
     "config.emi.general.search_mod_name_by_default": "Поиск имени мода по умолчанию",

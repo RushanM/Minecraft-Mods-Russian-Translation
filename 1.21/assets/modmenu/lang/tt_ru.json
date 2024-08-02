@@ -162,7 +162,7 @@
     "option.modmenu.update_channel": "Яңартулар каналы",
     "option.modmenu.update_channel.alpha": "Теләсә кайсы версияләр",
     "option.modmenu.update_channel.beta": "Релиз һәм бета",
-    "option.modmenu.update_channel.release": "Релиз",
+    "option.modmenu.update_channel.release": "релиз",
     "option.modmenu.update_checker": "Яңарту тикшерүе",
     "option.modmenu.update_checker.false": "Сүнек",
     "option.modmenu.update_checker.true": "Кушык"

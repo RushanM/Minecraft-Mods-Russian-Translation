@@ -12,7 +12,7 @@
     "fml.menu.mods.info.nochildmods": "Дочерних модов не имеет",
     "fml.menu.mods.info.securejardisabled": "Функции безопасности модов отключены, обновите JDK",
     "fml.menu.mods.info.version": "Версия: {0}",
-    "fml.menu.mods.normal": "Выкл.",
+    "fml.menu.mods.normal": "выкл.",
     "fml.menu.mods.openmodsfolder": "Папка с модами",
     "fml.menu.mods.search": "Поиск",
     "fml.menu.mods.title": "Моды",

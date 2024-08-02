@@ -1,7 +1,7 @@
 {
     "config.entity_texture_features.Debug_log_mode.chat": "Чат",
     "config.entity_texture_features.Debug_log_mode.log": "Журнал",
-    "config.entity_texture_features.Debug_log_mode.none": "Выкл.",
+    "config.entity_texture_features.Debug_log_mode.none": "выкл.",
     "config.entity_texture_features.allow_illegal_texture_paths.title": "Разрешить использование путей с нестандартными символами",
     "config.entity_texture_features.allow_illegal_texture_paths.tooltip": "Эта настройка позволяет самому, вопреки\nстандартному поведению игры, указать, должна ли она запрещать использование в путях к текстурам символов,\nотличных от [a-z0-9/._-].\nЭто означает, что будут разрешены пути с пробелами и заглавными буквами.\nПо умолчанию отключено, так как эти проблемы\nследует решать создателям наборов ресурсов.",
     "config.entity_texture_features.always_check_vanilla_emissive_suffix.title": "Всегда искать только эмиссионный суффикс «_e»",

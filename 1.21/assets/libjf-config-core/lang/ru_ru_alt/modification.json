@@ -2,7 +2,7 @@
     "libjf-config-core-v2.default": "По умолчанию",
     "libjf-config-core-v2.edit": "Редактировать",
     "libjf-config-core-v2.errored_entry": "Не удалось отобразить элемент: %s",
-    "libjf-config-core-v2.false": "§cВыкл.",
+    "libjf-config-core-v2.false": "§cвыкл.",
     "libjf-config-core-v2.jfconfig.title": "Настройки LibJF",
     "libjf-config-core-v2.jfconfig.watchForChanges": "Автоприменение настроек",
     "libjf-config-core-v2.jfconfig.watchForChanges.tooltip": "Автоматически перезагружает настройки при их изменении",
@@ -12,5 +12,5 @@
     "libjf-config-core-v2.presets": "Шаблоны",
     "libjf-config-core-v2.reset": "Сброс",
     "libjf-config-core-v2.see-also": "Посмотрите также: %s",
-    "libjf-config-core-v2.true": "§aВкл."
+    "libjf-config-core-v2.true": "§aвкл."
 }

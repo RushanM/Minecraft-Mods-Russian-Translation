@@ -149,7 +149,7 @@ option.sunPathRotation.comment=Регулирует угол солнца.
 
 option.SHADOW_PIXEL=Пиксельные тени
 option.SHADOW_PIXEL.comment=Применяет эффект пикселизации к теням.
-value.SHADOW_PIXEL.0=Выкл.
+value.SHADOW_PIXEL.0=выкл.
 
 option.AO=Окружающее затенение
 option.AO.comment=Добавляет мягкие тени вокруг мест соприкосновения или пересечений поверхности.

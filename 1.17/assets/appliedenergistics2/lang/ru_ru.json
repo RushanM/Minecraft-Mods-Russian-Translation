@@ -273,7 +273,7 @@
     "gui.appliedenergistics2.Purple": "Фиолетовый",
     "gui.appliedenergistics2.QuantumLinkChamber": "Камера квантовой связи",
     "gui.appliedenergistics2.QuartzCuttingKnife": "Кварцевый разделочный нож",
-    "gui.appliedenergistics2.Red": "Красный",
+    "gui.appliedenergistics2.Red": "красный",
     "gui.appliedenergistics2.RequiredPower": "Требуется энергии: %s",
     "gui.appliedenergistics2.Scheduled": "Заплан-но: %s",
     "gui.appliedenergistics2.SCSInvalid": "SCS размер: SCS неправльный",
@@ -750,7 +750,7 @@
     "waila.appliedenergistics2.P2PInputOneOutput": "Сопряжён (сторона ввода)",
     "waila.appliedenergistics2.P2POutput": "Сопряжён (сторона вывода)",
     "waila.appliedenergistics2.P2PUnlinked": "Несопряжён",
-    "waila.appliedenergistics2.Showing": "Показывается",
+    "waila.appliedenergistics2.Showing": "показывается",
     "waila.appliedenergistics2.Stored": "Хранится: %s/%s",
     "waila.appliedenergistics2.Unlocked": "Разблокировано"
 }

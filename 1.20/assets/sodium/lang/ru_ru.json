@@ -1,7 +1,7 @@
 {
     "modmenu.descriptionTranslation.sodium": "Sodium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который повышает частоту кадров и уменьшает задержки",
     "options.leaf_culling.hollow": "Полые",
-    "options.leaf_culling.none": "Выкл.",
+    "options.leaf_culling.none": "выкл.",
     "options.leaf_culling.solid": "Плотные",
     "options.leaf_culling.solid_aggressive": "Агрессивно плотные",
     "sodium.console.broken_nvidia_driver": "Ваши графические драйверы NVIDIA устарели!\n  * Это может привести к серьёзным проблемам с производительностью и сбоям при установленной Sodium.\n  * Пожалуйста, обновите драйверы до последней версии (536.23 или новее).",
