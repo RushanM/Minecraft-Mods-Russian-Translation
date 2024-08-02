@@ -3,7 +3,7 @@
     "catalogue.gui.config": "Настройки",
     "catalogue.gui.contributors": "Вкладчик(и): %s",
     "catalogue.gui.credits": "Заслуги: %s",
-    "catalogue.gui.info": "Это меню модов добавляет Catalogue. Нажмите здесь, чтобы открыть страницу этого мода на CurseForge!",
+    "catalogue.gui.info": "Это меню модов добавляет Catalogue. Нажмите здесь, чтобы открыть страницу мода на CurseForge!",
     "catalogue.gui.internal_libraries": "Показать внутренние библиотеки",
     "catalogue.gui.licenses": "Лицензия(-и): %s",
     "catalogue.gui.mod_list": "Моды",
