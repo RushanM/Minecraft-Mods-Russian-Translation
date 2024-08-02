@@ -119,7 +119,7 @@
     "fml.modloading.uncaughterror": "Произошла ошибка параллельной обработки, которую не удалось перехватить.\n§7{2,exc,msg}",
     "fml.resources.modresources": "Ресурсы {0} модификаций",
     "forge.configgui.alwaysSetupTerrainOffThread": "Потоковая отрисовка чанков",
-    "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "После включения, Forge будет расставлять обновления чанков в очередь в поток обновления чанков.\nЭто может увеличить количество кадров в секунду, но также может вызвать странные визуальные отставания.\nНе рекомендуется, если у компьютера мало ядер.",
+    "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "После включения, Forge будет расставлять обновления чанков в очередь в поток обновления чанков.\nЭто может увеличить количество FPS, но также может вызвать странные визуальные отставания.\nНе рекомендуется, если у компьютера мало ядер.",
     "forge.configgui.clumpingThreshold": "Порог объединения пакетов",
     "forge.configgui.clumpingThreshold.tooltip": "Управляет порогом числа, при котором Packet51 отдаётся предпочтение перед Packet52, по умолчанию и минимально — 64, максимально — 1024",
     "forge.configgui.dimensionUnloadQueueDelay": "Задержка при выгрузке измерения",

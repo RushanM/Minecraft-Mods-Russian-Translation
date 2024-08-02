@@ -84,7 +84,7 @@
     "embeddium.plus.options.fastchest.title": "Использовать оптимизированные сундуки",
     "embeddium.plus.options.fog.desc": "Если отключено, убирает эффект тумана только в обычном мире",
     "embeddium.plus.options.fog.title": "Туман",
-    "embeddium.plus.options.fontshadow.desc": "Если отключить, текст перестанет отображать тени, получая плоский стиль.\nУвеличивает частоту кадров в секунду в зависимости от того, сколько текста находится на экране.",
+    "embeddium.plus.options.fontshadow.desc": "Если отключить, текст перестанет отображать тени, получая плоский стиль.\nУвеличивает частоту FPS в зависимости от того, сколько текста находится на экране.",
     "embeddium.plus.options.fontshadow.title": "Тень текста",
     "embeddium.plus.options.jei.desc": "Скрывает предметы JEI/REI/EMI до того, как вы введёте поисковой запрос. Нажмите пробел, чтобы показать все предметы.",
     "embeddium.plus.options.jei.title": "Скрыть JEI/REI/EMI до поиска",

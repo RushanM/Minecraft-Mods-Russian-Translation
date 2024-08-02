@@ -145,7 +145,7 @@
     "fml.modmismatchscreen.table.youneed": "Вам нужно",
     "fml.resources.modresources": "Ресурсы {0} модификаций",
     "forge.configgui.alwaysSetupTerrainOffThread": "Потоковая отрисовка чанков",
-    "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "После включения, Forge будет расставлять обновления чанков в очередь в поток обновления чанков.\nЭто может увеличить количество кадров в секунду, но также может вызвать странные визуальные отставания.\nНе рекомендуется, если у компьютера мало ядер.",
+    "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "После включения, Forge будет расставлять обновления чанков в очередь в поток обновления чанков.\nЭто может увеличить количество FPS, но также может вызвать странные визуальные отставания.\nНе рекомендуется, если у компьютера мало ядер.",
     "forge.configgui.cachePackAccess": "Кэширование доступа к наборам",
     "forge.configgui.cachePackAccess.tooltip": "После включения, перечни ресурсов в наборах ресурсов и данных будут кэшироваться",
     "forge.configgui.clumpingThreshold": "Порог объединения пакетов",

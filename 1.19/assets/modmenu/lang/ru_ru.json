@@ -69,7 +69,7 @@
 
     "modmenu.summaryTranslation.debugify": "Исправление ошибок и отключение отправки диагностики Mojang",
     "modmenu.summaryTranslation.disableplayerreporting": "Отключает возможность сообщать о поведении игроков раз и навсегда!",
-    "modmenu.summaryTranslation.dynamicfps": "Снижение количества кадров в секунду, пока игра в фоновом режиме\n§9✎§8 Включить/выключить, прирост при наведении,...",
+    "modmenu.summaryTranslation.dynamicfps": "Снижение количества FPS, пока игра в фоновом режиме\n§9✎§8 Включить/выключить, прирост при наведении,...",
     "modmenu.summaryTranslation.emi": "Многофункциональное и доступное средство просмотра рецептов",
     "modmenu.summaryTranslation.enchantmentdescriptions": "Добавляет описания к зачарованиям в подсказках",
     "modmenu.summaryTranslation.enhancedblockentities": "Более оптимизированные сундуки, таблички, кровати и тому подобное\n§9✎§8 Оптимизируемые блоки, метод",
