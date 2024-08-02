@@ -785,7 +785,7 @@
     "gui.securitycraft:scManual.author": "Переведено cutiegin",
     "gui.securitycraft:scManual.block_mines": "Блоки Мин",
     "gui.securitycraft:scManual.block_reinforcers": "Универсальные Укрепители Блоков",
-    "gui.securitycraft:scManual.customizableBlock": "Настроиваемый: вы можете использовать Универсальный Модификатор Блоков и различные модули, добавленные SecurityCraft, чтобы настроить функции этого блока.",
+    "gui.securitycraft:scManual.customizableBlock": "Настраиваемый: вы можете использовать Универсальный Модификатор Блоков и различные модули, добавленные SecurityCraft, чтобы настроить функции этого блока.",
     "gui.securitycraft:scManual.designedBy": "Разработано: %s",
     "gui.securitycraft:scManual.disabled": "Отключено",
     "gui.securitycraft:scManual.display_cases": "Витрины",

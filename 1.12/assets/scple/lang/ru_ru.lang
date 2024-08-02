@@ -3,7 +3,7 @@ item.document.name=Документ
 item.document005.name=Документ SCP-005
 
 itemGroup.scpletab=SCP Lockdown Extras
-itemGroup.scpletabdocs=SCP Lockdown Extras: Документы
+itemGroup.scpletabdocs=SCP Lockdown Extras: документы
 
 tile.metal_floor_a.name=Металлический пол А
 tile.metal_floor_b.name=Металлический пол Б
