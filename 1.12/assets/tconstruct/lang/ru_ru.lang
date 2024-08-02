@@ -906,11 +906,11 @@ gui.general.hover=Наведите на ссылки для большей ин�
 # Вкладки инвентаря творческого режима
 
 itemGroup.TinkerGeneral=Tinkers' Construct: основные предметы
-itemGroup.TinkerTools=Tinkers' Construct: Инструменты
-itemGroup.TinkerToolParts=Tinkers' Construct: Части инструментов
-itemGroup.TinkerSmeltery=Tinkers' Construct: Плавильня
-itemGroup.TinkerWorld=Tinkers' Construct: Мир
-itemGroup.TinkerGadgets=Tinkers' Construct: Гаджеты
+itemGroup.TinkerTools=Tinkers' Construct: инструменты
+itemGroup.TinkerToolParts=Tinkers' Construct: части инструментов
+itemGroup.TinkerSmeltery=Tinkers' Construct: плавильня
+itemGroup.TinkerWorld=Tinkers' Construct: мир
+itemGroup.TinkerGadgets=Tinkers' Construct: гаджеты
 
 # Ремесленная станция
 

@@ -287,7 +287,7 @@ command.mod_lavacow.sitting= ждет.
 command.mod_lavacow.following= следует за вами.
 command.mod_lavacow.wandering= бродит.
 command.mod_lavacow.whistle= свистит.
-itemGroup.mod_lavacow_items=Нашествие чумы
+itemGroup.mod_lavacow_items=Fish's Undead Rising
 key.mod_lavacow.special=Способность ездового животного
 
 # Зачарования
