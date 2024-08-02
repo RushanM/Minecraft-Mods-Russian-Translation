@@ -115,7 +115,7 @@
     "modmenu.wiki": "Вики",
     "modmenu.youtube": "YouTube",
     "option.modmenu.compact_list": "Список: %s",
-    "option.modmenu.compact_list.false": "Стандартный",
+    "option.modmenu.compact_list.false": "стандартный",
     "option.modmenu.compact_list.true": "Компактный",
     "option.modmenu.count_children": "Дочерние: %s",
     "option.modmenu.count_children.false": "Не считаются",
@@ -161,6 +161,6 @@
     "option.modmenu.show_libraries.false": "Скрыты",
     "option.modmenu.show_libraries.true": "Показаны",
     "option.modmenu.sorting": "Сортировать: %s",
-    "option.modmenu.sorting.ascending": "От А до Я",
-    "option.modmenu.sorting.descending": "От Я до А"
+    "option.modmenu.sorting.ascending": "от А до Я",
+    "option.modmenu.sorting.descending": "от Я до А"
 }
