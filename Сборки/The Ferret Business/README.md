@@ -1,6 +1,6 @@
 # Русский перевод сборки The Ferret Business («Хорьковый бизнес»)
 
-<p align="center"><img src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/main/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/the_ferret_business.png?raw=true" height="250" alt="Logo"></p>
+<p align="center"><img src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/alpha/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5/the_ferret_business.png?raw=true" height="250" alt="Logo"></p>
 <p align="center"><b><i>Исследование, поиск и пакеты с сюрпризом.</i></b></p>
 
 ## Особенности
