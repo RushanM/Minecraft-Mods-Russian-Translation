@@ -234,8 +234,8 @@
 | - | - | - | - |
 | [All of Fabric 6](https://github.com/TeamAOF/All-of-Fabric-6) | [*Всё от Fabric 6*](https://github.com/TeamAOF/All-of-Fabric-6) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
 | [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
-| [Monifactory](/Сборки/Monifactory/) |  | Альфа 0.6.2 | Начало |
-| [The Ferret Business](/Сборки/The%20Ferret%20Business/) | [*Хорьковый бизнес*](/Сборки/The%20Ferret%20Business/) | Альфа 0.4.2 | Самое начало |
+| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) |  | Альфа 0.6.2 | Начало |
+| [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | [*Хорьковый бизнес*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | Альфа 0.4.2 | Самое начало |
 
 
 Они всё ещё в рааанней разработке, но вы уже можете их опробовать.
