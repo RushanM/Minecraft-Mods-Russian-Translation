@@ -205,5 +205,16 @@ jobs:
           files: |
             ./Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
 
+          loaders: |
+            fabric
+            forge
+            neoforge
+            quilt
+
+          game-versions: |
+            1.21
+
           dependencies: |
-            optional-dependency@0.1.0(optional)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
