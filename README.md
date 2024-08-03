@@ -326,6 +326,7 @@
 * * [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
 * * [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 * * [SecurityCraft](https://modrinth.com/mod/security-craft)
+* [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 </details>
 
