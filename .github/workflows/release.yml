@@ -20,7 +20,7 @@ on:
       feature_flag:
         description: 'Не публиковать на сайты'
         required: true
-        default: 'true'
+        default: 'false'
         type: boolean
 
 jobs:
