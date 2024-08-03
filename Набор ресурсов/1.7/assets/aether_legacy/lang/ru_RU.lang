@@ -1,4 +1,5 @@
 # Предметы
+
 item.lore_book.name=Книга знаний
 item.blue_moa_egg.name=Яйцо синего моа
 item.orange_moa_egg.name=Яйцо оранжевого моа
@@ -140,6 +141,7 @@ item.tooltip.legacy=Наследие
 item.notch_hammer.cooldown=Перезарядка
 
 # Названия блоков
+
 tile.aether_portal.name=Портал в Эфир
 tile.aether_grass.name=Трава Эфира
 tile.aether_dirt.name=Земля Эфира
@@ -240,6 +242,7 @@ tile.skyroot_bookshelf.name=Небокорневая книжная полка
 tile.skyroot_bed.name=Небокорневая кровать
 
 # Сущности
+
 entity.aechor_plant.name=Цветок эхора
 entity.cockatrice.name=Кокатрис
 entity.mimic.name=Мимик
@@ -358,6 +361,7 @@ tab.accessories.name=Аксессуары
 effect.aether.inebriation=Опьянение
 
 # Сообщения о смерти
+
 death.attack.inebriation=%1$s был отравлен
 death.attack.inebriation_indirect=%1$s был отравлен %2$s
 death.attack.crush=%1$s был раздавлен %2$s
@@ -367,6 +371,7 @@ death.attack.icey_ball=%1$s был заморожен Ледяным Шаром 
 death.attack.lightning_ball=%1$s был поражён Громовым Шаром %2$s
 
 # Сообщения на интерфейсе
+
 gui.item.life_shard.maxshards=Вы можете использовать только %s осколков жизни.
 gui.item.developer_stick.notdev=У вас недостаточно навыков, чтобы использовать этот предмет!
 
