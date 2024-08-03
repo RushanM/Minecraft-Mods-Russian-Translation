@@ -195,12 +195,18 @@ jobs:
       - name: Публикация на CurseForge и Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+
           modrinth-id: GsoCvyCO
           modrinth-featured: false
           modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
         
           files: |
             ./Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
+
+          version: Бета-выпуск №${{ steps.get_latest_release.outputs.next_version }} для 1.21
+          version-type: beta
 
           loaders: |
             fabric
@@ -212,6 +218,6 @@ jobs:
             1.21
 
           dependencies: |
-            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
-            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
             better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
