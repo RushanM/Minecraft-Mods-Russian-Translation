@@ -80,7 +80,7 @@ jobs:
             cd "Набор ресурсов/$version"
             zip -r ../../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ../../
-            zip -g ../../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip 'Набор ресурсов/pack.png' 'Набор ресурсов/PeruseOrBruise.txt'
+            zip -g ../../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip pack.png PeruseOrBruise.txt
           done
           cd "Сборки/Monifactory/Перевод/"
           zip -r ../../../Monifactory-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip .
