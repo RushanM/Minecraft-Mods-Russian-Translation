@@ -10,7 +10,7 @@ on:
     branches:
       - beta
     paths:
-      - 'Набор ресурсов/'
+      - 'Набор ресурсов/**'
   workflow_dispatch:
     inputs:
       feature_flag:
