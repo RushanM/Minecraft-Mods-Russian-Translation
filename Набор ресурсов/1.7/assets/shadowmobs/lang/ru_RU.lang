@@ -1,28 +1,31 @@
 # Group Info
+
 shadowmobs.name=Тени
 shadowmobs.description=Из тёмных уголков мира приходят таинственные чудовища.
-#
+
 # Mob Events
-mobevent.shadowgames.name=Игры Теней
-mobevent.blackplague.name=Черная Чума
-#
+
+mobevent.shadowgames.name=Игры теней
+mobevent.blackplague.name=Чёрная чума
+
 # Entites
+
 entity.shadowmobs.grue.name=Грю
-entity.shadowmobs.grue.description=Когда свет сменяется тьмой, вас легко могут съесть Грю, поэтому будьте осторожны, убирая факел или перекрывая лаву! Грю могут телепортироваться к своей цели и пить её жизнь!
+entity.shadowmobs.grue.description=Когда свет сменяется тьмой, вас легко могут съесть грю, поэтому будьте осторожны, убирая факел или перекрывая лаву! Грю могут телепортироваться к своей цели и пить её жизнь!
 achievement.grue.kill=Держись подальше от тьмы!
-achievement.grue.kill.desc=Убейте Грю.
+achievement.grue.kill.desc=Убейте грю.
 achievement.grue.learn=Теневой элементаль
-achievement.grue.learn.desc=Добавьте Грю в ваш бестиарий.
+achievement.grue.learn.desc=Добавьте грю в ваш бестиарий.
 achievement.grue.summon=Некромантия 101
-achievement.grue.summon.desc=Вызовите Грю.
+achievement.grue.summon.desc=Вызовите грю.
 entity.shadowmobs.phantom.name=Фантом
 entity.shadowmobs.phantom.description=Разгневанные элементали-пожиратели душ! Фантомы появляются, когда кто-то умирает, а иногда принимают спящего человека за мёртвого и нападают, когда тот просыпается! Их атаки с расстояния накладывают эффект страха!
-achievement.phantom.kill=Reaping The Reaper!
-achievement.phantom.kill.desc=Убейте Фантома.
+achievement.phantom.kill=Reaping the reaper!
+achievement.phantom.kill.desc=Убейте фантома.
 achievement.phantom.learn=Руки смерти
-achievement.phantom.learn.desc=Добавьте Фантома в ваш бестиарий.
+achievement.phantom.learn.desc=Добавьте фантома в ваш бестиарий.
 achievement.phantom.summon=Напугай меня!
-achievement.phantom.summon.desc=Вызовите Фантома.
+achievement.phantom.summon.desc=Вызовите фантома.
 entity.shadowmobs.epion.name=Эпион
 entity.shadowmobs.epion.description=Гигантские кровососущие летучие мыши! Эпионы могут атаковать свои цели Пиявкой, отнимающей жизнь при каждом ударе. На свету эпионы падают на землю и взрываются!
 achievement.epion.kill=Лунные кровососы!
