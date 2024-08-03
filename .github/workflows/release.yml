@@ -200,15 +200,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.7.x
           version: 1.7-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.7.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
-
-            Эта бета-версия включает переводы следующих модов:
-            * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
-            * [Right Proper Lighting Engine](https://modrinth.com/mod/rple)
-            * [Tails](https://www.curseforge.com/minecraft/mc-mods/tails)
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
@@ -231,15 +222,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.12.x
           version: 1.12-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.12.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
-
-            Эта бета-версия включает переводы следующих модов:
-            * [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
-            * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
-            * [SCP Lockdown Extras](https://www.curseforge.com/minecraft/mc-mods/scp-lockdown-extras)
           loaders: minecraft
           game-versions: |
             >=1.12 <1.13
@@ -262,10 +244,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.16.x
           version: 1.16-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.16.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
           loaders: minecraft
           game-versions: |
             >=1.16 <1.17
@@ -288,10 +266,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.17.x
           version: 1.17-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.17.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
           loaders: minecraft
           game-versions: |
             >=1.17 <1.18
@@ -314,10 +288,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.18.x
           version: 1.18-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.18.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
           loaders: minecraft
           game-versions: |
             >=1.18 <1.19
@@ -340,10 +310,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.19.x
           version: 1.19-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.19.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
           loaders: minecraft
           game-versions: |
             >=1.19 <1.20
@@ -366,10 +332,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.20.x
           version: 1.20-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.20.x.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
           loaders: minecraft
           game-versions: |
             >=1.20 <1.21
@@ -392,10 +354,6 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.21
           version: 1.21-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog: |
-            Это бета-версия русификатора для модов Minecraft 1.21.
-
-            Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
           loaders: minecraft
           game-versions: |
             1.21
