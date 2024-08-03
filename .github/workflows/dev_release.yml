@@ -200,7 +200,6 @@ jobs:
 
           modrinth-id: GsoCvyCO
           modrinth-featured: false
-          modrinth-unfeature-mode: false
           modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
         
           dependencies: |
