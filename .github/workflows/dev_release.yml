@@ -60,9 +60,9 @@ jobs:
         run: |
           for version in 1.7 1.12 1.16 1.17 1.18 1.19 1.20 1.21; do
             cd "resourcepack/$version"
-            zip -r ../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
+            zip -r ../../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ../../
-            zip -g Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip resourcepack/pack.png resourcepack/PeruseOrBruise.txt
+            zip -g ../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip resourcepack/pack.png resourcepack/PeruseOrBruise.txt
           done
           cd "Сборки/Monifactory/Перевод/"
           zip -r ../../../Monifactory-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip .
@@ -205,7 +205,8 @@ jobs:
           files: |
             ./Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
 
-          version: Бета-выпуск №${{ steps.get_latest_release.outputs.next_version }} для 1.21
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.21
+          version: 1.21-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
 
           loaders: |
