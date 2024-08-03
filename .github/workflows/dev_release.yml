@@ -203,5 +203,5 @@ jobs:
           modrinth-unfeature-mode: false
           modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
         
-        dependencies: |
-          optional-dependency@0.1.0(optional)
+          dependencies: |
+            optional-dependency@0.1.0(optional)
