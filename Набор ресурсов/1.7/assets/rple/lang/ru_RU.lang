@@ -65,6 +65,7 @@ tile.rple.lamp.bright_pink.name=Ярко-розовый фонарь
 tile.rple.lamp.bright_pink.inverted.name=Ярко-розовый фонарь (инвертированный)
 
 # Настройки
+
 config.rple.general.craftableLamps=Создание рецептов фонарей
 config.rple.general.craftableLamps.tooltip=Установите значение true, если хотите включить стандартные фонари\n(на основе фонарей из ProjectRed, но более оптимизированные).
 

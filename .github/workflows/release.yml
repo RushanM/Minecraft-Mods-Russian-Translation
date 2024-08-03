@@ -33,7 +33,7 @@ jobs:
       - name: Установка утилиты ZIP
         run: sudo apt-get install -y zip
 
-      - name: Проверка последнего предварительного выпуска
+      - name: Проверка последнего бета-выпуска
         id: get_latest_release
         uses: actions/github-script@v6
         with:
@@ -76,7 +76,7 @@ jobs:
             cd "Набор ресурсов/$version"
             zip -r ../../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ../../
-            zip -j -g Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip "Набор ресурсов/pack.png" "Набор ресурсов/PeruseOrBruise.txt"
+            zip -j -g Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip "Набор ресурсов/pack.png" "Набор ресурсов/peruse_or_bruise.txt"
           done
 
       - name: Создание тега для выпуска
@@ -197,6 +197,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.7.x
           version: 1.7-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
+          changelog-file: 'Набор ресурсов\1.7\changelog.md'
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
