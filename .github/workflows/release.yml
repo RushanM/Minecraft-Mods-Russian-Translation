@@ -12,7 +12,7 @@ on:
     branches:
       - beta
     paths:
-      - 'Набор ресурсов/'
+      - 'Набор ресурсов/**'
       - 'Сборки/Monifactory/Перевод/**'
       - 'Сборки/The Ferret Business/Перевод/**'
   workflow_dispatch:
