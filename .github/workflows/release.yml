@@ -16,6 +16,12 @@ on:
       - 'Сборки/Monifactory/Перевод/**'
       - 'Сборки/The Ferret Business/Перевод/**'
   workflow_dispatch:
+    inputs:
+      feature_flag:
+        description: 'Не публиковать на сайты'
+        required: true
+        default: 'true'
+        type: boolean
 
 jobs:
   build:
@@ -204,7 +210,169 @@ jobs:
           asset_name: The-Ferret-Business-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-      - name: Публикация на CurseForge и Modrinth
+      - name: Публикация 1.7 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.7.x
+          version: 1.7-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.7 <1.8
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.12 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.12.x
+          version: 1.12-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.12 <1.13
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.16 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.16.x
+          version: 1.16-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.16 <1.17
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.17 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.17-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.17.x
+          version: 1.17-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.17 <1.18
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.18 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.18-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.18.x
+          version: 1.18-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.18 <1.19
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.19 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.19-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.19.x
+          version: 1.19-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.19 <1.20
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.20 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+          files: |
+            ./Rus-For-Mods-1.20-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.20.x
+          version: 1.20-B${{ steps.get_latest_release.outputs.next_version }}
+          version-type: beta
+          loaders: minecraft
+          game-versions: |
+            >=1.20 <1.21
+          game-version-filter: releases
+          dependencies: |
+            better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
+            dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
+            respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
+
+      - name: Публикация 1.21 на CurseForge и Modrinth
+        if: inputs.feature_flag == 'false'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
