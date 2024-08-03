@@ -1,0 +1,16 @@
+{
+    "button.baubles.baubles": "Baubles",
+    "button.baubles.normal": "Normal",
+    "key.baubles.inventory": "Baubles Inventory",
+    "key.baubles.toggle_debug": "Toggle Baubles Debug Renderer",
+    "msg.baubles.debug_off": "Disabled Baubles debug renderer.",
+    "msg.baubles.debug_on": "Enabled Baubles debug renderer.",
+    "name.baubles.amulet": "Amulet",
+    "name.baubles.any": "Trinket",
+    "name.baubles.bauble": "Bauble",
+    "name.baubles.belt": "Belt",
+    "name.baubles.body": "Body",
+    "name.baubles.charm": "Charm",
+    "name.baubles.head": "Head",
+    "name.baubles.ring": "Ring"
+}

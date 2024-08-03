@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<blocks>
+	<tnt>
+		TNT cannons are fun, but they are large and easy to sabotage, something you learned the hard way the last time you tried to use it. How else, though, are you to cause explosions at a distance? Ender TNT allows you to create an explosion at any coordinate in any dimension.
+	</tnt>
+	<chroma>
+		Experience you gain can be condensed and purified into an iridescent, freeflowing liquid that seems to have magical properties. You wonder if this fluid can be bound into various items to better harness crystal energy.
+	</chroma>
+	<runes>
+		Engraved with strange symbols - some of which look vaguely familiar - these glowing stones are found around the pylons and seem to focus and direct crystal energy. To that end, they are likely going to be a core component of your designs.
+	</runes>
+	<tankaux>
+		Combined with the controller, these crystalline blocks widen the bridge to the void, allowing you to store more and more fluid.
+	</tankaux>
+	<fenceaux>
+		These seem to relay and redirect the beam from the crystal fence, allowing you to draw a perimeter. Sneak-use with the manipulator sets the output side, whereas normal use with a manipulator sets the input.
+	</fenceaux>
+	<lumenleaves>
+		The leaves of the lumen tree throb with crystal energy. Because of this, you likely can use them to charge yourself. Seeing as they are the storage for the tree, breaking them means losing all the stored energy, but you wonder what result that may give...
+	</lumenleaves>
+	<dyeleaves>
+		Weakly magical trees dot the landscape, and ocasionally congregate together in forests where the magical energy is strong enough to drive away hostile mobs. Containing weak elemental energy themselves, they might be able to help channel, purify, or otherwise improve the functionality of other more powerful sources nearby...
+	</dyeleaves>
+	<lampaux>
+		Scatter these around your base, and you have a network of lights that can be remotely controlled with the flick of a switch.
+	</lampaux>
+	<rainbowleaves>
+		Aside from the comparatively common single-color trees, you have occasionally spotted towering flame-shaped trees whose leaves sparkle with every color of the rainbow. They are more than aesthetically pleasing; they seem to change the very air around them, cleaning it, stabilizing it. You recall the purple blight you ran into elsewhere, and wonder if this can keep that at bay. It might even be able to stabilize those worlds you found, rich with dense ores but being eaten by spongy masses and giant meteors.
+	</rainbowleaves>
+	<crystallamp>
+		Lighting your house is a necessary task, but torches, while effective, are boring, and other lighting methods often involve glowstone, a costly and rare material. Recalling the weak glow given off by crystals, you wonder if you may be able to fashion them into far more attractive and powerful lamps.
+	</crystallamp>
+	<superlamp>
+		Crystal-based lamps are nice, but you long for the stat boosts given by the original crystals. Recalling their creation, you hit upon an idea: if you use a complete crystal, rather than shards as the base, and dump in a healthy amount of crystal energy, you should get a lamp that not only glows brightly, but emits a powerful effect over a significant radius.
+	</superlamp>
+	<glow>
+		Mounting a crystal shard on a base of some other material creates a stylish light whose variability allows it to be put in any home.
+	</glow>
+	<relay>
+		Not all your constructs draw directly from the repeater network. Others, notably those that tend to be used in groups, seem to draw via relays that transmit from a central source - which does draw from the pylons - and bounce from relay to relay - as long as there is a clear line of sight - to the target block. Conveniently, this also allows you to use some of these constructs underground, where getting lumen energy beams in is rather difficult. There is a range limit, of %d meters per jump, and each relay will need its input side set.
+	</relay>
+	<path>
+		Imbued with the energy of motion, travel path accelerates your ability to traverse the ground, often to surpising velocities. Just don't try crouching while you do so, as you might tumble uncontrollably.
+	</path>
+	<portal>
+		All this talk of a special world brimming with crystal energy is rather pointless without a way to actually GET there. Fortunately, you feel you just might have enough knowledge to rift space enough to venture into the unknown.
+	</portal>
+	<heatlamp>
+		<desc>
+			When faced with the need to bring something to a precise temperature - most annoyingly, that metal fermentation box - your options are somewhat limited. Fire and lava, while they heat things, are often much too hot - only a fool would try using lava to gently warm yeast for composting - and ice and snow are frigidly cold. What would be most ideal would be some gentle heater you could affix directly to a block. Maybe you could make a cold version as well.
+		</desc>
+		<heat>
+			Heat lamps have the following effects:
+		</heat>
+		<cold>
+			Cold lamps have the following effects:
+		</cold>
+	</heatlamp>
+	<door>
+		Keeping creatures out of your house is proving more difficult than you would like. You had a nice door crafted from oak, but two hits from a zombie and you had unwanted guests. Sure, you could make iron doors, but they are expensive, unsightly, and will force you to endure the clanging noise as zombies ineffectually try to demolish it. A more flexible, visually ethereal - and now impenetrable - design would be wonderful.
+	</door>
+	<coloraltar>
+		Continuing your endeavour to create fancy lighting, you decided to make an altar-like crystal flame. Not only does it glow and pulsate various colors, but it also gives off colored particles and fog, making for quite an impressive display of energy...Probably enough so that putting several of these in proximity is a bad idea.
+	</coloraltar>
+	<glass>
+		When you look at glass, your first thought is that it is too clear, too inert. Spurred by this, you have created glass from crystals, that is strongly tinted, and which serves better as a musical instrument than a window.
+	</glass>
+	<musictrigger>
+		Having spent (...wasted...) hours sitting there punching crystals for a musical tune, and yet more time devising elaborate redstone contraptions to play them with specific timings and at specific pitches, what you find yourself wanting is a way to do this more compactly, without a large analog circuit for each note on the scale. The buttons on this block serve that purpose well.
+	</musictrigger>
+	<selectiveglass>
+		Every night your house becomes surrounded by mobs, and they often manage to last long enough into the morning that you find yourself spending all your time cowering indoors. Sure, you could try and make a run for it, but half the time a leaf bomb is hiding around the corner, taking out the front half of your house the moment you step outside. You need a way to be able to kill them while still inside, without giving them the reciprocal ability.
+	</selectiveglass>
+	<avolamp>
+		Pretty is a function. And to that end, you have a lamp. But not just any lamp! It glows! And bobs up and down! And spins! And this one you did not have to steal from villagers, either. After all, thievery is an indictment of your character, and will you really be able to enjoy something if you acquired it by theft?
+	</avolamp>
+	<repeaterlamp>
+		Repeaters, in their various forms, make for good light sources, and some would look quite nice integrated into the structure of your base. However, you would rather avoid the issue of routing energy randomly throughout, so you should probably find a way to neutralize their energy-carrying capabilities first.
+	</repeaterlamp>
+	<redstonepod>
+		You had a roomful of machines, producing, processing, and refining your resources. Emphasis on HAD, past tense, because your coolant ran out and now you have a roomful of craters instead. Said machines can be redstone-controlled, but you lack the ability to send such a signal through a mess of fluid and energy pipes. Some sort of point-to-point air-based conduction would solve that problem.
+	</redstonepod>
+	<chunkloader>
+		There are few things more frustrating than spending an hour or more in that new world, nearly completing a puzzle or finding rare resources, only for someone else to trigger a massive disturbance back home, causing you to be violently ejected, and, upon return, to find a fresh world with no sign of your previous progress or the expensive constructs you left on the ground. These crystals, however, might help stabilize the world, if perhaps temporarily. Taken back home, they lose that ability, but remain a nice decoration.
+	</chunkloader>
+	<fakesky>
+		Some things - at times understandably, at times infuriatingly - do not function well if shielded from the sky. You COULD punch a 1x1 hole all the way down into your cave, or through the massive stone arch over your base, but that would look stupid and potentially invite unwanted visitors. If you could instead bring the sky - or some part of it - with you, that would solve the issue.
+	</fakesky>
+	<luma>
+		Walking through a dark cave is a perilous affair at the best of times, but this is often a necessary action to make new discoveries and find more exotic materials. So too was the case this time, though both the mechanism and results were highly surprising: Deep under the multi-layer cliffs, while fleeing from a crack spewing noxious gases, you tripped over a crystal and landed facefirst in a puddle. In contrast to the usual outcome of being soaking wet and having gained nothing of value, this purple liquid seems almost...nonexistent. In fact, this liquid is so tenuous that it might grant a key to manipulating space or energy itself.
+	</luma>
+	<ender>
+		Why a liquid propels anything that touches it in a random direction is a mystery to you, but it has not escaped your notice that this is the same property present on other ender-related materials, so this might simply be their liquid form. To that end, it might be valuable in anything involving travelling through space. Additionally, and somewhat bizarrely, hydrating grass with this liquid seems to increase the growth rate of certain flora atop it.
+	</ender>
+	<trapfloor>
+		Sometimes you want to have the floor be made of a given material to convey some sort of status effect, but good luck making floors out of liquid chroma, and using lava as a mob farm floor destroys the drops as surely as it does the mobs. If you could make the floor out of a solid block that still...relayed the effects, you could solve both problems.
+	</trapfloor>
+	<encrusted>
+		You have noticed something interesting: When a pylon is fully charged and its surplus energy has nowhere else to flow, that energy tends to condense from an ethereal to a rather more tangible form, depositing as small, chaotic crystal outgrowths from a suitable base material, like that which comprises most of the pylon structure.
+	</encrusted>
+	<rfpod>
+		Having somehow filled a book with knowledge by hitting it with a hammer, you have designed and built a number of large, boxy machines. However, while you could just run power pipes everywhere, you did not account for this in the design and would need to either run them along the floor or across the already-low ceiling. A better idea might be some way to send out little "packets" of energy which float on the air from source to destination. Such an ethereal method of transfer will probably result in massive losses over more than %dm or so, and even under the best conditions probably limits throughput, perhaps to around %dRF/t at most.
+	</rfpod>
+	<warpnode>
+		High above the ground lies an occasional swirling vortex of energy. Their appearance evokes a whirpool, or a wormhole, which brings to mind how you continue to lack a means to rapidly traverse large distances at will. Though to use these as such would require some way of choosing an endpoint, via...what? Looking in that direction and blindly hoping there is another open node in that direction? Clearly this idea needs further development.
+	</warpnode>
+	<injectoraux>
+		Having devised a construct with which to put items into casting stands automatically, you were presented with a problem. You designed it to be placed underneath the table, to accept items pushed into it upon the completion of the process. In doing so, you completely overlooked the fact that now that it is buried in the structure, it is inaccessible and thus unable to be given instructions on what to craft or when. That might have been the end of the idea, until you had a revelation: A ring of eight relays, placed under the outer stands, are both more accessible and more stable. Hopefully they also function as runes.
+	</injectoraux>
+	<hoverpadaux>
+		A field in which you can freely float in three dimensions is all well and good, but not particularly useful if confined to a 1x1 column of air. And so you have created a sort of lamp, but one with a special property: The light from this lamp holds you aloft, and allows you to navigate easily through large regions of empty space. You could also just add some more glowstone and make it work as a simple decoration.
+	</hoverpadaux>
+	<name>
+		
+	</name>
+	<name>
+		
+	</name>
+</blocks>

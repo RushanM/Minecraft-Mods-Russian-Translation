@@ -1,0 +1,4 @@
+
+item.torchbow.name=torchbow
+itemGroup.TorchBowModTab=TorchBowModTab
+death.attack.EntityTorch=The torch hits Death

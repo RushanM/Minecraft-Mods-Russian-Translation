@@ -1,0 +1,13 @@
+# Переведено Obscurus
+
+item.mobEssence.name=Эссенция %s
+item.mobAgglomeration.name=Агломерация %s
+item.mobSpirit.name=Душа %s
+
+item.mobRod.name=Ловец душ
+
+tile.mobCage.name=Пустой спавнер
+
+itemGroup.tabSC=SpawnerCraft
+
+entity.WitherSkeleton.name=Скелетон-иссушитель

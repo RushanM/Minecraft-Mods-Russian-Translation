@@ -1,0 +1,1095 @@
+<?xml version="1.0"?>
+<progression>
+	<crystals>
+		<title>
+			Tangible Energy
+		</title>
+		<hint>
+			Crystal energy is mostly an ethereal, intagible force. However, when concentrated, it may have a physical manifestation.
+		</hint>
+		<reveal>
+			Sure enough, you have found places where crystal energy has coalesced and formed regular, glassy formations, ones that radiate the effects of their element.
+		</reveal>
+		<desc>
+			Underground crystals of energy, radiating the effect of their element
+		</desc>
+	</crystals>
+	<casting>
+		<title>
+			Fabrication
+		</title>
+		<hint>
+			Surely the wooden crafting table is not sufficient to do all your crafting.
+		</hint>
+		<reveal>
+			As expected, to perform feats more complex than making a wooden box to store your items, you needed to create a special more magically-sound table.
+		</reveal>
+		<desc>
+			To create anything remotely magical, you needed a dedicated, magically-capable table on which to do it
+		</desc>
+	</casting>
+	<dyetree>
+		<title>
+			Technicolor Trees
+		</title>
+		<hint>
+			These trees seem to come in all sorts of colors; you wonder if there is something special about them.
+		</hint>
+		<reveal>
+			Well, they seem to drop berries and dyes of their color, so that has to count for something...
+		</reveal>
+		<desc>
+			Trees, likely magical, of every color, and which drop not only saplings but dyes and berries
+		</desc>
+	</dyetree>
+	<multiblock>
+		<title>
+			More Complex Crafting
+		</title>
+		<hint>
+			The more complex ideas you have could not possibly be pulled off with only nine constituent items...
+		</hint>
+		<reveal>
+			Sure enough, the 5x5 afforded by the item stands is what you need.
+		</reveal>
+		<desc>
+			Using item stands has allowed you to expand the complexity of your crafting recipes
+		</desc>
+	</multiblock>
+	<runeuse>
+		<title>
+			Weak Magical Foci
+		</title>
+		<hint>
+			You may not be able to harness the power of the pylons yet, but these may make a milder alternative, allowing you to enhance your crafting capabilities.
+		</hint>
+		<reveal>
+			That they do, allowing you to make items more infused with energy than simple stone.
+		</reveal>
+		<desc>
+			The beginnings of harnessing crystal energy, allowing you to enhance your crafting
+		</desc>
+	</runeuse>
+	<pylon>
+		<title>
+			Energy Beacons
+		</title>
+		<hint>
+			Glowing and radiant, what are these?
+		</hint>
+		<reveal>
+			Some sort of an energy beacon...probably a good idea to remember that.
+		</reveal>
+		<desc>
+			A source of crystal energy, almost dangerously powerful and of incalculable value
+		</desc>
+	</pylon>
+	<link>
+		<title>
+			Top-tier Crafting
+		</title>
+		<hint>
+			Finally you can harness the pylons, but how to put it to use?
+		</hint>
+		<reveal>
+			Channeling all that energy directly into the table has allowed you to construct devices from your wildest imagination.
+		</reveal>
+		<desc>
+			Crafting with lumen energy allows for the creation of powerful constructs
+		</desc>
+	</link>
+	<charge>
+		<title>
+			Energy Internalization
+		</title>
+		<hint>
+			If the pylons and trees can store energy, maybe you can too...
+		</hint>
+		<reveal>
+			Turns out you can, though the acquisition process is more dangerous than is enjoyable.
+		</reveal>
+		<desc>
+			Collecting energy in oneself to...do something
+		</desc>
+	</charge>
+	<ability>
+		<title>
+			Personal Enhancement
+		</title>
+		<hint>
+			Machines you can upgrade. Tools you can enchant. Yourself?
+		</hint>
+		<reveal>
+			A new set of rituals has given you abilities of great utility.
+		</reveal>
+		<desc>
+			Various powers and abilities offer huge potential
+		</desc>
+	</ability>
+	<rainbowleaf>
+		<title>
+			Magical Trees
+		</title>
+		<hint>
+			Trees in various colors were one thing. But this?
+		</hint>
+		<reveal>
+			The raw magic energy in this tree is palpable, not to mention behind the impressive visual display.
+		</reveal>
+		<desc>
+			A giant tree of iridescent hue. It surely has magic power that you can only imagine
+		</desc>
+	</rainbowleaf>
+	<makechroma>
+		<title>
+			Magic Liquid
+		</title>
+		<hint>
+			A collector, but of what, and from what?
+		</hint>
+		<reveal>
+			Experience can be converted to a mysterious magic fluid. Surely that will have uses.
+		</reveal>
+		<desc>
+			A distilled essence of experience, or magic, with as-yet unknown purpose
+		</desc>
+	</makechroma>
+	<shardcharge>
+		<title>
+			Enriching Solvent
+		</title>
+		<hint>
+			The liquid is pulsing and throbbing with raw magical energy. You wonder what its effects are...
+		</hint>
+		<reveal>
+			Dissolving berries in the chroma allows it to greatly boost the magic energy found in the crystal shards.
+		</reveal>
+		<desc>
+			Enhancing the power of a crystal shard with elemental energy distilled from the trees
+		</desc>
+	</shardcharge>
+	<chroma>
+		<title>
+			Liquid Effects
+		</title>
+		<hint>
+			Liquid chroma has already proven itself a solvent for items tossed in. What else might happen?
+		</hint>
+		<reveal>
+			Stepping in it yourself seemed to do little - though you do feel a bit rejuvenated - but its power to enrich materials is not insignificant.
+		</reveal>
+		<desc>
+			This liquid has enriching power, and you have only scratched the surface
+		</desc>
+	</chroma>
+	<alloy>
+		<title>
+			Magic Alloying
+		</title>
+		<hint>
+			What about mundane materials, perhaps with other materials mixed in?
+		</hint>
+		<reveal>
+			The chroma dissolves those materials, infusing the mundane materials with a great deal of energy.
+		</reveal>
+		<desc>
+			The creation of magical materials with the enriching power of liquid chroma
+		</desc>
+	</alloy>
+	<stones>
+		<title>
+			Unity of the Elements
+		</title>
+		<hint>
+			What effect does combining all the different elements have?
+		</hint>
+		<reveal>
+			This gemstone throbs will all the colors of energy. That will surely prove useful.
+		</reveal>
+		<desc>
+			A complete collection of the crystal elements into a gem
+		</desc>
+	</stones>
+	<shock>
+		<title>
+			Damaging Discharge
+		</title>
+		<hint>
+			Pylons seem friendly...are they?
+		</hint>
+		<reveal>
+			If your idea of "friendly" is a discharge to the face...
+		</reveal>
+		<desc>
+			Proximity to a crystal pylon, at least for now, is clearly undesirable
+		</desc>
+	</shock>
+	<nether>
+		<title>
+			The Evil Realm
+		</title>
+		<hint>
+			You need some other way below that unyielding rock...
+		</hint>
+		<reveal>
+			So those stories of obsidian portals leading to a fiery nightmare are true...
+		</reveal>
+		<desc>
+			A hostile, unpleasant world of lava, red rock, and nightmarish creatures
+		</desc>
+	</nether>
+	<end>
+		<title>
+			The Alien Realm
+		</title>
+		<hint>
+			Surely nothing could be more alien than that land of lava, glowing stalactites, and flying jellyfish...
+		</hint>
+		<reveal>
+			Apparently it can.
+		</reveal>
+		<desc>
+			A...strange world suspended in the void, ruled by an aggressive dragon
+		</desc>
+	</end>
+	<twilight>
+		<title>
+			The Forested Realm
+		</title>
+		<hint>
+			Legends tell of a different plane, covered in thick forests, with giant towers and buried mazes.
+		</hint>
+		<reveal>
+			Not only does this realm exist, but it teems with unique creatures and is plentiful with treasure.
+		</reveal>
+		<desc>
+			A mystical forest dotted with massive structures and strange creatures
+		</desc>
+	</twilight>
+	<bedrock>
+		<title>
+			World Floor
+		</title>
+		<hint>
+			Is it possible to dig too deep?
+		</hint>
+		<reveal>
+			Maybe, but that layer of rock below seems impenetrable.
+		</reveal>
+		<desc>
+			An unyielding barrier to those who attempt to dig downwards
+		</desc>
+	</bedrock>
+	<cavern>
+		<title>
+			Buried Hollows
+		</title>
+		<hint>
+			Surely many treasures lie underground.
+		</hint>
+		<reveal>
+			Buried deep in the rock, these crystal-rich cavities hold further intrigue.
+		</reveal>
+		<desc>
+			A buried room, populated with crystals and some random loot
+		</desc>
+	</cavern>
+	<burrow>
+		<title>
+			Secret Burrows
+		</title>
+		<hint>
+			Patches of light dot the night landscape; some are explainable as lava or fire, but not all...
+		</hint>
+		<reveal>
+			Upon closer inspection, you found hidden burrows stocked with goods, but for who?
+		</reveal>
+		<desc>
+			A small burrow, with a handful of starter items
+		</desc>
+	</burrow>
+	<ocean>
+		<title>
+			Ocean Temples
+		</title>
+		<hint>
+			Stories abound of strange structures left in the deepest parts of the ocean.
+		</hint>
+		<reveal>
+			True stories, it seems. If only they warned of the danger...
+		</reveal>
+		<desc>
+			A large submerged structure which is more complex than it first appears
+		</desc>
+	</ocean>
+	<desertstruct>
+		<title>
+			Sandy Burrows
+		</title>
+		<hint>
+			Aside from the rare (and explosive) pyramids, do deserts hold other secrets?
+		</hint>
+		<reveal>
+			They do indeed, and their riches eclipse most others.
+		</reveal>
+		<desc>
+			A subsurface hollow, filled with loot but also danger
+		</desc>
+	</desertstruct>
+	<snowstruct>
+		<title>
+			Snowy Outposts
+		</title>
+		<hint>
+			Snow and ice as far as the eye can see, and yet there remain things to find.
+		</hint>
+		<reveal>
+			Including, it seems, long-abandoned outposts holding...something.
+		</reveal>
+		<desc>
+			A rich discovery in a desolate arctic wasteland
+		</desc>
+	</snowstruct>
+	<die>
+		<title>
+			Painful Loss
+		</title>
+		<hint>
+			You lose your items when you die; what happens to your knowledge?
+		</hint>
+		<reveal>
+			Lost too. Ouch.
+		</reveal>
+		<desc>
+			Like your items, your knowledge and energy is also lost upon your demise
+		</desc>
+	</die>
+	<allcolors>
+		<title>
+			Elemental Awareness
+		</title>
+		<hint>
+			Red, Green, Blue, Orange, how many are there?
+		</hint>
+		<reveal>
+			You have identified sixteen, each with a unique color and symbolic icon.
+		</reveal>
+		<desc>
+			Sixteen colors, sixteen forms of energy, each tuned to a specific property
+		</desc>
+	</allcolors>
+	<repeater>
+		<title>
+			Broadcasting
+		</title>
+		<hint>
+			You need a better way to transfer lumen energy from the pylons to your base.
+		</hint>
+		<reveal>
+			These refractors of a sort seem to be able to reconcentrate and repeat the signal.
+		</reveal>
+		<desc>
+			A more refined and effective form of lumen transmission
+		</desc>
+	</repeater>
+	<rainbowforest>
+		<title>
+			Magical Forests
+		</title>
+		<hint>
+			You have heard rumors of forests populated with those brightly colored trees as far as the eye can see...
+		</hint>
+		<reveal>
+			Not only do such forests exist, but they also teem with animals and plants, and the magic keeps hostile forces at bay.
+		</reveal>
+		<desc>
+			A magic forest, full of multicolored trees and with significant power to keep evil away
+		</desc>
+	</rainbowforest>
+	<glowcliffs>
+		<title>
+			Glowing Terraces
+		</title>
+		<hint>
+			Are all the magical areas in this world forests? Might there be rare exceptions?
+		</hint>
+		<reveal>
+			Every level of this strange new place seems to contain novel phenomena, resources, or flora.
+		</reveal>
+		<desc>
+			Large terraced cliffs, with a distinctly unusual ambience
+		</desc>
+	</glowcliffs>
+	<dimension>
+		<title>
+			Other Worlds
+		</title>
+		<hint>
+			You have been to several other worlds, each stranger than the last...could there be more?
+		</hint>
+		<reveal>
+			There are indeed, but this one...is different.
+		</reveal>
+		<desc>
+			A new world...strange, yet peaceful and serene. And vibrantly hued
+		</desc>
+	</dimension>
+	<ctm>
+		<title>
+			Restoration
+		</title>
+		<hint>
+			A ruined structure. Scattered pieces.
+		</hint>
+		<reveal>
+			The reward for completing and restoring the monument must be large.
+		</reveal>
+		<desc>
+			Completing the ruined monument, with surely significant reward
+		</desc>
+	</ctm>
+	<storage>
+		<title>
+			Lumen Storage
+		</title>
+		<hint>
+			Some constructs need to be moved around, making repeater-based power difficult. Is there an alternative?
+		</hint>
+		<reveal>
+			Fortunately, you have found out how to store energy in a crystal matrix for exactly this purpose.
+		</reveal>
+		<desc>
+			Storing energy in a crystal for easy mobility
+		</desc>
+	</storage>
+	<balllightning>
+		<title>
+			Orbs of Energy
+		</title>
+		<hint>
+			Pylons and some trees seem to spawn odd balls of energy.
+		</hint>
+		<reveal>
+			They do not seem particularly useful, but at least they are not obviously dangerous.
+		</reveal>
+		<desc>
+			A glowing, moving clump of energy that seems to be animated on its own
+		</desc>
+	</balllightning>
+	<powercrystal>
+		<title>
+			Recharge
+		</title>
+		<hint>
+			Pylons drain too quickly for intensive use, and take too long to recharge.
+		</hint>
+		<reveal>
+			That ring of iridescent crystals dramatically helps.
+		</reveal>
+		<desc>
+			Upgrading a pylon with a ring of eight power crystals massively improves its energy recovery
+		</desc>
+	</powercrystal>
+	<killdragon>
+		<title>
+			Aerial Predator
+		</title>
+		<hint>
+			The static sky is empty...save for a massive dragon.
+		</hint>
+		<reveal>
+			Killing it has revealed yet more of the world to you.
+		</reveal>
+		<desc>
+			A giant, hostile dragon whose destruction gives both physical and conceptual reward
+		</desc>
+	</killdragon>
+	<findspawner>
+		<title>
+			Endless Mobs
+		</title>
+		<hint>
+			What is that strange flaming box?
+		</hint>
+		<reveal>
+			A construct of some malevolent origin, a source for an interminable stream of creatures.
+		</reveal>
+		<desc>
+			Strange metal boxes that release infinite numbers of monsters
+		</desc>
+	</findspawner>
+	<breakspawner>
+		<title>
+			Stopping the Torrent
+		</title>
+		<hint>
+			These metal cages spew forth endless creatures...how to put an end to it?
+		</hint>
+		<reveal>
+			The only way to stop them is to destroy them...for now.
+		</reveal>
+		<desc>
+			Destroying a spawner not only stops the flood of creatures, but also lets you better understand, and maybe even harvest it
+		</desc>
+	</breakspawner>
+	<killwither>
+		<title>
+			Eldritch Nightmare
+		</title>
+		<hint>
+			Four soul sand. Three wither skulls. What could this possibly be useful for?
+		</hint>
+		<reveal>
+			An undead monstrosity, though its loot proved useful.
+		</reveal>
+		<desc>
+			A nightmarish creature which drops a mysterious but obviously valuable star
+		</desc>
+	</killwither>
+	<hive>
+		<title>
+			Crystal Hives
+		</title>
+		<hint>
+			Can bees live in the darkness of underground caves?
+		</hint>
+		<reveal>
+			Yes, they can, and not only that, but they take on the effect of nearby cave crystals.
+		</reveal>
+		<desc>
+			Underground, crystalline hives full of uniquely adapted bees
+		</desc>
+	</hive>
+	<killmob>
+		<title>
+			Monster Slayer
+		</title>
+		<hint>
+			Certain creatures prove vicious, and will need to be dealt with.
+		</hint>
+		<reveal>
+			Conveniently, they drop useful items when killed.
+		</reveal>
+		<desc>
+			Killing various creatures, especially hostile ones, drops an assortment of useful items
+		</desc>
+	</killmob>
+	<allcores>
+		<title>
+			Dimensional Cores
+		</title>
+		<hint>
+			They come in various colors...what are they for?
+		</hint>
+		<reveal>
+			I have all sixteen...maybe these are for that monument I need to repair...
+		</reveal>
+		<desc>
+			Collecting all sixteen glowing orbs, for some unified purpose
+		</desc>
+	</allcores>
+	<turbocharge>
+		<title>
+			Pylon Turbocharging
+		</title>
+		<hint>
+			This should be possible...if somewhat violent.
+		</hint>
+		<reveal>
+			More so than expected, but also far more valuable.
+		</reveal>
+		<desc>
+			Greatly enhancing the power of a crystal pylon
+		</desc>
+	</turbocharge>
+	<useenergy>
+		<title>
+			Lumen Harnessing
+		</title>
+		<hint>
+			If pylons are a source of energy, does that mean they can be used?
+		</hint>
+		<reveal>
+			Yes, and the myriad constructs powered by them offer great utility.
+		</reveal>
+		<desc>
+			Relaying the signal from a crystal pylon allows for feasible use of their energy
+		</desc>
+	</useenergy>
+	<structcomplete>
+		<title>
+			Unusual Structures
+		</title>
+		<hint>
+			Large structures dot the volatile realm. What lies deep inside them?
+		</hint>
+		<reveal>
+			A glowing core, tuned to one of the crystal colors. Interesting...
+		</reveal>
+		<desc>
+			Completing the task in the strange construction, and being consequently rewarded
+		</desc>
+	</structcomplete>
+	<netherroof>
+		<title>
+			A second layer
+		</title>
+		<hint>
+			The evil realm seems capped. Is the cap impenetrable?
+		</hint>
+		<reveal>
+			No, and further mysteries await for those who venture into it.
+		</reveal>
+		<desc>
+			Getting above the impassable layer at the top of the Nether
+		</desc>
+	</netherroof>
+	<netherstruct>
+		<title>
+			Ominous Constructions
+		</title>
+		<hint>
+			Strange things dot and cross the Nether roof.
+		</hint>
+		<reveal>
+			Some even contain useful clues.
+		</reveal>
+		<desc>
+			Finding the secrets buried in the Nether
+		</desc>
+	</netherstruct>
+	<villagecasting>
+		<title>
+			A...less than honorable attempt
+		</title>
+		<hint>
+			Are you the only one to have tried to learn these magic forces?
+		</hint>
+		<reveal>
+			No, but the others who tried have clearly been about as smart as a piece of flint.
+		</reveal>
+		<desc>
+			The villagers have tried - and abjectly failed - to learn to manipulate crystal energy.
+		</desc>
+	</villagecasting>
+	<anystruct>
+		<title>
+			Buried Ruins
+		</title>
+		<hint>
+			From cobblestone squares to ancient mines, it appears some have come before you; have they left anything else?
+		</hint>
+		<reveal>
+			Yes, including their attempts to learn the same things you now attempt.
+		</reveal>
+		<desc>
+			Buried structures, clearly of artificial origin
+		</desc>
+	</anystruct>
+	<focuscrystal>
+		<title>
+			Refractory Gems
+		</title>
+		<hint>
+			You have thought of a way to increase the power of your fabrication constructs, but what to use as a refractor?
+		</hint>
+		<reveal>
+			Who would have thought THEY had found the key...
+		</reveal>
+		<desc>
+			Crude 'refining' of emeralds into a useful construct
+		</desc>
+	</focuscrystal>
+	<artefact>
+		<title>
+			Mysterious Relics
+		</title>
+		<hint>
+			All around the world linger remnants of...something.
+		</hint>
+		<reveal>
+			Including particularly mysterious - and dangerous - ones found in certain regions.
+		</reveal>
+		<desc>
+			A strange buried artifact, surely possessing secrets
+		</desc>
+	</artefact>
+	<tower>
+		<title>
+			Glowing Towers
+		</title>
+		<hint>
+			The pylons are not the only luminous constructs you find around the world.
+		</hint>
+		<reveal>
+			The purpose these obelisks serve is a entirely unknown, but they must be key to something.
+		</reveal>
+		<desc>
+			An ancient structure, topped with a luminescent...something.
+		</desc>
+	</tower>
+	<blowrepeater>
+		<title>
+			Lumen Overload
+		</title>
+		<hint>
+			These wooden lumen foci seem to work quite well...
+		</hint>
+		<reveal>
+			...Except when they explode trying.
+		</reveal>
+		<desc>
+			Wood and chroma repeaters might have been a mistake
+		</desc>
+	</blowrepeater>
+	<chargecrystal>
+		<title>
+			Lumen Storage II
+		</title>
+		<hint>
+			A storage crystal is little more than a pretty rock without a way to put the energy into it.
+		</hint>
+		<reveal>
+			As is usual, a simple problem has a simple - and spinny - solution.
+		</reveal>
+		<desc>
+			Putting energy into a storage crystal
+		</desc>
+	</chargecrystal>
+	<structcheat>
+		<title>
+			Finding a shortcut
+		</title>
+		<hint>
+			You may have the means to attempt to bypass the strange structures you find.
+		</hint>
+		<reveal>
+			With disastrous results. Whoever designed those structures is clearly more resourceful than you are.
+		</reveal>
+		<desc>
+			Or not.
+		</desc>
+	</structcheat>
+	<voidmonster>
+		<title>
+			A distortion below the world
+		</title>
+		<hint>
+			Exactly what that thing is, remains unknown.
+		</hint>
+		<reveal>
+			Some sort of foreboding corruption of reality.
+		</reveal>
+		<desc>
+			A corruption of reality itself
+		</desc>
+	</voidmonster>
+	<voidmonsterdie>
+		<title>
+			Contact with the corruption
+		</title>
+		<hint>
+			What could possibly go wrong?
+		</hint>
+		<reveal>
+			That thing must now be destroyed after what it has done to you.
+		</reveal>
+		<desc>
+			Death by amorphous evil
+		</desc>
+	</voidmonsterdie>
+	<luma>
+		<title>
+			Ethereal Luma
+		</title>
+		<hint>
+			Some essence...of...something?
+		</hint>
+		<reveal>
+			The essence of the void, of space, as well as lumen energy.
+		</reveal>
+		<desc>
+			A liquid of both energy and space
+		</desc>
+	</luma>
+	<warpnode>
+		<title>
+			Energy Vortices
+		</title>
+		<hint>
+			Some sort of hole in space.
+		</hint>
+		<reveal>
+			Which may provide a method to travel between them.
+		</reveal>
+		<desc>
+			Wormholes of a sort
+		</desc>
+	</warpnode>
+	<powertree>
+		<title>
+			Stockpiling Energy
+		</title>
+		<hint>
+			A construct which has the ability to draw lumens into itself...for what?
+		</hint>
+		<reveal>
+			Apparently to act as a large buffer or storage.
+		</reveal>
+		<desc>
+			Arboriform Battery
+		</desc>
+	</powertree>
+	<tunecast>
+		<title>
+			Casting Personalization
+		</title>
+		<hint>
+			How to imprint yourself onto your casting structure?
+		</hint>
+		<reveal>
+			That should have been rather obvious in hindsight.
+		</reveal>
+		<desc>
+			Linking your crafting to your person
+		</desc>
+	</tunecast>
+	<bypassweak>
+		<title>
+			Retroactive Recognition
+		</title>
+		<hint>
+			This particular design seems somewhat familiar, and not in a good way.
+		</hint>
+		<reveal>
+			Prediction of upcoming mistakes enables you to avoid them altogether.
+		</reveal>
+		<desc>
+			Spotting disaster before it strikes
+		</desc>
+	</bypassweak>
+	<infuse>
+		<title>
+			Resourceful Experience
+		</title>
+		<hint>
+			Can one even combine such disparate things as items, liquids, and players?
+		</hint>
+		<reveal>
+			As with most things, all it took was the proper construct.
+		</reveal>
+		<desc>
+			Imbuing one energy into another
+		</desc>
+	</infuse>
+	<pylonlink>
+		<title>
+			Energy Interconnection
+		</title>
+		<hint>
+			You can connect one pylon to a network, but that still leaves all the others...
+		</hint>
+		<reveal>
+			Linking them together makes for a much larger energy pool and recharge rate.
+		</reveal>
+		<desc>
+			A way to make use of multiple pylons per color
+		</desc>
+	</pylonlink>
+	<relays>
+		<title>
+			Compact Transmission
+		</title>
+		<hint>
+			Not all constructs are amenable to normal energy transfer, being used indoors or in large numbers.
+		</hint>
+		<reveal>
+			Fortunately, they seem to be receptive to a scaled-down and more orthogonal method of conduction.
+		</reveal>
+		<desc>
+			Transmitting energy in confined spaces
+		</desc>
+	</relays>
+	<energyidea>
+		<title>
+			Refined Transmission
+		</title>
+		<hint>
+			Wood and chroma repeaters are of marginal quality.
+		</hint>
+		<reveal>
+			And these crystals surely hold the key to something better.
+		</reveal>
+		<desc>
+			Insight into lumen transmission
+		</desc>
+	</energyidea>
+	<node>
+		<title>
+			Energy Inlet
+		</title>
+		<hint>
+			Where does this aspect-based energy originate?
+		</hint>
+		<reveal>
+			That remains unknown, but it leaks in via tiny holes.
+		</reveal>
+		<desc>
+			A source of unusual energy
+		</desc>
+	</node>
+	<potion>
+		<title>
+			Ambient Effects
+		</title>
+		<hint>
+			Can I improve my various powers, without tools?
+		</hint>
+		<reveal>
+			Yes, and this may only be the start.
+		</reveal>
+		<desc>
+			Augmenting personal capabilities
+		</desc>
+	</potion>
+	<mine>
+		<title>
+			Resource Acquisition
+		</title>
+		<hint>
+			Where can I find the raw materials to begin?
+		</hint>
+		<reveal>
+			Many different ores populate the world.
+		</reveal>
+		<desc>
+			The source of many of the raw materials.
+		</desc>
+	</mine>
+	<deepcave>
+		<title>
+			Lower Layers
+		</title>
+		<hint>
+			Cave systems seem to extend far below the surface.
+		</hint>
+		<reveal>
+			The deeper I go, the more exotic the things I find.
+		</reveal>
+		<desc>
+			Venturing ever deeper
+		</desc>
+	</deepcave>
+	<harvest>
+		<title>
+			Crop Collection
+		</title>
+		<hint>
+			Some materials are mined, and others grown.
+		</hint>
+		<reveal>
+			The latter includes a wide variety.
+		</reveal>
+		<desc>
+			Producing resources on demand
+		</desc>
+	</harvest>
+	<myst>
+		<title>
+			A Scripted World
+		</title>
+		<hint>
+			I can create worlds out of words.
+		</hint>
+		<reveal>
+			And these words describe novel features and resources.
+		</reveal>
+		<desc>
+			Constructed by a story
+		</desc>
+	</myst>
+	<biomestruct>
+		<title>
+			An Abandoned Puzzle
+		</title>
+		<hint>
+			What might be found in the more magically-attuned biomes?
+		</hint>
+		<reveal>
+			A structure that once completed, contains far more riches than any other so far.
+		</reveal>
+		<desc>
+			A structure in a magic forest, locked down behind tests of skill
+		</desc>
+	</biomestruct>
+	<farlands>
+		<title>
+			Outer Regions
+		</title>
+		<hint>
+			Is this world the same forever?
+		</hint>
+		<reveal>
+			No, areas distant from the entry point contain novel formations, materials, and...others.
+		</reveal>
+		<desc>
+			New areas in a new world
+		</desc>
+	</farlands>
+	<mudhint>
+		<title>
+			Magical Residue
+		</title>
+		<hint>
+			Can magical materials be found naturally? What happens when large amounts congregate? Does this stuff break down over time?
+		</hint>
+		<reveal>
+			The debris falling off of rainbow trees accumulates and creates a muddy substance below.
+		</reveal>
+		<desc>
+			Residue of magical substances
+		</desc>
+	</mudhint>
+	<name>
+		<title>
+			
+		</title>
+		<hint>
+			
+		</hint>
+		<reveal>
+			
+		</reveal>
+		<desc>
+			
+		</desc>
+	</name>
+	<name>
+		<title>
+			
+		</title>
+		<hint>
+			
+		</hint>
+		<reveal>
+			
+		</reveal>
+		<desc>
+			
+		</desc>
+	</name>
+	<name>
+		<title>
+			
+		</title>
+		<hint>
+			
+		</hint>
+		<reveal>
+			
+		</reveal>
+		<desc>
+			
+		</desc>
+	</name>
+</progression>

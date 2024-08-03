@@ -1,0 +1,15 @@
+# Перевод LeoganPro
+
+#Backup
+aromabackup:backup.start.server=Запуск резервного копирования. Сервер может немного лагать!
+aromabackup:backup.start.client=Запуск резервного копирования. Игра может немного лагать!
+aromabackup:backup.done.server=Резервное копирование мира сделано!
+aromabackup:backup.done.client=Резервное копирование мира сделано!
+aromabackup:backup.failed.server=Ошибка резервного копирования мира!
+aromabackup:backup.failed.client=Ошибка резервного копирования мира!
+aromabackup:backup.next.server=Следующее запланированное резервное копирование будет через %s минут.
+aromabackup:backup.next.client=Следующее запланированное резервное копирование будет через %s минут.
+
+#Command
+aromabackup:command.alreadyrunning=Уже выполняется резервное копирование.
+aromabackup:command.playerstarted=%s начал резервное копирование.

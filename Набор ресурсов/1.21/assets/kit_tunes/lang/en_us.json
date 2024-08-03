@@ -1,0 +1,44 @@
+{
+    "kit_tunes.toast.title": "Meow Playing",
+
+    "kit_tunes.unusual_error": "Please check game logs and submit an issue!",
+
+    "kit_tunes.home.register_scrobbler": "Register Scrobbler",
+
+    "kit_tunes.scrobbler_setup.title": "Setting up Scrobbler",
+
+    "kit_tunes.scrobbler_setup.setup_in_browser": "Setup in Browser",
+
+    "kit_tunes.scrobbler_setup.started": "Press the link to set up your scrobbler!",
+    "kit_tunes.scrobbler_setup.success": "Scrobbler has been successfully set up and saved!",
+    "kit_tunes.error.scrobbler_setup.failed_to_start": "Failed to start setting up.",
+    "kit_tunes.error.scrobbler_setup.timeout": "Scrobbler setup timed out after no activity.",
+
+    "kit_tunes.error.unhandled": "Something unexpected went wrong trying to set up the scrobbler!",
+    "kit_tunes.error.scrobbler.parsing": "Failed to parse a received response! ",
+    "kit_tunes.error.scrobbler.api": "The %s Scrobbling API returned an error! Please check logs and report an issue.",
+
+    "kit_tunes.artist.aaron_cherof" : "Aaron Cherof",
+    "kit_tunes.artist.c418": "C418",
+    "kit_tunes.artist.kumi_tanioka": "Kumi Tanioka",
+    "kit_tunes.artist.lena_raine": "Lena Raine",
+    "kit_tunes.artist.unknown": "Unknown",
+
+    "kit_tunes.album.volume_alpha": "Minecraft - Volume Alpha",
+    "kit_tunes.album.volume_beta": "Minecraft - Volume Beta",
+    "kit_tunes.album.dragon_fish": "Dragon Fish",
+    "kit_tunes.album.shuniji": "Shuniji",
+    "kit_tunes.album.axolotl": "Axolotl",
+    "kit_tunes.album.nether_update": "Nether Update",
+    "kit_tunes.album.caves_and_cliffs": "Caves & Cliffs",
+    "kit_tunes.album.wild_update": "Wild Update",
+    "kit_tunes.album.trails_and_tales": "Trails & Tales",
+
+    "kit_tunes.track.minecraft.music.game.oxygene": "Oxygène",
+    "kit_tunes.track.minecraft.music.game.end.credits": "Alpha",
+    "kit_tunes.track.minecraft.music.game.end.end": "The End",
+    "kit_tunes.track.minecraft.music.game.nether.nether1": "Concrete Halls",
+    "kit_tunes.track.minecraft.music.game.nether.nether2": "Dead Voxel",
+    "kit_tunes.track.minecraft.music.game.nether.nether3": "Warmth",
+    "kit_tunes.track.minecraft.music.game.nether.nether4": "Ballad of the Cats"
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<ability>
+	<reach>
+		Improving the range at which you can interact with blocks is one of the most sought-after powers of all, to the point where many before you have gone to great lengths, often violating the natural order so badly that they find themselves exiled from the world itself. Finally, however, you have found a real way to acquire this ability yourself, allowing you to break and place blocks up to %d blocks away. You cannot, however, attack mobs or open GUIs outside the normal range.
+	</reach>
+	<magnet>
+		Many activities tend to scatter items far and wide, leading to a tedious cleanup at best and the destruction of many valuable materials at worst. Fortunately, you have discovered a way to create a magnetic aura around yourself, drawing in items and experience orbs from a large range. Conveniently, items in transit also appear shielded from environmental effects, negating the concern of pesky lava flows and other hazards normally responsible for large losses.
+	</magnet>
+	<sonic>
+		With enough of the energetic elements concentrated on your fingertips, you can release a small shock wave that can clear blocks in a small area, a useful tool if buried or trying to clear an area.
+	</sonic>
+	<shift>
+		With the application of a lot of energy related to movement and terrain, you have found that you can move entire regions of the terrain - though some more complex blocks tend to get left behind - allowing for easy correction of small build errors or large-scale terraforming.
+	</shift>
+	<pylon>
+		After one too many energy discharges to the face - or perhaps as a result of it - you have finally devised a way to "ground" yourself, causing the pylons's surplus energy to seek alternate routes to dissipate itself. This is of course of obvious utility.
+	</pylon>
+	<heal>
+		Useful if low on food or desperately low on health, the ability to instantly heal a heart or two is an expensive yet indispensable asset.
+	</heal>
+	<health>
+		Even with the most powerful armor available, and with all sorts of other protections active, you often find yourself still in mortal danger simply due to the fact that some things deal more damage than you can withstand. Fortunately, you have found that you have the ability to increase your life force up to a factor of six with the application of a great deal of associated energy.
+	</health>
+	<communicate>
+		You are not alone in this world; you share it with many other creatures, ranging from basic animals to beings advanced enough to try and scam you out of emeralds. However, some of these creatures seem to harbor an irrational hatred for you, attempting to kill you on sight, even if it costs them their own lives. Using the magic elements, combined with the application of a healthy amount of deception, you might be able to stave off their aggression.
+	</communicate>
+	<fireball>
+		You made the mistake of building a frame of obsidian and stepping into the fiery nightmare on the other side, where you were promptly attacked by tentacled clouds that sound like injured children. Long-range and difficult to dodge, you to wonder if you can replicate the attacks yourself. Fire and heat energy are obvious, but combined with others, like aggression, you have successfully reproduced this capability, and potentially more powerfully as well. As a bonus, screaming - either like the monsters or, as some do, expletives and references to frowned-upon activities with maternal relatives - is not required.
+	</fireball>
+	<shield>
+		Perhaps the most annoying of the creatures you find yourself up against - even outdoing the kamikaze leaf bombs - are skeletons, with their ranged attack and, when in groups, their irriating tendency to imitate a gatling gun. Usefully, however, protective energy can create a field around you to deflect their assault.
+	</shield>
+	<lightning>
+		From the Greek deity Zeus to a malicious shrouded man, harnessing lightning is one of the classic demonstrations of strong power. With the ability to bring a massive bolt from the sky, you can smite a mob or player or ignite a structure. Better yet, at high charge levels, the shockwave the thunder generates is rather more powerful than the corresponding effect from the natural counterpart and has the capacity to blow apart whatever it hits.
+	</lightning>
+	<lifepoint>
+		You have dabbled in the dark arts, using your own life force to accomplish significant, if rather macabre, feats. However, having tied those powers to your very life has come with a rather unpleasant side-effect; every action you perform directly saps your energy, and any amount of overexertion can push you to the brink of death. Recalling the healing and life power of the %s crystal element, you wonder if you can redirect these drains onto your buffer of crystal energy instead.
+	</lifepoint>
+	<deathproof>
+		Dying is painful. Not just literally, which is obvious, but more figuratively as well. As you learned the hard way, though your mind has the ability to infinitely respawn, your body - and the energy stored within - is lost, as are some of your other powers. As you wish to avoid this in the future - though you are not confident of your ability to avoid death - you may wish to try to hold on to what you can at the moment of death.
+	</deathproof>
+	<hotbar>
+		Too often have you been in the middle of a building project and found your hands full of tools, blocks, and other things and were forced to carefully shuffle around your items when you want a different block than is immediately accessible, and then of course switch it right back when you need the original blocks. If only there was a way to bind a template of sorts to your held items, to alleviate this stupidity.
+	</hotbar>
+	<shockwave>
+		Having found yourself in a multi-mob brawl more times than you care to count, you reflect on the relative difficulty of avoiding getting hurt when being attacked from all sides. A better approach would be to repel them somehow.
+	</shockwave>
+	<leech>
+		Being able to absorb some of the health you drain from aggressors is sure to grant you the upper hand in any battle. One hopes you do not get accused of cheating again.
+	</leech>
+	<float>
+		With some special augments - those spring-loaded boots are especially helpful - you have become able to run along the ground at high speed. This would be even better were it not for those pesky lakes, rivers, and oceans that stymie your running abilities. Being able to skip across the surface would be most convenient. Just avoid angry mobs with torches and kindling...
+	</float>
+	<teleport>
+		If you had an ingot for every time you found something of value, lacked the inventory space to carry it back, and then never found again, you would have...you have no idea how many, because if you did, you would probably not have forgotten them in the first place. At any rate, if you could mark positions - and even better, somehow warp to them at will - it would be of great value.
+	</teleport>
+	<breadcrumb>
+		Caves are...not fun. Sure, they are loaded with resources, but for some reason you take ten steps into one and you are already hopelessly lost and take hours to find the way out, usually only barely managing before you run out of torches, food, tools, or all of the above. Being able to trace your path and see the way back out, or even just knowing where you have been, may - MAY - help your apparently severely underdeveloped navigational skills.
+	</breadcrumb>
+	<spawnersee>
+		Some madman has placed these weird cages underground that spawn endless hordes of mobs. Presumably the same madman also put chests full of loot in their proximity. If you could just listen carefully, either for the sound of that infernal box or from items inside the chests nearby, you may be able to detect them through walls.
+	</spawnersee>
+	<rangedboost>
+		Having spent countless hours and resources crafting the ultimate ranged weapon, then charging it at what seemed like a snail's pace, you found yourself disappointed that effects like strength or looting could not be carried across a ranged attack. Some way to transfer that aura would solve this problem. For an added bonus, automatically capturing their drops would save them from falling out of reach.
+	</rangedboost>
+	<dimping>
+		You have heard of untold riches in the world on the other side of the crystal portal. And to be sure, you have found some. However, most of it appears to be hiding, either buried underground or otherwise invisible. Searching aimlessly in the hopes of stumbling upon them could take years; if only there was a way to triangulate their position.
+	</dimping>
+	<dash>
+		Flail your weapon as you may, being surrounded by mobs will often result in your death. That night, however, you had a dream. Interspersed with hallucinations of some guy named "Kluex", it finally hit you: You can probably combine time- and movement-based energies to quickly bolt out of danger, turning sprint into something rather more powerful.
+	</dash>
+	<firerain>
+		There are times when precise, directed efforts are optimal. And then there are times where everything in sight must be reduced to rubble. After venturing into a thick forest inhabited by giant spiders and invisible wolves, you lost a significant portion of your dignity when you barely made it halfway to the tower rising out of the center. Next time will be better, because you will make sure that there will not BE a forest.
+	</firerain>
+	<laser>
+		From a particularly obnoxious mountain range to mazes of near-impenetrable stone, you often find your path blocked. Recalling that "The best solution to a problem is usually the easiest one", it would be optimal to simply obliterate the obstacle. Unsurprisingly, this also kills everything in a large area, but its utility for that is limited unless you like living in a smoldering moonscape. Maybe, though, it could be used to kill that abomination below the bedrock...the proper word is "toast".
+	</laser>
+	<keepinv>
+		One of the greatest frustrations of death is that everything on your person scatters on the ground. Even worse is when you return to find a zombie trying on your armor, or that half of it fell into a nearby water stream...that OF COURSE ends in a lava pit. Being able to retain your items on death would be of utmost convenience.
+	</keepinv>
+	<oreclip>
+		The annoying thing about ores is that they are buried in solid rock, and can take vast quantities of time to find. Some claim to have devised ways to be able to make the ores show themselves through the rock, or make the rock itself invisible (and usually pay for it with exile). You will do one better, and combine that with the ability to also pass through it as well. As you may imagine, this will be neither easy nor inexpensive.
+	</oreclip>
+	<doublecraft>
+		Crafting would be so much more convenient if it had higher yields. To that end, you have devised a way to increase the yield of nearly every recipe available, doubling the usefulness of your resources. However, you have yet to devise how to extend this power to your digital creations.
+	</doublecraft>
+	<growaura>
+		You have previously devised ways to combat the corruption that infects your world, but reverting the damage is often time-consuming and requires direct manual input. Remembering that the rainbow trees accomplish this effect naturally, you wonder if you can imbue yourself with a similar capability. Indeed, this effect seems even more potent, having effects beyond that which the trees do, and giving off such a powerful aura that it attracts various creatures in the vicinity.
+	</growaura>
+	<meinv>
+		Few things are more irritating than deciding to build a structure, then having to return home 15 times because you cannot carry enough materials. You have that near-infinite storage system, but its wireless capabilities, if they work at all - a rare occurrence - are expensive and difficult to use. Much better would be to somehow unify whatever you hold with what might be in the system, accomplished via binding yourself to any part of the storage network.
+	</meinv>
+	<mobseek>
+		A mob radar is all well and good, until its warning of a nearby creeper is useless because the mob is hiding in a patch of trees. Going into the forest is a very bad idea, as it entails putting oneself in danger; being able to see - and shoot - the mobs through solid surfaces would be far better.
+	</mobseek>
+	<recharge>
+		You have better things to do than fly around to your pylons draining energy from them, or flail your manipulator at your lumen tree. If you could get your tree to refill your energy buffers automatically, that would be far simpler.
+	</recharge>
+	<beealyze>
+		To think of all those hours you spent fine-tuning your apiculture production lines, breeding the master race of bees - somewhat amusingly earning you a moniker that brings to mind certain expansionist despots. Sure, half of it was spent using the latest in magic-block technology to redesign them at the genetic level, but a large fraction was wasted coaxing finicky insects into a analysis tool - your supply of honeydew may never recover - just to find out the bee is of better use if liquidated. If only you could view their genetics at a glance, you could save hours of time.
+	</beealyze>
+	<lightcast>
+		Be it a winding cave, a subterranean river, or just a very large overhang, the dark regions of your world have a tendency to fill with monsters. You could spam torches, or you could even use a construct you created for the purpose, but neither of those are fast, and their ranges are often limited. Literally flood-filling the area with light will require another approach.
+	</lightcast>
+	<nuker>
+		You have found a world with hollow mounds of earth from the roofs of which hang stalactites of ore. That sounds lucrative, but collecting said ore is often a hassle, as it is in a number of small disconnected patches, and manually mining it out as metal boxes pump forth monsters is proving very unpleasant. You need something more dramatic, and the stories of some others' ability to break the fabric of reality to achieve just this are now an inspiration.
+	</nuker>
+	<jump>
+		Gliders of leather are nice - except when they spontaneously fail and drop you to your death - but they only work so long as you can gain that initial altitude. You cannot carry saplings for giant trees everywhere you go, and you never seem to remember to refuel your more mundane flight devices, but perhaps there is another way. Hopefully never again will you need to hop three thousand meters, 8 blocks at a time.
+	</jump>
+	<superbuild>
+		Waking from a nightmare, featuring a distorted version of the world, populated not with creepers and spiders but noisy bomb flies and giant tunneling worms, you had a flash of inspiration. While noone in their right mind would want to recreate the entire dream, the ability to build across chasms or into the air is something you WOULD like to see. Fortunately, that is probably within your abilities.
+	</superbuild>
+	<chestclear>
+		Finding rooms with chests of loot is always a nice surprise - though slightly less pleasant when a hidden spawner arranges for an unexpected encounter - but actually TAKING all of the loot is something of a chore. And that does not even begin to cover cases like when the chests are inaccessible, such as the one you encountered behind a tripwire some maniac rigged to TNT. Being able to raid these things at a distance would be not only convenient, but prudent.
+	</chestclear>
+	<mobbait>
+		No matter what you try, going out at night seemingly inevitably results in you being tailed by a dozen assorted monsters who will not stop the chase until you or they are destroyed. You do not always have enough firepower on hand to make that a desirable gamble, and so deception might be in order instead - leaving something behind to distract them, giving you time to flee. One wonders if this works on all pursuers, regardless of how alien and distorted they may be...
+	</mobbait>
+	<name>
+
+	</name>
+	<name>
+
+	</name>
+	<name>
+
+	</name>
+</ability>
