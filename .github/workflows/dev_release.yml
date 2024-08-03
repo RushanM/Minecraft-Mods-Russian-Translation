@@ -9,6 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Клонирование репозитория
         uses: actions/checkout@v2
@@ -57,15 +60,15 @@ jobs:
         run: |
           for version in 1.7 1.12 1.16 1.17 1.18 1.19 1.20 1.21; do
             cd "resourcepack/$version"
-            zip -r ../Rus-For-Mods-$version-B-${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
+            zip -r ../Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ../../
-            zip -g Rus-For-Mods-$version-B-${{ steps.get_latest_release.outputs.next_version }}.zip resourcepack/pack.png resourcepack/PeruseOrBruise.txt
+            zip -g Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip resourcepack/pack.png resourcepack/PeruseOrBruise.txt
           done
           cd "Сборки/Monifactory/Перевод/"
-          zip -r ../../../Monifactory-Russian-Translation-B-${{ steps.get_latest_release.outputs.next_version }}.zip .
+          zip -r ../../../Monifactory-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
           cd "Сборки/The Ferret Business/Перевод/"
-          zip -r ../../../The-Ferret-Business-Russian-Translation-B-${{ steps.get_latest_release.outputs.next_version }}.zip .
+          zip -r ../../../The-Ferret-Business-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
 
       - name: Создание тега для выпуска
@@ -85,7 +88,7 @@ jobs:
         with:
           body: Это автоматический выпуск со всеми последними изменениями. Обратите внимание, что изменения, совершённые в этом выпуске, не проверены для выпуска и могут быть некорректными. О них НЕ НУЖНО сообщать разработчику, так как все проблемы скорее всего будут рано или поздно исправлены в следующих предварительных редакциях.
           tag_name: b${{ steps.get_latest_release.outputs.next_version }}
-          name: Предварительные редакции №${{ steps.get_latest_release.outputs.next_version }}
+          name: Бета-выпуск №${{ steps.get_latest_release.outputs.next_version }}
           draft: false
           prerelease: true
 
@@ -95,8 +98,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.7-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.7-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.7-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.7-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.12 в выпуск
@@ -105,8 +108,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.12-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.12-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.12-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.12-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.16 в выпуск
@@ -115,8 +118,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.16-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.16-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.17 в выпуск
@@ -125,8 +128,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.17-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.17-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.17-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.17-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.18 в выпуск
@@ -135,8 +138,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.18-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.18-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.18-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.18-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.19 в выпуск
@@ -145,8 +148,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.19-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.19-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.19-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.19-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.20 в выпуск
@@ -155,8 +158,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.20-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.20-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.20-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.20-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива ветки 1.21 в выпуск
@@ -165,8 +168,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.21-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.21-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива перевода Monifactory в выпуск
@@ -175,8 +178,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Monifactory-Russian-Translation-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Monifactory-Russian-Translation-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./Monifactory-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: Monifactory-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
       - name: Загрузка архива перевода «Хорькового бизнеса» в выпуск
@@ -185,6 +188,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./The-Ferret-Business-Russian-Translation-B-${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: The-Ferret-Business-Russian-Translation-B-${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./The-Ferret-Business-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: The-Ferret-Business-Russian-Translation-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
+
+      - name: Публикация на CurseForge и Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 374772
+          curseforge-token: ${{ secrets.CF_API_KEY }}
+
+          modrinth-id: GsoCvyCO
+          modrinth-featured: false
+          modrinth-unfeature-mode: false
+          modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
+        
+        dependencies: |
+          optional-dependency@0.1.0(optional)
