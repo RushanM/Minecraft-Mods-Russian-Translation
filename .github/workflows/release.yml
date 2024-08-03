@@ -5,16 +5,16 @@ on:
     branches:
       - beta
     paths:
-      - 'Набор ресурсов/'
-      - 'Сборки/Monifactory/Перевод/'
-      - 'Сборки/The Ferret Business/Перевод'
+      - 'Набор ресурсов/**'
+      - 'Сборки/Monifactory/Перевод/**'
+      - 'Сборки/The Ferret Business/Перевод/**'
   pull_request:
     branches:
       - beta
     paths:
       - 'Набор ресурсов/'
-      - 'Сборки/Monifactory/Перевод/'
-      - 'Сборки/The Ferret Business/Перевод'
+      - 'Сборки/Monifactory/Перевод/**'
+      - 'Сборки/The Ferret Business/Перевод/**'
 
 jobs:
   build:
