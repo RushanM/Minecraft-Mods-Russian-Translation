@@ -200,7 +200,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.7.x
           version: 1.7-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.7_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.7_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
@@ -223,7 +223,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.12.x
           version: 1.12-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.12_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.12_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.12 <1.13
@@ -246,7 +246,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.16.x
           version: 1.16-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.16_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.16_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.16 <1.17
@@ -269,7 +269,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.17.x
           version: 1.17-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.17_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.17_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.17 <1.18
@@ -292,7 +292,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.18.x
           version: 1.18-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.18_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.18_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.18 <1.19
@@ -315,7 +315,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.19.x
           version: 1.19-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.19_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.19_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.19 <1.20
@@ -338,7 +338,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.20.x
           version: 1.20-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.20_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.20_beta.md'
           loaders: minecraft
           game-versions: |
             >=1.20 <1.21
@@ -361,7 +361,7 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.21
           version: 1.21-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          changelog-file: 'Набор ресурсов\changelog_1.21_beta.md'
+          changelog-file: 'Набор ресурсов/changelog_1.21_beta.md'
           loaders: minecraft
           game-versions: |
             1.21
