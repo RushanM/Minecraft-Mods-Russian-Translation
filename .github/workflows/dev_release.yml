@@ -202,5 +202,8 @@ jobs:
           modrinth-featured: false
           modrinth-token: ${{ secrets.MODRINTH_API_KEY }}
         
+          files: |
+            ./Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
+
           dependencies: |
             optional-dependency@0.1.0(optional)
