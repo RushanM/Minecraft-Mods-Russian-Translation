@@ -13,7 +13,7 @@ on:
       - 'Набор ресурсов/**'
   workflow_dispatch:
     inputs:
-      feature_flag:
+      do_not_publish:
         description: 'Не публиковать на сайты'
         required: true
         default: 'false'
@@ -184,7 +184,7 @@ jobs:
           asset_content_type: application/zip
 
       - name: Публикация 1.7 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -208,7 +208,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.12 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -232,7 +232,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.16 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -256,7 +256,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.17 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -280,7 +280,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.18 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -304,7 +304,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.19 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -328,7 +328,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.20 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -352,7 +352,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.21 на CurseForge и Modrinth
-        if: inputs.feature_flag == 'false'
+        if: ${{ inputs.do_not_publish == 'false' }}
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
