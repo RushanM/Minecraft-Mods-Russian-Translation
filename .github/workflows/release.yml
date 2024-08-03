@@ -80,7 +80,7 @@ jobs:
           zip -r ../../../Monifactory-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
           cd "Сборки/The Ferret Business/Перевод/"
-          zip -r ../../../The-Ferret-Ausiness-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+          zip -r ../../../The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
 
       - name: Создание тега для выпуска
@@ -203,6 +203,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./The-Ferret-Ausiness-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: The-Ferret-Ausiness-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_path: ./The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
