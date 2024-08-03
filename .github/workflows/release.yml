@@ -217,7 +217,10 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.21
           version: 1.21-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          loaders: ${undefined}
+          loaders: |
+            fabric
+            forge
+            quilt
           game-versions: |
             1.21
           dependencies: |
