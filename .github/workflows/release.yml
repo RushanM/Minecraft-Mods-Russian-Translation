@@ -31,7 +31,7 @@ jobs:
       - name: Установка утилиты ZIP
         run: sudo apt-get install -y zip
 
-      - name: Проверка последнего предварительного выпуска
+      - name: Проверка последнего альфа-выпуска
         id: get_latest_release
         uses: actions/github-script@v6
         with:
@@ -74,7 +74,7 @@ jobs:
             cd "Набор ресурсов/$version"
             zip -r ../../Rus-For-Mods-$version-A${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ../../
-            zip -j -g Rus-For-Mods-$version-A${{ steps.get_latest_release.outputs.next_version }}.zip "Набор ресурсов/pack.png" "Набор ресурсов/PeruseOrBruise.txt"
+            zip -j -g Rus-For-Mods-$version-A${{ steps.get_latest_release.outputs.next_version }}.zip "Набор ресурсов/pack.png" "Набор ресурсов/peruse_or_bruise.txt"
           done
           cd "Сборки/Monifactory/Перевод/"
           zip -r ../../../Monifactory-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
@@ -98,7 +98,10 @@ jobs:
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
         with:
-          body: Это автоматический выпуск со всеми последними изменениями. Обратите внимание, что изменения, совершённые в этом выпуске, не проверены для выпуска и могут быть некорректными. О них НЕ НУЖНО сообщать разработчику, так как все проблемы скорее всего будут рано или поздно исправлены в следующих предварительных редакциях.
+          body: |
+            Это автоматический альфа-выпуск всех переводов проекта. В отличие от бета-выпуска, качество переводов здесь может быть низким, так как включены все переводы, вне зависимости от их текущего уровня качества. Благодаря этому, выпуск охватывает более широкий спектр модов, сборок модов и наборов шейдеров.
+
+            Этот выпуск предназначен для постоянного тестирования и отладки.
           tag_name: a${{ steps.get_latest_release.outputs.next_version }}
           name: Альфа-выпуск №${{ steps.get_latest_release.outputs.next_version }}
           draft: false
