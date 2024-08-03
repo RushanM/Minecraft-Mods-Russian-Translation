@@ -4,6 +4,17 @@ on:
   push:
     branches:
       - beta
+    paths:
+      - 'resourcepack/'
+      - 'Сборки/Monifactory/Перевод/'
+      - 'Сборки/The Ferret Business/Перевод'
+  pull_request:
+    branches:
+      - beta
+    paths:
+      - 'resourcepack/'
+      - 'Сборки/Monifactory/Перевод/'
+      - 'Сборки/The Ferret Business/Перевод'
 
 jobs:
   build:
@@ -212,7 +223,6 @@ jobs:
           loaders: |
             fabric
             forge
-            neoforge
             quilt
 
           game-versions: |
