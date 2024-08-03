@@ -12,11 +12,6 @@ on:
     paths:
       - 'Набор ресурсов/**'
   workflow_dispatch:
-    inputs:
-      do_not_publish:
-        description: 'Публиковать на сайты'
-        required: true
-        type: boolean
 
 jobs:
   build:
@@ -180,13 +175,6 @@ jobs:
           asset_name: Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
 
-  publish:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    if: ${{ inputs.do_not_publish }}
-    steps:
       - name: Публикация 1.7 на CurseForge и Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
