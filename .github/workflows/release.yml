@@ -217,12 +217,10 @@ jobs:
           name: Бета-версия №${{ steps.get_latest_release.outputs.next_version }} для MC 1.21
           version: 1.21-B${{ steps.get_latest_release.outputs.next_version }}
           version-type: beta
-          loaders: |
-            fabric
-            forge
-            quilt
+          loaders: minecraft
           game-versions: |
             1.21
+          game-version-filter: releases
           dependencies: |
             better-resource-pack-sorting(optional){modrinth:SpY2M2I9}{curseforge:556855}#(ignore:github)
             dynamicpack(optional){modrinth:IT6fZgjc}#(ignore:github)
