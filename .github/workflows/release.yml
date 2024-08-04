@@ -62,7 +62,7 @@ jobs:
 
             core.setOutput('next_version', next_version);
 
-      - name: Создание архивов редакций для каждой из веток
+      - name: Создание архивов выпусков для каждой из версий игр
         run: |
           for version in 1.7 1.12 1.16 1.17 1.18 1.19 1.20 1.21; do
             cd "Набор ресурсов/$version"
