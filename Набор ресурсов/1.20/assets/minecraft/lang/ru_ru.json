@@ -237,8 +237,6 @@
     "modmenu.support.patreon": "Поддержать через Patreon",
     "rpo.modsru": "Настройки русского перевода модов от Дефлекты",
     "rpo.modsru.general": "Общие настройки",
-    "rpo.modsru.general.betaTranslations": "Недоделанные переводы",
-    "rpo.modsru.general.betaTranslations.tooltip": "Включить абсолютно все переводы набора без оглядки на их недоделанность",
     "rpo.modsru.general.modsCreativeTabsStyle": "Стиль вкладок модов в инвентаре творческого режима",
     "rpo.modsru.general.modsCreativeTabsStyle.items": "[Субъект]",
     "rpo.modsru.general.modsCreativeTabsStyle.modItems": "[Мод]: [Субъект]",

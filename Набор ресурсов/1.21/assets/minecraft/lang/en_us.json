@@ -3,8 +3,6 @@
     "minecraft.resource_pack.modsru_name": "Mods Russian Translations",
     "rpo.modsru": "Deflecta's Mods Russian Translations Settings",
     "rpo.modsru.general": "General Settings",
-    "rpo.modsru.general.betaTranslations": "Unfinished Translations",
-    "rpo.modsru.general.betaTranslations.tooltip": "Enable all translations in the pack regardless of their completeness",
     "rpo.modsru.general.modsCreativeTabsStyle": "Mod Tabs Style in Creative Inventory",
     "rpo.modsru.general.modsCreativeTabsStyle.items": "[Subject]",
     "rpo.modsru.general.modsCreativeTabsStyle.modItems": "[Mod]: [Subject]",
