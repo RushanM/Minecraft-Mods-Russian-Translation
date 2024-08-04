@@ -82,6 +82,7 @@ gui.slider.saturation.tooltip=Насыщенность
 gui.slider.brightness.tooltip=Яркость
 
 # Библиотека
+
 gui.library.create=Создать запись
 gui.library.entry.default=Новая запись
 gui.library.entry=Запись библиотеки
@@ -100,7 +101,7 @@ gui.tint=Оттенок %s
 gui.tint.edit=Настройка оттенка %s
 gui.hex=Hex
 gui.texture=Текстура
-gui.createdby=Создан
+gui.createdby=Автор:
 
 tails.export.success=Скин успешно сохранён в %s
 tails.upload.unavailable=Эта функция в разработке!
