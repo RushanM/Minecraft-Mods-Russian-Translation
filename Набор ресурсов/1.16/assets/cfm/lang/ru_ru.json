@@ -475,7 +475,7 @@
     "container.cfm.freezer": "Морозильная камера",
     "container.cfm.fridge": "Холодильник",
     "container.cfm.kitchen_drawer": "Кухонный ящик",
-    "container.cfm.mail_box": "%s - %s",
+    "container.cfm.mail_box": "%s — %s",
     "container.cfm.post_box": "Почтовый ящик",
     "gui.button.cfm.back": "Назад",
     "gui.button.cfm.cancel": "Отмена",

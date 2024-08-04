@@ -312,10 +312,10 @@ item.tconstruct.nuggets.pigiron.name=Кусочек свиножелеза
 item.tconstruct.nuggets.alubrass.name=Кусочек алюминиевой латуни
 
 item.tconstruct.pattern.blank=Пустая схема
-item.tconstruct.pattern.name=Схема - %s
+item.tconstruct.pattern.name=Схема — %s
 item.tconstruct.cast.blank=Пустая отливка
-item.tconstruct.cast.name=Отливка - %s
-item.tconstruct.clay_cast.name=Глиняная отливка - %s
+item.tconstruct.cast.name=Отливка — %s
+item.tconstruct.clay_cast.name=Глиняная отливка — %s
 item.tconstruct.cast_custom.ingot.name=Отливка слитка
 item.tconstruct.cast_custom.nugget.name=Отливка самородка
 item.tconstruct.cast_custom.gem.name=Отливка камня
@@ -489,18 +489,11 @@ fluid.tconstruct.steel.name=Расплавленная сталь
 fluid.tconstruct.aluminum.name=Жидкий алюминий
 fluid.tconstruct.alubrass.name=Жидкая алюминиевая латунь
 
-#################
-#    Зельки     #
-#################
+# Зелья
 
 potion.carry=Вы несёте кого-то
 
-#################
-#   Материалы   #
-#################
-# material.<identifier>.name
-# material.<identifier>.prefix
-# material.wood.prefix=Wooden %s - Used for stuff like "Wooden Pickaxe" if no specific name is given
+# Материалы
 
 material.wood.name=Дерево
 material.wood.prefix=Деревянн. %s
@@ -629,7 +622,7 @@ stat.shaft.name=Древко
 stat.shaft.modifier.name=Модификатор
 stat.shaft.modifier.desc=Каждой стреле нужен свой стержень. От материала зависит количество получаемых стрел.\nИтоговое количество умножается на это число.
 stat.shaft.ammo.name=Снаряды
-stat.shaft.ammo.desc=Точное количество стрел.\nЭто - число добавляемых снарядов.
+stat.shaft.ammo.desc=Точное количество стрел.\nЭто — число добавляемых снарядов.
 
 stat.fletching.name=Оперение
 stat.fletching.accuracy.name=Точность
@@ -640,11 +633,8 @@ stat.fletching.modifier.desc=Сколько стрел можно с ним со
 stat.projectile.name=Снаряд
 stat.projectile.ammo.name=Аммуниция
 
-##############
-#   Traits   #
-##############
+# Свойства
 
-# traits are also modifiers, they use the same prefix so they don't have to be localized twice
 modifier.alien.name=Чуждость
 modifier.alien.desc=§oЧто-то не так с характеристиками...§r\n..как будто они меняются! Может, время подскажет?
 modifier.aquadynamic.name=Гидродинамика
@@ -713,7 +703,7 @@ modifier.slimey.desc=§oФююю!§r\nНадеюсь, оно смоется.
 modifier.spiky.name=Колючесть
 modifier.spiky.desc=§oНа 200% лучше с иглами!§r\nБлокирование наносит урон врагам.
 modifier.splintering.name=Боевой раж
-modifier.splintering.desc=§oСувенир для врагов!§r\nБольше ударов - больше урон.
+modifier.splintering.desc=§oСувенир для врагов!§r\nБольше ударов — больше урон.
 modifier.splinters.name=Занозистость
 modifier.splinters.desc=§oОй!§r\nСмотрите, не получите занозу!
 modifier.squeaky.name=Губчатость
@@ -820,21 +810,21 @@ item.tconstruct.hatchet.desc=Топор рубит дерево и режет л
 item.tconstruct.mattock.desc=Мотыготопор — это инструмент фермера. Эффективен на дереве, грязи и траве. Довольно тяжёлый.\nПКМ взрыхляет землю.
 item.tconstruct.broadsword.desc=Широкий меч — универсальное оружие. Широкие атаки позволяют держать врагов на расстоянии.\nМожно резать паутину!
 item.tconstruct.longsword.desc=Меч — оружие наступления. Часто использется для скачков в центр битвы на полной скорости.\nПКМ — выпад.
-item.tconstruct.rapier.desc=Рапира это специальное оружие, предназначенное для быстрых атак.\nПКМ - отскок
-item.tconstruct.frypan.desc=Сковорода — тяжёлое оружие с сильноё отдачей. Также она делает ДЗИНЬ!\nПКМ - сильный удар
+item.tconstruct.rapier.desc=Рапира это специальное оружие, предназначенное для быстрых атак.\nПКМ — отскок
+item.tconstruct.frypan.desc=Сковорода — тяжёлое оружие с сильноё отдачей. Также она делает ДЗИНЬ!\nПКМ — сильный удар
 item.tconstruct.battlesign.desc=Боевая табличка в основном используется в защите.\nМожет быть использована как щит, отражает стрелы.
 item.tconstruct.hammer.desc=Молот — мощный инструмент добычи. Он рушит блоки в большом радиусе.\nТакже эффективен против нежити.
 item.tconstruct.lumberaxe.desc=Большой топор предназначен для промышленной рубки дерева. Может срубать деревья полностью.\nЛесоповал!
 item.tconstruct.excavator.desc=Большая лопата направлена на глубокое рытьё. Она выкапывает огромные массы почвы, песка и снега.\nТерраформинг!
-item.tconstruct.cleaver.desc=Гигантский меч - мощное оружие наступления. Наносит огромный урон, но очень тяжел.\nУрон реально большой.\nТяжёлый, нужны обе руки! Зато рубит головы.
-item.tconstruct.battleaxe.desc=Боевой топор - тяжёлое оружие, предназначенное для берсеркеров. Способен сносить деревья и запускать врагов в воздух.\nПКМ - берсерк
+item.tconstruct.cleaver.desc=Гигантский меч — мощное оружие наступления. Наносит огромный урон, но очень тяжел.\nУрон реально большой.\nТяжёлый, нужны обе руки! Зато рубит головы.
+item.tconstruct.battleaxe.desc=Боевой топор — тяжёлое оружие, предназначенное для берсеркеров. Способен сносить деревья и запускать врагов в воздух.\nПКМ — берсерк
 item.tconstruct.scythe.desc=Коса предназначена для жнецов. Очень эффективно срубает флору и фауну в большом радиусе.\nПриносит смерть как растениям, так и врагам.
 item.tconstruct.shuriken.desc=Сюрикен это быстрое метательное оружие. Делается сразу много, но у него малый урон.\nМожно метать левой рукой.
-item.tconstruct.shortbow.desc=Короткий лук - быстрое и мобильное оружие. Он позволяет быстро передвигаться при натянутой тетиве, а также быстро стрелять.\nИспользует стрелы инженера.
-item.tconstruct.longbow.desc=Длинный лук - сильное дальнобойное оружие. Наносит много урона, но менее мобилен, чем его короткий собрат.\nИспользует стрелы инженера.
-item.tconstruct.arrow.desc=Стрелы - амуниция для луков инженера. В одной пачке может быть много стрел, и кроме того, их можно модифицировать.
-item.tconstruct.crossbow.desc=Арбалет - самое медленное, но самое сильное дальнобойное оружие. Должен быть заряжен перед выстрелом, но из него можно выстрелить в любое время после зарядки.\nИспользует болты инженера.
-item.tconstruct.bolt.desc=Болты - амуниция для арбалетов инженера. В одной пачке может быть много болтов, и кроме того, их можно модифицировать.\nЧастично пробивают броню врагов.
+item.tconstruct.shortbow.desc=Короткий лук — быстрое и мобильное оружие. Он позволяет быстро передвигаться при натянутой тетиве, а также быстро стрелять.\nИспользует стрелы инженера.
+item.tconstruct.longbow.desc=Длинный лук — сильное дальнобойное оружие. Наносит много урона, но менее мобилен, чем его короткий собрат.\nИспользует стрелы инженера.
+item.tconstruct.arrow.desc=Стрелы — амуниция для луков инженера. В одной пачке может быть много стрел, и кроме того, их можно модифицировать.
+item.tconstruct.crossbow.desc=Арбалет — самое медленное, но самое сильное дальнобойное оружие. Должен быть заряжен перед выстрелом, но из него можно выстрелить в любое время после зарядки.\nИспользует болты инженера.
+item.tconstruct.bolt.desc=Болты — амуниция для арбалетов инженера. В одной пачке может быть много болтов, и кроме того, их можно модифицировать.\nЧастично пробивают броню врагов.
 
 # Подсказки
 
