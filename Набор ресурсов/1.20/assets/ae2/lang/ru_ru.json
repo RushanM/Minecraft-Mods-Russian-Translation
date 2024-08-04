@@ -6,5 +6,10 @@
     "achievement.ae2.Compass": "Охотник за метеоритами",
     "achievement.ae2.CraftingTerminal": "Стол (по)больше",
     "gui.ae2.CreativeTab": "Applied Energistics 2",
-    "gui.ae2.CreativeTabFacades": "Applied Energistics 2: Фасады"
+    "gui.ae2.CreativeTabFacades": "Applied Energistics 2: Фасады",
+    "item.ae2.calculation_processor_press": "Вычислительная пресс-форма для прессователя",
+    "item.ae2.engineering_processor_press": "Инженерная пресс-форма для прессователя",
+    "item.ae2.logic_processor_press": "Логическая пресс-форма для прессователя",
+    "item.ae2.name_press": "Именующая пресс-форма для прессователя",
+    "item.ae2.silicon_press": "Кремниевая пресс-форма для прессователя"
 }
