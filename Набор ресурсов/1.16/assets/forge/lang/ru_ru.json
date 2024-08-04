@@ -156,7 +156,7 @@
     "forge.configgui.zoomInMissingModelTextInGui.tooltip": "После выключения, текст отсутствующей модели в интерфейсе будет помещаться в слот",
     "forge.container.enchant.limitedEnchantability": "Ограниченная зачаровываемость",
     "forge.controlsgui.alt": "ALT + %s",
-    "forge.controlsgui.control": "CTRL + %s",
+    "forge.controlsgui.control": "Ctrl + %s",
     "forge.controlsgui.control.mac": "CMD + %s",
     "forge.controlsgui.shift": "SHIFT + %s",
     "forge.entity_gravity": "Гравитация сущности",

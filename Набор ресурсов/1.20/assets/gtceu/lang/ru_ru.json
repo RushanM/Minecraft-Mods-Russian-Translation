@@ -3743,7 +3743,6 @@
     "gtceu.top.mode.import": "Импортирование",
     "gtceu.top.obstructed_structure": "Неверная структура",
     "gtceu.top.primitive_pump_production": "Производит:",
-    "gtceu.top.progress_computation": "/%s CWU",
     "gtceu.top.progress_sec": "/%s сек.",
     "gtceu.top.progress_tick": "/%s т",
     "gtceu.top.recipe_output": "Результаты рецептов:",
