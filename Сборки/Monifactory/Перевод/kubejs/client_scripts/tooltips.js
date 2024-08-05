@@ -131,7 +131,7 @@ ItemEvents.tooltip(tooltip => {
 
     // Различное
 
-    tooltip.add('kubejs:eternal_catalyst', Text.darkGray('Всмотрись в бездну...'))
+    tooltip.add('kubejs:eternal_catalyst', Text.darkGray('Всмотрись в бездну…'))
     tooltip.add('kubejs:infinity_catalyst', Text.darkGray('Одно есть всё, и всё есть одно.'))
     tooltip.add('gtceu:infinity_ingot', Text.darkGray('Ярость вселенной в ваших руках.'))
     tooltip.add('gtceu:monium_ingot', Text.darkGray('Спокойствие вселенной в ваших руках.'))

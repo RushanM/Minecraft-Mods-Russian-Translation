@@ -616,7 +616,7 @@
 				tag: { }
 			}
 			id: "5A83E1115F965393"
-			subtitle: "Упс... всё погасло!"
+			subtitle: "Упс… Всё погасло!"
 			tasks: [{
 				id: "714C125E0ED99334"
 				item: {
@@ -856,7 +856,7 @@
 			]
 			id: "1175ED9EF0AB82F6"
 			shape: "hexagon"
-			subtitle: "АЕ2 везде... почти"
+			subtitle: "АЕ2 везде… почти"
 			tasks: [{
 				id: "564AFB42CC6805FF"
 				item: {

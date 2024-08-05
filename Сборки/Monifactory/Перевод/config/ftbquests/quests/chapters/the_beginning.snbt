@@ -636,7 +636,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Медь и никель... ели вареники?"
+			subtitle: "Медь и никель… ели вареники?"
 			tasks: [{
 				id: "708858A9BC1F9ABE"
 				item: "gtceu:cupronickel_ingot"
@@ -2009,7 +2009,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "...и посевы тоже, полагаю."
+			subtitle: "…и посевы тоже, полагаю."
 			tasks: [{
 				id: "4ED486548C376854"
 				item: "thermal:machine_insolator"
