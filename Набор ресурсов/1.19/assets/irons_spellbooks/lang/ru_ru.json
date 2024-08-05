@@ -158,7 +158,7 @@
     "item.irons_spellbooks.eldritch_manuscript_desc": "Используйте для изучения заклинаний тьмы",
     "item.irons_spellbooks.ancient_knowledge_fragment": "Фрагмент древнего знания",
     "item.irons_spellbooks.autoloader_crossbow": "Арбалет с автозарядкой",
-    "item.irons_spellbooks.autoloader_crossbow.desc": "Автоматически заряжает следующий доступный снаряд в инвентаре. Нажмите SHIFT + ЛКМ для отмены",
+    "item.irons_spellbooks.autoloader_crossbow.desc": "Автоматически заряжает следующий доступный снаряд в инвентаре. Нажмите ЛКМ при зажатой Shift, чтобы отменить.",
     "item.irons_spellbooks.scroll_pouch": "Мешочек со свитками",
     "item.irons_spellbooks.furled_map": "Свёрнутая карта",
     "item.irons_spellbooks.furled_map_descriptor_framing": "[%s]",

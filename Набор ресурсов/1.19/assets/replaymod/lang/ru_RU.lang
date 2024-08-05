@@ -301,8 +301,8 @@ replaymod.gui.ingame.menu.zoomout=Отдалить
 
 replaymod.gui.ingame.unnamedmarker=Безымянный маркер события
 replaymod.gui.ingame.autoactivating=Эта привязка клавиш может автоматически активироваться в подходящее время.
-replaymod.gui.ingame.autoactivating.disable=Ctrl+ЛКМ — отключить автоматическую активацию.
-replaymod.gui.ingame.autoactivating.enable=Ctrl+ЛКМ — включить автоматическую активацию.
+replaymod.gui.ingame.autoactivating.disable=Нажмите ЛКМ при зажатой Ctrl, чтобы отключить автоматическую активацию.
+replaymod.gui.ingame.autoactivating.enable=Нажмите ЛКМ при зажатой Ctrl, чтобы включить автоматическую активацию.
 replaymod.gui.ingame.first_keyframe_not_at_start_warning=Заданный первый ключевой кадр находится не в 00:00.\n\nОбычно это признак того, что вы не поняли,\nкак работает временная шкала видео (нижняя).\n\nВерхняя шкала определяет текущий момент повтора,\nа нижняя — текущий момент создаваемого видео.\nВидео всегда начинается с 00:00! Если первый ключевой кадр\nне в 00:00, видео будет казаться зависшим до этого кадра.
 
 #Clear Keyframe Callback

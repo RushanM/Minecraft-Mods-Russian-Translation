@@ -3587,7 +3587,7 @@
     "gtceu.oc.tooltip.0": "Мин.: %s",
     "gtceu.oc.tooltip.1": "ЛКМ для поднятие ускорения",
     "gtceu.oc.tooltip.2": "ПКМ для опускания ускорения",
-    "gtceu.oc.tooltip.3": "СКМ для сброса",
+    "gtceu.oc.tooltip.3": "Нажмите СКМ, чтобы сбросить",
     "gtceu.oc.tooltip.4": "Зажмите Shift для смены Идеального ускорения",
     "gtceu.ore_washer": "Рудопромывочная машина",
     "gtceu.packer": "Упаковщик",
