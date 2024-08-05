@@ -1468,7 +1468,7 @@
     "twilightforest.config.disable_mining": "Отключить шахтовое ядро",
     "twilightforest.config.disable_mining.tooltip": "Если включено, шахтовое ядро не будет функционировать",
     "twilightforest.config.disable_skull_candles": "Отключить создание свечей в черепах",
-    "twilightforest.config.disable_skull_candles.tooltip": "Если включено, отключает возможность создать свечи в черепах, щёлкая правой кнопкой мыши с свечой по обычному черепу. Включите это, если у вас возникают проблемы с конфликтом модов по какой-либо причине.",
+    "twilightforest.config.disable_skull_candles.tooltip": "Если включено, отключает возможность создать свечи в черепах, щёлкая ПКМ с свечой по обычному черепу. Включите это, если у вас возникают проблемы с конфликтом модов по какой-либо причине.",
     "twilightforest.config.disable_sorting": "Отключить ядро сортировки",
     "twilightforest.config.disable_sorting.tooltip": "Если включено, ядро сортировки не будет функционировать",
     "twilightforest.config.disable_time": "Отключить ядро времени",

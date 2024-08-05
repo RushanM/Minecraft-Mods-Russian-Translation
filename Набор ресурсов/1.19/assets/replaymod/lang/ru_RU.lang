@@ -184,7 +184,7 @@ replaymod.gui.editkeyframe.camyaw=Рысканье
 replaymod.gui.editkeyframe.camroll=Крен
 replaymod.gui.editkeyframe.timelineposition=Временная шкала
 replaymod.gui.editkeyframe.markername=Название
-replaymod.gui.editkeyframe.timestamp=Отметка времени
+replaymod.gui.editkeyframe.timestamp=Метка времени
 
 replaymod.gui.editkeyframe.interpolator=Интерполяция
 replaymod.gui.editkeyframe.interpolator.default.name=По умолчанию
