@@ -1,0 +1,11 @@
+{
+  "tool": "tconstruct:sky_staff",
+  "text": [
+    { "text": "Skyslime staffs leave a lot of room for modification. Grants hire drawspeed at the cost of projectile power." }
+  ],
+  "properties": [
+    "Low Durability",
+    "5 Upgrade Slots",
+    "2 Ability Slots"
+  ]
+}

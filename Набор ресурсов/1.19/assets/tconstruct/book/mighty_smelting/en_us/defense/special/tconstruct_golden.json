@@ -1,0 +1,15 @@
+{
+  "modifier_id": "tconstruct:golden",
+  "text": [
+    {
+      "text": "Piglins love that drip."
+    }
+  ],
+  "effects": [
+    "Piglins will not attack you",
+    "Armor can be repaired with gold",
+    "Single level",
+    "Requires 1 defense slot",
+    "Does not work on plate armor"
+  ]
+}

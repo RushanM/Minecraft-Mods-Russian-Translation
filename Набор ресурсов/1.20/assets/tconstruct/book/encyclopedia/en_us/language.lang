@@ -1,0 +1,56 @@
+intro=Introduction
+
+tools=Tools
+tools.group_small=Small Tools
+tools.group_large=Broad Tools
+tools.group_staff=Staffs
+armor=Armor
+
+materials_harvest_1=Tier 1 Melee Harvest Materials
+materials_harvest_1.subtext=Tier 1 materials used for creating melee weapons or harvest tools.
+materials_harvest_2=Tier 2 Melee Harvest Materials
+materials_harvest_2.subtext=Tier 2 materials used for creating melee weapons or harvest tools.
+materials_harvest_3=Tier 3 Melee Harvest Materials
+materials_harvest_3.subtext=Tier 3 materials used for creating melee weapons or harvest tools.
+materials_harvest_4=Tier 4 Melee Harvest Materials
+materials_harvest_4.subtext=Tier 4 materials used for creating melee weapons or harvest tools.
+materials_ranged_1=Tier 1 Ranged Materials
+materials_ranged_1.subtext=Tier 1 materials used for creating ranged weapons.
+materials_ranged_2=Tier 2 Ranged Materials
+materials_ranged_2.subtext=Tier 2 materials used for creating ranged weapons.
+materials_ranged_3=Tier 3 Ranged Materials
+materials_ranged_3.subtext=Tier 3 materials used for creating ranged weapons.
+materials_ranged_4=Tier 4 Ranged Materials
+materials_ranged_4.subtext=Tier 4 materials used for creating ranged weapons.
+materials_skull=Slimeskulls
+materials_skull.subtext=This section describes the effects of all types of skulls in creating a slimeskull
+
+upgrades=Upgrades
+upgrades.subtext=Each tool gets a limited total number of upgrades slots.
+upgrades.group_general=General
+upgrades.group_harvest=Harvest
+upgrades.group_weapon=Melee
+upgrades.group_ranged=Ranged
+upgrades.group_damage=Damage Boost
+upgrades.group_armor=Armor
+upgrades.feather_falling=Feather Fall
+
+defense=Defense
+defense.subtext=Instead of material traits, armor will include defense slots to improve protection.
+defense.group_protection=Protection
+defense.group_special=Special
+
+slotless=Slotless
+slotless.subtext=Slotless modifiers do not require any slots.
+slotless.group_general=General
+slotless.group_bonus=Bonus
+
+abilities=Abilities
+abilities.subtext=Ability modifiers have fewer slots than upgrades, but are stronger per slot.
+abilities.group_general=General
+abilities.group_harvest=Harvest
+abilities.group_weapon=Weapon
+abilities.group_ranged=Ranged
+abilities.group_interact=Interaction
+abilities.group_armor=Armor
+
