@@ -466,8 +466,8 @@ item.tconstruct.Fletching.slime.name=Слизневое оперение
 item.tconstruct.Fletching.blueslime.name=Слизневое оперение
 item.tconstruct.Fletching.slimeleaf.name=Оперение из слизневого листа
 
-item.tconstruct.manual.beginner.name=Материалы и Вы: Том 1
-item.tconstruct.manual.toolstation.name=Материалы и Вы: Том 2
+item.tconstruct.manual.beginner.name=Материалы и вы: Том 1
+item.tconstruct.manual.toolstation.name=Материалы и вы: Том 2
 item.tconstruct.manual.smeltery.name=Могучая металлургия
 item.tconstruct.manual.diary.name=Дневник инженера
 item.tconstruct.manual.weaponry.name=Вооружение инженера
@@ -678,7 +678,7 @@ achievement.tconstruct.dualConvenience=Двойное удобство
 achievement.tconstruct.doingItWrong=Сделайте это неправильно
 achievement.tconstruct.betterCrafting=Создание получше
 
-achievement.tconstruct.beginner.desc=Откройте руководство "Материалы и Вы"
+achievement.tconstruct.beginner.desc=Откройте руководство "Материалы и вы"
 achievement.tconstruct.pattern.desc=Создайте Вашу первую пустую схему
 achievement.tconstruct.tinkerer.desc=Создайте Ваш первый инструмент
 achievement.tconstruct.proTinkerer.desc=Создайте Ваш первый улучшенный инструмент

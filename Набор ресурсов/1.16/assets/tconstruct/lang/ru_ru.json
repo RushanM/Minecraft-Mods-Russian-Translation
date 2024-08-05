@@ -159,7 +159,7 @@
   "item.tconstruct.knightslime_ingot.tooltip": "Склизкая, металлическая, но в то же время каменная? Очаровательно!",
   "item.tconstruct.knightslime_nugget": "Кусочек рыцарской слизи",
 
-  "item.tconstruct.materials_and_you": "Материалы и Вы",
+  "item.tconstruct.materials_and_you": "Материалы и вы",
   "item.tconstruct.materials_and_you.tooltip": "Вводная книга по инструментам и материалам\nby Selena",
   "item.tconstruct.encyclopedia": "Литейная энциклопедия",
   "item.tconstruct.encyclopedia.tooltip": "Справочник, который необходим каждому литейщику\nby Selena",
@@ -1977,7 +1977,7 @@
 
    "_comment": "Tool Advancements",
   "advancements.tconstruct.tools.materials_and_you.title": "Литейщик за работой",
-  "advancements.tconstruct.tools.materials_and_you.description": "Создайте Материалы и Вы, вводную книгу в Tinkers' Construct",
+  "advancements.tconstruct.tools.materials_and_you.description": "Создайте Материалы и вы, вводную книгу в Tinkers' Construct",
   "advancements.tconstruct.tools.part_builder.title": "Формировать частей",
   "advancements.tconstruct.tools.part_builder.description": "Создайте формировать частей - ваш первый шаг к изготовлению инструментов",
   "advancements.tconstruct.tools.make_part.title": "Части инструментов",
