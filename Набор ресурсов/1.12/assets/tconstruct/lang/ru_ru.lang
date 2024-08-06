@@ -675,7 +675,7 @@ modifier.holy.name=Святой
 modifier.holy.desc=§oСветится!§r\nНаносит урон нежити.
 modifier.holy.extra=modifier.smite.extra
 modifier.insatiable.name=Ненасытность
-modifier.insatiable.desc=§oПроглатывай!§r\nВ бою Вы наносите всё больше и больше урона за потери прочности.
+modifier.insatiable.desc=§oПроглатывай!§r\nВ бою вы наносите всё больше и больше урона за потери прочности.
 modifier.jagged.name=Зазубренность
 modifier.jagged.desc=§oДвигаюсь, как зазубренный!§r\nКаждая потерянная единица прочности увеличивает урон.
 modifier.jagged.extra=Урон от зазубрин: +%s
@@ -912,7 +912,7 @@ gui.stenciltable.name=Стол для вырезки схем
 
 gui.partbuilder.name=Стол для вырезки частей
 gui.partcrafter.name=Сборщик частей
-gui.partbuilder.info=Здесь Вы можете вырезать части инструментов из нужных материалов.\n\nЧтобы вырезать часть, положите схему в левый слот и материал в правый.
+gui.partbuilder.info=Здесь вы можете вырезать части инструментов из нужных материалов.\n\nЧтобы вырезать часть, положите схему в левый слот и материал в правый.
 gui.partbuilder.material_value=Затраты: %s %s
 
 # Инженерная станция/Кузница

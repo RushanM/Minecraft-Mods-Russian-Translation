@@ -1,5 +1,5 @@
 {
-  "title": "Создание формирователя частей",
+  "grid_size": "small",
   "recipe": "tconstruct:tables/part_builder",
-  "grid_size": "small"
+  "title": "Создание сборщика деталей"
 }

@@ -312,8 +312,8 @@ item.isisHealing.line1=Регенерация I: восстанавливает
 item.isisHealing.line2=здоровье, когда держите
 item.isisHealing.line3=Регенерация I
 
-item.anubisMercy.line1=Возвращение I: Телепортирует Вас обратно
-item.anubisMercy.line2=на точку появления, когда Вы умираете
+item.anubisMercy.line1=Возвращение I: Телепортирует вас обратно
+item.anubisMercy.line2=на точку появления, когда вы умираете
 item.anubisMercy.line3=Возвращение I
 
 item.neithsAudacity.line1=Двойной выстрел I: выпускает

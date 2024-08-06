@@ -16,6 +16,6 @@ upgrades.group_damage=Увелич. урон
 upgrades.group_armor=Для брони
 
 slotless=Бесслотовые модификаторы
-slotless.subtext=Эти модификаторы не требуют слотов для применения, Вы можете иметь их все, если хотите.
+slotless.subtext=Эти модификаторы не требуют слотов для применения, вы можете иметь их все, если хотите.
 slotless.group_slotless=Бесслотовые
 slotless.group_bonus_upgrades=Улучшения++
