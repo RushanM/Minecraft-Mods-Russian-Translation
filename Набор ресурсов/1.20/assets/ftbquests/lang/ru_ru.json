@@ -83,7 +83,7 @@
     "ftbquests.chapter.image.align": "Выравнивание",
     "ftbquests.chapter.image.alpha": "Прозрачность изображения",
     "ftbquests.chapter.image.click": "Нажатие",
-    "ftbquests.chapter.image.click.tooltip": "Предоставьте настраиваемую функциональность при нажатии на изображение:\n• Откройте страницу или файл с http://, https:// или file:/// URL\n• Выполните команду с «command:<cmd>»\n• Перейдите к квесту с «#<идентификатор_квеста>» (используйте «Скопировать идентификатор», чтобы получить идентификатор квеста)\n• Запустите CustomClickEvent (для KubeJS или других модификаций) с 'custom:<resource_location>'",
+    "ftbquests.chapter.image.click.tooltip": "Предоставьте настраиваемую функциональность при нажатии на изображение:\n• Откройте страницу или файл с http://, https:// или file:/// URL\n• Выполните команду с «command:<cmd>»\n• Перейдите к квесту с «#<идентификатор_квеста>» (используйте «Скопировать идентификатор», чтобы получить идентификатор квеста)\n• Запустите CustomClickEvent (для KubeJS или других модификаций) с 'custom:<resource_location>»",
     "ftbquests.chapter.image.color": "Оттенок изображения",
     "ftbquests.chapter.image.corner": "Поворот и смещение от угла",
     "ftbquests.chapter.image.dev": "Видимо только в режиме редактирования",
