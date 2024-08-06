@@ -160,11 +160,11 @@ tile.tconstruct.casting.basin.name=Резервуар отливок
 tile.tconstruct.casting.tooltip=Отливает предметы жидкостями из плавильни
 tile.tconstruct.faucet.name=Горн
 tile.tconstruct.faucet.tooltip=Сливает жидкости из плавильни и других резервуаров
-tile.tconstruct.seared_tank.tank.name=Сушёный резервуар
-tile.tconstruct.seared_tank.gauge.name=Сушёный мерный резервуар
-tile.tconstruct.seared_tank.window.name=Сушёное окно
-tile.tconstruct.seared_tank.tooltip=Сердце плавильни\nСохраняет жидкости при снятии.
-tile.tconstruct.seared_glass.glass.name=Сушёное стекло
+tile.tconstruct.seared_tank.tank.name=Остуженный резервуар
+tile.tconstruct.seared_tank.gauge.name=Остуженный мерный резервуар
+tile.tconstruct.seared_tank.window.name=Остуженное окно
+tile.tconstruct.seared_tank.tooltip=Сердце плавильни.\nСохраняет жидкости при снятии.
+tile.tconstruct.seared_glass.glass.name=Остуженное стекло
 tile.tconstruct.seared_glass.glass.tooltip=Часть плавильни. Подходит для декорации.\nНе вмещает жидкости.
 
 tile.tconstruct.seared_furnace_controller.name=Контроллер печи
