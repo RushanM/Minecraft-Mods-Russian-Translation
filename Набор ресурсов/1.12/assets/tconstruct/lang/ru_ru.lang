@@ -885,15 +885,15 @@ gui.error.incompatible_trait=Улучшение %s cнесовместимо с 
 gui.error.incompatible_enchantments=Улучшение %s несовместимо с зачарованием %s
 gui.error.no_rename=Этот инструмент не переименовать
 
-# GUIs
+# Графический интерфейс пользователя
 
-# General things used in multiple GUIs
+# Основные вещи, используемые в нескольких интерфейсах
 
 gui.general.hover=Наведите на ссылки для большей информации
 
 # Вкладки инвентаря творческого режима
 
-itemGroup.TinkerGeneral=Tinkers' Construct: основные предметы
+itemGroup.TinkerGeneral=Tinkers' Construct: Основные предметы
 itemGroup.TinkerTools=Tinkers' Construct: инструменты
 itemGroup.TinkerToolParts=Tinkers' Construct: части инструментов
 itemGroup.TinkerSmeltery=Tinkers' Construct: плавильня
@@ -908,14 +908,14 @@ gui.craftingstation.name=Ремесленная станция
 
 gui.stenciltable.name=Стол для вырезки схем
 
-# Стол для вырезки частей
+# Составитель деталей
 
-gui.partbuilder.name=Стол для вырезки частей
-gui.partcrafter.name=Сборщик частей
+gui.partbuilder.name=Составитель деталей
+gui.partcrafter.name=Сборщик деталей
 gui.partbuilder.info=Здесь вы можете вырезать части инструментов из нужных материалов.\n\nЧтобы вырезать часть, положите схему в левый слот и материал в правый.
 gui.partbuilder.material_value=Затраты: %s %s
 
-# Инженерная станция/Кузница
+# Инженерная станция/кузница
 
 gui.toolstation.name=Инженерная станция
 gui.toolforge.name=Кузница
