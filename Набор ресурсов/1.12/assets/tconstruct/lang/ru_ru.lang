@@ -177,8 +177,8 @@ tile.tconstruct.wood_rail_trapdoor.name=Деревянные рельсы с л�
 tile.tconstruct.wood_rail_trapdoor.tooltip=Тележки с воронкой могут\nвыгружать предметы вниз
 tile.tconstruct.wooden_hopper.name=Деревянная загрузочная воронка
 item.tconstruct.wooden_hopper.tooltip=Дешевле, пусть и медленнее обычной
-tile.tconstruct.punji.name=Тростниковые колья
-tile.tconstruct.punji.tooltip=Острые! Можно крепить на стены.
+tile.tconstruct.punji.name=Палочки пунджи
+tile.tconstruct.punji.tooltip=Острые! Также крепятся к стенам.
 tile.tconstruct.glow.name=Светящаяся жидкость
 tile.tconstruct.rack.item.name=Вешалка
 tile.tconstruct.rack.item.tooltip=Только как декорация
@@ -424,8 +424,8 @@ item.tconstruct.fancy_frame.clear.name=Стеклянная рамка
 
 item.tconstruct.throwball.glow.name=Светоснежок
 item.tconstruct.throwball.glow.tooltip=Не пригодно для пищевых целей.
-item.tconstruct.throwball.efln.name=EFLN
-item.tconstruct.throwball.efln.tooltip=Взрывчатка! Сохраните для шахт
+item.tconstruct.throwball.efln.name=ВКРМ
+item.tconstruct.throwball.efln.tooltip=Взрывается! Безопасен при копании шахт.
 
 # Мамкины спагетти
 
