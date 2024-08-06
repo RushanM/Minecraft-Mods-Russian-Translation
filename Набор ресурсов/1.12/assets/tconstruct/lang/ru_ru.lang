@@ -8,7 +8,7 @@ tile.tconstruct.tooltables.patternchest.name=Ящик для схем
 tile.tconstruct.tooltables.patternchest.tooltip=Можно хранить схемы и отливки
 tile.tconstruct.tooltables.partchest.name=Ящик для частей
 tile.tconstruct.tooltables.partchest.tooltip=Можно хранить много частей инструментов
-tile.tconstruct.toolforge.name=Кузня
+tile.tconstruct.toolforge.name=Кузница
 
 tile.tconstruct.soil.grout.name=Цемент
 tile.tconstruct.soil.grout.tooltip=Я есть Грут!
@@ -915,10 +915,10 @@ gui.partcrafter.name=Сборщик частей
 gui.partbuilder.info=Здесь Вы можете вырезать части инструментов из нужных материалов.\n\nЧтобы вырезать часть, положите схему в левый слот и материал в правый.
 gui.partbuilder.material_value=Затраты: %s %s
 
-# Инженерная станция/Кузня
+# Инженерная станция/Кузница
 
 gui.toolstation.name=Инженерная станция
-gui.toolforge.name=Кузня
+gui.toolforge.name=Кузница
 gui.toolstation.repair=Ремонт & Улучшение
 gui.toolstation.traits=Черты
 gui.toolstation.components=Части

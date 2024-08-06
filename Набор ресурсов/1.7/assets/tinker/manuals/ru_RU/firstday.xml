@@ -83,7 +83,7 @@
 </page>
 
 <page type="crafting">
-<text>Инженерная кузня</text>
+<text>Инженерная кузница</text>
 <recipe>
  <name>toolforge</name>
  <size>three</size>
