@@ -1,0 +1,1224 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "spirit"
+	group: "1039AC171AB01709"
+	icon: "spirit:soul_crystal"
+	id: "096178E8745A7B81"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Getting started in Spirit starts with making a simple soul fire. Most of the recipes will involve throwing items into a soul fire, sometimes surrounded by a multiblock structure."]
+			id: "7DB12309CFBAC872"
+			rewards: [{
+				id: "392FE58A974F5204"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/common"
+						Name: "Magic Common Lootbag"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "A Soulful Beginning"
+			tasks: [
+				{
+					id: "6880E51D8E1909C7"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "minecraft:soul_fire_base_blocks"
+						}
+					}
+					title: "Any soul fire base block"
+					type: "item"
+				}
+				{
+					id: "75AC0526B7114C4D"
+					item: {
+						Count: 1b
+						id: "minecraft:flint_and_steel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Make a Soul Fire"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7DB12309CFBAC872"]
+			description: [
+				"The start of almost any recipe in Spirit involves Soul Powder. Simply throw glowstone dust or blocks into soul fire and it will produce soul powder"
+				""
+				"You can use this soul powder to make the various crystals in the game, or to make soul steel for the various pedestals in Spirit."
+			]
+			id: "4DCAFBE2471538E1"
+			rewards: [{
+				id: "2F7EE2C7D50F035B"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "No its not Floo powder"
+			tasks: [{
+				id: "0A8F36FC5B5AA0E5"
+				item: "spirit:soul_powder"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4DCAFBE2471538E1"]
+			description: [
+				"Soul Steel is the basis for more advanced uses of souls in Spirit. Its used as a crafting component for the pedestals in Spirit, as well as the tools and the soul cage."
+				""
+				"Although the soul steel tools need soul steel as a crafting component, they cannot be used as a repair material. Rather, throwing your tools into a soul fire will allow them to regain their durability."
+			]
+			id: "3C0EA955C527A549"
+			rewards: [{
+				id: "3A7C3A6AE22BB61F"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Spiritually Reinforced"
+			tasks: [{
+				id: "267E7829F047EDD4"
+				item: "spirit:soul_steel_ingot"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4DCAFBE2471538E1"]
+			description: [
+				"Spirit being a mod about souls, having a receptacle for souls is fairly important. By killing mobs, you can store souls in one of 3 kinds of crystals; Soul Crystal Shard, the Crude Soul Crystal, and the Soul Crystal."
+				""
+				"The Soul Crystal Shard can hold 1 soul of any type. This is fairly useful when you are just getting started with soul transmutation recipes, as the more expensive Soul Crystal is the only other way to store specific kinds of souls"
+				""
+				"The Crude Soul crystal can store a large amount of any kind of soul. While its useful for storing a large amount of souls, it unfortunately is unable to retain a specific kind of soul. This can be useful for storing large amounts of 'Crude' Souls for recipes or for ammo with the Soul Steel Bow."
+				""
+				"Lastly is the Soul Crystal. It can store the most of all the crystals, and can only store a souls of 1 kind of mob. This crystal is the most powerful of the crystal varieties, allowing you to harness the souls in the crystal to perform special abilities and to create a powerful mob spawner."
+			]
+			id: "5A48AB6285838A58"
+			rewards: [{
+				id: "7C7AA97C4093406B"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Soul Ensnarement"
+			tasks: [{
+				id: "3EC8BA43C7F70879"
+				item: "spirit:soul_crystal"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"3C0EA955C527A549"
+				"5A48AB6285838A58"
+			]
+			description: [
+				"With enough soul steel, you are able to craft the Soul Cage. The Soul Cage is used to summon mobs of the same type found in the soul crystal inside of it."
+				""
+				"In order to summon mobs, the Soul Crystal inside the cage needs a minimum of 64 souls, with each tier after that needing twice as many souls (64, 128, 256, 512). Each tier grants new benefits or improvements to the soul cage, benefits that can be viewed in REI by pressing 'U' on the Soul Cage or Soul Crystal."
+				""
+				"Please note, even though you need to kill souls in order to increase the soul count on a crystal, mobs summoned from the Soul Cage do NOT increase the number of souls in the Soul Cage"
+			]
+			id: "7F08BC132061C6B7"
+			rewards: [{
+				id: "0C909584AC4852DD"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Soulful Summoning"
+			tasks: [{
+				id: "70EC88D69A4EC1C4"
+				item: "spirit:soul_cage"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C0EA955C527A549"]
+			description: [
+				"The Crystal Pedestal is a key tool for managing the souls in your soul crystal. By placing the soul crystal onto the pedestal, you are able to collect the souls from mobs that a player kills nearby it. This allows you to collect souls with other people! Note however, that the range is only around 4 blocks in each direction."
+				""
+				"By placing a soul crystal, you can also move souls off of one crystal onto another. Souls will always move from the players hand onto the pedestal. Note though, you can only combine souls of the same kind if you use the Soul Crystal, and souls transferred onto a Crude Soul Crystal lose their specificity."
+			]
+			id: "68224BA2D42CF05B"
+			rewards: [{
+				id: "6127471AAEFBB469"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Crystal Math"
+			tasks: [{
+				id: "361310780454A9AA"
+				item: "spirit:crystal_pedestal"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68224BA2D42CF05B"]
+			description: [
+				"Some recipes in Spirit involve creating a ritual to perform Soul Transmutation. By setting up these pedestals in this EXACT setup, you can use souls and items to craft mobs and even other souls."
+				"{image:spirit:textures/quests/diagram.png width:160 height:100 align:1}"
+				""
+				"Right click the Soul Pedestal with a crystal containing souls to place a soul onto it. Using a Crude Soul Crystal will place a Crude Soul onto the table, while a Soul Crystal Shard or Soul Crystal will place a specific kind of soul."
+				""
+				"Right clicking a table with a specific kind of soul with a Soul Steel Wand will turn the soul into a Crude Soul."
+			]
+			id: "10D39CBF282C6B93"
+			rewards: [{
+				id: "1DE6E63DE8E883C8"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Cultish Tendencies"
+			tasks: [
+				{
+					id: "08E1C94D9A75D5DD"
+					item: "spirit:soul_pedestal"
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "010783BF82678A2D"
+					item: "spirit:pedestal"
+					type: "item"
+				}
+				{
+					id: "18473B617BB90585"
+					item: "spirit:soul_steel_wand"
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DE1D577EA0AD29D"]
+			id: "3983DD620664505B"
+			rewards: [{
+				id: "60B7100F991366BE"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2247BF5E35761781"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7DE1D577EA0AD29D"]
+			id: "63765EF8D9210758"
+			rewards: [{
+				id: "0C8181AA57290CBF"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F8B3D7F170345C3"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7DE1D577EA0AD29D"]
+			id: "046943F4BC7EEC3D"
+			rewards: [{
+				id: "4B527FB9BE3D0407"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E463E6E28C2871F"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_bow"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7DE1D577EA0AD29D"]
+			id: "1CB2FC4B816A1192"
+			rewards: [{
+				id: "166ACB654A016528"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "585B52946452042B"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7DE1D577EA0AD29D"]
+			id: "728998EC35AE202F"
+			rewards: [{
+				id: "5CFFB6AE97983E59"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "07AF6B6A41E4DCF5"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7DE1D577EA0AD29D"]
+			id: "12F05D8C465678CB"
+			rewards: [{
+				id: "71E3A5E434007D54"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/rare"
+						Name: "Magic Rare Lootbag"
+						Type: "RARE"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "27DAAAFC96BD193E"
+				item: {
+					Count: 1b
+					id: "spirit:soul_steel_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"7F08BC132061C6B7"
+				"5A48AB6285838A58"
+			]
+			description: [
+				"Spawning your mobs is great, but with the Soul Revitalizer, no longer shall you need to spawn things in your world! Instead, your nifty little Soul Revitalizer uses the power inside the crystal alongside the energy supplied to it to generate mob drops."
+				""
+				"It requires 8 pylons to be placed around it, and you have plenty of options to chose from to make an efficient setup."
+			]
+			id: "2718E29F6437CE43"
+			rewards: [{
+				id: "631875693BCF7C94"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/legendary"
+						Name: "Magic Legendary Lootbag"
+						Type: "LEGENDARY"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Beep Booooo"
+			tasks: [{
+				id: "100225913C1B8157"
+				item: "vitalize:soul_revitalizer"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2718E29F6437CE43"]
+			description: [
+				"The base pylon doesn't have any benefits, but is the bare minimum requirement to get the Soul Revitalizer up and running."
+				""
+				"Placing the Soul Revitalizer in the world will show you where you need to place all 8 of your pylons, and they do not require any energy or fuel."
+			]
+			id: "4FE5ADA8DDCAAD93"
+			rewards: [{
+				id: "71923A7B06894D92"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Uhh... Don't tell Vazkii"
+			tasks: [{
+				id: "3254A9810208512B"
+				item: "vitalize:pylon_base"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: ["The efficiency pylon reduces the energy cost of the Soul Revitalizer."]
+			id: "1D669FD8DE06F664"
+			rewards: [{
+				id: "16AA84381E9FBDEA"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Maximum Efficiency!"
+			tasks: [{
+				id: "393ED8D065CA5369"
+				item: "vitalize:pylon_efficiency"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: [
+				"The beheading pylon is a powerful tool that increases the odds of particular mobs dropping their heads."
+				""
+				"Please note, that not all mobs who have heads are able to drop their head, please let us know if there's a mob whose skull does not drop after using the beheading pylon."
+				"- CodexAdrian"
+			]
+			id: "110DB71A4679FFFD"
+			rewards: [{
+				id: "4E1AE8672ED85132"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "OFF WITH YOUR HE-"
+			tasks: [{
+				id: "7A7B2475C245C53B"
+				item: "vitalize:pylon_beheading"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: ["The looting pylon does exactly what it says on the tin, granting an additional level of looting per pylon, with a max of 3."]
+			id: "4CAE3462163AC4F6"
+			rewards: [{
+				id: "132D4F67872994E8"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Money Money Money"
+			tasks: [{
+				id: "212C2E5914327BF4"
+				item: "vitalize:pylon_looting"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: ["The speeeeed pylon reduces the amount of work time between operations."]
+			id: "0FEB1054AAC70F27"
+			rewards: [{
+				id: "09FD0BE6821FEBA3"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "I. Am. Speed."
+			tasks: [{
+				id: "29FE4D03568CC2D8"
+				item: "vitalize:pylon_speed"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: [
+				"The experience pylon will enable experience drops when a mob is digitally slaughtered."
+				""
+				"Each pylon increases the quality of the experience produced, creating Experience to the first power, Experience to the second power, and Experience to the third power."
+			]
+			id: "10856B49C3486098"
+			rewards: [{
+				id: "7C27D4B3D5DA95BC"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Ding!"
+			tasks: [{
+				id: "54B8E4CED8C79A33"
+				item: "vitalize:pylon_experience"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: ["The flaming pylon will set any digitally animated mob ablaze before it's killed, allowing you to generate cooked products."]
+			id: "2CCDE57D27EA104F"
+			rewards: [{
+				id: "05F2B5C3F527EF3E"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "HOOTT"
+			tasks: [{
+				id: "16E4E40232CCCA43"
+				item: "vitalize:pylon_flame"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4FE5ADA8DDCAAD93"]
+			description: [
+				"Probably the most handy of all these pylons, the Recursive pylon will randomly supply the soul crystal inside the Soul Revitalizer with a new soul."
+				""
+				"This can be great for levelling up a low level soul crystal while still generating resources."
+			]
+			id: "637307D9C03B6AE6"
+			rewards: [{
+				id: "3127BBB4D6BD6376"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Reduce, Reuse, Recycle!"
+			tasks: [{
+				id: "01383488DD2D16F6"
+				item: "vitalize:pylon_recursive"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C0EA955C527A549"]
+			description: [
+				"Soul Steel Tools are quite special in their abilities. Pressing the keybind listed on your tool, you can empower your tool, which consumes a soul from a soul crystal when a tool action is performed to perform a special ability."
+				""
+				"Soul Steel tools have low durability, but do not require any materials to repair, instead your tool will repair itself when thrown into soul fire."
+			]
+			id: "7DE1D577EA0AD29D"
+			subtitle: "Soul of Steel"
+			tasks: [{
+				id: "26741D7D412D6965"
+				title: "Tools"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3C0EA955C527A549"]
+			description: [
+				"The Soul Beacon is quite different from your traditional beacon."
+				""
+				"Unlike your normal beacon, it needn't be placed under clear skies, it only has 2 requirements."
+				""
+				"Just like a beacon, it needs a set of beacon base blocks underneath it. However, because it is the Soul Beacon, the base blocks must either be a soul steel block or a rune block of some kind. The spot under the beacon may be blank and used for moving energy to the beacon."
+			]
+			id: "710E6004B2A67C82"
+			rewards: [{
+				id: "3C7CB67D3D1FF0A0"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/legendary"
+						Name: "Magic Legendary Lootbag"
+						Type: "LEGENDARY"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Its... different."
+			tasks: [{
+				id: "03C8A900F5D9F8A3"
+				item: "reaper:soul_beacon"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3C0EA955C527A549"]
+			description: [
+				"The Reaper Generator is a machine that converts the damage dealt by smashing Soul Catalysts into energy."
+				""
+				"It has 4 input slots on the far right for runes, which can modify its functionality"
+				""
+				"With the right set of runes, the Reaper Generator can also be an effective mob slaying tool."
+			]
+			id: "7ABF88F1883465AF"
+			rewards: [{
+				id: "5D64DCD760FDE65A"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/legendary"
+						Name: "Magic Legendary Lootbag"
+						Type: "LEGENDARY"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "The Great Equalizer"
+			tasks: [{
+				id: "1074291A20EFDA44"
+				item: "reaper:reaper_generator"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["710E6004B2A67C82"]
+			description: ["Reduces the energy cost of the Soul Beacon."]
+			id: "0872A6D8E2893413"
+			rewards: [{
+				id: "04669D483C16B890"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Maximum Effi... wait I already used that one.."
+			tasks: [{
+				id: "6B5B20710687A526"
+				item: "reaper:rune_block_efficacia"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["710E6004B2A67C82"]
+			description: [
+				"The Duplici rune will make the Soul Beacon's effect run twice in one operation."
+				""
+				"This can be great when using the Soul Beacon as a offensive tool, doubling up on explosion damage or harmful effects."
+			]
+			id: "621351108945549E"
+			rewards: [{
+				id: "1A2E2DDC1B416BBB"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "A Dupe you don't have to report ;)"
+			tasks: [{
+				id: "20134A1DCC3044A8"
+				item: "reaper:rune_block_duplici"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["710E6004B2A67C82"]
+			description: ["The Dilato rune will \"dilate\" the range of the Soul Beacon, increasing its working area signficantly."]
+			id: "7066271D88101230"
+			rewards: [{
+				id: "1547C0801392ECE3"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Intentional Inflation"
+			tasks: [{
+				id: "38E02ECF1DDF971B"
+				item: "reaper:rune_block_dilato"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["710E6004B2A67C82"]
+			description: ["On its own, the Soul Beacon only affects players. By adding the Beastia rune, neutral and passive mobs will also be affected by the affects of the Soul Beacon."]
+			id: "210E3632AB42EF50"
+			rewards: [{
+				id: "01FBDB754F5A5B66"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Don't tell PETA"
+			tasks: [{
+				id: "7A39C8BB93972473"
+				item: "reaper:rune_block_beastia"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["710E6004B2A67C82"]
+			description: ["The Hostilis rune enables the Soul Beacon to affect hostile mobs in the nearby area."]
+			id: "202D1FFDC47CBD22"
+			rewards: [{
+				id: "1BADDF79C0C7911A"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "A Hostile.. takeover?"
+			tasks: [{
+				id: "08998796D869CCEA"
+				item: "reaper:rune_block_hostilis"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["710E6004B2A67C82"]
+			description: [
+				"The Possessio rune is arguably one of the most useful, allowing the user to filter whether or not a particular player is either part of the whitelist or blacklist."
+				""
+				"This allows you to filter yourself out of the beacon's effects when you're using the Beacon as an offensive tool, and whitelist yourself when using the beacon as a helpful tool."
+				""
+				"You can toggle the mode of the rune by right clicking with a Soul Steel Wand."
+			]
+			id: "1EDB9374116D4451"
+			rewards: [{
+				id: "3DD8865C9F6699D0"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Bribin' the Bouncer"
+			tasks: [{
+				id: "0405DA941F94513D"
+				item: "reaper:rune_block_possessio"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7ABF88F1883465AF"]
+			description: ["The Reficiat Rune is a rune that allows the Reaper Generator to generate more energy per heart of damage."]
+			id: "17E4B8F4F14E6DA9"
+			rewards: [{
+				id: "3140A7B073884DB2"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Bzzt Bzzt Boom"
+			tasks: [{
+				id: "1C5E32CA140711C6"
+				item: "reaper:rune_reficiat"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7ABF88F1883465AF"]
+			description: [
+				"The Obitus rune is a powerful rune that causes anything hit by the power of the Reaper generator to instantly die."
+				""
+				"Combined with a Spiritus rune, this can be a great tool to kill mobs in a farm with."
+			]
+			id: "72C6F4B926DD3EEB"
+			rewards: [{
+				id: "0342D5564ECC7DCD"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Death comes for us all."
+			tasks: [{
+				id: "66551875899B0E54"
+				item: "reaper:rune_obitus"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7ABF88F1883465AF"]
+			description: ["This rune enables the Reaper generator to hit players and extract energy from their souls."]
+			id: "79A62F463EDF726E"
+			rewards: [{
+				id: "21C83D3DBD4D6D4C"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "People are animals too"
+			tasks: [{
+				id: "6D067B7D4F323F34"
+				item: "reaper:rune_humano"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7ABF88F1883465AF"]
+			description: ["This rune works similarly to the other dilato rune, improving the reaper generator's working area"]
+			id: "6EA97C351B54704C"
+			rewards: [{
+				id: "5ED1936D3C6DAC51"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Worse than Gas Prices"
+			tasks: [{
+				id: "3B35A26952D2279A"
+				item: "reaper:rune_dilato"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7ABF88F1883465AF"]
+			description: ["This rune reduces the cooldown time between the slams of the reaper generator by 50%"]
+			id: "7A7C4913FD80D16E"
+			rewards: [{
+				id: "4F41AC9A63F89855"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Runnin around at the speed of Souunnddd"
+			tasks: [{
+				id: "2606047B7D3B5687"
+				item: "reaper:rune_velocitas"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7ABF88F1883465AF"]
+			description: [
+				"Counterintuitively, the Spiritus rune disables the Reaper Generator's ability to generate energy."
+				""
+				"On the flip side, the benefit gained is that the damage the Reaper Generator does is now player damage, meaning its capable of dropping player only drops like blaze rods or wither skeleton skulls and experience."
+			]
+			id: "2D52E62B1D6E4CD4"
+			rewards: [{
+				id: "54CE2D0FA1090863"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 16747259
+						Loot: "aof:loot_bags/magic/epic"
+						Name: "Magic Epic Lootbag"
+						Type: "EPIC"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Wait it doesn't make energy!?"
+			tasks: [{
+				id: "624103F01A1BDBC6"
+				item: "reaper:rune_spiritus"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4CAE3462163AC4F6"
+				"1CB2FC4B816A1192"
+				"7DE1D577EA0AD29D"
+				"7A7C4913FD80D16E"
+				"2D52E62B1D6E4CD4"
+				"6EA97C351B54704C"
+				"72C6F4B926DD3EEB"
+				"7F08BC132061C6B7"
+				"202D1FFDC47CBD22"
+				"79A62F463EDF726E"
+				"10D39CBF282C6B93"
+				"110DB71A4679FFFD"
+				"1EDB9374116D4451"
+				"4FE5ADA8DDCAAD93"
+				"2CCDE57D27EA104F"
+				"7ABF88F1883465AF"
+				"621351108945549E"
+				"7066271D88101230"
+				"4DCAFBE2471538E1"
+				"1D669FD8DE06F664"
+				"10856B49C3486098"
+				"3983DD620664505B"
+				"046943F4BC7EEC3D"
+				"0FEB1054AAC70F27"
+				"12F05D8C465678CB"
+				"728998EC35AE202F"
+				"710E6004B2A67C82"
+				"210E3632AB42EF50"
+				"7DB12309CFBAC872"
+				"0872A6D8E2893413"
+				"5A48AB6285838A58"
+				"2718E29F6437CE43"
+				"3C0EA955C527A549"
+				"68224BA2D42CF05B"
+				"63765EF8D9210758"
+				"637307D9C03B6AE6"
+				"17E4B8F4F14E6DA9"
+			]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1b
+				id: "trofers:medium_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:spirit"
+					}
+				}
+			}
+			id: "08895FF260FA0440"
+			rewards: [{
+				id: "24CD651B56FF35EC"
+				item: {
+					Count: 1b
+					id: "trofers:medium_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:spirit"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 4.0d
+			subtitle: "Complete all quests to obtain the trophy!"
+			tasks: [{
+				id: "3A0D2287E39EA0F6"
+				title: "&bSpirit 100%"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+	]
+	title: "Spirit"
+}
