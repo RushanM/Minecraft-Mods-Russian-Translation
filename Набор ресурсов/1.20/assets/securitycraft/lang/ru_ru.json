@@ -830,7 +830,7 @@
     "gui.securitycraft:scManual.viewActivatedBlock": "Просмотр активирован: Этот блок может быть активирован, если навести на него курсор, находясь в диапазоне разрушения блока.",
     "gui.securitycraft:secure_redstone_interface.frequency": "Частота:",
     "gui.securitycraft:secure_redstone_interface.highlight_connections": "Выделить соединения",
-    "gui.securitycraft:secure_redstone_interface.highlight_connections.tooltip": "Зеленый: Отправитель может отправлять на приёмник.\n\nЖёлтый/Белый: Приёмник может принимать любой сигнал от отправителя; белый означает, что в настоящее время сигнал отсутствует.\n\nКрасный/Чёрный: Приёмник может принимать защищенный сигнал от отправителя; чёрный означает, что в настоящее время сигнал отсутствует.",
+    "gui.securitycraft:secure_redstone_interface.highlight_connections.tooltip": "Зелёный: Отправитель может отправлять на приёмник.\n\nЖёлтый/Белый: Приёмник может принимать любой сигнал от отправителя; белый означает, что в настоящее время сигнал отсутствует.\n\nКрасный/Чёрный: Приёмник может принимать защищенный сигнал от отправителя; чёрный означает, что в настоящее время сигнал отсутствует.",
     "gui.securitycraft:secure_redstone_interface.mode": "Режим",
     "gui.securitycraft:secure_redstone_interface.mode.receiver": "Приёмник",
     "gui.securitycraft:secure_redstone_interface.mode.sender": "Отправитель",
