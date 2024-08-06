@@ -24,7 +24,6 @@
     "config.betteranimalsplus.maximum_cost_per_biome": "Максимальная стоимость на биом",
     "config.betteranimalsplus.maximum_group_size": "Максимальный размер группы",
     "config.betteranimalsplus.minimum_group_size": "Минимальный размер группы",
-    "config.betteranimalsplus.nerf_options": "Параметры ослабления",
     "config.betteranimalsplus.spawn_biomes": "Биомы появления",
     "config.betteranimalsplus.spawn_naturally": "Появляется естественным путём",
     "config.betteranimalsplus.spawn_weight": "Вес появления",

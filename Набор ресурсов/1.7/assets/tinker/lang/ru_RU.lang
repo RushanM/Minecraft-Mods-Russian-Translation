@@ -384,13 +384,13 @@ tile.decoration.stonetorch.name=Факел
 tile.decoration.stoneladder.name=Лестница
 tile.CraftingStation.name=Верстак инженера
 
-block.glass.pure.name=Прозрачное стекло
+block.glass.pure.name=Чистое стекло
 block.glass.soul.name=Стекло душ
-block.glass.soul.pure.name=Прозрачное стекло душ
+block.glass.soul.pure.name=Чистое стекло душ
 
-block.glass.pure.pane.name=Прозрачная стеклянная панель
+block.glass.pure.pane.name=Чистая стеклянная панель
 block.glass.soul.pane.name=Стеклянная панель душ
-block.glass.soul.pane.pure.name=Прозрачная стеклянная панель душ
+block.glass.soul.pane.pure.name=Чистая стеклянная панель душ
 
 block.stainedglass.white.name=Белое стекло
 block.stainedglass.orange.name=Оранжевое стекло
@@ -666,7 +666,7 @@ fluid.slime.blue=Жидкая синяя слизь
 fluid.pigiron.molten=Свиное железо
 fluid.glue=Клей
 
-tconstruct.achievementPage.name=TConstruct
+tconstruct.achievementPage.name=Tinkers' Construct
 achievement.tconstruct.beginner=Учимся инженерному делу
 achievement.tconstruct.pattern=Работник по схемам
 achievement.tconstruct.tinkerer=Инженер
