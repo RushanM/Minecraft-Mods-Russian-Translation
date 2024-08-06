@@ -440,7 +440,7 @@ stat.spaghetti.saturation.name=Сытность
 modifier.spaghetti_sauce.name=с соусом
 modifier.spaghetti_sauce.desc=§oСо свеклой§r\nБолее сытно
 modifier.spaghetti_meat.name=с мясом
-modifier.spaghetti_meat.desc=§oВсе типы!§r\nНасыщает лучше
+modifier.spaghetti_meat.desc=§oВсе виды!§r\nНасыщает лучше
 
 item.tconstruct.spaghetti.hard.name=Невероятно твёрдая лапша
 item.tconstruct.spaghetti.hard.tooltip=Абсолютно несъедобна.\nЕё надо размягчить, но Ваши потные ладошки не могут это сделать.\nНаверное, её надо отмочить в воде.
