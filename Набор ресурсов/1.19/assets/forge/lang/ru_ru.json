@@ -143,7 +143,7 @@
     "fml.modmismatchscreen.table.serverhas": "У сервера",
     "fml.modmismatchscreen.table.youhave": "У вас",
     "fml.modmismatchscreen.table.youneed": "Вам нужно",
-    "fml.resources.modresources": "Ресурсы {0} модификаций",
+    "fml.resources.modresources": "Ресурсы {0} модов",
     "forge.configgui.alwaysSetupTerrainOffThread": "Потоковая отрисовка чанков",
     "forge.configgui.alwaysSetupTerrainOffThread.tooltip": "После включения, Forge будет расставлять обновления чанков в очередь в поток обновления чанков.\nЭто может увеличить количество FPS, но также может вызвать странные визуальные отставания.\nНе рекомендуется, если у компьютера мало ядер.",
     "forge.configgui.cachePackAccess": "Кэширование доступа к наборам",

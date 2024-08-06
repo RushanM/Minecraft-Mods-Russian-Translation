@@ -23,6 +23,6 @@
     "configured.gui.title.common_configuration": "Общие параметры",
     "configured.gui.title.server_configuration": "Параметры сервера",
     "configured.config.client.force_configured_menu": "Принуждать меню Configured",
-    "key.configured.open_mod_list": "Открыть список модификаций",
+    "key.configured.open_mod_list": "Открыть список модов",
     "key.categories.configured": "Configured"
 }
