@@ -578,7 +578,7 @@ Shift+ПКМ: Поставить предмет
 </page>
 
 <page type="materialstats">
-<title>Камень Нижнего мира</title>
+<title>Камень Незера</title>
 <icon>netherrackmattock</icon>
 <text>Из чего он сделан?!</text>
 <material>
@@ -641,7 +641,7 @@ Shift+ПКМ: Поставить предмет
 <page type="materialstats">
 <title>Кобальт</title>
 <icon>cobaltlongsword</icon>
-<text>Один из материалов Нижнего мира. Светло-синий.
+<text>Один из материалов Незера. Светло-синий.
 - Требуется плавильня</text>
 <material>
 <toolmaterial>Cobalt</toolmaterial>
@@ -652,7 +652,7 @@ Shift+ПКМ: Поставить предмет
 <page type="materialstats">
 <title>Ардит</title>
 <icon>arditelongsword</icon>
-<text>Один из материалов Нижнего мира. Добывает быстрее, когда изнашивается.
+<text>Один из материалов Незера. Добывает быстрее, когда изнашивается.
 - Требуется плавильня</text>
 <material>
 <toolmaterial>Ardite</toolmaterial>
@@ -663,7 +663,7 @@ Shift+ПКМ: Поставить предмет
 <page type="materialstats">
 <title>Мануллин</title>
 <icon>manyullynlongsword</icon>
-<text>Сплав Нижнего мира. Крепче алмаза.
+<text>Сплав Незера. Крепче алмаза.
 - Требуется плавильня</text>
 <material>
 <toolmaterial>Manyullyn</toolmaterial>
@@ -1094,7 +1094,7 @@ Shift+ПКМ: Поставить предмет
 
 <page type="sectionpage">
 <title>Дополнительные модификаторы</title>
-<text>Обработка инструмента звездой Нижнего мира даёт ему способность прикрепления деталей, которые никогда бы не прикрепились к нему.
+<text>Обработка инструмента звездой Незера даёт ему способность прикрепления деталей, которые никогда бы не прикрепились к нему.
 
 Эффекты:
 - Добавляет дополнительный слот для модификатора
