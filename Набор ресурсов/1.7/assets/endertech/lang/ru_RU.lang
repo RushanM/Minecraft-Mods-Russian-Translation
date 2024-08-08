@@ -64,7 +64,7 @@ error.multiblock.tank.destructive_assimilation_same=WARNING: Two tanks were assi
 error.multiblock.consuming.different_classes=Attempting to merge two multiblocks with different master classes - this should never happen!
 error.multiblock.consuming.my_controller=Мой контроллер (%d): размер (%d), частей: %s
 error.multiblock.consuming.other_controller=Другой контроллер (%d): размер (%d), координаты: %s
-error.multiblock.consuming.same_reference_coordinate=[%s] Два контроллера с одними и теми же координатами каким-то образом имеют правильные части - этого никогда не должно быть!
+error.multiblock.consuming.same_reference_coordinate=[%s] Два контроллера с одними и теми же координатами каким-то образом имеют правильные части — этого никогда не должно быть!
 error.multiblock.tickend.merge_pool=Multiblock system checked a merge pool of size %d, found no master candidates. This should never happen.
 error.multiblock.tickend.non_empty_controller=Found a non-empty controller. Forcing it to shed its blocks and die. This should never happen!
 

@@ -1,10 +1,9 @@
-# Перевод LeoganPro
-
 # Misc
+
 itemGroup.immersiveintegration=Immersive Integration
 
-
 # AE2
+
 item.immersiveintegration:wireCoilFluix.name=МЭ проволочная катушка
 item.immersiveintegration:wireCoilDense.name=МЭ плотная проволочная катушка
 
@@ -15,8 +14,8 @@ tile.immersiveintegration:meDenseTransformer.name=МЭ плотный транс
 tile.immersiveintegration:aeDecorationFluixCoil.name=МЭ проволочная катушка
 tile.immersiveintegration:aeDecorationDenseCoil.name=МЭ плотная проволочная катушка
 
-
 ## IE/II
+
 tile.immersiveintegration:extendedPost.name=Расширяемый деревянный столб
 tile.immersiveintegration:extendablePost.name=Расширяемый деревянный столб
 tile.immersiveintegration:steelTrapdoor.name=Стальной люк
@@ -39,18 +38,18 @@ item.immersiveintegration:capacitorBoxMV.name=Среденевольтный к�
 item.immersiveintegration:capacitorBoxHV.name=Высоковльтный конденсатор в коробке
 item.immersiveintegration:capacitorBoxCreative.name=Творческий конденсатор в коробке
 
-
 # Tooltips
+
 immersiveintegration.tooltip.safe=Можно безопасно использовать как декорации
 
-immersiveintegration.tooltip.capacitor.infinite=Бесконечно RF-энергии
+immersiveintegration.tooltip.capacitor.infinite=Бесконечная энергия РТ
 immersiveintegration.tooltip.capacitor.active0=Нажмите ПКМ, чтобы остановить зарядку
 immersiveintegration.tooltip.capacitor.active1=лежащего у вас в руках инструмента
 immersiveintegration.tooltip.capacitor.rightClickActive0=Нажмите ПКМ, чтобы начать зарядку
 immersiveintegration.tooltip.capacitor.rightClickActive1=лежащего у вас в руках инструмента
 
-
 # Colors
+
 immersiveintegration.color.black=Чёрный
 immersiveintegration.color.red=Красный
 immersiveintegration.color.green=Зелёный

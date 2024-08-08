@@ -1496,7 +1496,7 @@
     "twilightforest.config.parry_non_twilight": "Отражение не-твилайтовых снарядов",
     "twilightforest.config.parry_non_twilight.tooltip": "Установите в true, чтобы отражать снаряды, не относящиеся к Твилиту. Мы рекомендуем скачать мод Shield Parry.",
     "twilightforest.config.parry_window": "Временное окно для отражения снарядов",
-    "twilightforest.config.parry_window.tooltip": "Количество тиков после поднятия щита, в течение которых можно отразить снаряд. В одной секунде 20 тиков.",
+    "twilightforest.config.parry_window.tooltip": "Количество тактов после поднятия щита, в течение которых можно отразить снаряд. В одной секунде 20 тактов.",
     "twilightforest.config.portal_for_new_player": "Создавать порталы для новых игроков",
     "twilightforest.config.portal_for_new_player.tooltip": "Если активировано, для новых игроков, отправленных в сумеречный лес, будет создан возвратный портал, если spawn_in_tf активировано.",
     "twilightforest.config.portal_lighting": "Создание портала молнией без огня",
