@@ -2,7 +2,7 @@
 
 tile.tconstruct.tooltables.craftingstation.name=Ремесленная станция
 tile.tconstruct.tooltables.stenciltable.name=Стол для вырезки схем
-tile.tconstruct.tooltables.partbuilder.name=Стол для вырезки частей
+tile.tconstruct.tooltables.partbuilder.name=Сборщик деталей
 tile.tconstruct.tooltables.toolstation.name=Инженерная станция
 tile.tconstruct.tooltables.patternchest.name=Ящик для схем
 tile.tconstruct.tooltables.patternchest.tooltip=Можно хранить схемы и отливки
@@ -764,7 +764,7 @@ modifier.haste.name=Скорость
 modifier.haste.name2=Быстрее
 modifier.haste.name3=Ещё быстрее
 modifier.haste.name4=Совсем быстро
-modifier.haste.name5=Супер быстро
+modifier.haste.name5=Сверхбыстро
 modifier.haste.desc=§oУииииии!§r\nИмпульсы красного камня заставляют Ваш инструмент копать быстрее.
 modifier.haste.extra=Дополнительная скорость: +%s
 modifier.knockback.name=Отдача
@@ -785,7 +785,7 @@ modifier.sharpness.name=Острота
 modifier.sharpness.name2=Острее
 modifier.sharpness.name3=Ещё острее
 modifier.sharpness.name4=Совсем остро
-modifier.sharpness.name5=Супер остро
+modifier.sharpness.name5=Суперостро
 modifier.sharpness.desc=§oОй!§r\nТак остро, ранит даже при взгляде.
 modifier.shulking.name=Вознесение
 modifier.shulking.desc=§oВверх к звёздам!§r\nАтаки заставляют врагов медленно подниматься в воздух.
