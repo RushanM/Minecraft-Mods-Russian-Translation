@@ -55,7 +55,7 @@ jobs:
                 .filter(version => !isNaN(version))
                 .sort((a, b) => b - a)[0];
 
-            console.log('Отфилтрованные выпуски:', releases.filter(release => release.tag_name.startsWith('b')));
+            console.log('Отфильтрованные выпуски:', releases.filter(release => release.tag_name.startsWith('b')));
             console.log('Последняя выпущенная версия:', latestRelease);
 
               if (latestRelease) {
