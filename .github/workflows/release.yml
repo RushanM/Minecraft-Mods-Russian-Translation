@@ -43,6 +43,8 @@ jobs:
             });
             const releases = await response.json();
 
+            console.log('Выпуски:', releases);
+
             let next_version;
             if (releases.length === 0) {
               next_version = 1;
@@ -53,12 +55,17 @@ jobs:
                 .filter(version => !isNaN(version))
                 .sort((a, b) => b - a)[0];
 
+            console.log('Отфилтрованные выпуски:', releases.filter(release => release.tag_name.startsWith('b')));
+            console.log('Последняя выпущенная версия:', latestRelease);
+
               if (latestRelease) {
                 next_version = latestRelease + 1;
               } else {
                 next_version = 1;
               }
             }
+
+            console.log('Следующая версия:', next_version);
 
             core.setOutput('next_version', next_version);
 
