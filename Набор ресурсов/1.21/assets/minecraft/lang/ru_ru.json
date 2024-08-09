@@ -1,4 +1,36 @@
 {
+    "modmenu.summaryTranslation.animatica": "Позволяет анимировать больше текстур игры, используя формат анимаций MCPatcher и OptiFine",
+    "modmenu.nameTranslation.animatica": "Аниматика",
+    "modmenu.descriptionTranslation.animatica": "Позволяет анимировать больше текстур игры, используя формат анимаций MCPatcher и OptiFine.",
+
+    "modmenu.summaryTranslation.bettermounthud": "Улучшает игровой интерфейс при езде на животных",
+    "modmenu.nameTranslation.bettermounthud": "Улучшенный интерфейс езды",
+    "modmenu.descriptionTranslation.bettermounthud": "Улучшает игровой интерфейс при езде на животных.",
+
+    "modmenu.summaryTranslation.capes": "Мод, который позволяет использовать плащи различных сервисов",
+    "modmenu.nameTranslation.capes": "Плащи",
+    "modmenu.descriptionTranslation.capes": "Мод, который позволяет использовать плащи OptiFine, LabyMod, Cosmetica, Wynntils, Capes++ и MinecraftCapes Mod.",
+
+    "modmenu.summaryTranslation.continuity": "Мод для Fabric, который позволяет наборам ресурсам, использующим форматы OptiFine, работать без OptiFine",
+    "modmenu.nameTranslation.continuity": "Преемственность",
+    "modmenu.descriptionTranslation.continuity": "«Преемственность» — это мод для Fabric, который позволяет наборам ресурсам, использующим формат соединённых текстур OptiFine, формат светящихся текстур OptiFine (только у блоков и моделей предметов) или формат пользовательских слоёв блоков OptiFine, работать без OptiFine.",
+
+    "modmenu.summaryTranslation.controlify": "Самый продвинутый мод для добавления поддержки контроллера в Minecraft",
+    "modmenu.nameTranslation.controlify": "Контролифай",
+    "modmenu.descriptionTranslation.controlify": "Самый продвинутый мод для добавления поддержки контроллера в Minecraft.",
+
+    "modmenu.summaryTranslation.cubes-without-borders": "Мод, который позволяет играть в Minecraft в безрамочном полноэкранном окне",
+    "modmenu.nameTranslation.cubes-without-borders": "Кубы без рамок",
+    "modmenu.descriptionTranslation.cubes-without-borders": "Мод, который позволяет играть в Minecraft в безрамочном полноэкранном окне.",
+
+    "modmenu.summaryTranslation.debugify": "Исправляет ошибки Minecraft, о которых сообщают на баг-трекере",
+    "modmenu.nameTranslation.debugify": "Исправление ошибок",
+    "modmenu.descriptionTranslation.debugify": "Исправляет ошибки Minecraft, о которых сообщают на баг-трекере.\nЛицензии:\n— TieFix от j-Tai — код используется под лицензией LGPLv3.\n— Sodium Extra от FlashyReese — код используется под лицензией LGPLv3.\n— 2x2 Surrounded Saplings Fix от Ampflower — код используется под лицензией Zlib.",
+
+    "modmenu.summaryTranslation.dynamic_fps": "Снижает нагрузку на ПК, пока Minecraft на фоне или пользователь оставил игру",
+    "modmenu.nameTranslation.dynamic_fps": "Динамические FPS",
+    "modmenu.descriptionTranslation.dynamic_fps": "Снижает нагрузку на ПК, пока Minecraft на фоне или пользователь оставил игру.",
+
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
     "modmenu.descriptionTranslation.catalogue": "Современное меню модов, совместимое с любыми загрузчиками модов.",

@@ -448,7 +448,7 @@
   "controlify.radial.debug.clear_chat": "Clear Chat",
   "controlify.radial.debug.profile": "Start/Stop Profiling",
   "controlify.controller_submission.title": "Отправка неизвестного контроллера",
-  "controlify.controller_submission.message": "Пожалуйста, отправьте информацию о ваше контроллере в базу данных Controlify, чтобы его могли добавить в будущем обновлении.\n\nControlify отправит следующую информацию:\n- ID вашего контроллера и его производителя\n- GUID вашего контроллера\n- Название вашего контроллера (в поле внизу)\n- Версию Controlify, которую вы сейчас используете\n\nЭта информация полностью анонимная и не хранит никакую личную информацию или данные о вашем аккаунте.",
+  "controlify.controller_submission.message": "Пожалуйста, отправьте информацию о ваше контроллере в базу данных Controlify, чтобы его могли добавить в будущем обновлении.\n\nControlify отправит следующую информацию:\n— ID вашего контроллера и его производителя\n— GUID вашего контроллера\n— Название вашего контроллера (в поле внизу)\n— Версию Controlify, которую вы сейчас используете\n\nЭта информация полностью анонимная и не хранит никакую личную информацию или данные о вашем аккаунте.",
   "controlify.controller_submission.operational_checkbox": "Работает ли ваш контроллер с Controlify?",
   "controlify.controller_submission.submit": "Отправить данные",
   "controlify.controller_submission.skip": "Пропустить",
