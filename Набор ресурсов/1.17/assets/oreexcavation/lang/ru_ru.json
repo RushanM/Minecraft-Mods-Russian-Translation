@@ -33,5 +33,5 @@
   "oreexcavation.undo.failed.no_history": "Отмена не удалась: Нечего отменять",
   "oreexcavation.undo.failed.obstructed": "Отмена не удалась: Область чем-то заграждена",
   "oreexcavation.undo.failed.xp": "Отмена не удалась: Невозможно возвратить опыт",
-  "oreexcavation.undo.success": "Отмена последнего копания..."
+  "oreexcavation.undo.success": "Отмена последнего копания…"
 }

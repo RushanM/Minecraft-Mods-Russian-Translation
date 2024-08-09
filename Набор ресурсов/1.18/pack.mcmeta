@@ -4,9 +4,12 @@
             "fallback": "Русифицирует моды и улучшает их перевод",
             "translate": "minecraft.resource_pack.modsru"
         },
-        "name": "Русский перевод модов",
+        "name": {
+            "fallback": "Русский перевод модов",
+            "translate": "minecraft.resource_pack.modsru.name"
+        },
         "pack_format": 8,
         "автор": "Дефлекта",
-        "версия": "1.18-1.1"
+        "версия": "1.18-2"
     }
 }

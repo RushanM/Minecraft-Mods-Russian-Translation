@@ -13878,7 +13878,7 @@
                         "text": "Power"
                     },
                     {
-                        "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\nWhen looking at the occulus, anything requiring the Council faction will be marked with the following icon:"
+                        "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n— Embers and Projectile spells gain homing capabilities\n— Sigil limit is increased\n— Smite bonus damage from falling is increased\n\nWhen looking at the occulus, anything requiring the Council faction will be marked with the following icon:"
                     }
                 ],
                 "type": "text",
@@ -16794,7 +16794,7 @@
                         "text": "Power"
                     },
                     {
-                        "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\n"
+                        "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n— Embers and Projectile spells gain homing capabilities\n— Sigil limit is increased\n— Smite bonus damage from falling is increased\n\n"
                     },
                     {
                         "color": "dark_gray",
@@ -24598,7 +24598,7 @@
             {
                 "json": [
                     {
-                        "text": "The included recipes are:\n- Leather\n- Crying Obsidian\n- Prismarine Crystal\n- Prismarine Shard\n- Gilded Blackstone\n- Name Tag\n- Poisonous Potato \n- Saddle"
+                        "text": "The included recipes are:\n— Leather\n— Crying Obsidian\n— Prismarine Crystal\n— Prismarine Shard\n— Gilded Blackstone\n— Name Tag\n— Poisonous Potato \n— Saddle"
                     }
                 ],
                 "type": "text",

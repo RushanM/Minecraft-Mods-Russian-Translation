@@ -6,7 +6,7 @@
         },
         "name": {
             "fallback": "Русский перевод модов",
-            "translate": "minecraft.resource_pack.modsru_name"
+            "translate": "minecraft.resource_pack.modsru.name"
         },
         "pack_format": 15,
         "supported_formats": [
@@ -14,6 +14,6 @@
             33
         ],
         "автор": "Дефлекта",
-        "версия": "1.20-1.5"
+        "версия": "1.20-6"
     }
 }

@@ -3,7 +3,7 @@
     version: 7,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
-        controllingFix: true
-        originalCertus: false,
+        controllingFix: true,
+        originalCertus: false
     }
 }

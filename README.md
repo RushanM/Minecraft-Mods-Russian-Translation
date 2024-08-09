@@ -115,7 +115,7 @@
 | [GregTechCEu Modern](https://modrinth.com/mod/gregtechceu-modern) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Guardians Galore](https://modrinth.com/mod/guardians-galore-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Happy Pride Moth!](https://modrinth.com/mod/pride-moths) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
-| [Hephaestus (Tinkers' Construct)](https://modrinth.com/mod/hephaestus) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Hephaestus](https://modrinth.com/mod/hephaestus) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Hex Casting](https://modrinth.com/mod/hex-casting) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Hey Wiki](https://modrinth.com/mod/hey-wiki) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
@@ -233,8 +233,8 @@
 Проект (не сам набор ресурсов) также включает в себя переводы некоторых сборок модов, а конкретнее файлов, которые не являются частью модов, а именно сборки (заголовок окна игры, кнопки меню, квесты). Установка переводов **для них** производится ручной заменой файлов сборки на те, что представлены в репозитории. Вы можете ознакомиться и скачать их по следующим ссылкам:
 | Сборка | Локализованное название | Версия | Статус перевода |
 | - | - | - | - |
-| [All of Fabric 6](https://github.com/TeamAOF/All-of-Fabric-6) | [*Всё от Fabric 6*](https://github.com/TeamAOF/All-of-Fabric-6) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
-| [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | TheAnaxMan предложил перевод. Сейчас он в процессе вычитки. |
+| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | [*Всё от Fabric 6*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | ? | Перевода толком пока нет |
+| [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | Перевода толком пока нет |
 | [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) |  | Альфа 0.6.2 | Начало |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | [*Хорьковый бизнес*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | Альфа 0.4.2 | Самое начало |
 
@@ -315,7 +315,13 @@
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): участвовал в принятии решений, перевёл некоторые квесты Monifactory
-* [**TheAnaxMan**](https://github.com/TheAnaxMan): предложил свои переводы модов и квестов сборок в проект. Его переводы пока в процессе вычитки.
+* [**TheAnaxMan**](https://github.com/TheAnaxMan): предложил свои переводы
+* * [All the Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206)
+* * [All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)
+* * [Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)
+* * [Artifacts](https://modrinth.com/mod/artifacts)
+* * [ATO - All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)
+* * [Auto Workstations](https://modrinth.com/mod/auto-workstations)
 * [**cutiegin**](https://github.com/cutiegin): предложила свои переводы модов
 * * [Decocraft](https://modrinth.com/mod/decocraft)
 * * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)

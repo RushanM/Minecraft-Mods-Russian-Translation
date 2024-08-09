@@ -195,6 +195,7 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
             * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
+            * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
             * [Right Proper Lighting Engine](https://modrinth.com/mod/rple)
             * [Tails](https://www.curseforge.com/minecraft/mc-mods/tails)
 
@@ -258,6 +259,17 @@ jobs:
             Это бета-версия русификатора для модов Minecraft 1.16.x.
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
+
+            Эта бета-версия включает переводы следующих модов:
+            * [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+            * [AppleSkin](https://modrinth.com/mod/appleskin)
+            * [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+            * [Chat Heads](https://modrinth.com/mod/chat-heads)
+            * [Fabric](https://fabricmc.net/)
+            * [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+            * [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
+            * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+            * и остальных
 
             Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
