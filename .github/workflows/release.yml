@@ -199,7 +199,7 @@ jobs:
             * [Right Proper Lighting Engine](https://modrinth.com/mod/rple)
             * [Tails](https://www.curseforge.com/minecraft/mc-mods/tails)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
@@ -232,7 +232,7 @@ jobs:
             * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
             * [SCP Lockdown Extras](https://www.curseforge.com/minecraft/mc-mods/scp-lockdown-extras)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.12 <1.13
@@ -271,7 +271,7 @@ jobs:
             * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
             * и остальных
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.16 <1.17
@@ -299,7 +299,7 @@ jobs:
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.17 <1.18
@@ -327,7 +327,7 @@ jobs:
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.18 <1.19
@@ -355,7 +355,7 @@ jobs:
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.19 <1.20
@@ -383,7 +383,7 @@ jobs:
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             >=1.20 <1.21
@@ -411,7 +411,7 @@ jobs:
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.next_version - 1 }}...b${{ steps.get_latest_release.outputs.next_version }}
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b2...b3
           loaders: minecraft
           game-versions: |
             1.21
