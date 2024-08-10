@@ -96,7 +96,7 @@
   "jade.fe": "%s/%s",
   "jade.fluid": "%s %s",
   "jade.fluid.empty": "Пусто",
-  "jade.fraction": "%d / %d",
+  "jade.fraction": "%d/%d",
   "jade.harvest_tool.unbreakable": "Не может сломать",
   "jade.horseStat.jump": "Высота прыжка: %d",
   "jade.horseStat.speed": "Скорость: %d",
