@@ -4,7 +4,7 @@
 
 ## Сборки
 
-| Сборка | Локализованное название | Версия | Статус перевода |
+| Сборка | Русское название | Для версии сборки | Статус перевода |
 | - | - | - | - |
 | [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Альфа 0.6.2 | Начало |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | Самое начало |
