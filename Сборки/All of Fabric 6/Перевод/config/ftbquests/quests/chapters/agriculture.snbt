@@ -831,7 +831,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "На вкус все такое… или все такое на вкус?"
+			subtitle: "На вкус всё такое… или всё такое на вкус?"
 			tasks: [{
 				id: "149B98622220A1B0"
 				item: "minecraft:cooked_chicken"
