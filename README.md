@@ -9,7 +9,7 @@
 | [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) |  | Альфа 0.6.2 | Начало |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | [*Хорьковый бизнес*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | Альфа 0.4.2 | Самое начало |
 | [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | [*Всё от Fabric 6*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | ? | Перевода толком пока нет |
-| [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | Перевода толком пока нет |
+| [All the Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | Перевода толком пока нет |
 
 ## Внешние ссылки
 
@@ -17,18 +17,18 @@
 
 <div align="center">
 <a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="35" src="Разное/modrinth_compact_vector.svg">
+    <img height="35" src="Ассеты/modrinth_compact_vector.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="35" src="Разное/curseforge_compact_vector.svg">
+    <img height="35" src="Ассеты/curseforge_compact_vector.svg">
 <a href="https://www.planetminecraft.com/texture-pack/mods-russian-translation-6270800/">
-    <img height="35" src="Разное/planet_compact_vector.svg">
+    <img height="35" src="Ассеты/planet_compact_vector.svg">
 </a>
 <a href="https://ru-minecraft.ru/fayly-dlya-minecraft/79004-mods-ru.html">
-    <img height="35" src="Разное/rumc_compact_vector.svg">
+    <img height="35" src="Ассеты/rumc_compact_vector.svg">
 </a>
 <a href="https://vk.com/demipr">
-    <img height="35" src="Разное/vk_compact_vector.svg">
+    <img height="35" src="Ассеты/vk_compact_vector.svg">
 </a>
 </a>
 </div>
