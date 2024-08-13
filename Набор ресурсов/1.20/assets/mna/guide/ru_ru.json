@@ -388,7 +388,7 @@
                     }
                 ],
                 "type": "text",
-                "value": "The Affinity Tinker Table allows me to use a moderate amount of Eldrin Power (supplied by a conduit placed within range, about 6 blocks) to switch a spell placed within the table to a new affinity.  The Eldrin Power required matches the affinity I am attempting to change the spell to.  In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively.\n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed."
+                "value": "Стол настройки аффинитета позволяет мне использовать умеренное количество энергии Элдрина (подаваемой через проводник, расположенный в радиусе примерно 6 блоков), чтобы изменить аффинитет заклинания, помещённого в стол. Необходимое количество энергии Элдрина соответствует аффинитету, на который я пытаюсь изменить заклинание. В случае с молнией и льдом, похоже, требуется энергия огня и воды соответственно.\n\nПреимущество в том, что я могу специализировать свою магию, используя собственный аффинитет с максимальной пользой.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed."
             }
         ]
     },
@@ -1118,6 +1118,45 @@
             }
         ]
     },
+    "Aura of the Bulwark": {
+        "category": "enchantments",
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_i",
+                "type": "manaweaving_altar"
+            },
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_ii",
+                "type": "manaweaving_altar"
+            },
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_iii",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Aura of the Bulwark"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This aura will periodically drain a small amount of my mana in order to "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "apply an armor boosting effect to me and to those in close proximity to me"
+                    },
+                    {
+                        "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+                    }
+                ],
+                "type": "text",
+                "value": ""
+            }
+        ]
+    },
     "Aura Pilgrim": {
         "category": "enchantments",
         "related_recipes": [
@@ -1184,45 +1223,6 @@
                 ],
                 "type": "text",
                 "value": "This aura will periodically drain my mana in order to apply a movement speed increase to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
-            }
-        ]
-    },
-    "Aura of the Bulwark": {
-        "category": "enchantments",
-        "related_recipes": [
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_i",
-                "type": "manaweaving_altar"
-            },
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_ii",
-                "type": "manaweaving_altar"
-            },
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_iii",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Aura of the Bulwark"
-            },
-            {
-                "json": [
-                    {
-                        "text": "This aura will periodically drain a small amount of my mana in order to "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "apply an armor boosting effect to me and to those in close proximity to me"
-                    },
-                    {
-                        "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
-                    }
-                ],
-                "type": "text",
-                "value": ""
             }
         ]
     },
@@ -15490,114 +15490,6 @@
             }
         ]
     },
-    "HUD": {
-        "category": "basics",
-        "index": 1,
-        "related_recipes": [],
-        "sections": [
-            {
-                "type": "title",
-                "value": "HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "The main hud is the mana bar. In this you will see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "badge with your level"
-                    },
-                    {
-                        "text": " in it, a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "main bar representing your mana"
-                    },
-                    {
-                        "text": ", and a"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": " smaller bar below representing your magic XP"
-                    },
-                    {
-                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-                    }
-                ],
-                "type": "text",
-                "value": "The main hud is the mana bar. In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-            },
-            {
-                "type": "title",
-                "value": "Параметры отображения HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "If you can't see your HUD, you've likely changed this option!"
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_options.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "HUD Position Option"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_position.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "json": [
-                    {
-                        "text": "If you see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "red drop with a lightning bolt"
-                    },
-                    {
-                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
-                    }
-                ],
-                "newPage": true,
-                "type": "text",
-                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
-            },
-            {
-                "height": 26,
-                "location": "mna:textures/guide/low_charge.png",
-                "newPage": true,
-                "type": "image",
-                "width": 22
-            }
-        ]
-    },
     "Healing Poultice": {
         "category": "artifice",
         "index": 1,
@@ -15791,6 +15683,114 @@
                 ],
                 "type": "text",
                 "value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
+            }
+        ]
+    },
+    "HUD": {
+        "category": "basics",
+        "index": 1,
+        "related_recipes": [],
+        "sections": [
+            {
+                "type": "title",
+                "value": "HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "The main hud is the mana bar. In this you will see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "badge with your level"
+                    },
+                    {
+                        "text": " in it, a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "main bar representing your mana"
+                    },
+                    {
+                        "text": ", and a"
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": " smaller bar below representing your magic XP"
+                    },
+                    {
+                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+                    }
+                ],
+                "type": "text",
+                "value": "The main hud is the mana bar. In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+            },
+            {
+                "type": "title",
+                "value": "Параметры отображения HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "If you can't see your HUD, you've likely changed this option!"
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_options.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "HUD Position Option"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_position.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "json": [
+                    {
+                        "text": "If you see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "red drop with a lightning bolt"
+                    },
+                    {
+                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
+                    }
+                ],
+                "newPage": true,
+                "type": "text",
+                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
+            },
+            {
+                "height": 26,
+                "location": "mna:textures/guide/low_charge.png",
+                "newPage": true,
+                "type": "image",
+                "width": 22
             }
         ]
     },
@@ -16934,6 +16934,113 @@
             }
         ]
     },
+    "Mana and Regeneration": {
+        "category": "basics",
+        "index": 2,
+        "related_recipes": [
+            {
+                "location": "mna:clay_mug",
+                "type": "crafting"
+            },
+            {
+                "location": "mna:manaweaving/food/mana_coffee",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Мана, восстановление и ресурсы для заклинаний"
+            },
+            {
+                "json": [
+                    {
+                        "text": "When you perform several actions in the realms of magic, you will consume your "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "casting resource"
+                    },
+                    {
+                        "text": ".\n\nYou start with "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "mana"
+                    },
+                    {
+                        "text": ", but depending on faction choices your casting resource may change to something else such as "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "souls"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "brimstone"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "summer fire"
+                    },
+                    {
+                        "text": ", or "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "winter ice"
+                    },
+                    {
+                        "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "mana"
+                    },
+                    {
+                        "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+                    }
+                ],
+                "type": "text",
+                "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+            },
+            {
+                "json": [
+                    {
+                        "text": "There are items, such as Mana Tea or Potions, that can help "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "restore mana more quickly"
+                    },
+                    {
+                        "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
+                    }
+                ],
+                "type": "text",
+                "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly."
+            },
+            {
+                "json": [
+                    {
+                        "color": "blue",
+                        "text": "Mana potions"
+                    },
+                    {
+                        "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+                    }
+                ],
+                "type": "text",
+                "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+            }
+        ]
+    },
     "Mana Crystal": {
         "category": "artifice",
         "index": 1,
@@ -17055,113 +17162,6 @@
                 ],
                 "type": "text",
                 "value": "I've been considering the basic armor that mages make and how it can use the magic of its wearer to stitch itself back together.  I think I can enchant some magical thread to allow it to stitch alternate gear back together."
-            }
-        ]
-    },
-    "Mana and Regeneration": {
-        "category": "basics",
-        "index": 2,
-        "related_recipes": [
-            {
-                "location": "mna:clay_mug",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:manaweaving/food/mana_coffee",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Мана, восстановление и ресурсы для заклинаний"
-            },
-            {
-                "json": [
-                    {
-                        "text": "When you perform several actions in the realms of magic, you will consume your "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "casting resource"
-                    },
-                    {
-                        "text": ".\n\nYou start with "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "mana"
-                    },
-                    {
-                        "text": ", but depending on faction choices your casting resource may change to something else such as "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "souls"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "brimstone"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "summer fire"
-                    },
-                    {
-                        "text": ", or "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "winter ice"
-                    },
-                    {
-                        "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "mana"
-                    },
-                    {
-                        "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
-                    }
-                ],
-                "type": "text",
-                "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
-            },
-            {
-                "json": [
-                    {
-                        "text": "There are items, such as Mana Tea or Potions, that can help "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "restore mana more quickly"
-                    },
-                    {
-                        "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
-                    }
-                ],
-                "type": "text",
-                "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly."
-            },
-            {
-                "json": [
-                    {
-                        "color": "blue",
-                        "text": "Mana potions"
-                    },
-                    {
-                        "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
-                    }
-                ],
-                "type": "text",
-                "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
             }
         ]
     },
@@ -24927,6 +24927,7 @@
             }
         ]
     },
+    "version": "2.0.0.1",
     "Visiting": {
         "category": "rituals",
         "index": 0,
@@ -25269,7 +25270,6 @@
             }
         ]
     },
-    "version": "2.0.0.1",
     "Как продвигаться": {
         "category": "basics",
         "index": 3,
