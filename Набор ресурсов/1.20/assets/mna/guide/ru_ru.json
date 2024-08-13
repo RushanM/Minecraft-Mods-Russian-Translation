@@ -388,7 +388,7 @@
                     }
                 ],
                 "type": "text",
-                "value": "Стол настройки аффинитета позволяет мне использовать умеренное количество энергии Элдрина (подаваемой через проводник, расположенный в радиусе примерно 6 блоков), чтобы изменить аффинитет заклинания, помещённого в стол. Необходимое количество энергии Элдрина соответствует аффинитету, на который я пытаюсь изменить заклинание. В случае с молнией и льдом, похоже, требуется энергия огня и воды соответственно.\n\nПреимущество в том, что я могу специализировать свою магию, используя собственный аффинитет с максимальной пользой.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed."
+                "value": "Стол настройки аффинитета позволяет мне использовать умеренное количество энергии Элдрина (подаваемой через проводник, расположенный в радиусе примерно 6 блоков), чтобы изменить аффинитет заклинания, помещённого в стол. Необходимое количество энергии Элдрина соответствует аффинитету, на который я пытаюсь изменить заклинание. В случае с молнией и льдом, похоже, требуется энергия огня и воды соответственно.\n\nПреимущество в том, что я могу специализировать свою магию, используя собственный аффинитет с максимальной пользой.\n\nКак только процесс начался, я могу в любое время забрать заклинание, но должен делать это осторожно, ведь в противном случае весь прогресс в переносе аффинитета будет утерян. Для достижения наилучшего результата следует оставить заклинание в столе до завершения процесса."
             }
         ]
     },
@@ -408,37 +408,37 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Ritual of Alteration"
+                "value": "Ритуал изменения"
             },
             {
                 "json": [
                     {
-                        "text": "This ritual is used to "
+                        "text": "Этот ритуал используется для "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "add modifiers to spells"
+                        "text": "добавления модификаторов к заклинаниям,"
                     },
                     {
-                        "text": " I have already crafted. I will first need to craft a "
+                        "text": " которые я уже создал. Сначала мне нужно создать "
                     },
                     {
                         "color": "blue",
-                        "text": "Book of Alteration"
+                        "text": "книгу изменений"
                     },
                     {
-                        "text": ", and bookmark the modifier I want to add "
+                        "text": ", и отметить модификатор, который я хочу добавить "
                     },
                     {
                         "italic": true,
-                        "text": "(use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add)"
+                        "text": "(используйте её радиальное меню, для чего удерживая её в руке нажмите 'Z', чтобы выбрать модификатор)"
                     },
                     {
-                        "text": ". \n\nThen place the required items in the ritual and perform it to add the modifier to the spell. \n\nThis ritual will not allow me to bypass the 3 modifier limit on a spell. If I try to add more, the ritual will fail."
+                        "text": ". \n\nЗатем разместите необходимые предметы для ритуала и выполните его, чтобы добавить модификатор к заклинанию. \n\nЭтот ритуал не позволит мне превысить лимит в 3 модификатора на заклинание. Если я попытаюсь добавить больше, ритуал провалится."
                     }
                 ],
                 "type": "text",
-                "value": "This ritual is used to add modifiers to spells you have already crafted.  You will first need to craft a Book of Alteration, and use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add.  Then place the required items in the ritual and perform it to add the modifier to the spell.  You can only have 3 modifiers on a spell.  If you try to add more, the ritual will fail."
+                "value": "Этот ритуал используется для добавления модификаторов к заклинаниям, которые вы уже создали. Сначала вам нужно создать книгу изменений и использовать её радиальное меню (держите в руках и нажмите 'Z'), чтобы выбрать модификатор, который хотите добавить. Затем поместите необходимые предметы в ритуал и выполните его, чтобы добавить модификатор к заклинанию. Вы можете иметь только 3 модификатора на заклинание. Если попытаетесь добавить больше, ритуал провалится."
             }
         ]
     },
@@ -454,30 +454,30 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Amulet of the Battlemage"
+                "value": "Амулет боевого чародея"
             },
             {
                 "json": [
                     {
-                        "text": "This amulet, when worn, will "
+                        "text": "Когда этот амулет надет, он будет "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "increase the damage of my spells"
+                        "text": "увеличивать урон от моих заклинаний"
                     },
                     {
-                        "text": " by 30% while I have a "
+                        "text": " на 30%, пока в другой руке у меня есть "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "sword in the other hand and will increase my melee damage by more the lower my mana is"
+                        "text": "меч, и будет увеличивать мой урон в ближнем бою тем больше, чем меньше моя мана"
                     },
                     {
-                        "text": ", Because even wizards need to multiclass."
+                        "text": ", потому что даже магам нужно развивать несколько классов."
                     }
                 ],
                 "type": "text",
-                "value": "This amulet, when worn, will increase the damage of my spells cast by 15% while I have a sword in the other hand.\n\nBecause even wizards need to multiclass."
+                "value": "Этот амулет, когда он надет, увеличивает урон от моих заклинаний на 15%, если в другой руке у меня меч.\n\nПотому что даже волшебники должны уметь владеть несколькими классами."
             }
         ]
     },
@@ -493,16 +493,16 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Ritual of Ancient Stone"
+                "value": "Ритуал древнего камня"
             },
             {
                 "json": [
                     {
-                        "text": "This ritual coalesces the elements of earth and nature into an essence. \n"
+                        "text": "Этот ритуал объединяет элементы земли и природы в эссенцию. \n"
                     },
                     {
                         "color": "dark_purple",
-                        "text": "It can only be performed while far underground, where the deepslate resides."
+                        "text": "Его можно провести только глубоко под землёй, где лежит глубинный сланец."
                     }
                 ],
                 "type": "text",
@@ -522,7 +522,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Animated Quill"
+                "value": "Оживлённое перо"
             },
             {
                 "json": [
@@ -531,14 +531,14 @@
                     },
                     {
                         "color": "blue",
-                        "text": "Animated Quill"
+                        "text": "Оживлённое перо"
                     },
                     {
-                        "text": " doesn't do much on its own, but is used in several other recipes."
+                        "text": " само по себе мало на что способно, но используется во многих других рецептах."
                     }
                 ],
                 "type": "text",
-                "value": "The Animated Quill doesn't do much on its own, but is used in several other recipes."
+                "value": "Оживлённое перо само по себе мало на что способно, но используется во многих других рецептах."
             }
         ]
     },
@@ -554,30 +554,30 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Antidote Bracelet"
+                "value": "Браслет-антидот"
             },
             {
                 "json": [
                     {
-                        "text": "This enchanted bracelet will "
+                        "text": "Этот зачарованный браслет будет "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "protect me from poison"
+                        "text": "защищать меня от яда"
                     },
                     {
-                        "text": ".\n\nIt only contains so much magic, and will eventually need to be recharged. It can make use of "
+                        "text": ".\n\nОн содержит ограниченное количество магии и со временем требует подзарядки. Для увеличения заряда можно использовать "
                     },
                     {
                         "color": "blue",
-                        "text": "Mana Crystal Fragments"
+                        "text": "фрагменты кристалла маны"
                     },
                     {
-                        "text": " and their upgrades that are in my pack to extend its charge."
+                        "text": " и их улучшения, которые находятся в моём рюкзаке."
                     }
                 ],
                 "type": "text",
-                "value": "This enchanted bracelet will protect me from the effects of poison.  It only contains so much magic, and will eventually break."
+                "value": "Этот зачарованный браслет защитит меня от эффектов яда. В нём ограничено количество магии, и со временем он разряжается."
             }
         ]
     },
