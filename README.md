@@ -202,7 +202,7 @@
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Sodium](https://modrinth.com/mod/sodium) | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [SpaceworldMons [Cobblemon]](hhttps://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
+| [SpaceworldMons](hhttps://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 | [StaffDerpsMod](https://modrinth.com/mod/staffderpsmod) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Subnautica Flow](https://modrinth.com/mod/subnautica-flow) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
@@ -235,10 +235,10 @@
 Проект (не сам набор ресурсов) также включает в себя переводы некоторых сборок модов, а конкретнее файлов, которые не являются частью модов, а именно сборки (заголовок окна игры, кнопки меню, квесты). Установка переводов **для них** производится ручной заменой файлов сборки на те, что представлены в репозитории. Вы можете ознакомиться и скачать их по следующим ссылкам:
 | Сборка | Локализованное название | Версия | Статус перевода |
 | - | - | - | - |
-| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | [*Всё от Fabric 6*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | ? | Перевода толком пока нет |
-| [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | Перевода толком пока нет |
 | [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) |  | Альфа 0.6.2 | Начало |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | [*Хорьковый бизнес*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | Альфа 0.4.2 | Самое начало |
+| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | [*Всё от Fabric 6*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | ? | Перевода толком пока нет |
+| [All The Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | Перевода толком пока нет |
 
 Они всё ещё в рааанней разработке, но вы уже можете их опробовать.
 
