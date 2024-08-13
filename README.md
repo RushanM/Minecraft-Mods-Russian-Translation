@@ -6,10 +6,10 @@
 
 | Сборка | Локализованное название | Версия | Статус перевода |
 | - | - | - | - |
-| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) |  | Альфа 0.6.2 | Начало |
-| [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | [*Хорьковый бизнес*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | Альфа 0.4.2 | Самое начало |
-| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | [*Всё от Fabric 6*](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | ? | Перевода толком пока нет |
-| [All the Mods 9](https://github.com/AllTheMods/ATM-9) | [*Все моды 9*](https://github.com/AllTheMods/ATM-9) | ? | Перевода толком пока нет |
+| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Альфа 0.6.2 | Начало |
+| [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | Самое начало |
+| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | Перевода нет |
+| [All the Mods 9](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20the%20Mods%209) | *Все моды 9* | ? | Перевода нет |
 
 ## Внешние ссылки
 
