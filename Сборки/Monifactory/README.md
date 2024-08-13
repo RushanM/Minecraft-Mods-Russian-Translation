@@ -1,5 +1,3 @@
-# Monifactory
-
 <p align="center"><img src="https://github.com/ThePansmith/Monifactory/assets/70342772/4ac1d5e7-0610-4f44-bfed-b3b2022eecc0" height="250" alt="Логотип"></p>
 <h1 align="center">Monifactory</h1>
 <h3 align="center"><b>Автор сборки: <a href="https://github.com/ThePansmith">Pansmith</a></b></h3>
