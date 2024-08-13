@@ -96,7 +96,7 @@
     "compat.bigreactors.jei.vaporization.recipecategory.title": "Испарение",
     "compat.bigreactors.jei.vapormappings.recipecategory.title": "Жидкость <=> Пар",
     "config.bigreactors.client": "Конфигурации только для клиента",
-    "config.bigreactors.client.disableapitooltips": "Не добавлять (расширенные) подсказки к топливам модераторам катушкам и т.д.",
+    "config.bigreactors.client.disableapitooltips": "Не добавлять (расширенные) подсказки к топливам модераторам катушкам и т. д.",
     "config.bigreactors.client.disablepatchoulitweaks": "Включите это если у вас возникают проблемы с новыми версиями Patchouli",
     "config.bigreactors.client.disablereactorparticles": "Отключить все частицы в реакторе",
     "config.bigreactors.client.disableturbineparticles": "Отключить все частицы в турбине",

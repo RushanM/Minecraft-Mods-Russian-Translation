@@ -109,7 +109,7 @@
     "fml.messages.version.restriction.upper.exclusive": "ниже {0}",
     "fml.messages.version.restriction.upper.inclusive": "{0} или ниже",
     "fml.modloading.brokenfile": "{2} — не допустимый файл мода",
-    "fml.modloading.brokenfile.bukkit": "Файл {2} содержит Bukkit или реализацию Bukkit (Spigot, Paper и т.п.) и не может быть загружен",
+    "fml.modloading.brokenfile.bukkit": "Файл {2} содержит Bukkit или реализацию Bukkit (Spigot, Paper и т. п.) и не может быть загружен",
     "fml.modloading.brokenfile.fabric": "Файл {2} — мод для Fabric, и он не может быть загружен",
     "fml.modloading.brokenfile.invalidzip": "Файл {2} — не файл формата JAR",
     "fml.modloading.brokenfile.liteloader": "Файл {2} — мод для LiteLoader, и он не может быть загружен",

@@ -234,7 +234,7 @@
   "config.cookingforblockheads.largeCounters": "Увеличение кухонных стоек",
   "config.cookingforblockheads.largeCounters.tooltip": "Если включить эту функцию, то на кухонных стойках будет в два раза больше места для инвентаря.",
   "config.cookingforblockheads.disallowOvenAutomation": "Запрет автоматизации печей",
-  "config.cookingforblockheads.disallowOvenAutomation.tooltip": "Установите значение true, если Вы хотите запретить автоматизацию печи (трубы и т.д. не смогут поставлять/извлекать предметы).",
+  "config.cookingforblockheads.disallowOvenAutomation.tooltip": "Установите значение true, если Вы хотите запретить автоматизацию печи (трубы и т. д. не смогут поставлять/извлекать предметы).",
   "config.cookingforblockheads.ovenFuelTimeMultiplier": "Множитель потребления топлива духовкой",
   "config.cookingforblockheads.ovenFuelTimeMultiplier.tooltip": "Множитель потребления топлива духовкой. Повышение значения уменьшает затраты топлива. Значение по умолчанию - 1.0",
   "config.cookingforblockheads.ovenCookTimeMultiplier": "Множитель времени готовки в духовке",

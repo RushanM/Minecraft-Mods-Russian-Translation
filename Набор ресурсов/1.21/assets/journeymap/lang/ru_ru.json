@@ -312,7 +312,7 @@
   "jm.common.show_day_night": "Сменять День/Ночь",
   "jm.common.show_day_night.tooltip": "Переключать карту на день или ночь автоматически",
   "jm.common.show_entity_names": "Показывать имена существ",
-  "jm.common.show_entity_names.tooltip": "Отображает имена питомцев, NPC и т.д. на карте",
+  "jm.common.show_entity_names.tooltip": "Отображает имена питомцев, NPC и т. д. на карте",
   "jm.common.show_grid": "Отображать сетку",
   "jm.common.show_grid.tooltip": "Отображать сетку границ чанков на карте",
   "jm.common.show_grid_shift.tooltip": "Нажмите, удерживая Shift, для изменения",

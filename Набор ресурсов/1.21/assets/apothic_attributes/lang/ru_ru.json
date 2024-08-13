@@ -368,7 +368,7 @@
     "enchantment.apotheosis.icy_thorns.desc": "Замедляет атакующих.",
 	
 	"enchantment.apotheosis.bane_of_illagers": "Бич зловредов",
-    "enchantment.apotheosis.bane_of_illagers.desc": "Наносит дополнительный урон зловредам (поборникам, заклинателям и т.д.)",
+    "enchantment.apotheosis.bane_of_illagers.desc": "Наносит дополнительный урон зловредам (поборникам, заклинателям и т. д.)",
 
     "death.attack.apoth_corrupted": "%s был истощён искажённым зачарованием.",
 	"death.attack.apoth_corrupted.player": "%s был искажён %s.",

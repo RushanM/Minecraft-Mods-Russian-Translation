@@ -3510,7 +3510,7 @@
     "gtceu.multiblock.turbine.rotor_durability": "Прочность ротора: %s%%",
     "gtceu.multiblock.turbine.rotor_speed": "Скорость: %s/%s об/мин",
     "gtceu.multiblock.universal.distinct": "Раздельные люки:",
-    "gtceu.multiblock.universal.distinct.info": "Если включено, то каждый входной люк будет рассматриваться отдельно друг от друга для поиска рецепта. Полезно, например, для форм экструдера, лазерных линз и т.д.",
+    "gtceu.multiblock.universal.distinct.info": "Если включено, то каждый входной люк будет рассматриваться отдельно друг от друга для поиска рецепта. Полезно, например, для форм экструдера, лазерных линз и т. д.",
     "gtceu.multiblock.universal.distinct.no": "Нет",
     "gtceu.multiblock.universal.distinct.yes": "Да",
     "gtceu.multiblock.universal.has_problems": "Механизм неисправен!",
