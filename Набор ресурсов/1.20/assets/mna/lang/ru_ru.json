@@ -193,6 +193,7 @@
     "itemGroup.mna.runes": "Mana and Artifice: Руны",
     "key.categories.mna": "Mana and Artifice",
     "mechanic.mna:basics": "Основы",
+    "mechanic.mna:constructs": "Создания",
     "mna:components/animus": "Душа",
     "mna:components/animus.desc.delay": "Задержка в секундах перед тем, как будет применён этот компонент.",
     "mna:components/animus.desc.duration": "Как долго будет жить существо, получившее душу."
