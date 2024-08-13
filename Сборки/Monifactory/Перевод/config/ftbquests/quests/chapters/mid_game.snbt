@@ -823,7 +823,7 @@
 			description: [
 				"&6Nichrome&r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials."
 				""
-				"Notice that an &6HV&r &3Assembler&r is required to make them. Each tier of coil requires their tier of Assembler - we won't remind you again."
+				"Notice that an &6HV&r &3Assembler&r is required to make them. Each tier of coil requires their tier of Assembler — we won't remind you again."
 				""
 				"&93600K&r is now also hot enough to grant a single &9100% efficient overclock&r to 1800K and below recipes. This means that one overclock will grant &94x speed&r instead of the normal &92x&r. In effect, you will get an additional 2x speed boost by overclocking once. "
 				""
@@ -1101,9 +1101,9 @@
 		{
 			dependencies: ["595F205B551A53C9"]
 			description: [
-				"&2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum - as well as Gold. All of these elements will be used in IV-tier and above materials."
+				"&2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals — Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum — as well as Gold. All of these elements will be used in IV-tier and above materials."
 				""
-				"&rYou will need to treat certain ores with &9Nitric Acid&r to yield &6PGS&r - &6Sheldonite&r is the best. Then, using an &3HV+ Centrifuge&r and &9Aqua Regia&r, break it down into the PGS salts, and reduce those salts to the metals."
+				"&rYou will need to treat certain ores with &9Nitric Acid&r to yield &6PGS&r — &6Sheldonite&r is the best. Then, using an &3HV+ Centrifuge&r and &9Aqua Regia&r, break it down into the PGS salts, and reduce those salts to the metals."
 				""
 				"This is still optional, and you can get &6Ruthenium&r and &6Rhodium&r from &6Osmiridium 80/20 Ore&r and &6Iridosmine 80/20 Ore&r from Microverse adventures instead."
 			]
@@ -1569,7 +1569,7 @@
 			description: [
 				"&6Sodium Hydroxide&r is a strong base, and an ingredient in &9Bio Diesel&r, among other reactions."
 				""
-				"&2The only source&r is splitting &9Salt Water&r in an &3Electrolyzer&r - this is also a good source of &9Chlorine&r. You can get &9Salt Water&r from mixing &6Salt&r and &9Water&r (duh), &2dissolving Ghast Tears, or drilling it from Salt Water fluid veins, which only spawn over oceans."
+				"&2The only source&r is splitting &9Salt Water&r in an &3Electrolyzer&r — this is also a good source of &9Chlorine&r. You can get &9Salt Water&r from mixing &6Salt&r and &9Water&r (duh), &2dissolving Ghast Tears, or drilling it from Salt Water fluid veins, which only spawn over oceans."
 			]
 			id: "2FFEE746B0ECA2D8"
 			rewards: [{
@@ -1950,7 +1950,7 @@
 			description: [
 				"An Extreme Voltage tier &bGregTech&r battery."
 				""
-				"&2Higher tier GT Batteries have been buffed to be quite strong - this one holds 25 MEU, or 100 MRF. You may want to consider using them over RF storage."
+				"&2Higher tier GT Batteries have been buffed to be quite strong — this one holds 25 MEU, or 100 MRF. You may want to consider using them over RF storage."
 			]
 			id: "2DDD4B4EC8065980"
 			rewards: [{

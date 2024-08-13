@@ -1139,7 +1139,7 @@
 			description: [
 				"The &3Research Station&r is an advanced Scanner which consumes &dComputation Work&r provided by connected &3High Performance Computing Arrays&r to research &cZPM&r and higher items."
 				""
-				"The function of this multiblock is similar to the Scanner. Place the &6Data Orb&r or &6Data Module&r into the &3Object Holder&r alongside the item to be scanned. After sufficient &dCWU&r has been drawn, the item will be &cconsumed&r and the corresponding data will be written to the data item. Ensure your &3HPCA&r is supplying sufficient &dCWU/t&r - check the scan recipe in &eEMI&r for how much is required."
+				"The function of this multiblock is similar to the Scanner. Place the &6Data Orb&r or &6Data Module&r into the &3Object Holder&r alongside the item to be scanned. After sufficient &dCWU&r has been drawn, the item will be &cconsumed&r and the corresponding data will be written to the data item. Ensure your &3HPCA&r is supplying sufficient &dCWU/t&r — check the scan recipe in &eEMI&r for how much is required."
 				""
 				"&3Energy&r, &3Maintenance&r, and &3Computation Hatches&r can only replace the 9 &aComputer Casings&r between the &aComputer Heat Vents&r at the back of the structure. The &3Object Holder&r &cmust face&r the &3Research Station&r controller block."
 				""
@@ -1191,7 +1191,7 @@
 			description: [
 				"Once you scan and make make your first &6UV Circuits&r and &6ZPM Field Generators&r, you can upgrade your &3HPCA Computing Components&r to &3Advanced Components&r. These produce &d16 CWU/t&r each and require &d4 Cooling&r each."
 				""
-				"With them, you can upgrade a single HPCA to produce &d32 CWU/t&r total - enough for basic &6UV components&r, and the &3Network Switch&r, which will allow you to go higher."
+				"With them, you can upgrade a single HPCA to produce &d32 CWU/t&r total — enough for basic &6UV components&r, and the &3Network Switch&r, which will allow you to go higher."
 			]
 			id: "0CEF53164D8B6496"
 			rewards: [{

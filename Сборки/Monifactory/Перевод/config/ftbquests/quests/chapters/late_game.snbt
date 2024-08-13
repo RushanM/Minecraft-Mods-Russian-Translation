@@ -2313,7 +2313,7 @@
 		{
 			dependencies: ["521977C7165229F1"]
 			description: [
-				"The &3Active Transformer&r is a device which can convert any number and type of &9GT Energy Inputs&r into any number and type of &9GT Energy Outputs&r. That includes &664A Substation Hatches&r, as well as &aLaser Hatches&r - refer to the nearby quests for more details on those."
+				"The &3Active Transformer&r is a device which can convert any number and type of &9GT Energy Inputs&r into any number and type of &9GT Energy Outputs&r. That includes &664A Substation Hatches&r, as well as &aLaser Hatches&r — refer to the nearby quests for more details on those."
 				""
 				"With &9RF Conduits&r and &3Energy Converters&r in this pack, this probably has limited use, but you can build it if you want."
 			]
@@ -2367,7 +2367,7 @@
 			description: [
 				"&aLasers&r are &9GregTech&r's native solution to high-volume power transfer. Each power tier starting at &1IV&r has &aLaser Hatches&r capable of transferring &9256A&r, &91,024A&r and &94,096A&r of their voltage's power!"
 				""
-				"Energy in the Laser Network flows from &aLaser Sources&r through &6Laser Transmitting Cables&r to &aLaser Targets&r. All these must be in a straight line - lasers don't bend, after all. Similarly to other power-related blocks, the tier of the &aLaser Target&r must not be lower than the tier of the &aLaser Source&r."
+				"Energy in the Laser Network flows from &aLaser Sources&r through &6Laser Transmitting Cables&r to &aLaser Targets&r. All these must be in a straight line — lasers don't bend, after all. Similarly to other power-related blocks, the tier of the &aLaser Target&r must not be lower than the tier of the &aLaser Source&r."
 				""
 				"You can choose to use these when moving power between &3Active Transformers&r and your &3Power Substation&r."
 			]
@@ -2689,7 +2689,7 @@
 				""
 				"When both a Packager and Unpackager are connected to an ME Network and have the same recipe, the resulting item will appear as craftable in your &aTerminal&r."
 				""
-				"&3Packager Extensions&r will act like a clone of an adjacent Packager - including access to patterns in its Package Recipe Holder - allowing you to craft recipe packages faster. Simply place the Packager Extensions around the Packager. Up to 26 extensions in a 3x3x3 cube around the Packager are supported."
+				"&3Packager Extensions&r will act like a clone of an adjacent Packager — including access to patterns in its Package Recipe Holder — allowing you to craft recipe packages faster. Simply place the Packager Extensions around the Packager. Up to 26 extensions in a 3x3x3 cube around the Packager are supported."
 			]
 			disable_toast: true
 			icon: "packagedauto:package"
@@ -2902,9 +2902,9 @@
 		{
 			dependencies: ["595F205B551A53C9"]
 			description: [
-				"&2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum - as well as Gold. All of these elements will be used in IV-tier and above materials."
+				"&2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals — Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum — as well as Gold. All of these elements will be used in IV-tier and above materials."
 				""
-				"&rYou will need to treat certain ores with &9Nitric Acid&r to yield &6PGS&r - &6Sheldonite&r is the best. Then, using an &3HV+ Centrifuge&r and &9Aqua Regia&r, break it down into the PGS salts, and reduce those salts to the metals."
+				"&rYou will need to treat certain ores with &9Nitric Acid&r to yield &6PGS&r — &6Sheldonite&r is the best. Then, using an &3HV+ Centrifuge&r and &9Aqua Regia&r, break it down into the PGS salts, and reduce those salts to the metals."
 				""
 				"This is still optional, and you can get &6Ruthenium&r and &6Rhodium&r from &6Osmiridium 80/20 Ore&r and &6Iridosmine 80/20 Ore&r from Microverse adventures instead."
 			]
