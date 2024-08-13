@@ -69,7 +69,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Доступ ко всем ваши предметам из одного экрана! Вскоре..."
+			subtitle: "Доступ ко всем ваши предметам из одного экрана! Вскоре…"
 			tasks: [{
 				id: "25CB53FBDBE5C347"
 				item: "ae2:terminal"

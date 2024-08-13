@@ -231,11 +231,11 @@
 		{
 			dependencies: ["5F109188BE4D9767"]
 			description: [
-				"Note: this quest accepts both LV and MV Canning Machines."
+				"Заметка: этот квест принимает напронители НН и СН."
 				""
-				"&aLV Batteries&r were very simple to make, but more effective forms of power storage will be more complex to build, so we'll need to lay the groundwork now."
+				"&aБатареи НН&r очень просто сделать, но создание более эффективных форм хранения энергии гораздо сложнее, потому нужно заложить основу сейчас."
 				""
-				"Put your &3Centrifuge&r to work for the &6Antimony&r you'll need, which comes in tiny piles from processing &6Tetrahedrite Ore&r and &6Stibnite Ore&r."
+				"&6Сурьму&r можно получить в форме крохотной пыли путём обработки &6руды тетрахидрита&r и &6руды стибнита&r в &3центрифуге&r."
 			]
 			icon: "gtceu:lv_canner"
 			id: "74935A3553451178"
@@ -277,39 +277,39 @@
 					type: "item"
 				}
 			]
+			title: "Наполнитель"
 			x: 1.0d
 			y: -3.0d
 		}
 		{
 			dependencies: ["5B0200011DF8E1B6"]
 			description: [
-				"When you first started the pack, we told you that ore doubling can wait, and that's true... But you will need to start doing some rudimentary ore processing for &ebyproducts&r."
+				"Когда вы начинали играть, мы сказали, что удвоение руды может подождать. Хоть это и правда, но вам сейчас понадобится хотя бы примитивная обработка с целью получить &eпобочные продукты&r."
 				""
-				"Byproducts are additional materials that can only be obtained from processing ores in certain machines. For example, there is no \"Gallium Ore\" or \"Arsenic Ore\". You get &6Gallium&r and &6Arsenic &ras a byproduct from processing other ores."
+				"Пробочка — это дополнительный материал, получаемый только путём обработки руды в определённых машинах. Например, не существует «руды галлия» или «руды арсенида». &6Галлий&r и &6арсенид&r можно получить как побочный продукт после обработки другой руды."
 				""
-				"Ores have various means of processing, and eventually you'll use machine pipelines to process ores in specific ways to optimize what byproducts you gain. You can look at the &6Ore Byproduct Page&r of an ore in &bEMI&r, accessed by pressing 'U' on an ore and navigating to the byproduct tab, to see the required route to obtain desired byproducts. "
-				""
-				"{@pagebreak}"
-				"The relevant machines are as follows:"
-				" "
-				"- &3Macerator&r: turns ores into &6Crushed Ores&r, Crushed Ores into &6Impure Dusts&r, and &6Purified Crushed Ores&r into &6Pure Dusts&r. Higher tiers of macerators have byproduct slots and gain a chance to get a full pile of byproduct from ores and both types of crushed ores."
-				""
-				"- &3Ore Washer&r: cleans Crushed Ores with &9Water&r, making Purified Crushed Ores&r, and a guaranteed 3 tiny piles of byproduct. Using &9Distilled Water&r makes them go faster. &2You can also perform a simple wash with this similar to Cauldron washing, which is extremely fast, but grants no byproducts.&r"
-				""
-				"- &3Chemical Bath&r: &2uses Sodium Persulfate or Mercury to purify certain ores, granting a chance to yield a full pile of a byproduct."
-				""
-				"&r- &3Centrifuge&r: separates Pure or Impure dusts into the final material, producing a guaranteed &21 (nerfed from 3) tiny pile of byproduct&r."
+				"У руды есть разные этапы обработки и со временем у вас будет целый ряд специализированных машин для получения особого побочного продукта при обработке руды. В &bEMI&r можно найти &6таблицу побочных продуктов&r руды, нажав на руду клавишу 'U'. Там найти вкладку побочных продуктов и увидеть всю цепочку обработки руды и нужный побочный продукт."
 				""
 				"{@pagebreak}"
-				"- &3Electrolyzer&r: uses power to split compounds into individual elements, sometimes gaining useful byproducts in the process. &2Be warned that certain dusts may be better to directly smelt instead of electrolyze!&r"
+				"В процессе обработки учавствуют следующие машины:"
 				""
-				"- &3Thermal Centrifuge&r: not to be confused with the regular Centrifuge. &2Less slow and power-hungry now, but still so. However, it yields 3 additional tiny piles of byproduct, and macerating the Centrifuged Ore can grant a special third byproduct."
+				"— &3Мацератор&r: передрабливает руду в &6дроблёную руду&r, её передрабливает в &6грязную пыль&r, а &6очищенную руду&r в &6очищенную пыль&r. Высшие уровни мацератора имеют ячейки для побочных продуктов и получают шанс получить цельную пыль побочного продукта из руды и оба типа дроблёной руды."
 				""
-				"&2- Sifter: filters high-quality Gems from Purified Crushed gem Ores for an overall higher yield."
+				"— &3Рудопромывочная машина&r: очищает дроблёную руду &9водой&r, на выходе получая &9очищенную руду&r и гарантирует 3 крохотные кучки пыли, как побочный продукт. &9Дистиллированная вода&r ускоряет процесс промывки. &2Также можно в ней можно промывать простым методом, как в котле. Этот процесс очень быстрый, но не оставляет побочные продукты.&r"
 				""
-				"- Electromagnetic Separator: filters magnetic metals from certain ores, increasing their yields.&r"
+				"— &3Химическая ванна&r: &2использует персульфат натрия или ртуть для обработки определённой руды, тем самым позволяя с шансом получить целую пыль побочного побочного продукта.&r"
 				""
-				"Your first forays into ore processing for byproducts will be the Electrolyzer and the Centrifuge."
+				"— &3центрифуга&r: разделяет очищенную и грязную пыль в финальный материал и гарантированную &21 (занижено с 3) крохотную пыль побочного продукта&r."
+				"{@pagebreak}"
+				"— &3Электролизёр&r: использует электроэнергию для разделения смеси в индивидуальные компоненты, иногда получая полезные побочные продукты. &2Учтите, что некоторую пыль лучше переплавить сразу, чем после обработки в электролизере!&r"
+				""
+				"— &3Термальная центрифуга&r: не путать с обычной центрифугой. &2Теперь не столько медленная и энерго-прожорливая. Однако, она производит 3 дополнительные крохотные пыли побочного продукта, а дробление этой обработанной руды гарантирует особый третий побочный продукт.&r"
+				""
+				"— &3Просеивательная машина&r: отфильтровывает драгоценные камни высшего качества из очищенной дроблёной руды для большего выхода продукта в целом."
+				""
+				"— &3Электромагнитный сепаратор&r: разделяет магнитные металлы из определённой руды, тем увеличивая выход продукта."
+				""
+				"Ваше знакомство с процессом обработки руды ради побочных продуктов начнётся с электролизера и центрифуги."
 			]
 			icon: "gtceu:tiny_gallium_arsenide_dust"
 			id: "61AD3760E271B431"
@@ -318,7 +318,7 @@
 				id: "5E6A27EC5AF00A4B"
 				type: "checkmark"
 			}]
-			title: "&2Ore Processing for Byproducts"
+			title: "&2Обработка руды ради побочных продуктов"
 			x: 1.0d
 			y: 1.0d
 		}
@@ -366,19 +366,19 @@
 		{
 			dependencies: ["61AD3760E271B431"]
 			description: [
-				"&2Initial circuit components are a bit more difficult in CEu, and you need Arsenic in addition to Gallium.&r"
+				"&2Начальные компоненты схем слегка усложнены в CEu, так что вам понадобится арсенид в добавок к галлию.&r"
 				""
-				"For &9Gallium&r, you may, ranged from worst to best:"
+				"Способы получения &9галлия&r от лучшего к худшему:"
 				""
-				"- &3Electrolyze &aSphalerite&r for a low chance of small dust. Note that you lose on direct smelting value."
+				"— &3Электролиз &aсфалерита&r для малого шанса маленькой пыли. Учтите, что вы теряте выгоду от прямой переплавки."
 				""
-				"-&r Put &aCrushed Bauxite&r in the &3Chemical Bath&r. Note that this requires &9Sodium Persulfate&r. "
+				"— Обработка &aдробрёного боксита&r в &3химической ванной&r. Учтите, что вам потребуется &9персульфат натрия&r."
 				""
-				"- Obtain it as a Byproduct of &aSphalerite&r Ore Processing, in the &3Thermal Centrifuge&r or &3Centrifuge&r."
+				"— Как побочный продукт обработки &aруды сфалерита&r в &3центрифуге&r или &3термальной цетрифуге&r."
 				""
-				"&2For Arsenic, you must centrifuge Realgar Dust, or (more involvedly) flash smelt Cobaltite Dust in the EBF, and electrolyse the resultant Arsenic Trioxide."
+				"&2Арсенид можно получить путём цетрифугирования реальгара или (более замудрённо) десульфурировать пыль кобальтита в ЭДП, а затем элетролизировать результирующий триоксид арсенида."
 				""
-				"Combine both in a Mixer to make Gallium Arsenide."
+				"Обе пыли нужно смешать в миксере для получения Арсенида галлия."
 			]
 			id: "53347AAAE4495F95"
 			rewards: [{
@@ -392,7 +392,7 @@
 				item: "gtceu:gallium_arsenide_dust"
 				type: "item"
 			}]
-			title: "&2Gallium Arsenide"
+			title: "&2Арсенид галлия"
 			x: 3.0d
 			y: 1.0d
 		}
@@ -443,9 +443,9 @@
 		{
 			dependencies: ["53347AAAE4495F95"]
 			description: [
-				"A hefty amount of &6Silicon Dust&r and a pinch of &2Gallium Arsenide &rcooked in an &3EBF&r will net you a &6Silicon Boule&r, the starting point for &6Circuit Wafers&r."
+				"Путём обжарки в &3ЭДП&r обильного числа &6кремниевой пыли&r и щепотки &2арсенида галлия&r создаётся &6кремниевая буля&r, начало &6кремниевых пластин&r."
 				""
-				"Make sure your power system is up to the task. These take &27.5 minutes and 1,080,000 EU&r to process."
+				"Перед началом убедитель, что ваша энергосеть сможет справится с задачей, так как один цикл занимает &27.5 минут&r и потребляет &21,080,000 ЕЭ&r. "
 			]
 			id: "5567F5E5926664F4"
 			rewards: [{
@@ -459,7 +459,7 @@
 				item: "gtceu:silicon_boule"
 				type: "item"
 			}]
-			title: "&2Silicon Boules"
+			title: "&2Кремниевая буля"
 			x: 3.0d
 			y: 2.5d
 		}
@@ -469,10 +469,10 @@
 				"1F7FD354C79771A1"
 			]
 			description: [
-				"&6Wafers&r are thin pieces of silicon cut from a &6Silicon Boule&r."
-				"Their primary purpose is engraving &6Circuit Wafers&r."
+				"&6Кремниевые пластины&r — это тонкие кусочки кремния, вырезанного из &6кремниевого були&r. "
+				"Их основное предназначение — гравировка на них &6интегральных схем&r."
 				""
-				"You'll be needing huge amounts of these Wafers for circuits. Silicon Boules currently take a very long time to craft, so consider parallelizing the recipe in multiple &3EBF&rs and making a stockpile of them."
+				"Вам придётся делать много таких пластин для схем. На создание кремнивой були на данном этапе уходит очень много времени, так что рекомендуется делать несколько рецептов в параллели в нескольких &3ЭДП&r и запасаться ими."
 			]
 			id: "5BC89A6032EC5EF5"
 			rewards: [{
@@ -486,22 +486,22 @@
 				item: "gtceu:silicon_wafer"
 				type: "item"
 			}]
-			title: "Silicon Wafers"
+			title: "Кремниевые пластины"
 			x: 3.0d
 			y: 4.5d
 		}
 		{
 			dependencies: ["2977E1AF13E42DCB"]
 			description: [
-				"Cuts things up."
+				"Разрезает."
 				""
-				"The &3Cutting Machine&r is able to cut wafers, rods, wood, and various other things for you, making it a versatile crafting tool. Cutting blocks into 9 plates may be faster than using a &2Bending Machine &rto make them one at a time."
+				"&3Резочная машина&r способна разрезать кремниевые пластины, стержни, дерево и другие предметы, именуя её многофункциональным инструментом в мастерской. Разрезать блоки сразу в 9 пластин быстрее, чем прогонять в &2гибочном станке&r слитки по одному."
 				""
-				"The MV version is required for cutting &6Silicon Boules&r for easier &6Diodes&r once you get &9Polyethylene (PE)&r, and for cutting &6Wafers&r into usable components. "
+				"Вариант СН нужен для разрезания &6кремниевой були&r для дешёвых &6диодов&r, когда у вас появится &9полиэтилен (ПЭ)&r, и для разрезания &6кремниевых пластин&r в пригодные для использования компоненты."
 				""
-				"The blade will require you to make &2Vanadiumsteel&r."
+				"Диск пилы требует плавки &2ванадиевую сталь&r."
 				""
-				"Cutting Machines work with plain &9Water&r for all recipes. You can also use &9Distilled Water&r which speeds up the processing somewhat, or &9Lubricant&r that speeds it up greatly (and uses very little per operation). These might be a little tricky to make right now, but are very worthwhile upgrades in the future."
+				"Резочная машина может работать на простой &9воде&r для всех рецептов. Но ещё можно использовать &9дистиллированную воду&r, чтобы немного ускорить процесс, или использовать &9смазку&r, которая значительно ускоряет работу машины (и тратит его совсем немного). Сейчас это использовать может быть трудоёмко, но это стоящее улучшение в будущем."
 			]
 			id: "1F7FD354C79771A1"
 			rewards: [{
@@ -515,7 +515,7 @@
 				item: "gtceu:mv_cutter"
 				type: "item"
 			}]
-			title: "&2Cutting Machine"
+			title: "&2Резочная машина"
 			x: 5.25d
 			y: 4.5d
 		}
@@ -526,11 +526,11 @@
 				"61FA0AACDF4AC11D"
 			]
 			description: [
-				"&6Circuit Wafers&r are batches of integrated circuits engraved onto a wafer of electronics-grade silicon."
+				"&6Гравированные пластины&r — это партия интегральных схем выгравированные на пластине из полупроводникового кремния."
 				""
-				"You need to run these through the &3Cutting Machine&r to dice the wafers into individual integrated circuits (called dies)."
+				"Вам нужно будет прогнать их через &3резочную машину&r для разбивки пластины на индивидуальные интегральные схемы (называемые чипами)."
 				""
-				"These are important components and will be used for making more advanced Circuits."
+				"Они являются важными компонентами в создании продвинутых электросхем."
 			]
 			icon: "gtceu:ilc_wafer"
 			id: "7AA5FD63FA3BA43C"
@@ -553,16 +553,16 @@
 					type: "item"
 				}
 			]
-			title: "Circuit Wafers"
+			title: "Интегральная микросхема"
 			x: 3.0d
 			y: 6.0d
 		}
 		{
 			dependencies: ["3781AD70E71CA0D7"]
 			description: [
-				"A &3Precision Laser Engraver&r is used to engrave circuits onto &6Wafers&r."
+				"&3Точечный лазерный гравировщик&r нужен для гравировки схем на &6кремниевые пластины&r."
 				""
-				"The type of circuit will depend on the kind of wafer used and which &aLens&r is in the machine."
+				"Тип схемы зависит от типа пластины и вариации &aлинзы&r в машине."
 			]
 			id: "61FA0AACDF4AC11D"
 			rewards: [{
@@ -576,16 +576,16 @@
 				item: "gtceu:mv_laser_engraver"
 				type: "item"
 			}]
-			title: "MV Precision Laser Engraver"
+			title: "Точечный лазерный гравировщик СН"
 			x: 1.0d
 			y: 3.5d
 		}
 		{
 			dependencies: ["376EE785F4204FFE"]
 			description: [
-				"&2An expensive advanced component used in the construction of the MV Precision Laser Engraver and MV Circuit Assembler."
+				"&2Дорогой продвинутый компонент, используемый в создании лазерного гравировщика СН и сборщика микросхем СН."
 				""
-				"Process some Emerald Ore in the Sifter to get the Flawless Emerald required to craft this."
+				"Обработаную руду эмеральда отправьте в просеиватель, чтобы получить безупречный эмеральд, требуемый для создания этой детали."
 			]
 			id: "3781AD70E71CA0D7"
 			rewards: [{
@@ -599,16 +599,16 @@
 				item: "gtceu:mv_emitter"
 				type: "item"
 			}]
-			title: "&2MV Emitter"
+			title: "&2Эмиттер СН"
 			x: -1.0d
 			y: 3.5d
 		}
 		{
 			dependencies: ["61FA0AACDF4AC11D"]
 			description: [
-				"You'll need a variety of &alenses&r for use in &3Precision Laser Engravers&r, all of which are made in the &2Lathe&r."
+				"Вам понадобится различные &aлинзы&r для работы в &3точечном лазерном гравировщике&r, все которые делаются на &2токарном станке&r."
 				""
-				"Initially you'll need a &a&3&2Ruby Lens&r. Soon you will need &2Diamond, Emerald, Topaz, and Sapphire Lenses&r. &2You can choose to use an MV Lathe to get a lens from a plate, or sift for an Exquisite Gem and use an LV Lathe."
+				"По началу достаточно &3рубиновой линзы&r. Позже понадобятся &3алмазная, эмеральдная, топазовая и саппфировая линзы&r. &2С помощью СН токарного станка линзы можно сделать из пластины, либо просеивать ради безупречного камня и использовать станок НН.&r"
 			]
 			icon: "gtceu:ruby_lens"
 			id: "21B917932F5B25BA"
@@ -623,16 +623,16 @@
 				item: "gtceu:ruby_lens"
 				type: "item"
 			}]
-			title: "&2Lenses"
+			title: "&2Линзы"
 			x: 1.0d
 			y: 6.0d
 		}
 		{
 			dependencies: ["776199B37A19A592"]
 			description: [
-				"&6Kanthal&r is an alloy of &6Iron&r, &6Aluminium&r, and &6Chrome&r."
+				"&6Кантал&r это сплав &6железа&r, &6алюминия&r и &6хрома&r."
 				""
-				"This alloy is cooked in an &3Electric Blast Furnace&r into a &6Kanthal Ingot&r"
+				"Этот сплав приготавливается в &3электрической доменной печи&r в &6слиток кантала&r."
 			]
 			id: "3115EAF1F70A613E"
 			rewards: [{
@@ -646,7 +646,7 @@
 				item: "gtceu:kanthal_ingot"
 				type: "item"
 			}]
-			title: "Kanthal Ingots"
+			title: "Слитки кантала"
 			x: -1.0d
 			y: 7.0d
 		}
@@ -656,9 +656,9 @@
 				"776199B37A19A592"
 			]
 			description: [
-				"&2A bit of Vanadiumsteel is used for progression. It's also a very strong tool material."
+				"&2Для прогресса ванадиевой стали нужно немного. Но это ещё очень прочный материал для инструментов."
 				""
-				"&6Vanadium&r is obtained from &6Vanadium Magnetite Ore&r."
+				"&6Ванадий&r получается из &6руды ванадий магнетита&r."
 			]
 			id: "2977E1AF13E42DCB"
 			rewards: [{
@@ -672,7 +672,7 @@
 				item: "gtceu:vanadium_steel_ingot"
 				type: "item"
 			}]
-			title: "&2Vanadiumsteel"
+			title: "&2Ванадиевая сталь"
 			x: 5.25d
 			y: 7.0d
 		}
@@ -682,9 +682,9 @@
 				"776199B37A19A592"
 			]
 			description: [
-				"&6Chromium&r is used in the production of many alloys. &6Stainless Steel&r, &6Vanadiumsteel&r and &6Kanthal&r are the ones you will encounter soon. "
+				"&6Хром&r нужен в производстве множества сплавов. &6Нержавеющая сталь&r, &6ванадиевая сталь&r и &6кантал&r вам понадобится в скором времени."
 				""
-				"It is primarily obtained by electrolyzing &6Ruby Dust&r. You will need a lot of this soon, so be sure to find a robust source of it."
+				"Основной спобоб его получения это электролиз &6пыли рубинов&r. Нужно его будет много, так что рекомендуется иметь надёжный источник."
 			]
 			id: "061904A6FEED5B66"
 			rewards: [{
@@ -699,16 +699,16 @@
 				item: "gtceu:chromium_dust"
 				type: "item"
 			}]
-			title: "Chromium"
+			title: "Хром"
 			x: 7.5d
 			y: 7.0d
 		}
 		{
 			dependencies: ["3B639F4061B00F1A"]
 			description: [
-				"An &3MV Electrolyzer&r allows you to process recipes that require up to 128 EU/t, and can optionally overclock recipes costing at most 32 EU/t."
+				"&3Электролизер СН&r позволяет обрабатывать рецепты, потребляющие до 128 ЕЭ/т, и возможность разгонять рецепты, потребляющие 32 ЕЭ/т."
 				""
-				"This means you can split more kinds of things for useful products."
+				"Это значит что вы сможете разделять больше типов вещей ради полезных ресурсов."
 			]
 			icon: "gtceu:mv_electrolyzer"
 			id: "517A89E954C7EA74"
@@ -730,9 +730,9 @@
 		{
 			dependencies: ["5C4E189A3E401566"]
 			description: [
-				"&2In GTCEu, higher-tier blends of dusts require higher-tier Mixers to mix. The MV Mixer is required for making Vanadiumsteel and Stainless Steel."
+				"&2В GTCEu смеси пыли высшего уровня требуют соответствующего уровня смесители. Смеситель СН нужен для смешивания ванадиевой  и нержавеющей стали."
 				""
-				"&2 There will not be more mixer quests above this one. Remember this when making higher-tier dust blends."
+				"Больше квестов со смесителями высшего тира не будет. Запомните это, когда будете делать смеси тирами выше."
 			]
 			id: "776199B37A19A592"
 			rewards: [{
@@ -746,7 +746,7 @@
 				item: "gtceu:mv_mixer"
 				type: "item"
 			}]
-			title: "&2MV Mixer"
+			title: "&2Смеситель СН"
 			x: 9.0d
 			y: 7.0d
 		}
@@ -756,9 +756,9 @@
 				"53347AAAE4495F95"
 			]
 			description: [
-				"&6Diodes&r are a component in the next Circuit tiers. They are made in an &3Assembler&r from liquid &9Glass&r, &6Fine Copper Wire&r and &6Gallium Arsenide&r. "
+				"&6Диоды&r — это компонент для следующего уровня электросхем. Они создаются в &3сборщике&r из жидкого &9стекла&r, &6тонкой медной проволоки&r и &6арсенида галлия&r."
 				""
-				"Always be on the lookout for &ebetter recipes&r! &6Fine Annealed Copper Wire&r doubles your yield, and &9Polyethylene&r unlocks a few more efficient recipes."
+				"Не забывайте проверять возможные альтернативы &eрецептов лучше&r! &6Тонкая проволока из обожённой меди&r удваивает выход, а &9полиэтилен&r открывает некоторые эффективные рецепты."
 			]
 			id: "591A1B8B279DFCC9"
 			rewards: [{
@@ -772,7 +772,7 @@
 				item: "gtceu:diode"
 				type: "item"
 			}]
-			title: "Diodes"
+			title: "Диод"
 			x: 10.5d
 			y: 1.0d
 		}
@@ -838,13 +838,13 @@
 		{
 			dependencies: ["3B639F4061B00F1A"]
 			description: [
-				"The &3Extruder&r is an alternative way to form shapes from metal. &aExtruder Shapes&r are used for telling an Extruder which shape to make."
+				"&3Экструдер&r — это альтернативный способ переформировать металл. &aФормы экструдера&r нужны, чтобы сказать экструдеру какую деталь нужно отлить."
 				""
-				"Extruders are &2no longer strictly needed for Large Pipes.&r Extruders use ingots, but are as efficient for making &6Gears&r as melting and solidifying. They are also the most efficient way to make &6Bolts&r, &6Small Gears&r, and &6Rings&r."
+				"Экструдер &2больше не просто машина для отлива больших труб.&r Экструдер сразу использует слитки, но он так же эффективен в создании &6шестерней&r как расплавка и затвердевание. Он также самый эффективный в создании &6болтов&r, &6малых шестерней&r и &6колец&r."
 				""
-				"You can also use Extruders to make things from other machines like plates and wires, but they are less efficient than using the dedicated machines for these purposes."
+				"Экструдер можно использовать для отлива и других деталей из других машин вроде пластин и проводов, но это гораздо менее эффективно чем специализированная машина."
 				""
-				"&2There is also an LV version, but most of the Extruder's recipes must be run at MV or higher."
+				"&2Существует версия НН, но большая часть рецептов экструдера требуют СН или выше."
 			]
 			id: "64B52DA2ABD5152D"
 			rewards: [{
@@ -858,7 +858,7 @@
 				item: "gtceu:mv_extruder"
 				type: "item"
 			}]
-			title: "&2MV Extruder"
+			title: "&2Экструдер СН"
 			x: 12.5d
 			y: 5.0d
 		}
@@ -868,9 +868,9 @@
 				"0D6C8FFD01BE5C21"
 			]
 			description: [
-				"&9Phenol&r is produced as a byproduct from making &6Coal Coke&r in a &3Pyrolyse Oven&r."
+				"&9Фенол&r производится как побочный продукт от создания &6коксового угля&r в &3пиролизной печи&r."
 				""
-				"These boards will enable the next tier of circuits, as well as a much cheaper method of circuit production."
+				"Эти подложки открывают дорогу к следующей ступени электросхем, а также более дешёвый метод их производства. "
 			]
 			id: "71C7B47DC85AA016"
 			rewards: [{
@@ -889,7 +889,7 @@
 		}
 		{
 			dependencies: ["6A262AA410619C23"]
-			description: ["The place for your very first chemical reactions, namely making some improved substrates."]
+			description: ["Здесь будут проходить ваши первые химические реации, а именно создание улучшеных подложек."]
 			id: "3E51686E2DBD380F"
 			rewards: [{
 				id: "05FA79E0880B72BC"
@@ -902,18 +902,18 @@
 				item: "gtceu:lv_chemical_reactor"
 				type: "item"
 			}]
-			title: "LV Chemical Reactor"
+			title: "Хим. реактор НН"
 			x: 15.0d
 			y: 4.0d
 		}
 		{
 			dependencies: ["3E51686E2DBD380F"]
 			description: [
-				"&2Sodium Persulfate and Iron III Chloride&r are used to make cheaper &9Good Circuit Boards&r, as it cuts the Silver amount by a factor of four. They are also &9required&r to make &9Plastic Circuit Boards&r, and circuit boards afterwards."
+				"&2Персульфат натрия и хлорид железа III&r нужны для создания дешёвых &9хороших подложек электросхем&r, так как это снижает стоимость серебра в четыре раза. Также они &9обязательны&r для &9пластиковых подложек электросхем&r и подложек уровнями дальше."
 				""
-				"Making &aSodium Persulfate&r with &6Salt&r will yield &aHydrochloric Acid&r as a coproduct, which you may re-use to make &aIron III Chloride&r. This should the best approach right now, but the decision is entirely yours. With more automation later in the game, Iron III Chloride will be the cheaper and more straight forward path."
+				"Создание &aперсльфата натрия&r через &6соль&r будет создавать &aхлороводород&r как второй продукт, который можно использовать для создания &aхлорида железа III&r. На текущий момент это лучший подход, но выбор полностью за вами. С расширением автоматизации в течении игры хлорид железа III будет более дешёвым и прямолинейным вариантом."
 				""
-				"Sodium Persulfate&r can also be used in &9Ore Processing&r in the &3Chemical Bath&r, to get various bonus outputs you would not normally obtain. It is completely optional, but pretty rewarding."
+				"&2Персульфат натрия&r также можно использовать в &9обработке руды&r в &3химической ванне&r для получения разных бонусных побочных продуктов, которые обычно не получить. Это совсем необязательно, но довольно полезно."
 			]
 			id: "4F4D0F44B615AF4C"
 			rewards: [{
@@ -980,7 +980,7 @@
 			y: 10.0d
 		}
 		{
-			description: ["An advanced component used for the Circuit Assembling Machine."]
+			description: ["Продвинутый компонент, используемый для создания сборщика электросхем."]
 			id: "3E42B4AAA6D2A05B"
 			rewards: [{
 				id: "6F3EA1CA9FD0EE59"
@@ -999,13 +999,13 @@
 		{
 			dependencies: ["2C6BEB5BBE5A91DC"]
 			description: [
-				"The &2MV Assembling Machine&r allows you to craft &6Medium Voltage Coils&r, and your &3Precision Laser Engraver&r can make &2Ultra Low Power ICs with a Sapphire Lens.&r"
+				"&2Сборочная машина СН&r позволяет создать &6катушки среднего напряжения&r, а &3точечный лазерный гравировщик&r способен гравировать &2сверхнизковольтажные IC через саппфировую лизну&r."
 				""
-				"Combine them with some MV parts and you can finally craft an &6MV Energy Hatch&r."
+				"Собрав это и несколько деталей СН вместе можно наконец-то создать &6энергетический входной разъём СН&r."
 				""
-				"Higher tiers of energy hatch will require similar resources."
+				"Более высокие уровни разъёмов требуют похожие детали."
 				""
-				"Note: For extracting energy from GT multiblock generators, you will need &6Dynamo Hatches&r instead. Those are crafted similarly to Energy Hatches, but with &6Springs&r in place of 1x Cables."
+				"Учтите: для сбора энергии из многоблочных генераторов GregTech вам понадобится &6выходной разъём&r. Они создаются схожим способом как и входные разъёмы, но на место кабеля нужны &6пружины&r."
 			]
 			id: "785300684B1846B2"
 			rewards: [{
@@ -1020,12 +1020,12 @@
 				item: "gtceu:mv_energy_input_hatch"
 				type: "item"
 			}]
-			title: "&2MV Energy Hatches"
+			title: "&2Входной разъём СН"
 			x: 1.0d
 			y: 10.0d
 		}
 		{
-			description: ["&2With the MV Assembling Machine, you can assemble a few necessary parts for the next Circuit tier."]
+			description: ["&2С помощью сборочной машины СН вы сможете собрать несколько необходимых деталей для следующего уровня схем."]
 			hide_dependency_lines: true
 			id: "2C6BEB5BBE5A91DC"
 			rewards: [{
@@ -1039,7 +1039,7 @@
 				item: "gtceu:mv_assembler"
 				type: "item"
 			}]
-			title: "&2MV Assembling Machine"
+			title: "&2Сборочная машина СН"
 			x: -3.0d
 			y: 10.0d
 		}
@@ -1049,13 +1049,13 @@
 				"2C6BEB5BBE5A91DC"
 			]
 			description: [
-				"Time to upgrade your &3Electric Blast Furnace&r! &6Kanthal&r is the second coil material available, increasing your EBF's operating temperature to 2700K so it can process more advanced materials."
+				"Пришло время улучшать &3электрическую доменную печь&r! &6Кантал&r — второй материал доступный для катушек, увеличивая рабочую температуру ЭДП до 2700К, позволяя ей работать с более продвинутыми материалами."
 				""
-				"&6Kanthal Coils&r are required primarily for producing &6Silicon&r, required for Circuit parts, and &6Titanium&r, used for &5EV&r machines. An &bMV &3Assembler&r is required to produce them, and they require &62x Kanthal Wire&r, &6Aluminium Foil&r, and &9Copper fluid&r."
+				"&6Канталовые катушки&r нужны для создания &6кремния&r, который нужен для деталей схем, и &6титана&r, который нужен для машин &5ЭН&r. &3Сборщик &bСН&r способен их создать. На каждую катушку необходимо &62х канталовых провода&r, &6алюминиевая фольга&r и &9жидкая медь&r."
 				""
-				"&2In CEu, using higher-tier coils provides some bonuses to their multiblocks.&r For the &3Electric Blast Furnace&r, running recipes hotter than required can reduce the energy cost and time taken. The &9temperature&r of the EBF depends on the coil used and the voltage it is running at. For Kanthal Coils, this means that recipes you could run with &6Cupronickel Coils&r will save &95%%&r energy."
+				"&2В CEu использование катушек уровнями выше поощеряется бонусами для некоторых многоблоков.&r Если в &3электрической доменной печи&r плавить температурой выше, чем указано в рецепте, но снижается время и энергопотребление на операцию. &9Температура&r ЭДП зависит от катушек и рабочего напряжения. В случае с канталовыми катушками это значит, что рецепты &6купроникеливых катушек&r экономят &95%&r энергии."
 				""
-				"Refer to the coil tooltip and EBF controller tooltip for the other bonuses provided."
+				"Сверьтесь со всплывающей подсказкой на катушках и контроллере ЭДП для большей информации о других бонусах."
 			]
 			id: "5C78349343BA40D7"
 			rewards: [{
@@ -1070,6 +1070,7 @@
 				item: "gtceu:kanthal_coil_block"
 				type: "item"
 			}]
+			title: "16 канталовых катушек"
 			x: -1.0d
 			y: 12.0d
 		}
@@ -1159,7 +1160,7 @@
 		}
 		{
 			dependencies: ["500E619D568C07C2"]
-			description: ["&6Annealed Copper&r is made &2in an Arc Furnace&r by treating &6Copper&r with &9Oxygen&r. It has less power loss than regular Copper when used as a cable, and is also required for more advanced electronic components."]
+			description: ["&6Отожённая медь&r создаётся в &2дуговой печи&r путём обжига &6меди&r &9кислородом&r. Если использовать как кабель, то у неё меньше потери в сравнении с обычной медью, а также она требуется для продвинутых электронных компонентов."]
 			id: "6C8DE5DC18CDADF0"
 			rewards: [{
 				id: "613E0382FE4BD7E8"
@@ -1173,7 +1174,7 @@
 				item: "gtceu:annealed_copper_ingot"
 				type: "item"
 			}]
-			title: "Annealed Copper"
+			title: "Отожжённая медь"
 			x: 0.9375d
 			y: 12.9375d
 		}
@@ -1283,11 +1284,11 @@
 		{
 			dependencies: ["153BDCAE4D1CC407"]
 			description: [
-				"&9Polyethylene (PE)&r is the most common category of plastic, made from polymers of &9Ethylene&r. Adding &9Oxygen&r in a &3Chemical Reactor&r recreates (with some artistic license) early accidental synthesis of Polyethylene."
+				"&9Полиэтилен (ПЭ)&r — самый распространённый пластик, создаваемый из полимеров &9этилена&r. С добавлением &9кислорода&r в &3химическом реакторе&r воссоздаётся (с небольшой художественной ноткой) ранний случайный синтез полиэтилена."
 				""
-				"When you have large amounts of &6Rutile&r and &6Bauxite&r (probably after you visit the Moon) you can consider using &9Titanium Tetrachloride&r as a catalyst to improve your Polyethylene yields. For now it's not a great idea, as in addition to its Overworld rarity, you need it for &6Titanium&r."
+				"Когда у вас будут большие запасы &6рутила&r и &6боксита&r (вероятно, после путешествия на Луну) вы сможете рассмотреть вариант добавления &9тетрахлорида титана&r как каталиста для увеличения выхода полиэтилена. Но пока это не лучшая идея, учитывая его редкость в Обычном мире, он вам понадобится для &6титана&r."
 				""
-				"Form &6Polyethylene Sheets&r using a &3Fluid Solidifier&r and a &aPlate Mold&r for use in crafting electronics components. You'll need both the liquid and the sheets. For &9Polyethylene (PE)&r pipes, you can either pulverise your sheets into dust and use those in the extruder, or solidify &9Polyethylene (PE)&r into &6Polyethylene Bars&r seperately."
+				"С помощью &3жидкостного отвердителя&r и &aформы пластины&r отлейте &6полиэтиленовые пластины&r для создания электронных компонентов. Вам понадобятся оба жидкость и пластины. Для &9полиэтиленовых (ПЭ)&r труб пластины можно раскрошить в пыль и отправить её в экструдер или отлить &9полиэтилен (ПЭ)&r в &6слитки полиэтилена&r отдельно."
 			]
 			id: "417D97D9E3562F45"
 			rewards: [{
@@ -1301,7 +1302,7 @@
 				item: "gtceu:polyethylene_plate"
 				type: "item"
 			}]
-			title: "Polyethylene"
+			title: "Полиэтилен"
 			x: 3.0d
 			y: 21.0d
 		}
@@ -1400,7 +1401,7 @@
 		{
 			dependencies: ["0C4E18B05F9E68DE"]
 			description: [
-				"&2Sodium Potassium is an alloy of... take a guess. "
+				"&2Sodium Potassium is an alloy of… take a guess. "
 				""
 				"&2It's used in the construction of HV and above Energy and Dynamo hatches."
 			]
@@ -1510,15 +1511,15 @@
 				"10722CBC4DAD28F4"
 			]
 			description: [
-				"&9Vinyl Chloride&r is an industrial chemical made from chlorinating &9Ethylene&r (adding &9Chlorine&r at high temperature) in a &3Chemical Reactor&r. &9Ethane&r can be used as an alternative reagent."
+				"&9Винил хлорид&r — это индустриальных химикат созданных путёл хлорирования &9этилена&r (добавление &9хлора&r при высокой температуры) в &3химическом реакторе&r. &9Этан&r может быть использован как альтернативный реагент."
 				""
-				"It is used to create the plastic &9Polyvinyl Chloride&r, most well known as PVC. While it deviates from reality, in GregTech you chemically react Vinyl Chloride and &9Oxygen&r to polymerize it into PVC. "
+				"Он нужен для создания пластика &9поливинил хлорида&r, также известного как ПВХ. Хоть это немного отстраняется от реальности, в GregTech винил хлорид химически реагирует с &9кислородом&r для полимеризации в ПВХ."
 				""
-				"Later, you can use &9Titanium Tetrachloride&r to catalyze this reaction as well for greater yield."
+				"Позже можно будет использовать &9тетрахлорид титана&r для катализации реакции и увеличения выхода."
 				""
-				"You'll only need to solidify this into sheet form. If you want PVC pipes too, you can pulverise the sheet into dust and use that in the extruder, or you can solidify it into bars seperately."
+				"В основном вам нужно лишь отлить в форму пластины. Для труб из &9ПВХ&r пластины можно раскрошить в пыль и отправить её в экструдер или отлить &9поливинил хлорид (ПВХ)&r в &6слитки ПВХ&r отдельно."
 				""
-				"&6PVC Sheets&r are superior to &6Polyethylene Sheets&r for making plastic substrates, producing twice as many &6Plastic Boards&r per craft."
+				"&6Пластины из ПВХ&r превосходят &6пластины из полиэтилена&r в создании пластиковых печатных плат, создавая вдвое больше &6пластиковых подложек&r за операцию. "
 			]
 			id: "338ED53463203472"
 			rewards: [{
@@ -1532,7 +1533,7 @@
 				item: "gtceu:polyvinyl_chloride_plate"
 				type: "item"
 			}]
-			title: "Polyvinyl Chloride"
+			title: "Поливинил хлорид"
 			x: 14.5d
 			y: 21.0d
 		}
@@ -1544,13 +1545,14 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"&9Ethylene&r is a hydrocarbon obtained from &9Oil Processing&r, or by dehydrating &9Ethanol&r with &9Sulfuric Acid&r in a &3Chemical Reactor&r. Choose a method that works for you:"
+				"&9Этилен&r это углеводород, получаемый путём &9нефтеобработки&r или путём обезвоживания &9этанола&r &9серной кислотой&r в &3химическом реакторе&r."
+				"Выбирайте метод, что вам больше подходит:"
 				""
-				"- The &9Ethanol&r route allows you to use your existing &6Sugarcane&r farm to produce &9Ethylene&r. However, the recipes require &bMedium Voltage&r machines to run."
+				"— Путь &9этанола&r позволит задействовать существующую вашу ферму &6сахарного тросника&r для производства этилена. Однако, рецепты требуют для работы машины &bсреднего напряжения&r."
 				""
-				"- The &9Oil Processing&r route requires &2only LV machines&r, but you will have to source &9Oil&r, or its variants, from somewhere. &2Severely Steam-Cracked Light Fuel&r is most efficient with &9Raw Oil, Oil and Heavy Oil&r. &2Severely Steam-Cracked Naphtha&r is more efficient when you are using &9Light Oil&r."
+				"— Путь &9нефтеобработки&r требует минимум &2машины СН&r, но вам нужно будет найти источник &9нефти&r или её вариаций. &2Лёгкое топливо прошедшее жёсткий крекинг паром&r самый эффективный вариант для &9сырой, средней и тяжёлой нефти&r. &2Нафта прошедная жёсткий крекинг паром&r более эффективна если используете &9лёгкую нефть&r."
 				""
-				"It is an extremely important chemical in the production of plastics, as you'll need &9Ethylene&r in your production of &9Polyethylene (PE)&r, &9Polyvinyl Chloride (PVC)&r, and can be used in the production of &9Styrene-Butadiene Rubber (SBR)&r, the best form of rubber."
+				"Это очень важный химикат в производстве пластика, так как &9этилен&r нужен в создании &9полиэтилена (ПЭ)&r, &9поливинил хлорида (ПВХ)&r и для производства &9стирол-бутадиеновой резины&r, лучшей формы резины."
 			]
 			id: "153BDCAE4D1CC407"
 			rewards: [{
@@ -1565,16 +1567,16 @@
 				item: "gtceu:ethylene_bucket"
 				type: "item"
 			}]
-			title: "&2Ethylene"
+			title: "&2Этилен"
 			x: 16.0d
 			y: 21.0d
 		}
 		{
 			dependencies: ["383FADC5E8BC4E91"]
 			description: [
-				"&6Sulfur&r will be used in a variety of upcoming chemical reactions."
+				"&6Сера&r скоро понадобится в различных химических реакциях."
 				""
-				"It can be electrolyzed easily from &6Sphalerite&r (which also provides &6Gallium&r), &6Cinnabar&r, and &6Pyrite&r. Alternately, Sulfur can be acquired through &bHNN&r- look into that quest line if you haven't already."
+				"Её можно электролизировать из &6сфалерита&r (в котором содержится &6галий&r), &6киновари&r и &6пурита&r. Серу также можно получить через &bHNN&r (Hostile Neural Networks) — ознакомьтесь с этой цепочкой квестов."
 			]
 			id: "0E010F5348FC89BF"
 			rewards: [{
@@ -1588,18 +1590,18 @@
 				item: "gtceu:sulfur_dust"
 				type: "item"
 			}]
-			title: "Sulfur"
+			title: "Сера"
 			x: 16.0d
 			y: 19.0d
 		}
 		{
 			dependencies: ["5357A16B5BF62C96"]
 			description: [
-				"Note: this quest accepts both LV and MV Brewery."
+				"&oЗамечание: этот квест принимает варочную машину НН и СН. "
 				""
-				"You can turn &6Plant Balls&r and other various &6sugary crops&r into &9Biomass&r with a &3Brewery&r. Biomass is the first step towards making Plastic in the form of &9Polyethylene&r."
+				"&6Комки биомассы&r и прочая &6сахарная культура&r может быть переработанна в &9биомассу&r в &3варочной машине&r. Биомасса — это первый шаг к созданию пластика в форме &9полиэтилена&r."
 				""
-				"The Brewery is a very very slow machine, but it requires almost no power. Building &2many Breweries&r is necessary to brew enough Biomass for plastics. &2An alternative and more resource efficient way of making biomass is with a Pyrolyse Oven, Water, and Bio Chaff."
+				"Варочная машина очень очень медленная, но почти не требует энергии. Для стабильного производства биомассы для пластика важно заиметь &2множество варочных машин&r. &2Алтернативой и более эффективным по ингридиентам способом создания биомассы является пиролизная печь, вода и мякина."
 			]
 			icon: "gtceu:mv_brewery"
 			id: "383FADC5E8BC4E91"
@@ -1627,7 +1629,7 @@
 						]
 					}
 				}
-				title: "Brewery"
+				title: "Варочная машина"
 				type: "item"
 			}]
 			x: 16.0d
@@ -1636,9 +1638,9 @@
 		{
 			dependencies: ["5C4E189A3E401566"]
 			description: [
-				"Here comes the chemistry."
+				"И вот, начинается химия."
 				""
-				"It might seem crazy right now, but you'll want a dedicated &3Chemical Reactor&r for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though... it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system."
+				"Сначала может показаться как безумие, но вам точно понадобится отдельный &3химический реактор&r практически для каждого химиката, который вы будете производить. Но по началу вам, наверное, захочется отложить это дело до того, как будет какая-то основа автокрафта… жить гораздо проще, когда можно просто заказать компоненты химического реактора через систему АЕ2."
 			]
 			id: "5357A16B5BF62C96"
 			rewards: [{
@@ -1652,22 +1654,22 @@
 				item: "gtceu:mv_chemical_reactor"
 				type: "item"
 			}]
-			title: "MV Chemical Reactor"
+			title: "Химический реактор СН"
 			x: 16.0d
 			y: 16.0d
 		}
 		{
 			dependencies: ["5357A16B5BF62C96"]
 			description: [
-				"&oThis is an important part of a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation of how to passively automate this."
+				"&oЭто важная часть производственного процесса. Загляните во вкладку производственных процессов для большей информации, полезных подсказок и визуального представления пассивной автоматизации."
 				""
-				"&6Uraninite Ore&r is the first source of &6Pulsating Dust&r but is not a very good one in the long term. Instead you should make &6Resonant Clathrates&r, which are an infinitely-renewable and effective source of Pulsating Dust."
+				"&6Уранитит&r — первый источник &6пульсирующей пыли&r, но он не подойдёт для длительного использования. Взамен лучше создавать &6резоринующие клатраты&r, которые бесконечно-возобновляемые и идеально подходят для создания пульсирующей пыли."
 				""
-				"Resonant Clathrates are made by melting &6Ender Pearls&r with a &3Fluid Extractor&r into &9Resonant Ender&r, then mixing that with &6Nether Quartz&r in an MV or better &3Chemical Reactor&r. Smelting this clathrate gives Pulsating Dust."
+				"Резонирующие клатраты создаются путём плавления &6жемчуга энедера&r в &3экстракторе&r в &9резонирующий эндер&r, затем смешать его с &6адским кварцем&r в &3химическом реакторе&r СН или выше. Плавление этого клатрата даёт пульсирующую пыль."
+				"{@pagebreak}"
+				"Теперь, когда у вас есть резонирующие клатраты, всё необходимое для создания &6пульсирующей пыли&r может быть автоматизировано в испключительно положительном цикле. Проектирование этого процесса — первый шаг к автоматизации &bHostile Neural Networks&r, который &eявляется главным источников важных материалов до конца сборки&r."
 				""
-				"With Resonant Clathrates now accessible, everything you need for crafting &6Pulsating Polymer Clay&r can be automated in a net-positive loop.&r Doing so is the first step in automation of &bDeep Mob Evolution&r, which is &ea primary source of important materials for the rest of the pack&r."
-				""
-				"The exact implementation is up to you. Make use of the various LV and MV machines you have, and look through &bEMI&r and the Processing Lines Tab for the ways to get infinite sources of each ingredient (like &aEnderman Models&r for pearls)."
+				"Вам решать как это реализовать. Воспользуйтесь различными машиными НН и СН, а также проверьте &bEMI&r и вкладку производственного процесса, чтобы найти способы автоматизировать бесконечный источник каждого ингредиенты (например, &aмодель эндермена&r для жемчужин).&r"
 			]
 			disable_toast: true
 			id: "0C10EC03A01E7334"
@@ -1709,15 +1711,15 @@
 		{
 			dependencies: ["6A262AA410619C23"]
 			description: [
-				"&oNote: this quest accepts both LV and MV Distillery. &2"
+				"&oЗамечание: этот квест принимает дистиллятор НН и СН."
 				""
-				"If you are distilling Ethanol, you now need an MV Distillery."
+				"&2Если вы собираетесь дистиллировать этанол, то вам нужен дистиллятор СН.&r"
 				""
-				"&rThe &3Distillery&r is a single-block machine which only outputs one distillate out of several and &cdiscards&r the rest. You can use this now to get &9Ethanol&r from &9Biomass&r, or to selectively distill &9Oil&r in multiple steps to &9Ethylene&r. Its advantage over the full Tower, apart from cost, is its &9energy efficiency&r. Therefore, it is recommended for fluids with only one useful output, like &9Biomass&r, &9Diluted Sulfuric Acid&r, and &9Diluted Hydrochloric Acid&r."
+				"&3Дистиллятор&r — это одноблочная машина, которая производит только один дистиллируемый продукт и &cуничтожает&r остальные. Сейчас с его помощью можно получать &9этанол&r из &9биомассы&r или выборочно дистиллировать &9нефть&r в несколько этапов для получения &9этилена&r. Его преимущество над полноценной башней, не считая стоимости, это его &9энергоэффективность&r. Поэтому он рекомендуем для жидкостей с одним полезным результатом, например, &9биомасса&r, &9разбавленная серная кислота&r и &9разбавленный хлороводород&r."
 				""
-				"However, the Distillation Tower is recommended for advanced chemistry, as most things have more than one important output: &9Fermented Biomass&r, &9Charcoal Byproducts&r from your &3Pyrolyse Oven&r, and the entire line of petrochemicals from &9Oil&r, to name a few."
+				"Однако, для продвинутой химии рекомендуется ректификационная колонна, так как большинство сырья имеет полезные продукты: &9ферментированная биомасса&r, &9побочные продукты переработки древесного угля&r из &3пиролизной печи&r, и целый ряд петрохимикатов из &9нефти&r."
 				""
-				"You're going to need it soon!"
+				"Скоро он вам понадобится!"
 			]
 			id: "48E83C38B37DFEE6"
 			rewards: [{
@@ -1754,21 +1756,21 @@
 		{
 			dependencies: ["48E83C38B37DFEE6"]
 			description: [
-				"Petrochemistry is the category of organic chemistry pertaining to petroleum, otherwise known as &9Oil&r."
+				"Нефтехимия — это категория органической химии описывающая механизм превращения углеводородов &9нефти&r в полезные продукты и сырья."
 				""
-				"&bGregTech&r's petrochemistry may seem daunting at first, given the sheer number of chemicals and processing options, but it's actually easier to get into than you think."
+				"Нефтехимия &bGregTech&r может показаться пугающей на первый взгляд, учитывая количество различных химикатов и вариантов процессов, но на самом деле она проще чем кажется."
 				""
-				"Oil is the starting point, and can be found in several variants which you can pump from finite natural wells on the Overworld, as well as coming renewably from &6Oilsands Ore&r and &6Soul Sand&r, and directly in liquid form from a &3Fluid Rig&r."
+				"Всё начинается с нефти. Её можно встретить в разных вариантах: в ограниченном количестве из природных нефтяных скважин на поверхности, а также в виде возобновляемого источника из &6руды нефтеносных песков&r и &6песка душ&r, и напрямую в жидкой форме из &3жидкостной буровой установки&r."
 				""
-				"&2The Fluid Rig can also harvest Raw Oil, Heavy Oil and Light Oil depending on your fluid vein. Raw Oil is similar to Oil, giving the same ratios when distilled but needing double the fluid. Heavy Oil and Light Oil give different ratios when distilled.&r "
+				"&2Буровая установка может выкачивать сырую, тяжёлую и лёгкую нефть в зависимости от жидкостной жилы. Сырая нефть схожа со средней нефтью, имея схожий коэффициент дистиляции, но требует вдвое больше жидкости. Тяжёлая и лёгкая нефть имеют различную концентрацию дистиллятов.&r"
 				""
-				"Start off by distilling the Oil. This will result in &9Sulfuric Heavy Fuel&r, &9Sulfuric Light Fuel&r, &9Sulfuric Naphtha&r, and/or &9Sulfuric Gas&r."
+				"Начните с дистилляции нефти. На выходе получится &9сернистое тяжёлое топливо&r, &9сернистое лёнкре топливо&r, &9сернистая нафта&r и/или &9серный газ&r."
 				""
-				"These will all need to be hydrodesulfurized using &9Hydrogen&r in a &3Chemical Reactor&r or &2Oil Cracking Unit&r, which produces the non-Sulfuric versions."
+				"Всё это необходимо гидрообессерить с помощью &9водорода&r в &3химическом реакторе&r или в &2крекинговом заводе&r, который производит варианты без серы."
 				""
-				"All of these products are useful, so figure out how you want to store the variety and large quantities of fluids."
+				"Все эти продукты полезны, так что найдите способ хранить это всё с большом количестве."
 				""
-				"The upcoming quests will guide you through the basics of petrochemistry. Once you've mastered that, feel free to explore further."
+				"Следующие квесты обучат вас основам нефтехимии. Освоив её вы спокойно сможете её исследовать дальше."
 			]
 			icon: "gtceu:oil_bucket"
 			id: "024C0A84C054ED4B"
@@ -1776,18 +1778,18 @@
 				id: "30E326A41DA04A3B"
 				type: "checkmark"
 			}]
-			title: "&2Navigating Petrochem"
+			title: "&2Разбираемся в нефтехимии"
 			x: 17.5d
 			y: 22.5d
 		}
 		{
 			dependencies: ["5B0200011DF8E1B6"]
 			description: [
-				"You'll need &9Chlorine&r at this point. It is an important ingredient in many chemical processes, and you can currently get it from electrolyzing either &6Salt&r or &6Rock Salt&r."
+				"С этого момента вам нужен будет &9хлор&r. Это важный игнридиент в большинстве химических процессах и его сейчас можно получить путём электролиза &6соли&r или &6каменной соли&r."
 				""
-				"&2Later, you can use Fluid Rigs or break down Ghast Tears to obtain Salt Water, and electrolyze it to Chlorine. "
+				"&2Позже, вы можете выкачивать солёную воду с помощью жидкостной буровой установки или получать из слёз Гаста, а затем электролизировать её в хлор.&r"
 				""
-				"&rUsing Fluid Rigs is the best way to obtain mass amounts of Chlorine."
+				"Жидкостная буравая установка — это лучший способ получить огромное количество хлора."
 			]
 			id: "10722CBC4DAD28F4"
 			rewards: [{
@@ -1801,7 +1803,7 @@
 				item: "gtceu:chlorine_bucket"
 				type: "item"
 			}]
-			title: "&2Chlorine"
+			title: "&2Хлор"
 			x: 14.5d
 			y: 19.0d
 		}
@@ -2168,7 +2170,7 @@
 				item: "gtceu:electric_blast_furnace"
 				type: "item"
 			}]
-			title: "&2More Blast Furnaces"
+			title: "&2Больше доменных печей"
 			x: -6.75d
 			y: 6.75d
 		}
@@ -2219,7 +2221,7 @@
 		}
 		{
 			dependencies: ["3B639F4061B00F1A"]
-			description: ["All this &9Phenol&r needed for MV circuits and all the &6Steel&r needed for everything else may be putting stress onto your coal supply, so it may be worth looking into building a &9Greenhouse&r, and converting &6Wood&r into &6Charcoal&r to help solve the issue."]
+			description: ["На схемы СН нужно много &9фенола&r, а на всё остальное нужно всё больше и больше &6стали&r. Всё это вместе сильно увеличивает потребление запасов угля, так что возможно стоит рассмотреть вариант создания &9теплицы&r и конвертировать &6брёвна&r в &6древесный уголь&r."]
 			id: "3A71D736AE5C17E2"
 			rewards: [{
 				id: "1FE4BFEFDB4C34FC"
@@ -2231,15 +2233,15 @@
 				item: "gtceu:greenhouse"
 				type: "item"
 			}]
-			title: "&9Infiniter Wood"
+			title: "&9Дерево ещё бесконечнее"
 			x: 12.5d
 			y: 7.0d
 		}
 		{
 			description: [
-				"The &9Greenhouse&r is able to grow both crops and trees, perfect for your needs."
+				"&9Теплица&r способна выращивать и посевы и деревья, идеально для ваших нужд."
 				""
-				"Providing it with &6Fertilizer&r will significantly increase it's output."
+				"Снабжение её &6удобрением&r значительно увеличит урожай."
 			]
 			hide_dependency_lines: true
 			id: "5138F8BE53342697"
@@ -2250,35 +2252,35 @@
 				item: "gtceu:greenhouse"
 				type: "item"
 			}]
-			title: "&9Farming"
+			title: "&9Фермерство"
 			x: -6.75d
 			y: 4.75d
 		}
 		{
 			dependencies: ["3E42B4AAA6D2A05B"]
-			description: ["Placing a &9Wireless Charger&r in a area that you frequent (as such where you do your crafting) will ensure that your items are always topped off on energy."]
+			description: ["Установите &9беспроводной зарядник&r в области, где вы чаще всего бываете (например, место крафта). Это обеспечит вашу экипировку постоянной зарядкой."]
 			id: "1AA0A089DCA17FC8"
 			rewards: [{
 				id: "67EDE8C53008B226"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Because waiting for items to charge is so last version"
+			subtitle: "Потому что ждать зарядки это уже прошлая версия"
 			tasks: [{
 				id: "6BB55ED56C49A2B0"
 				item: "wirelesschargers:basic_wireless_player_charger"
 				type: "item"
 			}]
-			title: "&9Charging Items Wirelessly"
+			title: "&9Беспроводная зарядка предметов"
 			x: 12.5d
 			y: 10.0d
 		}
 		{
 			dependencies: ["61AD3760E271B431"]
 			description: [
-				"The &6Steam Seperator&r functions as 5.3 &7LV &3Centrifuges&r in parallel! It requires an input of &9Steam&r through a &eSteam Hatch&r, but it uses very little Steam."
+				"&6Паровой сепаратор&r работает как 5.3 &3центрифуги &7низкого напряжения&r в параллели! Очевидно, он работает на &9пару&r подаваемый через &eпаровой люк&r и потребляет его совсем немного."
 				""
-				"While it can't process &9fluids&r, it's perfect for ore processing, letting you get the most out of your dusts and letting you not have to deal with washing your ores in a &3Cauldron&r."
+				"Хоть он и не может работать с &9жидкостями&r, он идеально подходит для обработки руды, позволяя вам получить больше ресурсов из руды и избежать промывки руды в &3котле&r."
 			]
 			icon: "steamadditions:steam_separator"
 			id: "45FA4FF0B16B3879"
@@ -2316,7 +2318,7 @@
 					type: "item"
 				}
 			]
-			title: "&9Steam Separator"
+			title: "&9Паровой сепаратор"
 			x: 3.0d
 			y: -1.0d
 		}

@@ -56,13 +56,13 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"Circuits along this line are LV, and can all be substituted in recipes."
+				"Схемы на этой стороне относятся к низкому напряжению и они все взаимозаменяемы в рецептах."
 				""
-				"&2Electronic Circuits&r are the worst in terms of cost and effort required to produce, but you have to start with something."
+				"&2Электросхемы&r самые худшие в плане цены и усилий на их создание, но с чего-то нужно начинать."
 				""
-				"&2Integrated Circuits&r are the middle layer between &2Electronic Circuits and Microprocessors.&r"
+				"&2Интегральные схемы&r это середина между &2электросхемами и микропроцессорами&r."
 				""
-				"And finally, &2Microprocessors&r, which take the lowest effort."
+				"И наконец, &2микропроцессоры&r, на которые уходит меньше всего усилий."
 			]
 			icon: "gtceu:lv_machine_hull"
 			id: "5B6811964444497F"
@@ -84,7 +84,7 @@
 				title: "Any #gtceu:circuits/lv"
 				type: "item"
 			}]
-			title: "LV Circuits"
+			title: "Схемы Низкого Напряжения"
 			x: -8.0d
 			y: -5.5d
 		}
@@ -96,9 +96,9 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"Circuits along this line are MV, and can all be substituted in recipes."
+				"Схемы на этой стороне относятся к среднему напряжению и они все взаимозаменяемы в рецептах."
 				""
-				"The pattern stays the same: the rightmost circuit comes in larger quantities and is overall easier to produce."
+				"Шаблон остаётся тот же: по трудоёмкости создания слева направо от сложного к простому."
 			]
 			icon: "gtceu:mv_machine_hull"
 			id: "1510DC51CDC3F609"
@@ -119,7 +119,7 @@
 				title: "Any #gtceu:circuits/mv"
 				type: "item"
 			}]
-			title: "MV Circuits"
+			title: "Схемы Среднего Напряжения"
 			x: -8.0d
 			y: -4.0d
 		}
@@ -1421,7 +1421,7 @@
 				item: "better_angel_ring:angel_ring"
 				type: "item"
 			}]
-			title: "&9Captain... Marvel? IDK"
+			title: "&9Captain… Marvel? IDK"
 			x: 15.5d
 			y: -4.0d
 		}
@@ -1813,9 +1813,9 @@
 				"45B743CB23CA5735"
 			]
 			description: [
-				"&2Phenolic Substrates need to be turned into Circuit Boards with Silver before being usable in Circuit production."
+				"&2Перед тем как использовать профеноленые подложки в производстве электросхем их необходимо обработать серебром, превратив их в готовую печатную плату.&r"
 				""
-				"&2Sodium Persulfate and Iron III Chloride are troublesome to get right now, but using them in making Circuit Boards will reduce the amount of Silver required by 4 times."
+				"&2На данный момент получить персульфат натрия и хлорид железа III может быть проблематично, но они урезают затраты серебра в 4 раза.&r"
 			]
 			id: "3650EF39B5AB4A7D"
 			rewards: [{
@@ -1840,9 +1840,9 @@
 				"1A30472430354F1E"
 			]
 			description: [
-				"Your first &6Tier Two Circuits&r will require three &6Tier One Circuits&r plus two &6Diodes&r."
+				"Ваша первая &6схема второго уровня&r потребуется три &6схемы первого уровня&r и два &6диода&r."
 				""
-				"These are rather expensive... Always be on the lookout for a cheaper way to make your circuits - new sets of recipes become available each time you make a new tier of &2Circuit Assembler&r. Conveniently, this tier of Circuit unlocks one now!"
+				"Этот способ довольно затратный… Однако, всегда ищите более легкие альтернативы производства схем — новый набор рецептов становится доступен с каждым уровнем &2сборщика микросхем&r. Этот уровень микросхем как раз разблокирует первый сборщик. "
 			]
 			id: "3B639F4061B00F1A"
 			rewards: [{
@@ -1857,7 +1857,7 @@
 				item: "gtceu:good_electronic_circuit"
 				type: "item"
 			}]
-			title: "&2The First Tier Two Circuits"
+			title: "&2Первая схема второго уровня"
 			x: -6.5d
 			y: -4.0d
 		}
@@ -1900,6 +1900,10 @@
 				"73F8EA8E7DCC94E9"
 			]
 			description: [
+				"Эти схемы проще массово производить, чем &6обычные электросхемы&r, и они нужны для создания &6продвинутых интегральных схем&r, ваша первая схема &6ВН&r."
+				""
+				"В остальном они выполняют все те же условия."
+				""
 				"These are easier to mass produce than &6Electronic Circuits&r, and they're required to produce the &6Advanced Integrated Circuit&r, your first &6HV&r circuit."
 				""
 				"Otherwise, they fulfill the same requirements."
@@ -1916,13 +1920,13 @@
 				item: "gtceu:basic_integrated_circuit"
 				type: "item"
 			}]
-			title: "&2The Second Tier One Circuits"
+			title: "&2Вторая схема первого уровня"
 			x: -5.0d
 			y: -5.5d
 		}
 		{
 			dependencies: ["27FAD6A8FCFAB543"]
-			description: ["&2Two Integrated Circuits&r and various other components will create a &2Good Integrated Circuit."]
+			description: ["&2Две интегральиные схемы&r и другие различные компоненты вместе собираются в &2хорошую интегральную схему&r."]
 			id: "2AC61192BCD459F2"
 			rewards: [{
 				id: "447C6A40A5BA0F42"
@@ -1935,7 +1939,7 @@
 				item: "gtceu:good_integrated_circuit"
 				type: "item"
 			}]
-			title: "&2The Second Tier Two Circuits"
+			title: "&2Вторая схема второго уровня"
 			x: -5.0d
 			y: -4.0d
 		}

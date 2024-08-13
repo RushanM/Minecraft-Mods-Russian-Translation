@@ -143,7 +143,7 @@
 			]
 			description: [
 				"Upgrade time! "
-				"...or building a new one, which is probably better."
+				"…or building a new one, which is probably better."
 				""
 				"Yet again this quest asks for the minimal number of casings. Make an extra &229&r if you don't want more than &a2 Fluid Inputs&r&r and &a1 Fluid Output&r. Don't forget the extra &e31 Fusion Glass&r or &6Fusion Machine Casings&r!"
 				""
@@ -778,7 +778,7 @@
 				""
 				"&6Californium&r is the final fissile material in the NuclearCraft processing chain."
 				""
-				"&6LECf-249 Fuel&r is made with the 8:1 ratio of &6Californium-252&r and &6Californium-249&r. When depleted, it results in... different isotopes of Californium."
+				"&6LECf-249 Fuel&r is made with the 8:1 ratio of &6Californium-252&r and &6Californium-249&r. When depleted, it results in… different isotopes of Californium."
 				""
 				"Unless you want &6Californium RTGs&r or are experimenting with further fission routes, this step is probably unnecessary for general materials processing."
 			]

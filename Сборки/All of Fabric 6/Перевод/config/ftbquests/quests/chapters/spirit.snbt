@@ -508,7 +508,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Ух... Не говори Вазкому"
+			subtitle: "Ух… Не говори Вазкому"
 			tasks: [{
 				id: "3254A9810208512B"
 				item: "vitalize:pylon_base"
@@ -760,7 +760,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Это.... другое."
+			subtitle: "Это…. другое."
 			tasks: [{
 				id: "03C8A900F5D9F8A3"
 				item: "reaper:soul_beacon"
@@ -820,7 +820,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Максимальная эффективность... подождите, я уже использовал его.."
+			subtitle: "Максимальная эффективность… подождите, я уже использовал его.."
 			tasks: [{
 				id: "6B5B20710687A526"
 				item: "reaper:rune_block_efficacia"
@@ -932,7 +932,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Враждебное... поглощение?"
+			subtitle: "Враждебное… поглощение?"
 			tasks: [{
 				id: "08998796D869CCEA"
 				item: "reaper:rune_block_hostilis"

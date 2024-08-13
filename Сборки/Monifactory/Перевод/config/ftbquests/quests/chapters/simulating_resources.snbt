@@ -103,9 +103,9 @@
 		{
 			dependencies: ["5357A16B5BF62C96"]
 			description: [
-				"Here comes the chemistry."
+				"И вот, начинается химия."
 				""
-				"It might seem crazy right now, but you'll want a dedicated &3Chemical Reactor&r for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though... it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system."
+				"Сначала может показаться как безумие, но вам точно понадобится отдельный &3химический реактор&r практически для каждого химиката, который вы будете производить. Но по началу вам, наверное, захочется отложить это дело до того, как будет какая-то основа автокрафта… жить гораздо проще, когда можно просто заказать компоненты химического реактора через систему АЕ2."
 			]
 			disable_toast: true
 			id: "3F62C4BB7F36BC98"
@@ -115,22 +115,22 @@
 				item: "gtceu:mv_chemical_reactor"
 				type: "item"
 			}]
-			title: "MV Chemical Reactor"
+			title: "Химический реактор СН"
 			x: 3.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["3F62C4BB7F36BC98"]
 			description: [
-				"&oThis is an important part of a Processing Line. Visit the Processing Lines Tab to have more info, useful tips and a visual representation of how to passively automate this."
+				"&oЭто важная часть производственного процесса. Загляните во вкладку производственных процессов для большей информации, полезных подсказок и визуального представления пассивной автоматизации."
 				""
-				"&6Uraninite Ore&r is the first source of &6Pulsating Dust&r but is not a very good one in the long term. Instead you should make &6Resonant Clathrates&r, which are an infinitely-renewable and effective source of Pulsating Dust."
+				"&6Уранитит&r — первый источник &6пульсирующей пыли&r, но он не подойдёт для длительного использования. Взамен лучше создавать &6резоринующие клатраты&r, которые бесконечно-возобновляемые и идеально подходят для создания пульсирующей пыли."
 				""
-				"Resonant Clathrates are made by melting &6Ender Pearls&r with a &3Fluid Extractor&r into &9Resonant Ender&r, then mixing that with &6Nether Quartz&r in an MV or better &3Chemical Reactor&r. Smelting this clathrate gives Pulsating Dust."
+				"Резонирующие клатраты создаются путём плавления &6жемчуга энедера&r в &3экстракторе&r в &9резонирующий эндер&r, затем смешать его с &6адским кварцем&r в &3химическом реакторе&r СН или выше. Плавление этого клатрата даёт пульсирующую пыль."
+				"{@pagebreak}"
+				"Теперь, когда у вас есть резонирующие клатраты, всё необходимое для создания &6пульсирующей пыли&r может быть автоматизировано в испключительно положительном цикле. Проектирование этого процесса — первый шаг к автоматизации &bHostile Neural Networks&r, который &eявляется главным источников важных материалов до конца сборки&r."
 				""
-				"With Resonant Clathrates now accessible, everything you need for crafting &6Pulsating Polymer Clay&r can be automated in a net-positive loop.&r Doing so is the first step in automation of &bHostile Neural Networks&r, which is &ea primary source of important materials for the rest of the pack&r."
-				""
-				"The exact implementation is up to you. Make use of the various LV and MV machines you have, and look through &bEMI&r and the Processing Lines Tab for the ways to get infinite sources of each ingredient (like &aEnderman Models&r for pearls)."
+				"Вам решать как это реализовать. Воспользуйтесь различными машиными НН и СН, а также проверьте &bEMI&r и вкладку производственного процесса, чтобы найти способы автоматизировать бесконечный источник каждого ингредиенты (например, &aмодель эндермена&r для жемчужин).&r"
 			]
 			disable_toast: true
 			id: "5E80297BCBEA3C27"
@@ -145,13 +145,13 @@
 				item: "kubejs:resonant_clathrate"
 				type: "item"
 			}]
-			title: "&9Resonant&r Clathrate"
+			title: "&9Резоринующие&r клатраты"
 			x: 5.5d
 			y: -3.5d
 		}
 		{
 			dependencies: ["05B3758B509861B8"]
-			description: ["You can combine various items with a &6Model Framework&r for a completed &6Data Model&r that you can run inside the &3Simulation Chamber&r."]
+			description: ["&6Структуру модели&r можно объединить с различными предметами для создания готовой &6модели данных&r для запуска в &3камере симуляции&r."]
 			icon: "hostilenetworks:blank_data_model"
 			id: "73C6E2724EBEC997"
 			rewards: [{
@@ -172,13 +172,13 @@
 					type: "item"
 				}
 			]
-			title: "Simulated Mobs"
+			title: "Симулируемые мобы"
 			x: -2.5d
 			y: -1.0d
 		}
 		{
 			dependencies: ["72D61AFACC53A34A"]
-			description: ["Just as with Overworldian mob data, there's no huge rush or need to focus on these. Just run them while you work on other projects."]
+			description: ["Как и данные мобов обычного мира, не стоит спешить и фокусироваться на этих моделях. Используйте те, что вам больше необходимы, пока вы работаете над другими проектами."]
 			id: "1062A387E899434C"
 			rewards: [{
 				count: 10
@@ -241,9 +241,9 @@
 		{
 			dependencies: ["2201391DEEBE79E4"]
 			description: [
-				"There's no rush to get these all done and leveled up, but they do provide a good source of some of the basic resources in exchange for RF."
+				"Не спешите создать и улучшить их все, но они всеравно являются хорошим источником базовых ресурсов в замен на РТ."
 				""
-				"Look at what the &6Pristine Matter&r for each mob provides, and set up simulators for all the ones you're interested in. If your power can handle it, it can even be advantageous to run several of the same model."
+				"Посмотрите, что можно &6безупречная материя&r каждого моба производит и настройте симуляторы для тех, кто вам интересен. Если энергосеть позволит, то вполне может быть выгодно иметь в работе несколько моделей одного типа."
 			]
 			id: "61E018C3BAB05818"
 			rewards: [{
@@ -366,9 +366,9 @@
 		{
 			dependencies: ["73C6E2724EBEC997"]
 			description: [
-				"Provide your &3Simulation Chamber&r with RF power and &6Pulsating Polymer Clay&r. Then insert a &6Data Model&r of your choice. The Simulation Chamber will consume Polymer Clay and a decent amount of power to begin simulating mob kills. This will generate &6Overworldian Matter&r and may occasionally provide you with &6Pristine Matter&r."
+				"Для работы &3камере симуляции&r требуется энергия РТ и &6пульсирующая полимерная глина&r. Затем нужно подключить &6модель данных&r на ваш выбор. Камера симуляции начнёт потреблять полимерную глину и значительное количество энергии для симуляции убийства мобов. В результате сгенерируется &6материя обычного мира&r и может быть иногда сгенерируется &6безупречная материя&r."
 				""
-				"&6Overworldian Matter&r can be eaten to gain experience, or can be combined with other materials to obtain drops from Overworld mobs, and other forms of matter. With these drops and the other kinds of matter, you can then create Data Models for lots of other mob types!"
+				"&6Материю обычного мира&r можно съесть и получить опыт или объединить её с другими материалами, чтобы получить добычу мобов обычного мира, а также превратить в другую форму материи. С этой добычей и другими формами материи вы можете создать модель данных для можества других различных типов мобов!"
 			]
 			id: "2201391DEEBE79E4"
 			rewards: [{
@@ -382,16 +382,16 @@
 				item: "hostilenetworks:overworld_prediction"
 				type: "item"
 			}]
-			title: "&2Overworld&r Matter"
+			title: "Материя &2Обычного мира&r"
 			x: -2.5d
 			y: 2.5d
 		}
 		{
 			dependencies: ["2201391DEEBE79E4"]
 			description: [
-				"&6Overworldian Matter&r and &6Netherrack&r can be crafted into &6Hellish Matter&r."
+				"Из &6материи обычного мира&r и &6незерака&r можно создать &6адскую материю&r."
 				""
-				"Netherrack can be obtained by combining a &6Dust Block&r and &cLava&r in a &3Chemical Reactor&r."
+				"Незерак можно получить смешав &6блок пыли&r и &cлаву&r в &3химическом реакторе&r."
 			]
 			id: "72D61AFACC53A34A"
 			rewards: [{
@@ -405,13 +405,13 @@
 				item: "hostilenetworks:nether_prediction"
 				type: "item"
 			}]
-			title: "&4Nether&r Matter"
+			title: "Материя &4Незера&r"
 			x: -0.5d
 			y: 2.5d
 		}
 		{
 			dependencies: ["72D61AFACC53A34A"]
-			description: ["&6Hellish Matter&r and &6Ender Pearl&r can be crafted into Extraterrestrial Matter."]
+			description: ["&6Адскую материю&r и &6жемчуг Эндера&r можно объединить во внеземную материю."]
 			id: "09F8678BBA41D15E"
 			rewards: [{
 				id: "1F5EA736BD59C447"
@@ -424,13 +424,13 @@
 				item: "hostilenetworks:end_prediction"
 				type: "item"
 			}]
-			title: "&5End&r Matter"
+			title: "Материя &5Энда&r"
 			x: 1.5d
 			y: 2.5d
 		}
 		{
 			dependencies: ["09F8678BBA41D15E"]
-			description: ["Some of these simulations will start to consume tremendous amounts of power at this point, so if you're finding it a struggle, don't be afraid to hold off on progressing through these data models until a later time."]
+			description: ["Некоторые симуляции начнут потреблять колоссальное количество энергии. Если вы испытываете с ними трудности, то не бойтесь отложить прогресс этих моделей данных на потом."]
 			id: "637953544CE66BDB"
 			rewards: [{
 				count: 10
@@ -524,16 +524,16 @@
 				"3F39E9B829DAE2F2"
 			]
 			description: [
-				"Once you have obtained your first piece of &6Hellish Matter&r, or unlocked the &3Atomic Reconstructor&r, travel to the &eNether&r becomes available."
+				"Получив вашу первую &6адскую материю&r или разблокировали &3атомный реконструктор&r, вам становится достуен &eНезер&r."
 				""
-				"The &eNether&r contains quite a few useful resources:"
-				"- Some initial pieces of &6Sulfur&r"
-				"- &6Glowstone&r and &6Soul Sand&r"
-				"- &6Fluorine&r, &6Certus Quartz&r, &6Molybdenum&r, &6Antimony&r, and &6Gold&r-bearing ores"
-				"- &2Nether Air&r, which can be distilled for useful gases"
-				"- &eLava&r and &eNatural Gas&r from &2Fluid Rigs&r"
+				"&eНезер&r хранит в себе некоторые полезные ресурсы:"
+				"— Первичные кусочки &6серы&r;"
+				"— &6Светокамень&r и &6песок душ&r;"
+				"— Руда содержащая &6фтор&r, &6истинный кварц&r, &6молибден&r, &6сурьму&r и &6золото&r;"
+				"— &2Адский воздух&r, который дистилируется в полезные газы;"
+				"— &eЛава&r и &eприродный газ&r из &2жидкостной буровой установки&r."
 				""
-				"Despite all this, &eNether&r travel is still strictly optional in the pack, although it is recommended."
+				"Несмотря на всё это, &eНезер&r опционален в этой сборке, хотя он рекомендуется."
 			]
 			id: "7A67E519745A8361"
 			rewards: [{
@@ -553,13 +553,13 @@
 		{
 			dependencies: ["7A67E519745A8361"]
 			description: [
-				"&2This is new to CEu! Before, you could only distill Liquid Air."
+				"&2Это новинка в CEu! До этого дистиллировать можно было только жидкий воздух."
 				""
-				"&9Nether Air&r, collected from &3Gas Collectors&r, can be sent into the &3Vacuum Freezer&r to turn it into &9Liquid Nether Air&r."
+				"&9Адский воздух&r получается &3сборщиками газа&r и его можно отправить в &3вакуумный морозильник&r для конденсации в &9жидкий адский воздух&r."
 				""
-				"&9Liquid Nether Air&r can be sent into a &2Distillation Tower&r to break it down into its components."
+				"&9Жидкий адский воздух&r можно отправить в &2ректификационную колонну&r для разделения его на составляющие компоненты."
 				""
-				"&2Liquid Air and Liquid Ender Air give different useful components too."
+				"&2Жидкий воздух и жидкий воздух Энда тоже разделяются на другие не менее полезные компоненты.&r "
 			]
 			icon: "gtceu:liquid_nether_air_bucket"
 			id: "45DD07F2BB9C6A59"
@@ -573,7 +573,7 @@
 				item: "gtceu:liquid_nether_air_bucket"
 				type: "item"
 			}]
-			title: "&2Distilling the Nether"
+			title: "&2Дистиллирование Незера"
 			x: -2.5d
 			y: 4.5d
 		}

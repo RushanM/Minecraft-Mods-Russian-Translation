@@ -831,7 +831,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "На вкус все такое... или все такое на вкус?"
+			subtitle: "На вкус все такое… или все такое на вкус?"
 			tasks: [{
 				id: "149B98622220A1B0"
 				item: "minecraft:cooked_chicken"
@@ -1517,7 +1517,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Все любят мороженое... все."
+			subtitle: "Все любят мороженое… все."
 			tasks: [{
 				id: "0011E847A6347673"
 				item: "croptopia:chocolate_ice_cream"
@@ -2305,7 +2305,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Хорошо, когда холодно... или в любое время."
+			subtitle: "Хорошо, когда холодно… или в любое время."
 			tasks: [{
 				id: "447C4FDE941FC01C"
 				title: "Супы"
@@ -2443,7 +2443,7 @@
 				"6AA43062AC98B59B"
 				"14D42EDBFFCED86E"
 			]
-			description: ["Ну... это делает тебя болваном?"]
+			description: ["Ну… это делает тебя болваном?"]
 			id: "251028DFC955D65F"
 			rewards: [{
 				id: "245DD3FD135394C2"

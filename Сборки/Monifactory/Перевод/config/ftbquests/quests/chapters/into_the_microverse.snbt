@@ -361,7 +361,7 @@
 			description: [
 				"You may have noticed that The End portals in Strongholds are disabled."
 				""
-				"The only way to access The End is to... &ebake a cake&r. You can refill it with &6Eyes of Ender&r."
+				"The only way to access The End is to… &ebake a cake&r. You can refill it with &6Eyes of Ender&r."
 				""
 				"Prepare some gear, eat a slice, and get ready for a fight!"
 			]
@@ -378,7 +378,7 @@
 				id: "5EFEF3EB5567D109"
 				type: "dimension"
 			}]
-			title: "The End...?"
+			title: "The End…?"
 			x: -9.0d
 			y: 1.5d
 		}
@@ -822,7 +822,7 @@
 			description: [
 				"Here comes the chemistry."
 				""
-				"It might seem crazy right now, but you'll want a dedicated &3Chemical Reactor&r for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though... it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system."
+				"It might seem crazy right now, but you'll want a dedicated &3Chemical Reactor&r for pretty much every chemical you want to process. You probably want to hold off on doing that until you've got a solid base of autocrafting though… it stings a lot less when you can just request crafts of Chemical Reactors from your AE2 system."
 			]
 			disable_toast: true
 			id: "7A09229ACC000B09"
@@ -863,7 +863,7 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"The Moon is a barren, lifeless rock... So why did you want to come here?"
+				"The Moon is a barren, lifeless rock… So why did you want to come here?"
 				""
 				"One major draw is that &6Moon Turf&r, which makes up the surface of the Moon, is an efficient means of obtaining &9Deuterium&r. It will be useful for producing &9Microversium&r, &9Tritium&r, plasmas from fusion, and crystallizing &6Dilithium&r."
 				""

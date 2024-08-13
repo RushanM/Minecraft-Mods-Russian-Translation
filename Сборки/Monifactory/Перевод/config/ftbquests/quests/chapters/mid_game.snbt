@@ -96,7 +96,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "ASSEMBLE... TOO!"
+			subtitle: "ASSEMBLE… TOO!"
 			tasks: [{
 				id: "6D869576B5A06D95"
 				item: "minecraft:nether_star"
@@ -309,7 +309,7 @@
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "...or, well, you might just do some exploration and kill a wild thermal elemental for a rod."
+			subtitle: "…or, well, you might just do some exploration and kill a wild thermal elemental for a rod."
 			tasks: [{
 				id: "28D34F773FBF78A8"
 				type: "checkmark"
@@ -1136,7 +1136,7 @@
 		{
 			dependencies: ["5357A16B5BF62C96"]
 			description: [
-				"There are several paths to &9Acetic Acid&r... probably the simplest is combining &9Oxygen&r, &9Hydrogen&r, and &6Carbon&r, but one of the several other methods may appeal to you more, especially if you have a &3Distillation Tower&r."
+				"There are several paths to &9Acetic Acid&r… probably the simplest is combining &9Oxygen&r, &9Hydrogen&r, and &6Carbon&r, but one of the several other methods may appeal to you more, especially if you have a &3Distillation Tower&r."
 				""
 				"Look through &bEMI&r for the various options."
 			]
@@ -1426,7 +1426,7 @@
 				"- &aTetrafluoroethylene&r"
 				"- &aNitrogen Dioxide&r"
 				"- &aSulfuric Acid&r"
-				"- &aEpichlorohydrin&r, needed for..."
+				"- &aEpichlorohydrin&r, needed for…"
 				"- &aEpoxy&r"
 				""
 				"The &3LCR&r also is required to perform some recipes, such as &aRaw Gasoline&r production, and &aPolybenzimidazole&r."
@@ -2298,7 +2298,7 @@
 		{
 			dependencies: ["072DB633006E78B7"]
 			description: [
-				"Glowing! &2But all the GTCEu machines glow already, so...&r"
+				"Glowing! &2But all the GTCEu machines glow already, so…&r"
 				""
 				"This one takes a significant amount of time to cook, so make sure to have it going constantly."
 				""
