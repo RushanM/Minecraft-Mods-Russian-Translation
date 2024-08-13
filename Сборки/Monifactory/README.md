@@ -1,3 +1,5 @@
+ *Здесь идёт оригинальное описание, переведённое на русский. Если вы хотите сразу перейти к описанию русификации сборки, [спуститесь ниже](#файлы-русификации-сборки).*
+
 <p align="center"><img src="https://github.com/ThePansmith/Monifactory/assets/70342772/4ac1d5e7-0610-4f44-bfed-b3b2022eecc0" height="250" alt="Логотип"></p>
 <h1 align="center">Monifactory</h1>
 <h3 align="center"><b>Автор сборки: <a href="https://github.com/ThePansmith">Pansmith</a></b></h3>
@@ -36,22 +38,40 @@ Monifactory для вас не такая грегнутая? Или, может
 
 ### Установка сложного и более сложного режимов
 
-1. Скачайте файл ``./pack-mode-switcher.bat``, если вы на Windows, или ``./pack-mode-switcher.sh``, если вы на Linux/Apple/GNU, и разместите его в своей папке Minecraft.
-2. Откройте его и следуйте инструкциям консоли.
+1. Скачайте файл ``./pack-mode-switcher.bat``, если вы на Windows, или ``./pack-mode-switcher.sh``, если вы на Linux/Apple/GNU, и разместите его в своей папке Minecraft
+2. Откройте его и следуйте инструкциям консоли
 
-### Установка сборки и русификация
+### Установка на выделенный сервер
 
-* Установите сборку из [Releases оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/).
-* Скачайте или клонируйте репозиторий моего проекта переводов.
-* Если скачали, откройте архив скачанного репозитория. Если клонировали, зайдите в клонированную папку репозитория.
-* Перейдите в нём по пути `Minecraft-Mods-Russian-Translation\Сборки\Monifactory`.
-* Откройте соответствующую папку.
-* Зайдите в ней в папку `Перевод`.
-* Скопируйте всё содержимое папки `Перевод` в папку `minecraft` вашей установки игры.
-* [Установите мой русский перевод модов](https://github.com/RushanM/Minecraft-Mods-Russian-Translation?tab=readme-ov-file#-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
+1. Скачайте файл server.zip со [страницы выпусков оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/)
+2. Скачайте установщик Forge [отсюда](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
+3. Создайте папку для сервера (например, ``mkdir MonifactoryServer``)
+4. Переместите server.zip и установщик Forge в папку сервера
+5. Запустите установщик Forge и установите сервер с помощью команды ``java -jar TheForgeInstallerName.jar --installServer``
+6. ``unzip server.zip``
+7. Переместите содержимое папки overrides (из server.zip) в папку сервера с помощью команды ``mv overrides/* .``
+8. Используйте ``./run.sh`` для генерации файла eula.txt. После принятия EULA снова запустите сервер. Возможно, потребуется изменить файл server.properties для смены порта.
+
+## Благодарности
+
+* Оригинальная сборка от [Exaxxion](https://github.com/Exaxxion)
+* Сборка Nomifactory CEu от [Tracer](https://github.com/tracer4b)
+* README.md основан на [Gregtech CEu](https://github.com/GregTechCEu/GregTech)
+* Мяуни (маскот) от Mutso
+* Некоторые новые квесты из [GregTech Community Pack](https://github.com/GregTechCEu/GregTech-Community-Pack)
+* Текстуры идеального самоцвета из [FurfSky Reborn](http://furfsky.net/) ([разрешение](https://ibb.co/bBpksq0) в [этом сообщении](https://discord.com/channels/771187253937438762/774353150278369351/938438074503942184) на [сервере FurfSky Reborn](https://discord.gg/fsr))
+
+Спасибо!
+
+## Файлы русификации сборки
+
+Monifactory переводится на русский язык силами [**Дефлекты**](https://github.com/RushanM) и [**SillyAsriel**](https://github.com/SillyAsriel)! В данный момент перевод не готов, но уже переводит много чего в сборке, поэтому вы можете им воспользоваться.
+
+### Установка сборки на русском
+
+* Установите сборку из [страницы выпусков оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/)
+* Скачайте архив с русским переводом Monifactory с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
+* Распакуйте архив в папку вашей установки Monifactory с заменой файлов
+* Скачайте архив с русским переводом модов с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
+* Разместите архив в папку resourcepacks и включите в игре в меню наборов ресурсов
 * Готово!
-
-## Переводчики
-
-* [**Дефлекта**](https://github.com/RushanM)
-* [**SillyAsriel**](https://github.com/SillyAsriel)
