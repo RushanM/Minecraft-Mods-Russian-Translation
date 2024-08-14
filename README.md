@@ -4,6 +4,9 @@
 
 ## Моды
 
+<details>
+<summary>Раскрыть список</summary>
+
 | Версия игры | Идентификатор | Мод | Версия мода | Статус перевода |
 | - | - | - | - | - |
 | 1.7 | adventurebackpack | Adventure Backpack | Beta-0.8c | Переведён |
@@ -16,6 +19,8 @@
 | 1.12 | cfm | MrCrayfish's Furniture Mod (Legacy) | 6.3.2 | Не готов |
 | 1.12 | mod_lavacow | Fish's Undead Rising | 1.4.2 | Не готов |
 | ... | ... | ... | ... | ... |
+
+</details>
 
 ## Сборки
 
