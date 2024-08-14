@@ -21,9 +21,10 @@
 
 | Сборка | Русское название | Для версии сборки | Статус перевода |
 | - | - | - | - |
-| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Альфа 0.6.2 | Начало |
-| [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | Самое начало |
-| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | Перевода нет |
+| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Альфа 0.6.2 | Переведён интерфейс и несколько квестов |
+| [GregTech: New Horizons](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/GregTech%20New%20Horizons) | *GregTech: новые горизонты* | 2.6.1 | Переведено несколько квестов |
+| [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | Переведено главное меню и голос |
+| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | Переведено несколько квестов |
 | [All the Mods 9](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20the%20Mods%209) | *Все моды 9* | ? | Перевода нет |
 
 ## Внешние ссылки

@@ -1,6 +1,8 @@
-# Русский перевод сборки The Ferret Business («Хорьковый бизнес»)
+ *Здесь идёт оригинальное описание, переведённое на русский. Если вы хотите сразу перейти к описанию русификации сборки, [спуститесь ниже](#файлы-русификации-сборки).*
 
-<p align="center"><img src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/alpha/Сборки/The Ferret Business/Ассеты/the_ferret_business.png" height="250" alt="Logo"></p>
+<p align="center"><img src="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/blob/alpha/Сборки/The Ferret Business/Ассеты/the_ferret_business.png" height="250" alt="Логотип"></p>
+<h1 align="center">Хорьковый бизнес</h1>
+<h3 align="center"><b>Автор сборки: <a href="https://github.com/CaiganMythFang">Caigan</a></b></h3>
 <p align="center"><b><i>Исследование, поиск и пакеты с сюрпризом.</i></b></p>
 
 ## Особенности
@@ -19,20 +21,15 @@
 - Путешествуйте по миру, наполненному опасностями и наградами. Исследуйте обширные подземелья и встречайте новых существ благодаря модам Roguelike Dungeons и Grimoire of Gaia.
 - Исследуйте бесконечное количество миров или создавайте свои собственные с помощью RFTools.
 
-<h3 align="center"><b>Автор сборки: <a href="https://github.com/CaiganMythFang">Caigan</a></b></h3>
+## Файлы русификации сборки
 
-## Установка сборки и русификация
+Monifactory переводится на русский язык силами [**Дефлекты**](https://github.com/RushanM)! В данный момент переведены только главное меню и английский голос заменён на русскую озвучку из [**видео Steamlynx**](https://www.youtube.com/watch?v=qq4r3cCpWaI).
+
+### Установка сборки на русском
 
 - Установите сборку со [страницы в CurseForge](https://www.curseforge.com/minecraft/modpacks/the-ferret-business).
-- Скачайте или клонируйте репозиторий моего проекта переводов.
-- Если скачали, откройте архив скачанного репозитория. Если клонировали, зайдите в клонированную папку репозитория.
-- Перейдите в нём по пути `Minecraft-Mods-Russian-Translation\Сборки\The Ferret Business`.
-- Откройте соответствующую папку.
-- Зайдите в ней в папку `Перевод`.
-- Скопируйте всё содержимое папки `Перевод` в папку `minecraft` вашей установки игры.
-- [Установите мой русский перевод модов](https://github.com/RushanM/Minecraft-Mods-Russian-Translation?tab=readme-ov-file#-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0).
-- Готово!
-
-## Переводчики
-
-Автор перевода: **Дефлекта**. Была использована озвучка от [**Steamlynx**](https://www.youtube.com/watch?v=qq4r3cCpWaI).
+* Скачайте архив с русским переводом The Ferret Business с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
+* Распакуйте архив в папку вашей установки Monifactory с заменой файлов
+* Скачайте архив с русским переводом модов с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
+* Разместите архив в папку resourcepacks и включите в игре в меню наборов ресурсов
+* Готово!

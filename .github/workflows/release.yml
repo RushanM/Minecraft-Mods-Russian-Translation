@@ -8,6 +8,8 @@ on:
       - 'Набор ресурсов/**'
       - 'Сборки/Monifactory/Перевод/**'
       - 'Сборки/The Ferret Business/Перевод/**'
+      - 'Сборки/GT New Horizons/Перевод/**'
+      - 'Сборки/All of Fabric 6/Перевод/**'
   pull_request:
     branches:
       - beta
@@ -15,6 +17,8 @@ on:
       - 'Набор ресурсов/**'
       - 'Сборки/Monifactory/Перевод/**'
       - 'Сборки/The Ferret Business/Перевод/**'
+      - 'Сборки/GT New Horizons/Перевод/**'
+      - 'Сборки/All of Fabric 6/Перевод/**'
   workflow_dispatch:
 
 jobs:
@@ -81,6 +85,12 @@ jobs:
           cd ../../../
           cd "Сборки/The Ferret Business/Перевод/"
           zip -r ../../../The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+          cd ../../../
+          cd "Сборки/GT New Horizons/Перевод/"
+          zip -r ../../../GTNH-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+          cd ../../../
+          cd "Сборки/All of Fabric 6/Перевод/"
+          zip -r ../../../All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
 
       - name: Создание тега для выпуска
@@ -205,4 +215,24 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_name: The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива перевода GTNH в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./GTNH-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: GTNH-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива перевода All of Fabric 6 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip
