@@ -1,4 +1,4 @@
-# Русский перевод модов Minecraft от Дефлекты
+# Русский перевод модификаций Minecraft от Дефлекты
 
 <div align="center">
     <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
@@ -39,7 +39,9 @@
 | [Absent by Design](https://modrinth.com/mod/absent-by-design) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус. | 🟥 |
 | [Adorn](https://modrinth.com/mod/adorn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Adventure Backpack](https://www.curseforge.com/minecraft/mc-mods/adventure-backpack) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Aerlune RPG](https://www.curseforge.com/minecraft/mc-mods/aerlune-rpg) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [AgriCraft](https://modrinth.com/mod/agricraft) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| ⬛ | ✅ Рус. | ✅ Рус. | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
@@ -117,7 +119,7 @@
 | [GregTechCEu Modern](https://modrinth.com/mod/gregtechceu-modern) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Guardians Galore](https://modrinth.com/mod/guardians-galore-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Happy Pride Moth!](https://modrinth.com/mod/pride-moths) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
-| [Hephaestus](https://modrinth.com/mod/hephaestus) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
+| [Hephaestus (Tinkers' Construct)](https://modrinth.com/mod/hephaestus) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Hex Casting](https://modrinth.com/mod/hex-casting) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Hey Wiki](https://modrinth.com/mod/hey-wiki) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
@@ -166,8 +168,8 @@
 | [ModernFix](https://modrinth.com/mod/modernfix) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Monazite (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/monazite) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
+| [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
-| [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Nature's Aura](https://modrinth.com/mod/natures-aura) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [NEEPMeat](https://modrinth.com/mod/neepmeat) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Neighborly](https://www.curseforge.com/minecraft/mc-mods/neighborly) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
@@ -202,12 +204,14 @@
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Sodium](https://modrinth.com/mod/sodium) | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [SpaceworldMons [Cobblemon]](https://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
+| [SpaceworldMons [Cobblemon]](hhttps://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 | [StaffDerpsMod](https://modrinth.com/mod/staffderpsmod) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Subnautica Flow](https://modrinth.com/mod/subnautica-flow) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Sulfur Based Weapon Development](https://modrinth.com/mod/sbwd) | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 | [Tails](https://www.curseforge.com/minecraft/mc-mods/tails) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [The Aether II](https://modrinth.com/mod/aether-ii) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [The Aether](https://modrinth.com/mod/aether) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [The Dark Dweller](https://modrinth.com/mod/the-dark-dweller) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 |
 | [The Essentials mod](https://modrinth.com/mod/the-essentials-mod)| 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [The Fellow Furries Mod](https://modrinth.com/mod/fellowfurriesmod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
