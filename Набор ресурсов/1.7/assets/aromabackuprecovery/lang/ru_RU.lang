@@ -1,20 +1,18 @@
-# Перевод LeoganPro
-
 aromabackuprecovery:selectBackup.delete.Question=Вы действительно хотите удалить эту резервную копию?
-aromabackuprecovery:selectBackup.backup="%s" будет потерян навсегда!
+aromabackuprecovery:selectBackup.backup=«%s» будет удалена навсегда! (Безвозвратно!)
 aromabackuprecovery:selectBackup.name=%s (%s)
 aromabackuprecovery:button.recover=Резервные копии
-aromabackuprecovery:selectBackup.select=Восстановление резервной копии
+aromabackuprecovery:selectBackup.select=Восстановить резервную копию
 
-aromabackuprecovery:restorechunk.button=Восстановлить отдельный чанк
+aromabackuprecovery:restorechunk.button=Восстановить отдельный чанк
 aromabackuprecovery:restorechunk.title=Восстановление чанка
 aromabackuprecovery:restorechunk.confirm=Восстановить чанк
-aromabackuprecovery:restorechunk.chunkX=ЧанкX
-aromabackuprecovery:restorechunk.chunkZ=ЧанкY
+aromabackuprecovery:restorechunk.chunkX=Координата X чанка
+aromabackuprecovery:restorechunk.chunkZ=Координата Y чанка
 aromabackuprecovery:restorechunk.dim=Измерение
-aromabackuprecovery:restorechunk.loadCrashlog=Загрузить из Crashlog
-aromabackuprecovery:restorechunk.info.1=Помните, что это координаты чанка, а не координаты блоков.
-aromabackuprecovery:restorechunk.info.2=Это загрузит выбранный мир и вместо того, чтобы загружать весь мир из папки с миром, это загрузит выбранный фрагмент из выбранной резервной копии.
-aromabackuprecovery:restorechunk.crashlog.none=Не удалось найти журнал сбоев. Если вы считаете, что это ошибка, сообщите об этом, включая журнал сбоев.
-aromabackuprecovery:restorechunk.crashlog.outdated=Журнал сбоев, из которого поступает информация, довольно устарел. Это может быть плохая идея.
-aromabackuprecovery:restorechunk.crashlog.success=Успешно загруженна информация о чанке из журнала сбоев.
+aromabackuprecovery:restorechunk.loadCrashlog=Загрузить из отчёта об ошибке
+aromabackuprecovery:restorechunk.info.1=Помните, это координаты чанка, а не координаты блока.
+aromabackuprecovery:restorechunk.info.2=Это действие загрузит выбранный мир, и вместо загрузки всего мира из папки мира, загрузится выбранный чанк из выбранной резервной копии.
+aromabackuprecovery:restorechunk.crashlog.none=Не удалось найти полезный отчёт об ошибке. Если вы считаете, что это ошибка, пожалуйста, сообщите о ней, приложив отчёт об ошибке, который следует считать полезным.
+aromabackuprecovery:restorechunk.crashlog.outdated=Отчёт об ошибке, из которого получена информация, устарел. Он может не подойти.
+aromabackuprecovery:restorechunk.crashlog.success=Информация о чанке успешно загружена из отчёта об ошибке.

@@ -1,5 +1,3 @@
-# Переведено LeoganPro
-
 # Note: these are GB spellings by default
 
 # Item localisations
@@ -8,9 +6,11 @@ item.endertech.exchanger.exchangerResonant.name=Резонирующий зам�
 item.endertech.exchanger.exchangerCreative.name=Творческий заменитель блоков
 
 # Creative tab
+
 itemGroup.EnderTechAll=EnderTech
 
 # Blocks
+
 tile.enderTank.name=Эндер-резервуар
 tile.chargedPlane.0.name=Заряженная плоскость
 tile.enderTankPart.0.name=Эндер-резервуар: Корпус
@@ -28,11 +28,13 @@ tile.healthPad.1.name=Укреплённая лечащая плита
 tile.healthPad.2.name=Резонирующая лечащая плита
 
 # Fluids
+
 tile.fluid.chargePad.0.name=Заряженный Эндер
 fluid.chargedEnder=Заряженный Эндер
 item.endertech.bucket.bucketChargedEnder.name=Ведро заряженного Эндера
 
 # Keys
+
 key.endertech.tools=EnderTech
 
 # General

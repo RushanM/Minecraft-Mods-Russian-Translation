@@ -14,6 +14,8 @@
 | 1.7 | aether | The Aether II | Festive Update - 1.6 | Переведён |
 | 1.7 | aether_legacy | The Aether | 1.1.2.3 | Не готов |
 | 1.7 | agricraft | AgriCraft | 1.5 | Не готов |
+| 1.7 | aromabackup | AromaBackup | 0.1.0 | Переведён |
+| 1.7 | aromabackuprecovery | AromaBackup | 0.1.0 | Переведён |
 | 1.7 | ... | ... | ... | ... |
 | 1.12 | aiotbotania | AIOT Botania | 0.7.1 | Переведён |
 | 1.12 | aqua_creepers | Aqua Creepers! | 1.2.3 | Переведён |

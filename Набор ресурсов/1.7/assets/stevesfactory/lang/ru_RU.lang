@@ -1,7 +1,4 @@
-# Перевёл LeoganPro / Translated by LeoganPro
-# ======================================
-#				BLOCKS / БЛОКИ
-# ======================================
+# БЛОКИ
 
 tile.sfm.BlockMachineManager.name=Менеджер инвентаря
 tile.sfm.BlockCable.name=Кабель инвентаря
@@ -21,9 +18,8 @@ tile.sfm.BlockCableInsideCamouflage.name=Двусторонний кабель-�
 tile.sfm.BlockCableShapeCamouflage.name=Трансформируемый кабель-камуфляж
 tile.sfm.BlockCableSign.name=Редактор табличек
 
-# ======================================
-#			COMPONENT TYPES / ТИПЫ КОМПОНЕНТОВ
-# ======================================
+# ТИПЫ КОМПОНЕНТОВ
+
 gui.sfm.TriggerShort=Триггер
 gui.sfm.TriggerLong=Триггер
 gui.sfm.InputShort=Вход
