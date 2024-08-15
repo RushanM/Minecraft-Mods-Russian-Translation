@@ -117,7 +117,6 @@
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.<br>✅ Тат. |
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Fish's Undead Rising](https://www.curseforge.com/minecraft/mc-mods/fishs-undead-rising) | ⬛ | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
-| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 |
 | [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Functional Thermal Drawers](https://www.curseforge.com/minecraft/mc-mods/functional-thermal-drawers) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
@@ -173,6 +172,7 @@
 | [MidnightControls](https://modrinth.com/mod/midnightcontrols) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [MidnightLib](https://modrinth.com/mod/midnightlib) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [MineColonies for ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/minecolonies-for-computercraft) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
+| [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [ModernFix](https://modrinth.com/mod/modernfix) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Monazite (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/monazite) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
@@ -241,6 +241,7 @@
 | [Xenon](https://modrinth.com/mod/xenon-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 
 Список будет пополняться.
+
 </details>
 
 ## 🏭 Затронутые сборки
