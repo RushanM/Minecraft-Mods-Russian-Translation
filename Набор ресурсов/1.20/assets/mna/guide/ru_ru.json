@@ -33,16 +33,16 @@
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Призыв продвинутых конструктов"
+                "value": "Призыв продвинутых созданий"
             },
             {
                 "json": [
                     {
-                        "text": "Для модификации и призыва продвинутых/более мощных конструктов мне потребуется установить"
+                        "text": "Для модификации и призыва продвинутых/более мощных созданий мне потребуется установить"
                     },
                     {
                         "color": "blue",
-                        "text": " портал конструктов"
+                        "text": " портал созданий"
                     },
                     {
                         "text": " и несколько"
@@ -52,11 +52,11 @@
                         "text": " химеритовых кристаллов"
                     },
                     {
-                        "text": ". Эта установка позволит мне внедрить в конструкт различные "
+                        "text": ". Эта установка позволит мне внедрить в создание различные "
                     },
                     {
                         "color": "blue",
-                        "text": "аффинитеты"
+                        "text": "стихии"
                     },
                     {
                         "text": ", что "
@@ -70,12 +70,12 @@
                     }
                 ],
                 "type": "text",
-                "value": "Для модификации и призыва продвинутых/более мощных конструктов вам потребуется установить портал конструктов и несколько химеритовых кристаллов. Эта установка позволит вам внедрить в конструкт различные аффиннитеты, что дополнительно усилит его характеристики."
+                "value": "Для модификации и призыва продвинутых/более мощных созданий вам потребуется установить портал созданий и несколько химеритовых кристаллов. Эта установка позволит вам внедрить в создание различные аффиннитеты, что дополнительно усилит его характеристики."
             },
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Установка портала конструктов"
+                "value": "Установка портала созданий"
             },
             {
                 "json": [
@@ -84,7 +84,7 @@
                     },
                     {
                         "color": "blue",
-                        "text": "порталу конструктов"
+                        "text": "порталу созданий"
                     },
                     {
                         "text": " достаточно гибкие. Мне понадобится сам портал и в общей сложности "
@@ -98,7 +98,7 @@
                     }
                 ],
                 "type": "text",
-                "value": "Требования для портала конструктов достатоточно гибкие. Вам понадобится сам портал и в общей сложности 8 химеритовых кристаллов в радиусе 5 блоков от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это неважно."
+                "value": "Требования для портала созданий достатоточно гибкие. Вам понадобится сам портал и в общей сложности 8 химеритовых кристаллов в радиусе 5 блоков от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это неважно."
             },
             {
                 "height": 54,
@@ -109,7 +109,7 @@
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Призыв конструкта"
+                "value": "Призыв создания"
             },
             {
                 "json": [
@@ -118,35 +118,35 @@
                     },
                     {
                         "color": "blue",
-                        "text": "аффинитеты "
+                        "text": "стихии "
                     },
                     {
-                        "text": "я хочу внедрить в конструкт. \n\nКаждый "
+                        "text": "я хочу внедрить в создание. \n\nКаждый "
                     },
                     {
                         "color": "dark_purple",
                         "text": "афинитет изменяет его характеристики"
                     },
                     {
-                        "text": ". Я могу установить афинитет, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. \n\nКогда всё получится, над кристаллом появится сигил, указывающий на афинитет. \n\nКогда все пять частей конструкта будут на верстаке и 8 афинитетов будут установлены, мне нужно будет активировать верстак пустой рукой, чтобы начать процесс создания. \n\nПосле завершения внедрения я смогу начать командовать своим конструктом."
+                        "text": ". Я могу установить афинитет, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. \n\nКогда всё получится, над кристаллом появится сигил, указывающий на афинитет. \n\nКогда все пять частей создания будут на верстаке и 8 афинитетов будут установлены, мне нужно будет активировать верстак пустой рукой, чтобы начать процесс создания. \n\nПосле завершения внедрения я смогу начать командовать своим созданием."
                     }
                 ],
                 "type": "text",
-                "value": "После того, как вы установите верстак и подготовите все детали, вам нужно будет выбрать, какие аффинитеты вы хотите внедрить в конструкт. Каждый аффинитет изменяет его характеристики. Вы можете установить аффинитеты, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. Когда всё получится, над кристаллом появится сигил, указывающий на аффинитет. Поместите все пять частей конструкта на верстак и активируйте его пустой рукой, чтобы начать процесс создания. После завершения внедрения вы сможете начать командовать своим конструктом."
+                "value": "После того, как вы установите верстак и подготовите все детали, вам нужно будет выбрать, какие стихии вы хотите внедрить в создание. Каждая стихия изменяет его характеристики. Вы можете установить стихии, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. Когда всё получится, над кристаллом появится сигил, указывающий на стихию. Поместите все пять частей создания на верстак и активируйте его пустой рукой, чтобы начать процесс создания. После завершения внедрения вы сможете начать командовать своим созданием."
             },
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Эффекты аффинитета"
+                "value": "Эффекты стихии"
             },
             {
                 "json": [
                     {
-                        "text": "Конструкт может иметь всего "
+                        "text": "Создание может иметь всего "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "8 очков аффинитета"
+                        "text": "8 очков стихии"
                     },
                     {
                         "text": ". Ниже приведены"
@@ -156,18 +156,18 @@
                         "text": " эффекты на каждое очко"
                     },
                     {
-                        "text": " аффинитета. "
+                        "text": " стихии. "
                     },
                     {
                         "color": "dark_purple",
                         "text": "Я могу свободно комбинировать"
                     },
                     {
-                        "text": " их, чтобы компенсировать слабости материала или усилить его сильные стороны. \n\nКонфликтующие аффинитеты внутри конструкта не имеют значения.\n\nТакже каждое очко аффинитета даёт конструкту ограниченный иммунитет к соответствующим типам повреждений, позволяя ему поглощать 1—2 сердца урона на каждое очко при атаке."
+                        "text": " их, чтобы компенсировать слабости материала или усилить его сильные стороны. \n\nКонфликтующие стихии внутри создания не имеют значения.\n\nТакже каждое очко стихии даёт созданию ограниченный иммунитет к соответствующим типам повреждений, позволяя ему поглощать от 1 до 2 сердец урона за каждое очко при атаке."
                     }
                 ],
                 "type": "text",
-                "value": "Как уже упоминалось, конструкты призываются с аффинитетом. Это влияет на их способности. Конструкт может иметь всего 8 очков аффинитета. Ниже приведены эффекты на каждое очко аффинитета. Вы можете свободно комбинировать их, чтобы компенсировать слабости материала или усилить его сильные стороны. Конфликтующие аффинитеты внутри конструкта не имеют значения."
+                "value": "Как уже упоминалось, создания призываются со стихией. Это влияет на их способности. Создание может иметь всего 8 очков стихии. Ниже приведены эффекты на каждое очко стихии. Вы можете свободно комбинировать их, чтобы компенсировать слабости материала или усилить его сильные стороны. Конфликтующие стихии внутри создания не имеют значения."
             },
             {
                 "json": [
@@ -225,10 +225,10 @@
                 "json": [
                     {
                         "color": "dark_purple",
-                        "text": "Конструкты могут плавать, если у них положительная плавучесть"
+                        "text": "Создания могут плавать, если у них положительная плавучесть"
                     },
                     {
-                        "text": ". Это определяется их материалами и аффинитетом. Я могу увидеть плавучесть конструкта, используя "
+                        "text": ". Это определяется их материалами и стихией. Я могу увидеть плавучесть создания, используя "
                     },
                     {
                         "color": "blue",
@@ -246,7 +246,7 @@
                     }
                 ],
                 "type": "text",
-                "value": "Конструкты могут плавать, если у них положительная плавучесть. Это определяется их материалами и аффинитетом. Вы можете увидеть их плавучесть, используя команду диагностики на колоколе призыва."
+                "value": "Создания могут плавать, если у них положительная плавучесть. Это определяется их материалами и стихией. Вы можете увидеть их плавучесть, используя команду диагностики на колоколе призыва."
             }
         ]
     },
@@ -256,7 +256,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Аффинитеты"
+                "value": "Стихии"
             },
             {
                 "json": [
@@ -265,7 +265,7 @@
                     },
                     {
                         "color": "blue",
-                        "text": "аффинитетами"
+                        "text": "стихиями"
                     },
                     {
                         "text": ":\n\n"
@@ -310,7 +310,7 @@
                         "text": "тайнам."
                     },
                     {
-                        "text": "\n\nКаждый аффинитет имеет противоположность, как я указал выше. Волшебники с высоким аффинитетом к определённому элементу могут "
+                        "text": "\n\nКаждая стихия имеет противоположность, как я указал выше. Чародеи с высокой стихией к определённому элементу могут "
                     },
                     {
                         "color": "dark_purple",
@@ -328,14 +328,14 @@
                     },
                     {
                         "color": "dark_purple",
-                        "text": "аналогичные трудности с элементами, противоположными их аффинитету"
+                        "text": "аналогичные трудности с элементами, противоположными их стихии"
                     },
                     {
                         "text": ".\n\nБаланс есть во всём, полагаю."
                     }
                 ],
                 "type": "text",
-                "value": "Когда вы исполняете заклинания, вы накапливаете так называемые аффинитеты. Существует шесть аффинитетов: воздух, земля, вода, огонь, эндер и тайны. Каждый аффинитет имеет противоположность.\n\nВоздух противоположен земле.\n\nВода противоположна огню.\n\nТайны противоположны эндеру.\n\nВысокий аффинитет уменьшает затраты маны на заклинания того же элемента (до 50% максимум) и увеличивает затраты маны на заклинания противоположного элемента.\n\nКроме того, вы быстрее набираете опыт использования компонентов, соответствующих вашему аффинитету."
+                "value": "Когда вы исполняете заклинания, вы накапливаете так называемые стихииы. Существует шесть стихий: воздух, земля, вода, огонь, эндер и тайны. Каждая стихия имеет противоположность.\n\nВоздух противоположен земле.\n\nВода противоположна огню.\n\nТайны противоположны эндеру.\n\nВысокая стихия уменьшает затраты маны на заклинания того же элемента (до 50% максимум) и увеличивает затраты маны на заклинания противоположного элемента.\n\nКроме того, вы быстрее набираете опыт использования компонентов, соответствующих вашей стихии."
             }
         ]
     },
@@ -351,7 +351,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Стол настройки аффинитета"
+                "value": "Стол настройки стихии"
             },
             {
                 "json": [
@@ -360,7 +360,7 @@
                     },
                     {
                         "color": "blue",
-                        "text": "Стол настройки аффинитета"
+                        "text": "Стол настройки стихии"
                     },
                     {
                         "text": " позволяет мне использовать умеренное количество "
@@ -381,14 +381,14 @@
                     },
                     {
                         "color": "dark_purple",
-                        "text": "изменения аффинитета заклинания"
+                        "text": "изменения стихии заклинания"
                     },
                     {
-                        "text": ", помещённого в стол, на новый выбранный аффинитет. \n\nНеобходимая древняя энергия соответствует аффинитету, который я хочу применить к заклинанию. Например, для молнии и льда требуется, соответственно, древняя энергия огня и воды. \n\nПреимущество состоит в том, что я могу специализировать свою магию, использовав свой собственный аффинитет с максимальной эффективностью. Как только процесс начался, я могу в любое время извлечь заклинание, но делать это следует с осторожностью, так как любой прогресс в изменении аффинитета заклинания будет утерян. \n\nДля достижения наилучших результатов следует оставлять заклинание на столе до завершения процесса."
+                        "text": ", помещённого в стол, на новую выбранную стихию. \n\nНеобходимая древняя энергия соответствует стихии, которую я хочу применить к заклинанию. Например, для молнии и льда требуется, соответственно, древняя энергия огня и воды. \n\nПреимущество состоит в том, что я могу специализировать свою магию, использовав свою собственную стихию с максимальной эффективностью. Как только процесс начался, я могу в любое время извлечь заклинание, но делать это следует с осторожностью, так как любой прогресс в изменении стихии заклинания будет утерян. \n\nДля достижения наилучших результатов следует оставлять заклинание на столе до завершения процесса."
                     }
                 ],
                 "type": "text",
-                "value": "The Affinity Tinker Table allows me to use a moderate amount of Eldrin Power (supplied by a conduit placed within range, about 6 blocks) to switch a spell placed within the table to a new affinity.  The Eldrin Power required matches the affinity I am attempting to change the spell to.  In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively.\n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed."
+                "value": "Стол настройки стихии позволяет мне использовать умеренное количество энергии Элдрина (подаваемой через проводник, расположенный в радиусе примерно 6 блоков), чтобы изменить стихию заклинания, помещённого в стол. Необходимое количество энергии Элдрина соответствует стихии, на которую я пытаюсь изменить заклинание. В случае с молнией и льдом, похоже, требуется энергия огня и воды соответственно.\n\nПреимущество в том, что я могу специализировать свою магию, используя собственную стихию с максимальной пользой.\n\nКак только процесс начался, я могу в любое время забрать заклинание, но должен делать это осторожно, ведь в противном случае весь прогресс в переносе стихии будет утерян. Для достижения наилучшего результата следует оставить заклинание в столе до завершения процесса."
             }
         ]
     },
@@ -408,37 +408,37 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Ritual of Alteration"
+                "value": "Ритуал изменения"
             },
             {
                 "json": [
                     {
-                        "text": "This ritual is used to "
+                        "text": "Этот ритуал используется для "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "add modifiers to spells"
+                        "text": "добавления модификаторов к заклинаниям,"
                     },
                     {
-                        "text": " I have already crafted. I will first need to craft a "
+                        "text": " которые я уже создал. Сначала мне нужно создать "
                     },
                     {
                         "color": "blue",
-                        "text": "Book of Alteration"
+                        "text": "книгу изменений"
                     },
                     {
-                        "text": ", and bookmark the modifier I want to add "
+                        "text": ", и отметить модификатор, который я хочу добавить "
                     },
                     {
                         "italic": true,
-                        "text": "(use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add)"
+                        "text": "(используйте её радиальное меню, для чего удерживая её в руке нажмите 'Z', чтобы выбрать модификатор)"
                     },
                     {
-                        "text": ". \n\nThen place the required items in the ritual and perform it to add the modifier to the spell. \n\nThis ritual will not allow me to bypass the 3 modifier limit on a spell. If I try to add more, the ritual will fail."
+                        "text": ". \n\nЗатем разместите необходимые предметы для ритуала и выполните его, чтобы добавить модификатор к заклинанию. \n\nЭтот ритуал не позволит мне превысить лимит в 3 модификатора на заклинание. Если я попытаюсь добавить больше, ритуал провалится."
                     }
                 ],
                 "type": "text",
-                "value": "This ritual is used to add modifiers to spells you have already crafted.  You will first need to craft a Book of Alteration, and use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add.  Then place the required items in the ritual and perform it to add the modifier to the spell.  You can only have 3 modifiers on a spell.  If you try to add more, the ritual will fail."
+                "value": "Этот ритуал используется для добавления модификаторов к заклинаниям, которые вы уже создали. Сначала вам нужно создать книгу изменений и использовать её радиальное меню (держите в руках и нажмите 'Z'), чтобы выбрать модификатор, который хотите добавить. Затем поместите необходимые предметы в ритуал и выполните его, чтобы добавить модификатор к заклинанию. Вы можете иметь только 3 модификатора на заклинание. Если попытаетесь добавить больше, ритуал провалится."
             }
         ]
     },
@@ -454,30 +454,30 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Amulet of the Battlemage"
+                "value": "Амулет боевого чародея"
             },
             {
                 "json": [
                     {
-                        "text": "This amulet, when worn, will "
+                        "text": "Когда этот амулет надет, он будет "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "increase the damage of my spells"
+                        "text": "увеличивать урон от моих заклинаний"
                     },
                     {
-                        "text": " by 30% while I have a "
+                        "text": " на 30%, пока в другой руке у меня есть "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "sword in the other hand and will increase my melee damage by more the lower my mana is"
+                        "text": "меч, и будет увеличивать мой урон в ближнем бою тем больше, чем меньше моя мана"
                     },
                     {
-                        "text": ", Because even wizards need to multiclass."
+                        "text": ", потому что даже магам нужно развивать несколько классов."
                     }
                 ],
                 "type": "text",
-                "value": "This amulet, when worn, will increase the damage of my spells cast by 15% while I have a sword in the other hand.\n\nBecause even wizards need to multiclass."
+                "value": "Этот амулет, когда он надет, увеличивает урон от моих заклинаний на 15%, если в другой руке у меня меч.\n\nПотому что даже волшебники должны уметь владеть несколькими классами."
             }
         ]
     },
@@ -493,16 +493,16 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Ritual of Ancient Stone"
+                "value": "Ритуал древнего камня"
             },
             {
                 "json": [
                     {
-                        "text": "This ritual coalesces the elements of earth and nature into an essence. \n"
+                        "text": "Этот ритуал объединяет элементы земли и природы в эссенцию. \n"
                     },
                     {
                         "color": "dark_purple",
-                        "text": "It can only be performed while far underground, where the deepslate resides."
+                        "text": "Его можно провести только глубоко под землёй, где лежит глубинный сланец."
                     }
                 ],
                 "type": "text",
@@ -522,7 +522,7 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Animated Quill"
+                "value": "Оживлённое перо"
             },
             {
                 "json": [
@@ -531,14 +531,14 @@
                     },
                     {
                         "color": "blue",
-                        "text": "Animated Quill"
+                        "text": "Оживлённое перо"
                     },
                     {
-                        "text": " doesn't do much on its own, but is used in several other recipes."
+                        "text": " само по себе мало на что способно, но используется во многих других рецептах."
                     }
                 ],
                 "type": "text",
-                "value": "The Animated Quill doesn't do much on its own, but is used in several other recipes."
+                "value": "Оживлённое перо само по себе мало на что способно, но используется во многих других рецептах."
             }
         ]
     },
@@ -554,30 +554,30 @@
         "sections": [
             {
                 "type": "title",
-                "value": "Antidote Bracelet"
+                "value": "Браслет-антидот"
             },
             {
                 "json": [
                     {
-                        "text": "This enchanted bracelet will "
+                        "text": "Этот зачарованный браслет будет "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "protect me from poison"
+                        "text": "защищать меня от яда"
                     },
                     {
-                        "text": ".\n\nIt only contains so much magic, and will eventually need to be recharged. It can make use of "
+                        "text": ".\n\nОн содержит ограниченное количество магии и со временем требует подзарядки. Для увеличения заряда можно использовать "
                     },
                     {
                         "color": "blue",
-                        "text": "Mana Crystal Fragments"
+                        "text": "фрагменты кристалла маны"
                     },
                     {
-                        "text": " and their upgrades that are in my pack to extend its charge."
+                        "text": " и их улучшения, которые находятся в моём рюкзаке."
                     }
                 ],
                 "type": "text",
-                "value": "This enchanted bracelet will protect me from the effects of poison.  It only contains so much magic, and will eventually break."
+                "value": "Этот зачарованный браслет защитит меня от эффектов яда. В нём ограничено количество магии, и со временем он разряжается."
             }
         ]
     },
@@ -1118,6 +1118,45 @@
             }
         ]
     },
+    "Aura of the Bulwark": {
+        "category": "enchantments",
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_i",
+                "type": "manaweaving_altar"
+            },
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_ii",
+                "type": "manaweaving_altar"
+            },
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_iii",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Aura of the Bulwark"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This aura will periodically drain a small amount of my mana in order to "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "apply an armor boosting effect to me and to those in close proximity to me"
+                    },
+                    {
+                        "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+                    }
+                ],
+                "type": "text",
+                "value": ""
+            }
+        ]
+    },
     "Aura Pilgrim": {
         "category": "enchantments",
         "related_recipes": [
@@ -1184,45 +1223,6 @@
                 ],
                 "type": "text",
                 "value": "This aura will periodically drain my mana in order to apply a movement speed increase to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
-            }
-        ]
-    },
-    "Aura of the Bulwark": {
-        "category": "enchantments",
-        "related_recipes": [
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_i",
-                "type": "manaweaving_altar"
-            },
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_ii",
-                "type": "manaweaving_altar"
-            },
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_iii",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Aura of the Bulwark"
-            },
-            {
-                "json": [
-                    {
-                        "text": "This aura will periodically drain a small amount of my mana in order to "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "apply an armor boosting effect to me and to those in close proximity to me"
-                    },
-                    {
-                        "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
-                    }
-                ],
-                "type": "text",
-                "value": ""
             }
         ]
     },
@@ -15490,114 +15490,6 @@
             }
         ]
     },
-    "HUD": {
-        "category": "basics",
-        "index": 1,
-        "related_recipes": [],
-        "sections": [
-            {
-                "type": "title",
-                "value": "HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "The main hud is the mana bar. In this you will see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "badge with your level"
-                    },
-                    {
-                        "text": " in it, a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "main bar representing your mana"
-                    },
-                    {
-                        "text": ", and a"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": " smaller bar below representing your magic XP"
-                    },
-                    {
-                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-                    }
-                ],
-                "type": "text",
-                "value": "The main hud is the mana bar. In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-            },
-            {
-                "type": "title",
-                "value": "Параметры отображения HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "If you can't see your HUD, you've likely changed this option!"
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_options.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "HUD Position Option"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_position.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "json": [
-                    {
-                        "text": "If you see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "red drop with a lightning bolt"
-                    },
-                    {
-                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
-                    }
-                ],
-                "newPage": true,
-                "type": "text",
-                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
-            },
-            {
-                "height": 26,
-                "location": "mna:textures/guide/low_charge.png",
-                "newPage": true,
-                "type": "image",
-                "width": 22
-            }
-        ]
-    },
     "Healing Poultice": {
         "category": "artifice",
         "index": 1,
@@ -15791,6 +15683,114 @@
                 ],
                 "type": "text",
                 "value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
+            }
+        ]
+    },
+    "HUD": {
+        "category": "basics",
+        "index": 1,
+        "related_recipes": [],
+        "sections": [
+            {
+                "type": "title",
+                "value": "HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "The main hud is the mana bar. In this you will see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "badge with your level"
+                    },
+                    {
+                        "text": " in it, a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "main bar representing your mana"
+                    },
+                    {
+                        "text": ", and a"
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": " smaller bar below representing your magic XP"
+                    },
+                    {
+                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+                    }
+                ],
+                "type": "text",
+                "value": "The main hud is the mana bar. In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+            },
+            {
+                "type": "title",
+                "value": "Параметры отображения HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "If you can't see your HUD, you've likely changed this option!"
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_options.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "HUD Position Option"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_position.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "json": [
+                    {
+                        "text": "If you see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "red drop with a lightning bolt"
+                    },
+                    {
+                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
+                    }
+                ],
+                "newPage": true,
+                "type": "text",
+                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
+            },
+            {
+                "height": 26,
+                "location": "mna:textures/guide/low_charge.png",
+                "newPage": true,
+                "type": "image",
+                "width": 22
             }
         ]
     },
@@ -16934,6 +16934,113 @@
             }
         ]
     },
+    "Mana and Regeneration": {
+        "category": "basics",
+        "index": 2,
+        "related_recipes": [
+            {
+                "location": "mna:clay_mug",
+                "type": "crafting"
+            },
+            {
+                "location": "mna:manaweaving/food/mana_coffee",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Мана, восстановление и ресурсы для заклинаний"
+            },
+            {
+                "json": [
+                    {
+                        "text": "When you perform several actions in the realms of magic, you will consume your "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "casting resource"
+                    },
+                    {
+                        "text": ".\n\nYou start with "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "mana"
+                    },
+                    {
+                        "text": ", but depending on faction choices your casting resource may change to something else such as "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "souls"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "brimstone"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "summer fire"
+                    },
+                    {
+                        "text": ", or "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "winter ice"
+                    },
+                    {
+                        "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "mana"
+                    },
+                    {
+                        "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+                    }
+                ],
+                "type": "text",
+                "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+            },
+            {
+                "json": [
+                    {
+                        "text": "There are items, such as Mana Tea or Potions, that can help "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "restore mana more quickly"
+                    },
+                    {
+                        "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
+                    }
+                ],
+                "type": "text",
+                "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly."
+            },
+            {
+                "json": [
+                    {
+                        "color": "blue",
+                        "text": "Mana potions"
+                    },
+                    {
+                        "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+                    }
+                ],
+                "type": "text",
+                "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+            }
+        ]
+    },
     "Mana Crystal": {
         "category": "artifice",
         "index": 1,
@@ -17058,113 +17165,6 @@
             }
         ]
     },
-    "Mana and Regeneration": {
-        "category": "basics",
-        "index": 2,
-        "related_recipes": [
-            {
-                "location": "mna:clay_mug",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:manaweaving/food/mana_coffee",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Мана, восстановление и ресурсы для заклинаний"
-            },
-            {
-                "json": [
-                    {
-                        "text": "When you perform several actions in the realms of magic, you will consume your "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "casting resource"
-                    },
-                    {
-                        "text": ".\n\nYou start with "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "mana"
-                    },
-                    {
-                        "text": ", but depending on faction choices your casting resource may change to something else such as "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "souls"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "brimstone"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "summer fire"
-                    },
-                    {
-                        "text": ", or "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "winter ice"
-                    },
-                    {
-                        "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "mana"
-                    },
-                    {
-                        "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
-                    }
-                ],
-                "type": "text",
-                "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
-            },
-            {
-                "json": [
-                    {
-                        "text": "There are items, such as Mana Tea or Potions, that can help "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "restore mana more quickly"
-                    },
-                    {
-                        "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
-                    }
-                ],
-                "type": "text",
-                "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly."
-            },
-            {
-                "json": [
-                    {
-                        "color": "blue",
-                        "text": "Mana potions"
-                    },
-                    {
-                        "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
-                    }
-                ],
-                "type": "text",
-                "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
-            }
-        ]
-    },
     "Manaweaving Altar": {
         "category": "manaweaving",
         "index": 3,
@@ -17257,7 +17257,7 @@
                 "json": [
                     {
                         "color": "blue",
-                        "text": "Manaweaving"
+                        "text": "Маноплетение"
                     },
                     {
                         "text": " is the process of infusing my own magic into my creations. Spells, rituals, runes, and more can make use of it."
@@ -20202,7 +20202,7 @@
             },
             {
                 "type": "title",
-                "value": "Manaweaving"
+                "value": "Маноплетение"
             },
             {
                 "json": [
@@ -24927,6 +24927,7 @@
             }
         ]
     },
+    "version": "2.0.0.1",
     "Visiting": {
         "category": "rituals",
         "index": 0,
@@ -25269,7 +25270,6 @@
             }
         ]
     },
-    "version": "2.0.0.1",
     "Как продвигаться": {
         "category": "basics",
         "index": 3,

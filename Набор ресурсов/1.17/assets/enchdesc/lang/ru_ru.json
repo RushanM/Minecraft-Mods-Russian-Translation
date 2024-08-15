@@ -1,7 +1,7 @@
 {
 	"enchantment.minecraft.protection.desc": "Уменьшает урон от большинства факторов",
 	"enchantment.minecraft.fire_protection.desc": "Уменьшает последствия урона от огня. Также уменьшает время горения при поджигании",
-	"enchantment.minecraft.feather_falling.desc": "Уменьшает урон от падения и урон от телепортации при помощи жемчуга Эндера",
+	"enchantment.minecraft.feather_falling.desc": "Уменьшает урон от падения и урон от телепортации при помощи эндер-жемчуга",
 	"enchantment.minecraft.blast_protection.desc": "Уменьшает урон и отдачу от взрывов",
 	"enchantment.minecraft.projectile_protection.desc": "Уменьшает урон от таких снарядов, как стрелы и огненные шары",
 	"enchantment.minecraft.respiration.desc": "Увеличивает время, которое игрок может провести под водой. Также улучшает видимость под водой.",

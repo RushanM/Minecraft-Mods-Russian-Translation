@@ -37,21 +37,29 @@
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ |
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус. | ⬛ |
 | [Absent by Design](https://modrinth.com/mod/absent-by-design) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
+| [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 |
 | [Additional Additions](https://modrinth.com/mod/addadd) | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус.<br>✅ Тат. | ✅ Рус.<br>✅ Тат. | ✅ Рус. | 🟥 |
 | [Adorn](https://modrinth.com/mod/adorn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Advancement Frames](https://modrinth.com/mod/advancement-frames) | 🟥 | 🟥 | ✅ Рус. | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 |
 | [Adventure Backpack](https://www.curseforge.com/minecraft/mc-mods/adventure-backpack) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Aerlune RPG](https://www.curseforge.com/minecraft/mc-mods/aerlune-rpg) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [AgriCraft](https://modrinth.com/mod/agricraft) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| ⬛ | ✅ Рус. | ✅ Рус. | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
+| [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
+| [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) | 🟥 | 🟥 | ✅ Рус. | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 |
+| [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
+| [Ancient Warfare 2](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Ancient Warfare Legacy](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-legacy) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Animatica](https://modrinth.com/mod/animatica) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [AnimaticaReforged](https://modrinth.com/mod/animaticareforged) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ⬛ | 🟥 | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | 🟥 |
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers) | ✅ Рус. | ✅ Рус. | ⬛ | ⬛ | ✅ Рус. | ⬛ | ✅ Рус. | ⬛ |
 | [ArmorStatusHUD](https://www.curseforge.com/minecraft/mc-mods/armorstatushud) | ✅ Рус. | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| [AromaBackup](https://www.curseforge.com/minecraft/mc-mods/aromabackup) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Artifacts](https://modrinth.com/mod/artifacts) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛ |
 | [Auto Workstations](https://modrinth.com/mod/auto-workstations) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 |
@@ -62,6 +70,7 @@
 | [Baubles 2](https://modrinth.com/mod/baubles-2) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. |
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | ⬛ | ⬛
 | [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/better-dungeons) | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| [Better Loading Screen GTNH](https://github.com/GTNewHorizons/BetterLoadingScreen) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥
 | [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ✅ Рус. | ⬛
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | ⬛
@@ -168,7 +177,7 @@
 | [ModernFix](https://modrinth.com/mod/modernfix) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Monazite (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/monazite) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
-| [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Nature's Aura](https://modrinth.com/mod/natures-aura) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [NEEPMeat](https://modrinth.com/mod/neepmeat) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
@@ -283,7 +292,7 @@
 
 Примеры:
 
-* 1.21-B1 — это бета-версия №1 для Minecraft 1.21
+* 1.21-B1 — это бета-версия №1 для Minecraft 1.21—1.21.1
 * 1.20-5 — это релизная версия №5 для Minecraft 1.20—1.20.6
 
 ### 📋 Порядок
