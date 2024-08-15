@@ -8,21 +8,36 @@
 <summary>Раскрыть список</summary>
 <br>
 
-| Версия игры | Идентификатор | Мод | Версия мода | Статус перевода |
+| Версия игры | Статус перевода | Идентификатор | Мод | Версия мода |
 | - | - | - | - | - |
-| 1.7 | adventurebackpack | Adventure Backpack | Beta-0.8c | Переведён |
-| 1.7 | aether | The Aether II | Festive Update - 1.6 | Переведён |
-| 1.7 | aether_legacy | The Aether | 1.1.2.3 | Не готов |
-| 1.7 | agricraft | AgriCraft | 1.5 | Не готов |
-| 1.7 | aromabackup | AromaBackup | 0.1.0 | Переведён |
-| 1.7 | aromabackuprecovery | AromaBackup | 0.1.0 | Переведён |
-| 1.7 | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 | Переведён |
+| 1.7 | Не готов | aether_legacy | The Aether | 1.1.2.3 |
+| 1.7 | Не готов | agricraft | AgriCraft | 1.5 |
+| 1.7 | Переведён | adventurebackpack | Adventure Backpack | Beta-0.8c |
+| 1.7 | Переведён | aether | The Aether II | Festive Update - 1.6 |
+| 1.7 | Переведён | aromabackup | AromaBackup | 0.1.0 |
+| 1.7 | Переведён | aromabackuprecovery | AromaBackup | 0.1.0 |
+| 1.7 | Переведён | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 |
 | 1.7 | ... | ... | ... | ... |
-| 1.12 | aiotbotania | AIOT Botania | 0.7.1 | Переведён |
-| 1.12 | aqua_creepers | Aqua Creepers! | 1.2.3 | Переведён |
-| 1.12 | cfm | MrCrayfish's Furniture Mod (Legacy) | 6.3.2 | Не готов |
-| 1.12 | mod_lavacow | Fish's Undead Rising | 1.4.2 | Не готов |
-| ... | ... | ... | ... | ... |
+| 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod (Legacy) | 6.3.2 |
+| 1.12 | Не готов | mod_lavacow | Fish's Undead Rising | 1.4.2 |
+| 1.12 | Переведён | aiotbotania | AIOT Botania | 0.7.1 |
+| 1.12 | Переведён | aqua_creepers | Aqua Creepers! | 1.2.3 |
+| 1.12 | ... | ... | ... | ... |
+| 1.16 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 1.1 |
+| 1.16 | Переведён | advancementframes | Advancement Frames | 1.0.5 |
+| 1.16 | ... | ... | ... | ... |
+| 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
+| 1.17 | ... | ... | ... | ... |
+| 1.18 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 3.1 |
+| 1.18 | Переведён | advancementframes | Advancement Frames | 1.1.1 |
+| 1.18 | Переведён | alexsdelight | Alex's Delights | 1.2 |
+| 1.18 | ... | ... | ... | ... |
+| 1.19 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 4.1.1 |
+| 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
+| 1.19 | ... | ... | ... | ... |
+| 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
+| 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
+| 1.20 | ... | ... | ... | ... |
 
 </details>
 
