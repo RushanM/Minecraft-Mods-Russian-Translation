@@ -477,7 +477,7 @@ fancymenu.config.splashrotation.desc = Установит поворот для 
 fancymenu.config.splashx.desc = Установит горизонтальное положение текста заставки,%n%используя его ориентацию%n%в качестве исходной точки (X:0 Y:0).
 fancymenu.config.splashy.desc = Установит вертикальное положение текста заставки,%n%используя его ориентацию%n%в качестве исходной точки (X:0 Y:0).
 
-fancymenu.config.gameintroanimation.desc = Укажиет анимацию по имени, которое вы%n%дали анимации в ее свойствах,%n%которая должна воспроизводиться как вступление, прежде чем%n%вы увидите главное меню%n%в первый раз.%n%(Как и все классные игры)
+fancymenu.config.gameintroanimation.desc = Укажите анимацию по имени, которое вы%n%дали анимации в её свойствах,%n%которая должна воспроизводиться как вступление, прежде чем%n%вы увидите главное меню%n%в первый раз.%n%(Как и все классные игры)
 fancymenu.config.loadingscreendarkmode.desc = Включит темный режим экрана загрузки.
 fancymenu.config.showanimationloadingstatus.desc = При включении экран загрузки анимации%n%будет отображать подробную%n%информацию о процессе загрузки.
 fancymenu.config.allowgameintroskip.desc = Если пользователь может пропустить вступление к игре,%n%нажав SPACE, или нет.
@@ -842,7 +842,7 @@ helper.creator.custombutton.config.actiontype.mimicbutton.desc.value.example = s
 fancymenu.custombutton.action.mimicbutton.unabletoexecute = §c§lError!%n%%n%Не удается выполнить действие кнопки!%n%%n%Неверный локатор кнопки или не удается%n%открыть родительский экран кнопки.%n% %n% %n% %n%
 
 fancymenu.helper.ui.dynamicvariabletextfield.variables.vanillabuttonlabel = Кнопка текста Vanilla
-fancymenu.helper.ui.dynamicvariabletextfield.variables.vanillabuttonlabel.desc = Получить текст кнопки vanilla.%n%%n%Заменить 'some.menu.identifier:505280'%n%на правильный локатор%n%целевой кнопки.%n%%n%Указатель кнопки представляет собой комбинацию%n%идентификатора меню,%n%в котором находится кнопка, и%n%идентификатора кнопки, разделенных%n%двоеточием.%n%%n%§cВы можете щелкнуть правой кнопкой мыши на кнопке%n%§cв редакторе, чтобы скопировать ее локатор.
+fancymenu.helper.ui.dynamicvariabletextfield.variables.vanillabuttonlabel.desc = Получить текст кнопки vanilla.%n%%n%Заменить 'some.menu.identifier:505280'%n%на правильный локатор%n%целевой кнопки.%n%%n%Указатель кнопки представляет собой комбинацию%n%идентификатора меню,%n%в котором находится кнопка, и%n%идентификатора кнопки, разделенных%n%двоеточием.%n%%n%§cВы можете щелкнуть правой кнопкой мыши на кнопке%n%§cв редакторе, чтобы скопировать её локатор.
 
 fancymenu.helper.editor.windowsizerestrictions.reset = Сбросить ограничения по размеру окна
 fancymenu.helper.editor.windowsizerestrictions.reset.btn.desc = Сбросить/удалить все ограничения по размеру окна.
@@ -1038,7 +1038,7 @@ fancymenu.commands.variable.set.success = §a[FancyMenu] Значение пер
 fancymenu.commands.variable.not_found = §c[FancyMenu] Переменная не найдена!
 
 fancymenu.helper.editor.items.vanilla_button.copy_locator = Локатор кнопок копирования
-fancymenu.helper.editor.items.vanilla_button.copy_locator.desc = Указатель кнопок представляет собой комбинацию%n%идентификатора меню, частью которого является эта кнопка,%n%и идентификатора ее кнопки.%n%%n%Локатор кнопок используется для%n%действий с кнопками, таких как §o'mimicbutton'§r.
+fancymenu.helper.editor.items.vanilla_button.copy_locator.desc = Указатель кнопок представляет собой комбинацию%n%идентификатора меню, частью которого является эта кнопка,%n%и идентификатора её кнопки.%n%%n%Локатор кнопок используется для%n%действий с кнопками, таких как §o'mimicbutton'§r.
 
 fancymenu.helper.button_info.copy_locator = §lЩЕЛКНИТЕ ПРАВОЙ КНОПКОЙ МЫШИ, ЧТОБЫ СКОПИРОВАТЬ ЛОКАТОР КНОПОК!
 fancymenu.helper.button_info.copy_locator.copied = §a§lЛОКАТОР КНОПОК СКОПИРОВАН В БУФЕР ОБМЕНА!

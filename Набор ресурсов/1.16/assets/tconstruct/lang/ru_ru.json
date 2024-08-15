@@ -1,8 +1,4 @@
 {
-  "__comment": "Ore Metals",
-  "_comment": "Tinkers Common",
-  "_conment": "Tool Descriptions",
-  "_translators_comment": "Translated by Bytegm, DrHesperus, MuTBu",
   "advancements.tconstruct.foundry.alloyer.description": "Создайте базовую установку для смешивания, используя сплавщик, топливный резервуар, несколько резервуаров для слитков, литейный стол, литейный резервуар и кран.",
   "advancements.tconstruct.foundry.alloyer.title": "Базовый сплавщик",
   "advancements.tconstruct.foundry.blaze.description": "Наполните резервуар огненной кровью",

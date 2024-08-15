@@ -685,7 +685,7 @@
   "jm.waypoint.auto_deathpoint_remove_distance": "Auto Remove Death Waypoint Distance",
   "jm.waypoint.auto_deathpoint_remove_distance.tooltip": "The distance which the death waypoint is removed, minimum 2 or it will get removed when created.",
   "jm.waypoint.auto_hide_label": "Скрывать не в фокусе",
-  "jm.waypoint.auto_hide_label.tooltip": "Скрывать надпись метки, если ее нет в направлении взгляда.",
+  "jm.waypoint.auto_hide_label.tooltip": "Скрывать надпись метки, если её нет в направлении взгляда.",
   "jm.waypoint.auto_remove_deathpoints": "Auto Remove Death Waypoints",
   "jm.waypoint.auto_remove_deathpoints.tooltip": "Automatically removes death waypoints as you approach them",
   "jm.waypoint.blue_abbreviated": "B",

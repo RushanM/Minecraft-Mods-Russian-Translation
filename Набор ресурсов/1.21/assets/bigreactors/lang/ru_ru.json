@@ -187,7 +187,7 @@
     "gui.bigreactors.reactor.controller.casingheatbar.tooltip.body": "Тепло корпуса реактора. Высокая температура увеличивает выработку энергии и превращение охлаждающей жидкости.",
     "gui.bigreactors.reactor.controller.casingheatbar.tooltip.title": "Тепло корпуса",
     "gui.bigreactors.reactor.controller.casingheatbar.tooltip.value": "  @0",
-    "gui.bigreactors.reactor.controller.coolantbar.tooltip.body": "Тепло корпуса будет перегревать охлаждающую жидкость в баке и превращать ее в пар.",
+    "gui.bigreactors.reactor.controller.coolantbar.tooltip.body": "Тепло корпуса будет перегревать охлаждающую жидкость в баке и превращать её в пар.",
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.title": "Бак охлаждающей жидкости",
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.value1": "  @0",
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.value2a": "  @1",

@@ -4,7 +4,7 @@
 		
 "itemGroup.mcwroofs.roofs": "Крыши Macaw",      
 
-"mcwroofs.hammer.desc": "Щелкните ПКМ по верхней части крыши, чтобы переключить состояния",
+"mcwroofs.hammer.desc": "Нажмите ПКМ по верхней части крыши, чтобы переключить состояния",
 "mcwroofs.roofitem.desc": "Ингредиент для крафта",
 
 "block.mcwroofs.oak_roof":"Дубовая крыша",

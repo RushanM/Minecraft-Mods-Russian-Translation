@@ -174,7 +174,7 @@ agricraft_tooltip.closed=Закрыто
 agricraft_tooltip.open=Открыто
 agricraft_tooltip.state=Состояние
 agricraft_tooltip.empty=Нет посаженных семян
-agricraft_tooltip.clipper1=Щелкните ПКМ на культуре, чтобы получить вырезок
+agricraft_tooltip.clipper1=Нажмите ПКМ на культуре, чтобы получить вырезок
 agricraft_tooltip.clipper2=Вырезки могут быть посажены на другие культуры
 agricraft_tooltip.clipper3=Успех посадки основан на силе
 
