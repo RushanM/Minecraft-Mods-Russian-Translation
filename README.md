@@ -25,18 +25,24 @@
 | 1.12 | ... | ... | ... | ... |
 | 1.16 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 1.1 |
 | 1.16 | Переведён | advancementframes | Advancement Frames | 1.0.5 |
+| 1.16 | Переведён | alexsdelight | Alex's Delights | 1.0 |
+| 1.16 | Переведён | amfd | Alex's Delight | 1.1.3 |
 | 1.16 | ... | ... | ... | ... |
 | 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
+| 1.17 | Переведён | alexsdelight | Alex's Delights | 1.1 |
 | 1.17 | ... | ... | ... | ... |
 | 1.18 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 3.1 |
 | 1.18 | Переведён | advancementframes | Advancement Frames | 1.1.1 |
+| 1.18 | Переведён | alexsdelight | Alex's Delight | 1.3.3 |
 | 1.18 | Переведён | alexsdelight | Alex's Delights | 1.2 |
 | 1.18 | ... | ... | ... | ... |
 | 1.19 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 4.1.1 |
 | 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
+| 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
 | 1.19 | ... | ... | ... | ... |
 | 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
+| 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
 | 1.20 | ... | ... | ... | ... |
 
 </details>
