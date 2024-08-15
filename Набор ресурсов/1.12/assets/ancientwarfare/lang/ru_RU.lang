@@ -1,24 +1,25 @@
-# Настройки
+# config stuff
 
 awconfig.mod_name=Ancient Warfare
 awconfig.config_name=Клиентские настройки
-awconfig.core_keybinds=Основные горячие клавиши
-awconfig.core_keybinds.tooltip=Горячие клавиши основного модуля
+awconfig.core_keybinds=Назначения клавиш
+awconfig.core_keybinds.tooltip=Назначения клавиш для основного модуля
 awconfig.automation_config=Настройки модуля автоматизации
 awconfig.automation_config.tooltip=Клиентские настройки для модуля автоматизации
-awconfig.npc_config=Настройки модуля NPC
-awconfig.npc_config.tooltip=Клиентские настройки для модуля NPC
+awconfig.npc_config=Настройки модуля НПС
+awconfig.npc_config.tooltip=Клиентские настройки для модуля НПС
+awconfig.keybind.toggle_workbounds_render=Переключение рендера рабочих панелей
 
-# Вкладки
+# items
 
-itemGroup.tabs.awcore=Ancient Warfare: Ядро
-itemGroup.tabs.structures=Ancient Warfare: Структуры
-itemGroup.tabs.editor=Ancient Warfare: Редактор моделей
-itemGroup.tabs.automation=Ancient Warfare: Автоматизация
-itemGroup.tabs.npc=Ancient Warfare: NPC
-itemGroup.tabs.vehicles=Ancient Warfare: Транспорт
+itemGroup.tabs.awcore=Ancient Warfare основной модуль
+itemGroup.tabs.structures=Ancient Warfare структуры
+itemGroup.tabs.editor=Ancient Warfare редактор моделей
+itemGroup.tabs.automation=Ancient Warfare автоматизация
+itemGroup.tabs.npc=Ancient Warfare существа
+itemGroup.tabs.vehicles=Ancient Warfare транспорт
 
-# Предметы
+# core
 
 item.research_book.name=Книга исследований
 item.wooden_hammer.name=Деревянный молот
@@ -26,23 +27,23 @@ item.stone_hammer.name=Каменный молот
 item.iron_hammer.name=Железный молот
 item.gold_hammer.name=Золотой молот
 item.diamond_hammer.name=Алмазный молот
-item.wooden_quill.name=Деревянное перо
-item.stone_quill.name=Каменное перо
-item.iron_quill.name=Железное перо
-item.gold_quill.name=Золотое перо
-item.diamond_quill.name=Алмазное перо
-item.research_note.name=Исследовательская записка
+item.wooden_quill.name=Деревянное птичье перо
+item.stone_quill.name=Каменное птичье перо
+item.iron_quill.name=Железное птичье перо
+item.gold_quill.name=Золотое птичье перо
+item.diamond_quill.name=Алмазное птичье перо
+item.research_note.name=Исследовательские записи
 item.backpack.0.name=Маленький рюкзак
 item.backpack.1.name=Рюкзак путешественника
 item.backpack.2.name=Средний рюкзак
 item.backpack.3.name=Большой рюкзак
 item.steel_ingot.name=Стальной слиток
 
-# Компонент (общий)
+# component (shared)
 
-item.component.0.name=Комплект деревянных шестерён
-item.component.1.name=Комплект железных шестерён
-item.component.2.name=Комплект стальных шестерён
+item.component.0.name=Комплект деревянных шестерен
+item.component.1.name=Комплект железных шестерен
+item.component.2.name=Комплект стальных шестерен
 item.component.3.name=Комплект деревянных втулок
 item.component.4.name=Комплект железных втулок
 item.component.5.name=Комплект стальных втулок
@@ -51,36 +52,36 @@ item.component.7.name=Железный крутящий вал
 item.component.8.name=Стальной крутящий вал
 item.component.100.name=Продуктовый набор
 
-# Редактор моделей
+# modeler
 
 item.editor_opener.name=Редактор моделей
 
-# Структуры
+# structure
 
-item.structure_scanner.name=Сканер структур
-item.structure_builder.name=Конструктор структур
+item.structure_scanner.name=Сканер зданий
+item.structure_builder.name=Конструктор зданий
 item.spawner_placer.name=Инструмент размещения рассадника монстров
 item.construction_tool.name=Строительный инструмент
-item.construction_tool_lakes.name=Инструмент для создания озёр
+item.construction_tool_lakes.name=Создание озера
 item.block_info_clicker.name=Инструмент информации о блоке
 item.town_builder.name=Инструмент мгновенной постройки города
-item.structure_builder_world_gen.name=Конструктор структур
+item.structure_builder_world_gen.name=Конструктор зданий
 
-# Автоматизация
+# automation
 
-item.worksite_upgrade.0.name=Улучшение границ до средних
-item.worksite_upgrade.1.name=Улучшение границ до больших
-item.worksite_upgrade.2.name=Улучшение карьера до среднего размера
-item.worksite_upgrade.3.name=Улучшение карьера до большого размера
-item.worksite_upgrade.4.name=Улучшение слабо зачарованных инструментов
-item.worksite_upgrade.5.name=Улучшение сильно зачарованных инструментов
-item.worksite_upgrade.6.name=Улучшение качества инструментов до базового уровня
-item.worksite_upgrade.7.name=Улучшение качества инструментов до среднего уровня
-item.worksite_upgrade.8.name=Улучшение качества инструментов до продвинутого уровня
-item.worksite_upgrade.9.name=Базовое улучшение загрузчика чанков
-item.worksite_upgrade.10.name=Улучшение загрузчика чанков для карьера
+item.worksite_upgrade.0.name=Улучшение - средняя ферма
+item.worksite_upgrade.1.name=Улучшение - большая ферма
+item.worksite_upgrade.2.name=Улучшение - средняя каменоломня
+item.worksite_upgrade.3.name=Улучшение - большая каменоломня
+item.worksite_upgrade.4.name=Улучшение - простое зачарование инструментов
+item.worksite_upgrade.5.name=Улучшение - усиленное зачарование инструментов
+item.worksite_upgrade.6.name=Улучшение - базовое качество инструментов
+item.worksite_upgrade.7.name=Улучшение - среднее качество инструментов
+item.worksite_upgrade.8.name=Улучшение - продвинутое качество инструмента
+item.worksite_upgrade.9.name=Улучшение - загрузчик чанков для ферм
+item.worksite_upgrade.10.name=Улучшение - загрузчик чанков для каменоломни
 
-# NPC
+# npc
 
 item.work_order.name=Рабочие приказы
 item.upkeep_order.name=Приказы установки точки содержания
@@ -111,7 +112,7 @@ entity.AncientWarfareNpc.worker.lumberjack.name=Дровосек
 entity.AncientWarfareNpc.worker.miner.name=Шахтёр
 entity.AncientWarfareNpc.worker.researcher.name=Исследователь
 entity.AncientWarfareNpc.worker.craftsman.name=Ремесленник
-entity.AncientWarfareNpc.combat.name=Боевой NPC
+entity.AncientWarfareNpc.combat.name=Боевой НПС
 entity.AncientWarfareNpc.combat.soldier.name=Воин
 entity.AncientWarfareNpc.combat.archer.name=Лучник
 entity.AncientWarfareNpc.combat.medic.name=Лекарь
@@ -127,61 +128,63 @@ entity.AncientWarfareNpc.combat.commander.name=Командир
 tile.engineering_station.0.name=Инженерная станция
 tile.research_station.0.name=Исследовательская станция
 
-# automation
+#automation
 
-tile.civic_auto_crafting.0.name=Автоматический верстак
-tile.civic_quarry.name=Каменоломня
-tile.civic_forestry.name=Лесопилка
-tile.civic_crop_farm.name=Ферма семян
-tile.civic_mushroom_farm.name=Грибная ферма
-tile.civic_animal_farm.name=Ферма животных
-tile.civic_fish_farm.name=Рыбная ферма
-tile.civic_reed_farm.name=Ферма сахарного тростника
-tile.civic_warehouse.name=Блок управления складом
+tile.auto_crafting.0.name=Автоматический верстак
+tile.quarry.name=Каменоломня
+tile.tree_farm.name=Лесопилка
+tile.crop_farm.name=Ферма семян
+tile.mushroom_farm.name=Грибная ферма
+tile.animal_farm.name=Ферма животных
+tile.fish_farm.name=Рыбная ферма
+tile.reed_farm.name=Ферма сахарного тростника
+tile.warehouse_control.name=Блок управления складом
 tile.warehouse_storage.0.name=Маленький склад
 tile.warehouse_storage.1.name=Средний склад
 tile.warehouse_storage.2.name=Большой склад
 tile.warehouse_interface.name=Складской интерфейс
-tile.warehouse_crafting_station.name=Станция производства складов
+tile.warehouse_crafting.name=Станция производства складов
 tile.warehouse_stock_viewer.name=Складской просмотрщик запаса
 tile.mailbox.name=Почтовый ящик
 tile.flywheel_controller.0.name=Маленький маховиковый стабилизатор
 tile.flywheel_controller.1.name=Обычный маховиковый стабилизатор
-tile.flywheel_controller.2.name=Тяжёлый маховиковый стабилизатор
+tile.flywheel_controller.2.name=Тяжелый маховиковый стабилизатор
 tile.flywheel_storage.0.name=Маленький маховиковый накопитель энергии
 tile.flywheel_storage.1.name=Обычный маховиковый накопитель энергии
-tile.flywheel_storage.2.name=Тяжёлый маховиковый накопитель энергии
-tile.torque_conduit.0.name=Маленький узловой вал
-tile.torque_conduit.1.name=Обычный узловой вал
-tile.torque_conduit.2.name=Тяжёлый узловой вал
+tile.flywheel_storage.2.name=Тяжелый маховиковый накопитель энергии
+tile.torque_junction.0.name=Маленький узловой вал
+tile.torque_junction.1.name=Обычный узловой вал
+tile.torque_junction.2.name=Тяжелый узловой вал
 tile.torque_distributor.0.name=Маленький распределительный вал
 tile.torque_distributor.1.name=Обычный распределительный вал
-tile.torque_distributor.2.name=Тяжёлый распределительный вал
-tile.torque_generator_sterling.0.name=Стерлинговый генератор
-tile.torque_generator_waterwheel.0.name=Генератор водяного колеса
+tile.torque_distributor.2.name=Тяжелый распределительный вал
+tile.stirling_generator.0.name=Стерлинговый генератор
+tile.waterwheel_generator.0.name=Генератор водяного колеса
 tile.torque_shaft.0.name=Маленький вал
 tile.torque_shaft.1.name=Обычный вал
-tile.torque_shaft.2.name=Тяжёлый вал
-tile.hand_cranked_engine.0.name=Ручной генератор
+tile.torque_shaft.2.name=Тяжелый вал
+tile.hand_cranked_generator.0.name=Ручной генератор
 tile.chunk_loader_simple.name=Простой загрузчик чанков
 tile.chunk_loader_deluxe.name=Продвинутый загрузчик чанков
-tile.windmill_control.0.name=Регулятор ветряной мельницы
+tile.windmill_generator.0.name=Регулятор ветряной мельницы
 tile.windmill_blade.name=Лопасть ветряной мельницы
 tile.sound_block.name=Продвинутый нотный блок
 #structure
 tile.advanced_spawner.name=Продвинутый спаунер существ
 tile.drafting_station.name=Чертёжная станция
 tile.structure_builder_ticked.name=Конструктор зданий
-tile.gate_proxy.name=Врата
-
-# npc
-
+tile.gate_proxy.name=Gate Proxy Block
+#npc
 tile.town_hall.name=Ратуша
 tile.recruiting_station.name=Станция вербовки
+tile.headquarters.name=Штаб-квартира
+tile.teleport_hub.name=Телепортационный узел
+tile.teleport_hub.tooltip.1=Для администраторов и создателей карт для установки телепорта.
+tile.teleport_hub.tooltip.2=Телепортация осуществляется
+tile.teleport_hub.tooltip.3=между пользвательскими штаб-квартирами и этим.
 #vehicle
 
-# guistrings
-
+#guistrings
 guistrings.volume=Громкость
 guistrings.length=Длительность
 guistrings.random=Случайно
@@ -244,7 +247,13 @@ guistrings.for=Для
 guistrings.min=Мин.
 guistrings.max=Макс.
 guistrings.dmg=Урон
+guistrings.dmg.tooltip=Повреждение предмета используется для определения долговечности предмета, например - повреждение меча. Некоторые моды могут использовать его для определения «суммы» на упрощенном уровне.
+guistrings.dmg.tooltipprefix.enabled=Фильтр повреждений ВКЛЮЧЁН. Стаки предметов должны соответствовать значению урона.\n\n
+guistrings.dmg.tooltipprefix.disabled=Фильтр повреждений ВЫКЛЮЧЁН. Стаки предметов с разными значениями урона не будут отфильтрованы.\n\n
 guistrings.tag=Метка
+guistrings.tag.tooltip=Метки - это подробная информация, добавленная к предмету. Это могут быть модификации, чары или тип / количество жидкости в баке.
+guistrings.tag.tooltipprefix.enabled=Фильтр данных меток ВКЛЮЧЁН. Стаки элементов должны соответствовать данным метки.\n\n
+guistrings.tag.tooltipprefix.disabled=Фильтр данных меток ВЫКЛЮЧЁН. Стаки элементов с разными данными меток не будут отфильтрованы.\n\n
 guistrings.wanted=Требуется
 guistrings.input=Имеется
 guistrings.output=Результат
@@ -298,7 +307,7 @@ guistrings.spawner.custom_tag_tip=Метки добавляются после �
 guistrings.spawner.add_custom_tag=Добавить пользовательскую метку
 guistrings.spawner.custom_data=Пользовательские параметры (опционально)
 guistrings.spawner.custom_data_tip0=Параметры устанавливаются после спауна. Без предупреждений в случае ошибки.
-guistrings.spawner.custom_data_tip1=Значение (тип, виды и т. д.). Эффект основан по ID. Ограничения основаны по типу.
+guistrings.spawner.custom_data_tip1=Значение (тип, виды и т.д.). Эффект основан по ID. Ограничения основаны по типу.
 guistrings.spawner.custom_data_tip2=ID (лимит - 31). Каждый новый должен отличаться от ID стандартного существа
 guistrings.spawner.custom_data_tip3=Тип значения (число, текст, предмет); на основе существа
 guistrings.spawner.add_custom_data=Добавить пользовательские параметры
@@ -311,9 +320,9 @@ guistrings.structure.no_selection=Здание не выбрано
 guistrings.structure.structure_name=Название структуры
 guistrings.structure.scanner.too_far=Вы слишком далеко от выбранной постройки, подойдите поближе
 guistrings.structure.scanner.click_to_process=Нажмите ПКМ для начала сканирования
-guistrings.structure.scanner.select_first_pos=%s : выбрать первую позицию
-guistrings.structure.scanner.select_second_pos=%s : выбрать вторую позицию
-guistrings.structure.scanner.select_offset=%s : выбрать смещение/направление
+guistrings.structure.scanner.select_first_pos=%s : Выбрать первую позицию
+guistrings.structure.scanner.select_second_pos=%s : Выбрать вторую позицию
+guistrings.structure.scanner.select_offset=%s : Выбрать смещение/направление
 guistrings.structure.scanner.set_first_pos=Выбрана первая позиция (1/4)
 guistrings.structure.scanner.set_second_pos=Выбрана вторая позиция (2/4)
 guistrings.structure.scanner.set_offset_pos=Смещение/направление выбрано, нажмите ПКМ для начала сканирования (3/4)
@@ -344,6 +353,7 @@ guistrings.inventory.direction.south=С юга
 guistrings.inventory.direction.west=С запада
 guistrings.inventory.direction.east=С востока
 guistrings.inventory.direction.unknown=Неизвестно
+guistrings.inventory.direction.*.tooltip=Какая «сторона» инвентаря задействована. В некоторых блоках есть несколько хранилищ, к которым обращаются через определённые стороны.
 guistrings.inventory.settargets=Установить целевые задания
 guistrings.gate.use_error=Вы не можете взаимодействовать с вражескими воротами.
 guistrings.gate.set_pos_one=Выбрана первая позиция
@@ -359,9 +369,12 @@ guistrings.npc.trades=Сделки
 guistrings.npc.route=Маршрут
 guistrings.npc.restock=Пополнять запасы
 guistrings.warehouse.storage=Хранится: %d / %d
+guistrings.moveup=▲
+guistrings.moveup.tooltip=Переместить вверх
+guistrings.movedown=▼
+guistrings.movedown.tooltip=Переместить вниз
 
-# automation
-
+#automation
 guistrings.automation.ignore_damage=Игнор. урон
 guistrings.automation.ignore_nbt=Игнор. NBT
 guistrings.automation.item=Предмет
@@ -405,8 +418,7 @@ guistrings.automation.torque.values=Хранится | Ввод | Вывод | �
 guistrings.inventory.front=Ресурсы
 guistrings.inventory.bottom=Специальные ресурсы
 
-# npc localization
-
+#npc localization
 guistrings.npc.remove_upkeep_point=Удалить
 guistrings.npc.side_change=Сторона
 guistrings.npc.upkeep_time=Время ( интервал ) содержания
@@ -421,16 +433,21 @@ guistrings.npc.work_shift.day=Дневная смена
 guistrings.npc.work_shift.night=Ночная смена
 guistrings.npc.commanded=Управление:
 guistrings.npc.target=Цель
-guistrings.npc.remove_point=Удалить
-guistrings.npc.npc_type=Тип NPC
+guistrings.npc.remove_point=х
+guistrings.npc.remove_point.tooltip=Удалить эту точку
+guistrings.npc.npc_type=Тип НПС
 guistrings.npc.npc_name=Имя
 guistrings.npc.npc_texture=Скин
 guistrings.npc.death_cause=Причина смерти: %s
+guistrings.npc.death_position=Координаты смерти: %s x %s x %s
 guistrings.npc.can_res=Можно воскресить: %b
 guistrings.npc.resurrected=Воскрес: %b
 guistrings.npc.clear_death_list=Очистить список
 guistrings.npc.town_range=Дальность
 guistrings.npc.repack=Отозвать
+guistrings.npc.repack.tooltip=Верните NPC в инвентарь.
+guistrings.npc.togglefollow=Переключить следование
+guistrings.npc.togglefollow.tooltip=Скрытность + ПКМ на НПС для переключения
 guistrings.npc.set_home=Установить дом
 guistrings.npc.clear_home=Сбросить дом
 guistrings.npc.alt_gui=Доп. интерфейс
@@ -439,11 +456,13 @@ guistrings.npc.bard_play_time=Длительность игры
 guistrings.npc.bard_play_chance=Шанс игры
 guistrings.npc.bard_play_delay=Частота игры
 guistrings.npc.weapon_slot=Оружейный слот
+guistrings.npc.tool_slot=Слот для инструментов\n - Тип предмета определяет роль НПС.
 guistrings.npc.helmet_slot=Слот для шлема
 guistrings.npc.chest_slot=Слот для нагрудника
 guistrings.npc.legs_slot=Слот для поножей
 guistrings.npc.boots_slot=Слот для ботинок
 guistrings.npc.shield_slot=Слот для щита
+guistrings.npc.offhand_slot=Слот левой руки
 guistrings.npc.upkeep_order_slot=Слот точки содержания
 guistrings.npc.manual_order_slot=Слот приказов
 guistrings.npc.owner_name=Имя владельца
@@ -454,8 +473,8 @@ guistrings.npc.armor_override=Изменить броню
 guistrings.npc.allow_wander=Разрешить бродить
 guistrings.npc.creative_gui=Админ интерфейс
 guistrings.npc.death_list=Список смертей
-guistrings.npc.spawner.right_click_to_place=Используйте предмет для создания NPC
-guistrings.npc.baton.add_remove=Выбрать или удалить NPC
+guistrings.npc.spawner.right_click_to_place=Используйте предмет для создания НПС
+guistrings.npc.baton.add_remove=Выбрать или удалить НПС
 guistrings.npc.baton.clear=Очистить команды
 guistrings.npc.baton.attack=Атаковать/Двигаться-атаковать
 guistrings.npc.baton.move=Двигаться/Защита/Оседлать
@@ -466,17 +485,33 @@ guistrings.npc.orders.add_position=Нажмите '%s' для добавлени
 guistrings.npc.orders.position_added=Позиция добавлена
 guistrings.npc.inventory=Инвентарь
 
-# routing order route-types
+#routing order route-types
+route.fill.upto=Заполнить ДО
+route.fill.upto.tooltip=Попытка заполнить целевой инвентарь до данного значения. Курьер не будет собирать ничего, если в инвентаре уже есть данные размеры стаков (или более).
+route.take.upto=Взять ДО
+route.take.upto.tooltip=Попытка взять данную сумму из целевого инвентаря. Курьер ничего не возьмет, если они уже несут указанную сумму (или более) в рюкзаке.
+route.deposit.match=Положить всё
+route.deposit.match.tooltip=Попытка положить ЛЮБЫЕ совпадения с целевым инвентарем. Размер стака игнорируется - заполняется до тех пор, пока инвентарь не будет заполнен.
+route.withdraw.match=Взять всё
+route.withdraw.match.tooltip=Попытка взять ВСЁ из целевого инвентаря. Размеры стеков игнорируются - курьер будет брать всё, пока инвентарь не будет заполнен.
+route.deposit.no_match=Положить кроме
+route.deposit.no_match.tooltip=Попытка положить ВСЕ предметы, КРОМЕ совпадений с целевым инвентарем. Размер стаков игнорируется - будет заполняться до тех пор, пока не останется вещей или пока инвентарь не будет заполнен.
+route.withdraw.no_match=Взять кроме
+route.withdraw.no_match.tooltip=Попытка взять ВСЕ предметы, КРОМЕ совпадений из целевого инвентаря. Размеры стаков игнорируются - курьер будет брать всё, пока рюкзак не будет заполнен.
+route.deposit.ratio=Положить коэффициент
+route.deposit.ratio.tooltip=Попытка ПОЛОЖИТЬ указанный коэффициент совпадающих элементов с целевым инвентарем. Размер стака предметов в фильтре определяет коэффициент, где 2 - половина, 3 - треть и т.Д.
+route.withdraw.ratio=Взять коэффициент
+route.withdraw.ratio.tooltip=Попытка ВЗЯТЬ указанный коэффициент совпадающих элементов с целевым инвентарем. Размер стака предметов в фильтре определяет коэффициент, где 2 - половина, 3 - треть и т.Д.
+route.deposit.exact=Положить точно
+route.deposit.exact.tooltip=Попытка ПОЛОЖИТЬ ТОЧНУЮ сумму, указанную в целевом инвентаре. Если курьер не имеет ТОЧНО стака или не может ПОЛНОСТЬЮ поместиться в пункт назначения, он НЕ ПЕРЕДАЕТ.
+route.withdraw.exact=Взять точно
+route.withdraw.exact.tooltip=Попытка ВЗЯТЬ ТОЧНУЮ сумму, указанную в целевом инвентаре. Если стака не существует ТОЧНО, или курьер не может ПОЛНОСТЬЮ взять его, он НЕ БУДЕТ передаваться.
+route.fill.minimum=Положить минимум
+route.fill.minimum.tooltip=Попытка ПОЛОЖИТЬ МИНИМУМ, указанную в целевом инвентаре. То же, что и «Заполнить ДО», за исключением того, что он будет класть предметы только в том случае, если цель приведет к тому, что у нее будет меньше этой суммы. Эта проверка выполняется, если выполняется за (PER) стак.
+route.take.minimum=Взять минимум
+route.take.minimum.tooltip=Попытка ВЗЯТЬ МИНИМУМ, указанного в целевом инвентаре. То же, что и «Взять ДО», за исключением того, что он будет брать предметы, только если курьер будет иметь ПОЛНОСТЬЮ эту сумму. Эта проверка выполняется, если выполняется за (PER) стак.
 
-route.fill.target=Собирать до опред. кол-ва
-route.fill.courier=Собирать до заполнения инвентаря
-route.deposit.match=Собирать всё из фильтра
-route.withdraw.match=Удалять всё из фильтра
-route.deposit.no_match=Собирать всё, кроме фильтра
-route.withdraw.no_match=Удалять всё, кроме фильтра
-
-# research guis/items/misc
-
+#research guis/items/misc
 guistrings.research.current_goal=Текущая цель
 guistrings.research.queued_research=Очередь исследований
 guistrings.research.learnable_research=Доступные исследования
@@ -507,8 +542,7 @@ guistrings.research.research_mode=Режим: исследования/прос�
 guistrings.research.researched_items=Исследованные предметы
 guistrings.research.research_needed=Требуемые исследования
 
-# npc
-
+#npc
 entity.AncientWarfareNpc.aw_npc_worker.name=Рабочий
 entity.AncientWarfareNpc.aw_npc_combat.name=Воин
 entity.AncientWarfareNpc.aw_npc_courier.name=Курьер
@@ -620,8 +654,7 @@ entity.AncientWarfareNpc.custom_3.civilian.male.name=Имперский мужч
 entity.AncientWarfareNpc.custom_3.civilian.female.name=Имперская женщина
 entity.AncientWarfareNpc.custom_3.bard.name=Имперский бард
 
-# commands
-
+#commands
 command.aw.structure.usage=/awstructure save [названиеШаблона] ИЛИ /awstructure delete <названиеШаблона> [true для удаления файла конфигурации] ИЛИ /awstructure build <названиеШаблона> <x> <y> <z> [север:восток:юг:запад]
 command.aw.structure.not_found=Шаблон не найден: %s
 command.aw.structure.file_not_found=Не удалось найти файл: %s
@@ -631,16 +664,13 @@ command.aw.structure.built=Здание построено: %s в: %s,%s,%s
 command.aw.structure.exported=Здание просканировано и сохранено: %s
 command.aw.structure.incomplete_data=Недостаточно данных
 command.aw.research.usage=/awresearch (add:remove:fill:clear) имяИгрока [целевоеимя для добавления/удаления]
-command.aw.faction.usage=/awfaction (set | setall | get) (имяИгрока)
-command.aw.faction.set.usage=/awfaction set (имяИгрока) (фракция) (сумма)
-command.aw.faction.setall.usage=/awfaction setall (имяИгрока) (сумма)
+command.aw.faction.usage=/awfaction (get) (имяИгрока)
 command.aw.faction.get.usage=/awfaction get (имяИгрока)
 command.aw.faction.status.player=Отношения фракций к игроку %s
 command.aw.faction.status.value=Фракция %s, отношение: %s
 command.aw.faction.set=Отношения игрока %s с фракцией %s изменены на %s
 
-# research
-
+#research
 research.invention=Изобретение
 research.agriculture=Сельское хозяйство
 research.leadership=Лидерство
@@ -667,19 +697,17 @@ research.navigation=Навигация
 research.siege_warfare=Осадная война
 research.gunpowder=Порох
 research.mass_production=Массовое производство
-research.flight=Полёт
 research.naval_warfare=Война на море
 research.advanced_siege_warfare=Продвинутая осадная война
 
-# structure validation translation stuff
-
+#structure validation translation stuff
 structure.validation.survival=Выживание
 structure.validation.minGenDepth=Мин. глубина генерации
 structure.validation.maxGenDepth=Макс. глубина генерации
 structure.validation.minOverfill=Мин. переполнение
 structure.validation.minFlyingHeight=Минимальная высота полета
-structure.validation.maxGenHeight=Макс. Высота генерации
-structure.validation.minGenHeight=Мин. Высота генерации
+structure.validation.maxGenHeight=Макс. высота генерации
+structure.validation.minGenHeight=Мин. высота генерации
 structure.validation.minWaterDepth=Мин. глубина воды
 structure.validation.maxWaterDepth=Макс. глубина воды
 structure.validation.enableWorldGen=Включить генерацию
@@ -698,8 +726,7 @@ structure.validation.blockList=Список блоков
 structure.validation.dimensionList=Список измерений
 structure.validation.blockSwap=Переадресация динамического блока
 
-# gate names
-
+#gate names
 item.gateBasicWood.name=Деревянные врата (верт. открытие)
 item.gateBasicIron.name=Железные врата (верт. открытие)
 item.gateDoubleIron.name=Железные врата (двустор. открытие)
@@ -707,3 +734,41 @@ item.gateDoubleWood.name=Деревянные врата (двустор. отк
 item.gateSingleIron.name=Железные врата (гориз. открытие)
 item.gateSingleWood.name=Деревянные врата (гориз. открытие)
 item.gateDrawbridge.name=Подъемный мост
+entity.AncientWarfareStructure.aw_gate.name=Врата
+
+#ftbu_interop_notifications
+ftbu_aw2.notification.townhall_lost=Ратуша потеряна!
+ftbu_aw2.notification.chunk_position=Регион: %s x %s
+ftbu_aw2.notification.chunk_name_and_position=%s в %s x %s
+ftbu_aw2.notification.click_to_remove=Нажмите, чтобы удалить уведомление.
+ftbu_aw2.notification.townhall_neglected=Ратуша без защиты!
+ftbu_aw2.notification.townhall_neglected.msg=%s минут до укрепления!
+ftbu_aw2.notification.townhall_neglected.tooltip.1=Нет дружественного игрока или сытого НПС в радиусе действия.
+ftbu_aw2.notification.townhall_neglected.tooltip.1.alt=Ближайший дружественный игрок / НПС слишком далеко / выше / ниже.
+ftbu_aw2.notification.townhall_neglected.tooltip.2=Если пренебречь еще 5 минутами
+ftbu_aw2.notification.townhall_neglected.tooltip.3=ратуша будет заброшена!
+ftbu_aw2.notification.townhall_abandoned=Ратуша заброшена!
+ftbu_aw2.notification.townhall_abandoned.msg=Сбережения могут быть потеряны!
+ftbu_aw2.notification.townhall_abandoned.tooltip.1=Нет дружественных и сытых НПС или игроков
+ftbu_aw2.notification.townhall_abandoned.tooltip.2=для укрепления ратуши. Теперь она
+ftbu_aw2.notification.townhall_abandoned.tooltip.3=может быть захвачена!
+ftbu_aw2.notification.townhall_captured=Ратуша захвачена!
+ftbu_aw2.notification.townhall_captured.msg.lost=%s захватил вашу ратушу
+ftbu_aw2.notification.townhall_captured.msg.gained=Захвачена у %s
+ftbu_aw2.notification.townhall_destroyed.msg=Уничтожена %s
+ftbu_aw2.notification.townhall_secured=Ратуша укреплена!
+ftbu_aw2.notification.townhall_secured.msg=Территория защищена.
+ftbu_aw2.notification.townhall_newhq=Штаб-квартира создана!
+ftbu_aw2.notification.townhall_newhq.msg=Выбрана новая штаб-квартира для измерения.
+ftbu_aw2.notification.townhall_newhq.tooltip.1=Если Обычный Мир, то она будет
+ftbu_aw2.notification.townhall_newhq.tooltip.2=действовать как точка респауна (при отсутствии кровати)
+ftbu_aw2.notification.townhall_newhq.tooltip.3=и пункт назначения для телепортации.
+ftbu_aw2.notification.townhall_hqmissing=Штаб-квартира не найдена!
+ftbu_aw2.notification.townhall_hqmissing.msg=Подробнее: смотрите подсказку ...
+ftbu_aw2.notification.townhall_hqmissing.tooltip.1=Вы должны установить штаб-квартиру
+ftbu_aw2.notification.townhall_hqmissing.tooltip.2=что бы расширять и защищать ваши территории.
+ftbu_aw2.notification.townhall_hqmissing.tooltip.3=Просто поставьте/переставьте ратушу для установки штаб-квартиры.
+
+#jei
+
+jei.recipe.research_recipe=Рецепт исследования

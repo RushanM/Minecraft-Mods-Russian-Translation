@@ -12,21 +12,26 @@
 | - | - | - | - | - |
 | 1.7 | Не готов | aether_legacy | The Aether | 1.1.2.3 |
 | 1.7 | Не готов | agricraft | AgriCraft | 1.5 |
+| 1.7 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.4.115 Full |
 | 1.7 | Переведён | adventurebackpack | Adventure Backpack | Beta-0.8c |
 | 1.7 | Переведён | aether | The Aether II | Festive Update - 1.6 |
 | 1.7 | Переведён | aromabackup | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | aromabackuprecovery | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 |
 | 1.7 | ... | ... | ... | ... |
+| 1.12 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.7.0.1038 |
 | 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod (Legacy) | 6.3.2 |
 | 1.12 | Не готов | mod_lavacow | Fish's Undead Rising | 1.4.2 |
+| 1.12 | Не готов | tconstruct | Tinkers' Construct | 1.0 |
 | 1.12 | Переведён | aiotbotania | AIOT Botania | 0.7.1 |
 | 1.12 | Переведён | aqua_creepers | Aqua Creepers! | 1.2.3 |
+| 1.12 | Переведён | scple | SCP Lockdown Extras | 1.0 |
 | 1.12 | ... | ... | ... | ... |
 | 1.16 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 1.1 |
 | 1.16 | Переведён | advancementframes | Advancement Frames | 1.0.5 |
 | 1.16 | Переведён | alexsdelight | Alex's Delights | 1.0 |
 | 1.16 | Переведён | amfd | Alex's Delight | 1.1.3 |
+| 1.16 | Переведён | ancient_war | Ancient Warfare Legacy | 1.1 |
 | 1.16 | ... | ... | ... | ... |
 | 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
 | 1.17 | Переведён | alexsdelight | Alex's Delights | 1.1 |
