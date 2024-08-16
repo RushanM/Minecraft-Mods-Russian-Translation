@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+	<text y="6" align="center">%name%</text>
+
+	<tooltip text="ic2.ReactorFluidPort.gui.info">
+		<slot name="upgrade" x="79" y="42" />
+	</tooltip>
+
+	<playerInventory x="7" y="83"/>
+</gui>

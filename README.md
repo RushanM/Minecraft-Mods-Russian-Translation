@@ -13,14 +13,18 @@
 | 1.7 | Не готов | aether_legacy | The Aether | 1.1.2.3 |
 | 1.7 | Не готов | agricraft | AgriCraft | 1.5 |
 | 1.7 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.4.115 Full |
+| 1.7 | Не готов | minecraft | Industrial Craft | 2-2.2.827-experimental |
 | 1.7 | Переведён | adventurebackpack | Adventure Backpack | Beta-0.8c |
 | 1.7 | Переведён | aether | The Aether II | Festive Update - 1.6 |
 | 1.7 | Переведён | aromabackup | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | aromabackuprecovery | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 |
 | 1.7 | ... | ... | ... | ... |
+| 1.12 | Не готов | aether_legacy | The Aether | 1.5.4 |
 | 1.12 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.7.0.1038 |
 | 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod (Legacy) | 6.3.2 |
+| 1.12 | Не готов | ic2 | Industrial Craft | 2-2.8.222-ex112 |
+| 1.12 | Не готов | minecraft | Industrial Craft | 2-2.8.222-ex112 |
 | 1.12 | Не готов | mod_lavacow | Fish's Undead Rising | 1.4.2 |
 | 1.12 | Не готов | tconstruct | Tinkers' Construct | 1.0 |
 | 1.12 | Переведён | aiotbotania | AIOT Botania | 0.7.1 |
@@ -41,14 +45,19 @@
 | 1.18 | Переведён | alexsdelight | Alex's Delight | 1.3.3 |
 | 1.18 | Переведён | alexsdelight | Alex's Delights | 1.2 |
 | 1.18 | ... | ... | ... | ... |
+| 1.19 | Не готов | aether | The Aether | 1.4.2 |
 | 1.19 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 4.1.1 |
 | 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
 | 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
 | 1.19 | ... | ... | ... | ... |
+| 1.20 | Не готов | aether | The Aether | 1.4.2 |
+| 1.20 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
+| 1.20 | Не готов | iceandfire | Ice and Fire | 2.1.13-beta-5 |
 | 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
 | 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
 | 1.20 | ... | ... | ... | ... |
+| 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 
 </details>
 

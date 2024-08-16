@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+	<text y="6" align="center">%name%</text>
+
+	<slot name="scrap" x="114" y="61"/>
+	<slot name="output" x="110" y="18" style="large"/>
+
+	<text x="18" y="22">{ic2.MassFabricator.gui.energy,%base.getEnergyProgress()%}</text>
+	<text x="18" y="34">{ic2.MassFabricator.gui.scrap,%base.getScrapProgress()%}</text>
+	<only if="scrap">
+		<text x="18" y="46">{ic2.Matter.gui.info.amplifier}</text>
+		<text x="18" y="58">{%base.getScrap()%}</text>
+	</only>
+
+	<only if="dev">
+		<slot name="discharge" x="79" y="61"/>
+	</only>
+
+	<environment name="game">
+		<slotgrid name="upgrade" x="151" y="7" cols="1"/>
+	</environment>
+
+	<energygauge x="119" y="46"/>
+
+	<playerInventory x="7" y="83"/>
+</gui>

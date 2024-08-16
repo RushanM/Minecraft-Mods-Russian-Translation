@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+	<text y="6" align="center">%name%</text>
+
+	<slot name="fuel" x="80" y="53"/>
+	<slot name="charge" x="80" y="17"/>
+
+	<gauge x="82" y="36" name="water" style="bucket"/>
+	<playerInventory x="7" y="83"/>
+</gui>

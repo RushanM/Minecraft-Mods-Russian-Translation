@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+
+    <slot name="charge" x="79" y="25"/>
+    <image x="81" y="45" width="14" src="textures/gui/overlay/solar_sun"/>
+    <only if="sunlight">
+        <image x="81" y="45" u="14" width="14" src="textures/gui/overlay/solar_sun"/>
+    </only>
+
+    <playerInventory x="7" y="83"/>
+</gui>
