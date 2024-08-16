@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gui width="176" height="166">
-    <text y="6" align="center">%name%</text>
-    <playerInventory x="7" y="83"/>
-    <text x="41" y="33">{ic2.KineticGenerator.gui.Bandwidth,%base.getMaxProduction()%}</text>
-    <text x="41" y="45">{ic2.KineticGenerator.gui.Output,%base.getProduction()%}</text>
-</gui>

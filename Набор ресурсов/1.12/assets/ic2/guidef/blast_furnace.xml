@@ -12,7 +12,7 @@
     <slot name="cellOutput" x="25" y="52"/>
     <fluidslot x="55" y="42" name="fluid"/>
     <gauge name="progress" x="80" y="35" style="progressarrow"/>
-    <text x="14" y="25" >Heat</text>
+    <text x="14" y="25" >Нагрев</text>
     <gauge name="heat" x="15" y="34" style="heatcentrifuge"/>
     <playerInventory x="7" y="83"/>
 </gui>

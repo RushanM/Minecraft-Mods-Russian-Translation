@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gui width="176" height="166">
-	<text y="6" align="center">%name%</text>
-
-	<slot name="charge" x="80" y="26"/>
-
-	<gauge x="82" y="45" name="wind" style="progresswind" active="true" />
-	<playerInventory x="7" y="83"/>
-</gui>

@@ -35,13 +35,13 @@
     </only>
 
 	<only if="dev">
-		<tooltip text="Open advanced meta GUI">
+		<tooltip text="Открыть интерфейс продвинутой мета">
 			<button x="83" y="23" width="10" height="10" event="metaDev">M</button>
 		</tooltip>
-		<tooltip text="Open advanced energy GUI">
+		<tooltip text="Открыть интерфейс продвинутой энергии">
 			<button x="83" y="45" width="10" height="10" event="energyDev">E</button>
 		</tooltip>
-		<tooltip text="Open advanced ore dictionary GUI">
+		<tooltip text="Открыть интерфейс продвинутого словаря руд">
 			<button x="83" y="67" width="10" height="10" event="oreDev">O</button>
 		</tooltip>
 	</only>
