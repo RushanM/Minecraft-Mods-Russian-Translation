@@ -346,13 +346,13 @@ achievement.loreception.desc=Вложите книгу знаний в книг�
 
 # Вкладки инвентаря творческого режима
 
-tab.aether_blocks=The Aether: блоки
-tab.aether_tools=The Aether: инструменты
-tab.aether_weapons=The Aether: оружие
-tab.aether_armor=The Aether: броня
-tab.aether_food=The Aether: еда
-tab.aether_accessories=The Aether: аксессуары
-tab.aether_material=The Aether: материалы
+tab.aether_blocks=The Aether: Блоки
+tab.aether_tools=The Aether: Инструменты
+tab.aether_weapons=The Aether: Оружие
+tab.aether_armor=The Aether: Броня
+tab.aether_food=The Aether: Еда
+tab.aether_accessories=The Aether: Аксессуары
+tab.aether_material=The Aether: Материалы
 tab.aether_misc=The Aether
 
 # Вкладки

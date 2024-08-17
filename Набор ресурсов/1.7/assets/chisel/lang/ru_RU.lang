@@ -1681,16 +1681,18 @@ black.pane.glass.noborder.desc=Чёрное безграничное стекл�
 black.pane.glass.quadrant.desc=Чёрная четверть стекла
 black.pane.glass.fancyquadrant.desc=Чёрная красивая четверть стекла
 
-#Creative Tab localizations
+# Creative Tab localizations
+
 itemGroup.tabOtherChiselBlocks=Chisel: Остальные блоки
 itemGroup.tabStoneChiselBlocks=Chisel: Каменные блоки
 itemGroup.tabWoodChiselBlocks=Chisel: Деревянные блоки
 itemGroup.tabMetalChiselBlocks=Chisel: Металлические блоки
-itemGroup.tabModdedChiselBlocks=Chisel: блоки модификаций
-itemGroup.tabStairChiselBlocks=Chisel: ступеньки
+itemGroup.tabModdedChiselBlocks=Chisel: Блоки модификаций
+itemGroup.tabStairChiselBlocks=Chisel: Ступеньки
 itemGroup.tabChisel=Chisel: Предметы
 
-#Container
+# Container
+
 container.chisel=Долото
 container.chisel.title=Обработка блоков
 container.chisel.titleShort=Обработка
