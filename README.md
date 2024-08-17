@@ -32,7 +32,7 @@
 * ✅ — перевод готов
 
 | Мод | [1.7](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.12](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.16](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.17](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.18](/1.18/assets/README.md) | [1.19](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.20](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.21](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) |
-| - | - | - | - | - | - | - | - | - |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ |
 | [A Few More Plushies](https://modrinth.com/mod/afmp) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ✅ Рус. | ⬛ |
