@@ -1,16 +1,16 @@
 {
-  "name": "Crawl",
-  "icon": "minecraft:nautilus_shell",
   "category": "parcool:category_actions",
+  "icon": "minecraft:nautilus_shell",
+  "name": "Ползание",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "You can crawl everywhere and go through narrow course.$(br)You should check also $(l:parcool:actions/slide)Slide$()."
+      "text": "Вы можете ползать где угодно и проходить через узкие проходы.$(br)Также вам стоит попробовать $(l:parcool:actions/slide)скользить$().",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list) Press Crawl Key($(k:parcool.Crawl))"
+      "text": "$(list) Нажмите клавишу ползания ($(k:parcool.Crawl))",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }

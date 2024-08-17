@@ -1,23 +1,23 @@
 {
-  "name": "Cling To Cliff",
-  "icon": "minecraft:stone",
   "category": "parcool:category_actions",
+  "icon": "minecraft:stone",
+  "name": "Зацепление за выступ",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "You can cling to cliffs.$(br)You can also climb up onto the cliffs by pressing jump key."
+      "text": "Вы можете цепляться за выступы.$(br)Также можно подтянуться на выступ, нажав клавишу прыжка.",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:image",
       "border": "true",
       "images": [
         "parcool:textures/gui/entries/image_cling_cliff.png"
-      ]
+      ],
+      "type": "patchouli:image"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list) Press Cling-To-Cliff Key($(k:parcool.ClingToCliff)) by a wall$(br)"
+      "text": "$(list) Нажмите клавишу зацепления за выступ ($(k:parcool.ClingToCliff)) у стены$(br)",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }
