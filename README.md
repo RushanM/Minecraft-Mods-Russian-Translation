@@ -56,6 +56,7 @@
 | 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
 | 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
+| 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | ... | ... | ... | ... |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 
