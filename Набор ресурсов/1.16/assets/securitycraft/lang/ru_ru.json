@@ -664,7 +664,7 @@
     "death.attack.securitycraft.taser": "%1$s был убит электрошоком от %2$s",
     "death.attack.securitycraft.taser.item": "%1$s был убит электрошоком от %2$s с использованием %3$s",
     "entity.securitycraft.bullet": "Пуля сторожа",
-    "entity.securitycraft.imsbomb": "Бомба I. M. S.",
+    "entity.securitycraft.imsbomb": "Бомба АИМ",
     "entity.securitycraft.security_sea_boat": "Безопасная морская лодка",
     "entity.securitycraft.sentry": "Сторож",
     "gamerule.fakeLavaSourceConversion": "Фальшивая лава превращается в источник",
