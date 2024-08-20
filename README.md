@@ -59,6 +59,7 @@
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | ... | ... | ... | ... |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
+| 1.21 | Переведён | iris | Iris Shaders | 1.7.3 |
 
 </details>
 
