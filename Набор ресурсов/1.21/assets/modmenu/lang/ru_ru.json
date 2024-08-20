@@ -142,8 +142,8 @@
     "option.modmenu.mods_button_style.replace_realms": "вместо Realms",
     "option.modmenu.mods_button_style.shrink": "у Realms",
     "option.modmenu.quick_configure": "Быстрая настройка",
-    "option.modmenu.quick_configure.false": "выкл.",
-    "option.modmenu.quick_configure.true": "вкл.",
+    "option.modmenu.quick_configure.false": "Выкл.",
+    "option.modmenu.quick_configure.true": "Вкл.",
     "option.modmenu.random_java_colors": "Цвет Java",
     "option.modmenu.random_java_colors.false": "красный",
     "option.modmenu.random_java_colors.true": "от поставщика",
@@ -164,6 +164,6 @@
     "option.modmenu.update_channel.beta": "релиз и бета",
     "option.modmenu.update_channel.release": "релиз",
     "option.modmenu.update_checker": "Проверка обновлений",
-    "option.modmenu.update_checker.false": "выкл.",
-    "option.modmenu.update_checker.true": "вкл."
+    "option.modmenu.update_checker.false": "Выкл.",
+    "option.modmenu.update_checker.true": "Вкл."
 }

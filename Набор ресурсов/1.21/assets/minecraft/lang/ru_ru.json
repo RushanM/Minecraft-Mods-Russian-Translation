@@ -15,6 +15,22 @@
     "modmenu.nameTranslation.iris": "Ирис",
     "modmenu.summaryTranslation.iris": "Мод на шейдеры, поддерживающий шейдеры для OptiFine",
 
+    "modmenu.descriptionTranslation.placeholder-api": "<white>API для модов</> на <rb sat:0.8>удобное</> форматирование и <i>плейсхолдеры</>",
+    "modmenu.nameTranslation.placeholder-api": "API плейсхолдеров",
+    "modmenu.summaryTranslation.placeholder-api": "Простой API для модов, который обеспечивает <rb sat:0.8>удобное для пользователя</> форматирование и <i>универсальные плейсхолдеры</>!",
+
+    "modmenu.descriptionTranslation.reeses-sodium-options": "Заменяет меню настроек Sodium с целью повысить удобство его использования.",
+    "modmenu.nameTranslation.reeses-sodium-options": "Настройки Sodium от Reese",
+    "modmenu.summaryTranslation.reeses-sodium-options": "Заменяет меню настроек Sodium на более удобное",
+
+    "modmenu.descriptionTranslation.fabricloader": "Базовый загрузчик модов.",
+    "modmenu.nameTranslation.fabricloader": "Загрузчик Фабрика",
+    "modmenu.summaryTranslation.fabricloader": "Базовый загрузчик модов",
+
+    "modmenu.descriptionTranslation.fabric-convention-tags-v2": "Содержит общие теги, используемые модами для обеспечения лучшей совместимости между собой.",
+    "modmenu.nameTranslation.fabric-convention-tags-v2": "Согласующие теги Фабрика",
+    "modmenu.summaryTranslation.fabric-convention-tags-v2": "Общие теги, используемые модами для совместимости",
+
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
     "modmenu.descriptionTranslation.animatica": "Позволяет анимировать больше текстур игры, используя формат анимаций MCPatcher и OptiFine.",
@@ -52,7 +68,6 @@
     "modmenu.nameTranslation.dynamic_fps": "Динамические FPS",
     "modmenu.nameTranslation.dynamicpack": "Динамические наборы",
     "modmenu.nameTranslation.fabric": "Фабрик",
-    "modmenu.nameTranslation.fabric-convention-tags-v2": "Согласователь тегов Фабрика",
     "modmenu.nameTranslation.fabric-gamerule-test": "Тест игровых правил Фабрика",
     "modmenu.nameTranslation.fabric-keybindings-v1-testmod": "Шаблонный мод горячих клавиш Фабрика",
     "modmenu.nameTranslation.fabric-language-kotlin": "Kotlin к языку Фабрика",

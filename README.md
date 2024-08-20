@@ -59,7 +59,22 @@
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | ... | ... | ... | ... |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
+| 1.21 | Не готов | fabric-convention-tags-v2 | Fabric Convention Tags | 08.06.2024 |
+| 1.21 | Переведён | fabric | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-gamerule-test | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-keybindings-v1-testmod | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-networking-api-v1-testmod | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-object-builder-api-v1-testmod | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-particles-v1-testmod | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-registry-sync-v0 | Fabric Registry Sync | 08.06.2024 |
+| 1.21 | Переведён | fabric-resource-conditions-api-v1-testmod | Fabric | 08.06.2024 |
+| 1.21 | Переведён | fabric-resource-loader-v0 | Fabric Resource Loader | 08.06.2024 |
+| 1.21 | Переведён | fabric-resource-loader-v0-testmod | Fabric Resource Loader | 08.06.2024 |
+| 1.21 | Переведён | fabric-resource-loader-v0-testmod-test1 | Fabric Resource Loader | 08.06.2024 |
+| 1.21 | Переведён | fabric-screen-handler-api-v1-testmod | Fabric | 08.06.2024 |
 | 1.21 | Переведён | iris | Iris Shaders | 1.7.3 |
+| 1.21 | Переведён | placeholder-api | Placeholder API | 2.4.1 |
+| 1.21 | Переведён | testmod | Fabric | 08.06.2024 |
 
 </details>
 
