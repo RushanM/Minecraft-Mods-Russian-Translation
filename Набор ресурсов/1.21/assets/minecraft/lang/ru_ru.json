@@ -1,15 +1,19 @@
 {
     "modmenu.summaryTranslation.lithium": "Мод-оптимизатор, улучшающий производительность игры",
     "modmenu.nameTranslation.lithium": "Литий",
-    "modmenu.descriptionTranslation.lithium": "Литий — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который вносит множество улучшений в производительность игры.",
+    "modmenu.descriptionTranslation.lithium": "Lithium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который вносит множество улучшений в производительность игры.",
 
     "modmenu.summaryTranslation.sodium": "Мод-оптимизатор, повышающий FPS и снижающий задержки",
     "modmenu.nameTranslation.sodium": "Натрий",
-    "modmenu.descriptionTranslation.sodium": "Натрий — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который улучшает частоту кадров и снижает задержки.",
+    "modmenu.descriptionTranslation.sodium": "Sodium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который улучшает частоту кадров и снижает задержки.",
 
     "modmenu.summaryTranslation.ferritecore": "Снижает использование оперативной памяти",
     "modmenu.nameTranslation.ferritecore": "Ферритовое ядро",
     "modmenu.descriptionTranslation.ferritecore": "Снижает использование оперативной памяти.",
+
+    "modmenu.descriptionTranslation.iris": "Современный мод на шейдеры в Minecraft, созданный, чтобы быть совместимым с уже существующими наборами шейдеров, созданными для OptiFine.",
+    "modmenu.nameTranslation.iris": "Ирис",
+    "modmenu.summaryTranslation.iris": "Мод на шейдеры, поддерживающий шейдеры для OptiFine",
 
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
