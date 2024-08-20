@@ -11,12 +11,12 @@ awconfig.npc_config.tooltip=Клиентские настройки для мо�
 
 # Вкладки
 
-itemGroup.tabs.awcore=Ancient Warfare: Ядро
-itemGroup.tabs.structures=Ancient Warfare: Структуры
-itemGroup.tabs.editor=Ancient Warfare: Редактор моделей
-itemGroup.tabs.automation=Ancient Warfare: Автоматизация
+itemGroup.tabs.awcore=Ancient Warfare: ядро
+itemGroup.tabs.structures=Ancient Warfare: структуры
+itemGroup.tabs.editor=Ancient Warfare: редактор моделей
+itemGroup.tabs.automation=Ancient Warfare: автоматизация
 itemGroup.tabs.npc=Ancient Warfare: NPC
-itemGroup.tabs.vehicles=Ancient Warfare: Транспорт
+itemGroup.tabs.vehicles=Ancient Warfare: транспорт
 
 # Предметы
 
