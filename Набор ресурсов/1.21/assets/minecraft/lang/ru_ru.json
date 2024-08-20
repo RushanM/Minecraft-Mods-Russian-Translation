@@ -1,15 +1,15 @@
 {
+    "modmenu.descriptionTranslation.lithium": "Lithium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который вносит множество улучшений в производительность игры.",
     "modmenu.summaryTranslation.lithium": "Мод-оптимизатор, улучшающий производительность игры",
     "modmenu.nameTranslation.lithium": "Литий",
-    "modmenu.descriptionTranslation.lithium": "Lithium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который вносит множество улучшений в производительность игры.",
 
+    "modmenu.descriptionTranslation.sodium": "Sodium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который улучшает частоту кадров и снижает задержки.",
     "modmenu.summaryTranslation.sodium": "Мод-оптимизатор, повышающий FPS и снижающий задержки",
     "modmenu.nameTranslation.sodium": "Натрий",
-    "modmenu.descriptionTranslation.sodium": "Sodium — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который улучшает частоту кадров и снижает задержки.",
 
+    "modmenu.descriptionTranslation.ferritecore": "Снижает использование оперативной памяти.",
     "modmenu.summaryTranslation.ferritecore": "Снижает использование оперативной памяти",
     "modmenu.nameTranslation.ferritecore": "Ферритовое ядро",
-    "modmenu.descriptionTranslation.ferritecore": "Снижает использование оперативной памяти.",
 
     "modmenu.descriptionTranslation.iris": "Современный мод на шейдеры в Minecraft, созданный, чтобы быть совместимым с уже существующими наборами шейдеров, созданными для OptiFine.",
     "modmenu.nameTranslation.iris": "Ирис",
@@ -17,19 +17,43 @@
 
     "modmenu.descriptionTranslation.placeholder-api": "Простой API для модов, который обеспечивает <rb sat:0.8>удобное для пользователя</> форматирование и <i>универсальные плейсхолдеры</>!",
     "modmenu.nameTranslation.placeholder-api": "API плейсхолдеров",
-    "modmenu.summaryTranslation.placeholder-api": "<white>API для модов</> на <rb sat:0.8>удобное</> форматирование и <i>плейсхолдеры</>",
+    "modmenu.summaryTranslation.placeholder-api": "API для модов на удобное форматирование и плейсхолдеры",
+
+    "modmenu.descriptionTranslation.caffeineconfig": "Небольшая библиотека, предоставляющая систему настроек, которая позволяет пользователю и другим модам отключать применение миксинов.",
+    "modmenu.nameTranslation.caffeineconfig": "Настройки Caffeine",
+    "modmenu.summaryTranslation.caffeineconfig": "Предоставляет систему отключения применения миксинов",
 
     "modmenu.descriptionTranslation.reeses-sodium-options": "Заменяет меню настроек Sodium с целью повысить удобство его использования.",
     "modmenu.nameTranslation.reeses-sodium-options": "Настройки Sodium от Reese",
     "modmenu.summaryTranslation.reeses-sodium-options": "Заменяет меню настроек Sodium на более удобное",
 
-    "modmenu.descriptionTranslation.fabricloader": "Базовый загрузчик модов.",
+    "modmenu.descriptionTranslation.fabricloader": "Загрузчик модов.",
     "modmenu.nameTranslation.fabricloader": "Загрузчик Фабрика",
-    "modmenu.summaryTranslation.fabricloader": "Базовый загрузчик модов",
+    "modmenu.summaryTranslation.fabricloader": "Загрузчик модов",
+
+    "modmenu.descriptionTranslation.fabric-api": "Основной модуль API, предоставляющий ключевые хуки для взаимодействия и совместимости между компонентами.",
+    "modmenu.nameTranslation.fabric-api": "API Фабрика",
+    "modmenu.summaryTranslation.fabric-api": "Основной модуль API",
+
+    "modmenu.descriptionTranslation.fabric-api-base": "Содержит основные компоненты для модулей API Фабрика.",
+    "modmenu.nameTranslation.fabric-api-base": "Базовый модуль API Фабрика",
+    "modmenu.summaryTranslation.fabric-api-base": "Содержит основные компоненты для модулей API Фабрика",
+
+    "modmenu.descriptionTranslation.fabric-api-lookup-api-v1": "Универсальный способ предоставления и запросов API.",
+    "modmenu.nameTranslation.fabric-api-lookup-api-v1": "API поиска API Фабрика (версия 1)",
+    "modmenu.summaryTranslation.fabric-api-lookup-api-v1": "Универсальный способ предоставления и запросов API",
+
+    "modmenu.descriptionTranslation.fabric-biome-api-v1": "Хуки для добавления биомов в стандартный генератор мира.",
+    "modmenu.nameTranslation.fabric-biome-api-v1": "API биомов Фабрика (версия 1)",
+    "modmenu.summaryTranslation.fabric-biome-api-v1": "Хуки для добавления биомов в генератор мира игры",
 
     "modmenu.descriptionTranslation.fabric-convention-tags-v2": "Содержит общие теги, используемые модами для обеспечения лучшей совместимости между собой.",
     "modmenu.nameTranslation.fabric-convention-tags-v2": "Согласующие теги Фабрика",
     "modmenu.summaryTranslation.fabric-convention-tags-v2": "Общие теги, используемые модами для совместимости",
+
+    "modmenu.descriptionTranslation.fabric-block-api-v1": "Хуки для работы с блоками.",
+    "modmenu.nameTranslation.fabric-block-api-v1": "API блоков Фабрика (версия 1)",
+    "modmenu.summaryTranslation.fabric-block-api-v1": "Хуки для работы с блоками",
 
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
