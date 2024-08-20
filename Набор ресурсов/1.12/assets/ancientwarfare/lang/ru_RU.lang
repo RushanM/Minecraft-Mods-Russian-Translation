@@ -10,16 +10,16 @@ awconfig.npc_config=Настройки модуля НПС
 awconfig.npc_config.tooltip=Клиентские настройки для модуля НПС
 awconfig.keybind.toggle_workbounds_render=Переключение рендера рабочих панелей
 
-# items
+# Предметы
 
-itemGroup.tabs.awcore=Ancient Warfare основной модуль
-itemGroup.tabs.structures=Ancient Warfare структуры
-itemGroup.tabs.editor=Ancient Warfare редактор моделей
-itemGroup.tabs.automation=Ancient Warfare автоматизация
-itemGroup.tabs.npc=Ancient Warfare существа
-itemGroup.tabs.vehicles=Ancient Warfare транспорт
+itemGroup.tabs.awcore=Ancient Warfare: основной модуль
+itemGroup.tabs.structures=Ancient Warfare: структуры
+itemGroup.tabs.editor=Ancient Warfare: редактор моделей
+itemGroup.tabs.automation=Ancient Warfare: автоматизация
+itemGroup.tabs.npc=Ancient Warfare: существа
+itemGroup.tabs.vehicles=Ancient Warfare: транспорт
 
-# core
+# Ядро
 
 item.research_book.name=Книга исследований
 item.wooden_hammer.name=Деревянный молот

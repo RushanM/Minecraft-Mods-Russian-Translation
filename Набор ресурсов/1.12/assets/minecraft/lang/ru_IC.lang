@@ -1222,18 +1222,18 @@ commands.weather.thunder=Changing to rain and thunder
 commands.testfor.usage=/testfor <player>
 commands.testfor.failed=/testfor is only usable by commandblocks with analog output
 
-itemGroup.buildingBlocks=Building Blocks
-itemGroup.decorations=Decoration Blocks
-itemGroup.redstone=Redstone
-itemGroup.transportation=Transportation
-itemGroup.misc=Miscellaneous
-itemGroup.search=Search Items
-itemGroup.food=Foodstuffs
-itemGroup.tools=Tools
-itemGroup.combat=Combat
-itemGroup.brewing=Brewing
-itemGroup.materials=Materials
-itemGroup.inventory=Survival Inventory
+itemGroup.buildingBlocks=Строительные блоки
+itemGroup.decorations=Декоративные блоки
+itemGroup.redstone=Редстоун
+itemGroup.transportation=Транспорт
+itemGroup.misc=Разное
+itemGroup.search=Поиск предметов
+itemGroup.food=Еда
+itemGroup.tools=Инструменты
+itemGroup.combat=Бой
+itemGroup.brewing=Зельеварение
+itemGroup.materials=Материалы
+itemGroup.inventory=Инвентарь выживания
 
 inventory.binSlot=Destroy Item
 

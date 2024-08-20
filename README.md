@@ -16,6 +16,7 @@
 | 1.7 | Не готов | minecraft | Industrial Craft | 2-2.2.827-experimental |
 | 1.7 | Переведён | adventurebackpack | Adventure Backpack | Beta-0.8c |
 | 1.7 | Переведён | aether | The Aether II | Festive Update - 1.6 |
+| 1.7 | Переведён | aroma1997core | Aroma1997Core | 1.0.2.16 |
 | 1.7 | Переведён | aromabackup | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | aromabackuprecovery | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 |
@@ -29,6 +30,7 @@
 | 1.12 | Не готов | tconstruct | Tinkers' Construct | 1.0 |
 | 1.12 | Переведён | aiotbotania | AIOT Botania | 0.7.1 |
 | 1.12 | Переведён | aqua_creepers | Aqua Creepers! | 1.2.3 |
+| 1.12 | Переведён | aroma1997core | Aroma1997Core | 2.0.0.2 b167 |
 | 1.12 | Переведён | scple | SCP Lockdown Extras | 1.0 |
 | 1.12 | ... | ... | ... | ... |
 | 1.16 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 1.1 |
@@ -60,6 +62,7 @@
 | 1.20 | ... | ... | ... | ... |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.21 | Не готов | fabric-convention-tags-v2 | Fabric Convention Tags | 08.06.2024 |
+| 1.21 | Переведён | ae2wtlib | Applied Energistics 2 Wireless Terminals | 19.1.3-beta |
 | 1.21 | Переведён | fabric | Fabric | 08.06.2024 |
 | 1.21 | Переведён | fabric-gamerule-test | Fabric | 08.06.2024 |
 | 1.21 | Переведён | fabric-keybindings-v1-testmod | Fabric | 08.06.2024 |
@@ -75,6 +78,7 @@
 | 1.21 | Переведён | iris | Iris Shaders | 1.7.3 |
 | 1.21 | Переведён | placeholder-api | Placeholder API | 2.4.1 |
 | 1.21 | Переведён | testmod | Fabric | 08.06.2024 |
+| 1.21 | ... | ... | ... | ... |
 
 </details>
 

@@ -232,63 +232,67 @@ tile.sun_altar.name=Солнечный алтарь
 tile.skyroot_bookshelf.name=Небесная книжная полка
 tile.skyroot_bed.name=Skyroot Bed
 
-# Entities
-entity.aechor_plant.name=Цветок Моа
-entity.cockatrice.name=Василиск
-entity.mimic.name=Имитатор
+# Сущности
+
+entity.aechor_plant.name=Цветок Эхора
+entity.cockatrice.name=Кокатрис
+entity.mimic.name=Мимик
 entity.sentry.name=Часовой
 entity.zephyr.name=Зефир
-entity.aerwhale.name=Кит
-entity.aerbunny.name=Воздушный зайчик
+entity.aerwhale.name=Аэрокит
+entity.aerbunny.name=Аэрокролик
 entity.sheepuff.name=Овца
 entity.valkyrie.name=Валькирия
-entity.valkyrie_queen.name=Королева Валькирия
-entity.slider.name=Слайдер
-entity.sun_spirit.name=Бог Солнца
-entity.fire_minion.name=Огненный Миньон
-entity.mini_cloud.name=Мини Облако
-entity.tnt_present.name=TNT подарок
-entity.lightning_knife.name=Нож Молний
-entity.thunder_ball.name=Грозовой Мяч
-entity.zephyr_snowball.name=Снег Рая
-entity.floating_block.name=Плавающий Блок
+entity.valkyrie_queen.name=Королева валькирий
+entity.slider.name=Скользитель
+entity.sun_spirit.name=Бог солнца
+entity.fire_minion.name=Огненный миньон
+entity.mini_cloud.name=Миниоблако
+entity.tnt_present.name=Динамит-подарок
+entity.lightning_knife.name=Молниеносный нож
+entity.thunder_ball.name=Грозовой шар
+entity.zephyr_snowball.name=Эфирный снег
+entity.floating_block.name=Парящий блок
 entity.parachute.name=Парашют
-entity.golden_dart.name=Золотой Дротик
-entity.poison_dart.name=Отравленный Дротик
-entity.enchanted_dart.name=Зачарованный Дротик
+entity.golden_dart.name=Золотой дротик
+entity.poison_dart.name=Отравленный дротик
+entity.enchanted_dart.name=Зачарованный дротик
 entity.fire_ball.name=Мяч Фиро
-entity.ice_ball.name=Затвердевшем Мяч
-entity.flying_cow.name=Летающая Корова
-entity.phyg.name=Летающая Свинья
-entity.swet.name=Слайм
+entity.ice_ball.name=Затвердевший шар
+entity.flying_cow.name=Летающая корова
+entity.phyg.name=Поросягас
+entity.swet.name=Сладень
 entity.moa.name=Моа
 entity.whirlwind.name=Смерч
 
-# Containers
-container.aether_legacy.incubator=Инкубатор
-container.aether_legacy.enchanter=Райский Зачаровательный Стол
-container.aether_legacy.altar=Алтарь
-container.aether_legacy.freezer=Холодильник
+# Инвентари
 
-# Advancements
-advancement.aether_legacy.enter_aether=Недоброжелательный Рай
+container.aether_legacy.incubator=Инкубатор
+container.aether_legacy.enchanter=Эфирный чародейский стол
+container.aether_legacy.altar=Алтарь
+container.aether_legacy.freezer=Морозильная камера
+
+# Достижения
+
+advancement.aether_legacy.enter_aether=Недоброжелательный рай
 advancement.aether_legacy.blue_aercloud=Бесконечность не предел!
-advancement.aether_legacy.gravitite_tools=Розовый - новый синий
+advancement.aether_legacy.gravitite_tools=Розовый — новый синий
 advancement.aether_legacy.incubator=Теперь ты часть семьи
 advancement.aether_legacy.enchanter=Ты веришь в магию?
-advancement.aether_legacy.mount_phyg=Когда свиньи полетят
-advancement.aether_legacy.bronze_dungeon=Как Боссару!
+advancement.aether_legacy.mount_phyg=Свин Аэрлайнс
+advancement.aether_legacy.bronze_dungeon=Как босс!
 advancement.aether_legacy.silver_dungeon=Свергнутый с трона
-advancement.aether_legacy.gold_dungeon=Потушено
+advancement.aether_legacy.gold_dungeon=Погас...
 advancement.aether_legacy.loreception=Познавательно!
 
-# Advancement Descriptions
-advancement.aether_legacy.enter_aether.desc=Войти в рай
+# Описания достижений
+
+advancement.aether_legacy.enter_aether.desc=Войдите в Эфир
 advancement.aether_legacy.blue_aercloud.desc=Попрыгайте на синем облаке
 advancement.aether_legacy.gravitite_tools.desc=Создайте инструмент из гравитита
 advancement.aether_legacy.incubator.desc=Вырастите в инкубаторе Моа
 advancement.aether_legacy.enchanter.desc=Создайте алтарь
-advancement.aether_legacy.mount_phyg.desc=Полетайте на Летающей свинье
+advancement.aether_legacy.mount_phyg.desc=Полетайте на поросягасе
 advancement.aether_legacy.bronze_dungeon.desc=Одолейте бронзового босса в подземелье
 advancement.aether_legacy.silver_dungeon.desc=Одолейте серебряного босса в подземелье
 advancement.aether_legacy.gold_dungeon.desc=Одолейте золотого босса в подземелье
@@ -310,9 +314,9 @@ tab.accessories.name=Аксессуары
 # Subtitles
 subtitles.aemob.moa.say=Моа зовёт
 subtitles.aemob.moa.flap=Моа машет
-subtitles.aemob.phyg.say=Летающая свинья хрюкает
-subtitles.aemob.phyg.hurt=Летающая свинья получает урон
-subtitles.aemob.phyg.death=Летающая свинья умирает
+subtitles.aemob.phyg.say=Поросягас хрюкает
+subtitles.aemob.phyg.hurt=Поросягас ранен
+subtitles.aemob.phyg.death=Поросягас умирает
 subtitles.aemob.sheepuff.say=Овце-облако блеет
 subtitles.aemob.sheepuff.hurt=Овце-облако получает урон
 subtitles.aemob.sheepuff.death=Овце-облако умирает
@@ -406,7 +410,7 @@ gui.spirit.line7.2=Не оскорбляй меня больше, или поч�
 gui.spirit.line8=Это твое последнее предупреждение. Уходи или приготовься сгореть. 
 gui.spirit.line9=Как вы хотите, ваша смерть будет медленной и мучительной.
 gui.spirit.line10=Разве твоя предыдущая смерть не удовлетворила твое любопытство, человек?
-gui.spirit.dead=Такой сильный холод ... это чувство ... боли?
+gui.spirit.dead=Такой сильный холод... Это чувство... боли?
 gui.spirit.playerdied=Такова судьба существа, противостоящего могуществу солнца.
 
 gui.treasure_chest.bronze=Бронзовый сундук с сокровищами
@@ -414,39 +418,31 @@ gui.treasure_chest.silver=Серебряный сундук с сокровищ�
 gui.treasure_chest.gold=Золотой сундук с сокровищами
 gui.treasure_chest.platinum=Платиновый сундук с сокровищами
 
-gui.sun_altar.time=Выберите Время
+gui.sun_altar.time=Выберите время
 
-title.aether_legacy.slider.name=Слайдер
+title.aether_legacy.slider.name=Скользитель
 title.aether_legacy.valkyrie_queen.name=Королева валькирий
-title.aether_legacy.sun_spirit.name=Дух Солнца
+title.aether_legacy.sun_spirit.name=Дух солнца
 
-gui.loading.enteraether=Приветствуем в раю
-gui.loading.exitaether=Покинул рай
+gui.loading.enteraether=Приветствуем в Эфире
+gui.loading.exitaether=Покинул Эфир
 
-gui.skyroot_bed.respawn_point=Respawn point set
+glove_size.option.skin=Скин
+glove_size.option.hat=Шляпа
 
-gui.button.halo=Halo:
-gui.button.glow=Developer Glow:
-gui.button.aether_cape=Aether Cape:
-gui.button.gloves=Gloves:
-gui.button.glove_size=Glove Size:
+key.aether.category=The Aether
+key.aether.accessory_menu=Открыть меню аксессуаров
 
-glove_size.option.skin=Skin
-glove_size.option.hat=Hat
+gui.aether_menu.normal_theme=Обычная тема
+gui.aether_menu.aether_theme=Тема Эфира
 
-key.aether.category=Aether
-key.aether.accessory_menu=Open Accessories Menu
+gui.aether_trivia.pro_tip=Совет:
 
-gui.aether_menu.normal_theme=Normal Theme
-gui.aether_menu.aether_theme=Aether Theme
-
-gui.aether_trivia.pro_tip=Pro Tip:
-
-# Effect names
+# Эффекты
 
 effect.aether.inebriation=Inebriation
 
-# Death messages
+# Сообщения о смерти
 
 death.attack.inebriation=%1$s был опьянён
 death.attack.inebriation_indirect=%1$s был опьянен %2$s
@@ -456,9 +452,9 @@ death.attack.incineration_firo=%1$s was incinerated by %2$s's Fire Ball
 death.attack.icey_ball=%1$s was chilled by %2$s's Icey Ball
 death.attack.lightning_ball=%1$s was zapped by %2$s's Thunder Ball
 
-# Config
+# Настройки
 
-aether_legacy.config.title=Конфигурации Aether Legacy
+aether_legacy.config.title=Настройки Aether Legacy
 aether_legacy.general.dimension=Настройки измерений
 
 aether_legacy.general.gameplay_changes=Изменения в игровом процессе

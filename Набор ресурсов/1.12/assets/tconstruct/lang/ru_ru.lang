@@ -893,7 +893,7 @@ gui.general.hover=Наведите на ссылки для большей ин�
 
 # Вкладки инвентаря творческого режима
 
-itemGroup.TinkerGeneral=Tinkers' Construct: Основные предметы
+itemGroup.TinkerGeneral=Tinkers' Construct: основные предметы
 itemGroup.TinkerTools=Tinkers' Construct: инструменты
 itemGroup.TinkerToolParts=Tinkers' Construct: части инструментов
 itemGroup.TinkerSmeltery=Tinkers' Construct: плавильня

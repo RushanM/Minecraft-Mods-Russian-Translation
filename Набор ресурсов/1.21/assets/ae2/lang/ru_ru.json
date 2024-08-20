@@ -130,7 +130,7 @@
     "gui.ae2.CraftErrorCpuTooSmall": "У выбранного ЦП не хватает места для хранения.",
     "gui.ae2.CraftingInterface": "Поставщик шаблона на ЭМ",
     "gui.ae2.CreativeTab": "Applied Energistics 2",
-    "gui.ae2.CreativeTabFacades": "Applied Energistics 2: Фасады",
+    "gui.ae2.CreativeTabFacades": "Applied Energistics 2: фасады",
     "gui.ae2.Drive": "Диск на ЭМ",
     "gui.ae2.EnergyLevelEmitter": "Излучатель уровня энергии на ЭМ",
     "gui.ae2.ExportBus": "Экспортирующая шина на ЭМ",

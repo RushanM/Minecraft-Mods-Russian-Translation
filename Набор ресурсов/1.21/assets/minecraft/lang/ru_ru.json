@@ -151,7 +151,7 @@
     "rpo.modsru.general": "Общие настройки",
     "rpo.modsru.general.modsCreativeTabsStyle": "Стиль вкладок модов в инвентаре творческого режима",
     "rpo.modsru.general.modsCreativeTabsStyle.items": "[Субъект]",
-    "rpo.modsru.general.modsCreativeTabsStyle.modItems": "[Мод]: [Субъект]",
+    "rpo.modsru.general.modsCreativeTabsStyle.modItems": "[Мод]: [субъект]",
     "rpo.modsru.general.modsCreativeTabsStyle.original": "Авторский",
     "rpo.modsru.general.modsCreativeTabsStyle.tooltip": "Определите стиль заголовков вкладок модов в инвентаре творческого режима",
     "rpo.modsru.general.modsWordStyle": "Перевод §amod§r",
