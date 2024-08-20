@@ -1,11 +1,15 @@
 {
-    "modmenu.summaryTranslation.lithium": "Мод-оптимизатор, вносящий множество улучшений в производительность игры",
+    "modmenu.summaryTranslation.lithium": "Мод-оптимизатор, улучшающий производительность игры",
     "modmenu.nameTranslation.lithium": "Литий",
     "modmenu.descriptionTranslation.lithium": "Литий — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который вносит множество улучшений в производительность игры.",
 
-    "modmenu.summaryTranslation.sodium": "Мод-оптимизатор, улучшающий частоту кадров и снижающий задержки",
+    "modmenu.summaryTranslation.sodium": "Мод-оптимизатор, повышающий FPS и снижающий задержки",
     "modmenu.nameTranslation.sodium": "Натрий",
     "modmenu.descriptionTranslation.sodium": "Натрий — это бесплатный мод для оптимизации Minecraft с открытым исходным кодом, который улучшает частоту кадров и снижает задержки.",
+
+    "modmenu.summaryTranslation.ferritecore": "Снижает использование оперативной памяти",
+    "modmenu.nameTranslation.ferritecore": "Ферритовое ядро",
+    "modmenu.descriptionTranslation.ferritecore": "Снижает использование оперативной памяти.",
 
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
@@ -21,7 +25,6 @@
     "modmenu.descriptionTranslation.dynamicpack": "Оснащает наборы ресурсов возможностью автообновления.",
     "modmenu.descriptionTranslation.fabric-language-kotlin": "Модуль поддержки Kotlin для языка, используемого Фабрик.",
     "modmenu.descriptionTranslation.flow": "Анимация открытия/закрытия инвентарей.",
-    "modmenu.descriptionTranslation.iris": "Современный мод на шейдеры в Minecraft, созданный, чтобы быть совместимым с уже существующими наборами шейдеров, созданными для OptiFine.",
     "modmenu.descriptionTranslation.kelui": "Альтернативный дизайн меню на вкус Кела, то есть, как Келу самому удобно использовать компоненты.",
     "modmenu.descriptionTranslation.mcwbridges": "Простой мод, добавлящий множество мостов!",
     "modmenu.descriptionTranslation.mcwdoors": "Добавляет множество новых дверей в ванильном и уникальных стилях!",
@@ -59,7 +62,6 @@
     "modmenu.nameTranslation.fabric-resource-loader-v0-testmod-test1": "Тест шаблонного мода загрузчика ресурсов Фабрика",
     "modmenu.nameTranslation.fabric-screen-handler-api-v1-testmod": "Шаблонный мод API обработчика экранов Фабрика",
     "modmenu.nameTranslation.flow": "Плавность",
-    "modmenu.nameTranslation.iris": "Ирис",
     "modmenu.nameTranslation.kelui": "Пользовательский интерфейс Кела",
     "modmenu.nameTranslation.mcwbridges": "Мосты Макауа",
     "modmenu.nameTranslation.mcwdoors": "Двери Макауа",
@@ -84,7 +86,6 @@
     "modmenu.summaryTranslation.dynamicpack": "Добавляет автообновление наборам ресурсов",
     "modmenu.summaryTranslation.fabric-language-kotlin": "Модуль Kotlin для языка Фабрик",
     "modmenu.summaryTranslation.flow": "Анимация открытия/закрытия инвентарей",
-    "modmenu.summaryTranslation.iris": "Современный мод на шейдеры, поддерживающий шейдеры для OptiFine",
     "modmenu.summaryTranslation.kelui": "Альтернативный дизайн меню на вкус Кела",
     "modmenu.summaryTranslation.mcwbridges": "Простой мод, добавлящий множество мостов!",
     "modmenu.summaryTranslation.mcwdoors": "Добавляет множество новых дверей в ванильном и уникальных стилях!",
