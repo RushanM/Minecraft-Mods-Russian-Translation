@@ -1,10 +1,10 @@
 {
     "category.modmenu.name": "Mod Menu",
     "isxander-main-menu-credits.antighost": "Позволяет устранить блоки-призраки с помощью /ghost",
-    "key.modmenu.open_menu": "Открыть Mod Menu",
+    "key.modmenu.open_menu": "Открыть список модов",
     "modmenu.authorPrefix": "Автор: %s",
     "modmenu.badge.clientsideOnly": "Клиент",
-    "modmenu.badge.deprecated": "Устаревшая",
+    "modmenu.badge.deprecated": "Устарела",
     "modmenu.badge.forge": "Forge",
     "modmenu.badge.library": "Библиотека",
     "modmenu.badge.minecraft": "Minecraft",

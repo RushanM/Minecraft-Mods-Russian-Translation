@@ -1,6 +1,6 @@
 {
     "category.modmenu.name": "Mod Menu",
-    "key.modmenu.open_menu": "Открыть Mod Menu",
+    "key.modmenu.open_menu": "Открыть список модов",
     "modmenu.authorPrefix": "Автор: %s",
     "modmenu.badge.forge": "Forge",
     "modmenu.badge.minecraft": "Minecraft",
@@ -13,7 +13,7 @@
     "modmenu.credits": "Способствовали разработке:",
     "modmenu.crowdin": "Crowdin",
     "modmenu.curseforge": "CurseForge",
-    "modmenu.deprecated": "Устаревшая",
+    "modmenu.deprecated": "Устарела",
     "modmenu.descriptionTranslation.furbandits": "Пушистые еноты!",
     "modmenu.descriptionTranslation.modmenu": "Добавляет меню установленных модов для их просмотра",
     "modmenu.descriptionTranslation.tfb2": "Широкий спектр происхождений антропоморфов (фурри).\nДополнение Origin от Caigan.",

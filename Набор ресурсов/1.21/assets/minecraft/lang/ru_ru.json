@@ -55,13 +55,17 @@
     "modmenu.nameTranslation.fabric-block-api-v1": "API блоков Фабрика (версия 1)",
     "modmenu.summaryTranslation.fabric-block-api-v1": "Хуки для работы с блоками",
 
+    "modmenu.descriptionTranslation.fabric-block-api-v1": "Хуки для работы с блоками.",
+    "modmenu.nameTranslation.fabric-block-api-v1": "API блоков Фабрика (версия 1)",
+    "modmenu.summaryTranslation.fabric-block-api-v1": "Хуки для работы с блоками",
+
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
     "modmenu.descriptionTranslation.animatica": "Позволяет анимировать больше текстур игры, используя формат анимаций MCPatcher и OptiFine.",
     "modmenu.descriptionTranslation.bettermounthud": "Улучшает игровой интерфейс при езде на животных.",
     "modmenu.descriptionTranslation.capes": "Мод, который позволяет использовать плащи OptiFine, LabyMod, Cosmetica, Wynntils, Capes++ и MinecraftCapes Mod.",
     "modmenu.descriptionTranslation.catalogue": "Современное меню модов, совместимое с любыми загрузчиками модов.",
-    "modmenu.descriptionTranslation.continuity": "«Преемственность» — это мод для Fabric, который позволяет наборам ресурсам, использующим формат соединённых текстур OptiFine, формат светящихся текстур OptiFine (только у блоков и моделей предметов) или формат пользовательских слоёв блоков OptiFine, работать без OptiFine.",
+    "modmenu.descriptionTranslation.continuity": "Continuity  — это мод для Fabric, который позволяет наборам ресурсам, использующим формат соединённых текстур OptiFine, формат светящихся текстур OptiFine (только у блоков и моделей предметов) или формат пользовательских слоёв блоков OptiFine, работать без OptiFine.",
     "modmenu.descriptionTranslation.controlify": "Самый продвинутый мод для добавления поддержки контроллера в Minecraft.",
     "modmenu.descriptionTranslation.cubes-without-borders": "Мод, который позволяет играть в Minecraft в безрамочном полноэкранном окне.",
     "modmenu.descriptionTranslation.debugify": "Исправляет ошибки Minecraft, о которых сообщают на баг-трекере.\nЛицензии:\n— TieFix от j-Tai — код используется под лицензией LGPLv3.\n— Sodium Extra от FlashyReese — код используется под лицензией LGPLv3.\n— 2x2 Surrounded Saplings Fix от Ampflower — код используется под лицензией Zlib.",
