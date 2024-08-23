@@ -1,4 +1,5 @@
-{"itemGroup.cfm":"MrCrayfish's Furniture Mod",
+{
+"itemGroup.cfm":"MrCrayfish's Furniture Mod",
 "block.cfm.oak_table":"Дубовый стол",
 "block.cfm.spruce_table":"Еловый стол",
 "block.cfm.birch_table":"Берёзовый стол",
@@ -494,4 +495,5 @@
 "subtitle.cfm.diving_board.bounce":"Прыжок с трамплина",
 "subtitle.cfm.open_fridge":"Открыть холодильник",
 "subtitle.cfm.close_fridge":"Закрыть холодильник",
-"message.cfm.mail_queue_full":"Почтовая очередь этого игрока полна. Попробуйте позже..."}
+"message.cfm.mail_queue_full":"Почтовая очередь этого игрока полна. Попробуйте позже..."
+}
