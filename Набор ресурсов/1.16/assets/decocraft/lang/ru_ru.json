@@ -1,4 +1,5 @@
-{"block.decocraft.stuffed_creeper": "Набитый крипер",
+{
+"block.decocraft.stuffed_creeper": "Плюшевый крипер",
 "block.decocraft.grandfather_clock": "Дедушкины часы",
 "block.decocraft.wooden_blocks_1": "Деревянные блоки 1",
 "block.decocraft.wooden_blocks_2": "Деревянные блоки 2",
@@ -2363,4 +2364,5 @@
 "itemGroup.decocraft-architecture.windows": "Decocraft. Архитектура: Окна",
 "itemGroup.decocraft-nature.pots": "Decocraft. Природа: Горшки",
 "itemGroup.decocraft-nature.plants": "Decocraft. Природа: Растения",
-"itemGroup.decocraft-nature.potted_plants": "Decocraft. Природа: Растения в горшках"}
+"itemGroup.decocraft-nature.potted_plants": "Decocraft. Природа: Растения в горшках"
+}
