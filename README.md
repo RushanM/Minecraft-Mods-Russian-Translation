@@ -59,6 +59,7 @@
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
 | 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
+| 1.20 | Переведён | trofers | Trofers | 5.0.2 |
 | 1.20 | ... | ... | ... | ... |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.21 | Не готов | fabric-convention-tags-v2 | Fabric Convention Tags | 08.06.2024 |
@@ -86,7 +87,7 @@
 
 | Сборка | Русское название | Для версии сборки | Статус перевода |
 | - | - | - | - |
-| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Альфа 0.6.2 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведён интерфейс и несколько квестов |
+| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Бета 0.8.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведён интерфейс и несколько квестов |
 | [GregTech: New Horizons](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/GT%20New%20Horizons) | *GregTech: новые горизонты* | 2.6.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов и кнопки главного меню |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено главное меню и голос |
 | [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | **ПЕРЕВОД В ПРОЦЕСС**Е: переведено несколько квестов |

@@ -13,13 +13,13 @@ ItemEvents.tooltip(tooltip => {
     tooltip.add('kubejs:microminer_t8half', Text.translatable('item.kubejs.microminer_t8half.desc'))
 
     tooltip.addAdvanced(['/kubejs:stabilized_microminer/'], (item, adv, text) => {
-        text.add(1, '§7§oСтабилизрованная версия, в которую внедрено сердце вселенной.')
-        text.add(2, '§7§oВечный срок службы. Многоразовый. Абсолютно не имбалансный.')
-        text.add(3, '§7§oПодозрительно знакомо выглядит.')
+        text.add(1, Text.translatable('item.kubejs.stabilized_microminer.tooltip.1'))
+        text.add(2, Text.translatable('item.kubejs.stabilized_microminer.tooltip.2'))
+        text.add(3, Text.translatable('item.kubejs.stabilized_microminer.tooltip.3'))
     })
 
     tooltip.addAdvanced(['/kubejs:pristine_matter/'], (item, adv, text) => {
-        text.add(1, '§7§oБесконечная и непостижимая бездна материалов.')
+        text.add(1, Text.translatable('item.kubejs.pristine_matter.desc'))
     })
 
     // Компоненты микрокопателей
@@ -53,12 +53,6 @@ ItemEvents.tooltip(tooltip => {
 
     tooltip.add(['thermal:upgrade_augment_1', 'thermal:upgrade_augment_2', 'thermal:upgrade_augment_4', 'thermal:upgrade_augment_3', 'thermal:dynamo_output_augment'], '§aНе берите предметы из EMI! Используйте рецепты создания, чтобы получить правильные данные NBT.')
 
-    // Старое
-
-    tooltip.addAdvanced(/storagedrawers:/, (item, advanced, text) => {
-        text.add(1, [Text.red('Старое').bold()])
-    })
-
     // Исправление текста GTCEU
 
     tooltip.addAdvanced(['gtceu:creative_energy', 'gtceu:creative_tank', 'gtceu:creative_chest', 'gtceu:creative_data_access_hatch'], (item, adv, text) => {
@@ -70,23 +64,22 @@ ItemEvents.tooltip(tooltip => {
 
     // Схемы
 
-    tooltip.addAdvanced(`kubejs:matter_processor_mainframe`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПЭН`, Math.round(Client.lastNanoTime / 1000000000)))})
-    tooltip.addAdvanced(`kubejs:matter_processor_computer`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПВН`, Math.round(Client.lastNanoTime / 1000000000)))})
-    tooltip.addAdvanced(`kubejs:matter_processor_assembly`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПН`, Math.round(Client.lastNanoTime / 1000000000)))})
-    tooltip.addAdvanced(`kubejs:matter_processor`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня НМНТ`, Math.round(Client.lastNanoTime / 1000000000)))})
-    tooltip.addAdvanced(`kubejs:dimensional_processor_mainframe`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПБН`, Math.round(Client.lastNanoTime / 100000000)))})
-    tooltip.addAdvanced(`kubejs:dimensional_processor_computer`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПЭН`, Math.round(Client.lastNanoTime / 100000000)))})
-    tooltip.addAdvanced(`kubejs:dimensional_processor_assembly`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПВН`, Math.round(Client.lastNanoTime / 100000000)))})
-    tooltip.addAdvanced(`kubejs:dimensional_processor`, (item, adv, text) => {text.add(1, rainbowifySingle(`Схема уровня ПН`, Math.round(Client.lastNanoTime / 100000000)))})
-    tooltip.addAdvanced(`kubejs:monic_processor_mainframe`, (item, adv, text) => {text.add(1, Text.blue(`Схема уровня МАКС`))})
-    tooltip.addAdvanced(`kubejs:monic_processor_computer`, (item, adv, text) => {text.add(1, Text.blue(`Схема уровня ПБН`))})
-    tooltip.addAdvanced(`kubejs:monic_processor_assembly`, (item, adv, text) => {text.add(1, Text.blue(`Схема уровня ПЭН`))})
-    tooltip.addAdvanced(`kubejs:monic_processor`, (item, adv, text) => {text.add(1, Text.blue(`Схема уровня ПВН`))})
+    tooltip.addAdvanced(`kubejs:matter_processor_mainframe`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uev_tier_circuit'), Math.round(Client.lastNanoTime / 1000000000)))})
+    tooltip.addAdvanced(`kubejs:matter_processor_computer`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uhv_tier_circuit'), Math.round(Client.lastNanoTime / 1000000000)))})
+    tooltip.addAdvanced(`kubejs:matter_processor_assembly`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uv_tier_circuit'), Math.round(Client.lastNanoTime / 1000000000)))})
+    tooltip.addAdvanced(`kubejs:matter_processor`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.zpm_tier_circuit'), Math.round(Client.lastNanoTime / 1000000000)))})
+    tooltip.addAdvanced(`kubejs:dimensional_processor_mainframe`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uiv_tier_circuit'), Math.round(Client.lastNanoTime / 100000000)))})
+    tooltip.addAdvanced(`kubejs:dimensional_processor_computer`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uev_tier_circuit'), Math.round(Client.lastNanoTime / 100000000)))})
+    tooltip.addAdvanced(`kubejs:dimensional_processor_assembly`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uhv_tier_circuit'), Math.round(Client.lastNanoTime / 100000000)))})
+    tooltip.addAdvanced(`kubejs:dimensional_processor`, (item, adv, text) => {text.add(1, rainbowifySingle(Text.translatable('item.kubejs.uv_tier_circuit'), Math.round(Client.lastNanoTime / 100000000)))})
+    tooltip.addAdvanced(`kubejs:monic_processor_mainframe`, (item, adv, text) => {text.add(1, Text.blue(Text.translatable('item.kubejs.max_tier_circuit')))})
+    tooltip.addAdvanced(`kubejs:monic_processor_computer`, (item, adv, text) => {text.add(1, Text.blue(Text.translatable('item.kubejs.uiv_tier_circuit')))})
+    tooltip.addAdvanced(`kubejs:monic_processor_assembly`, (item, adv, text) => {text.add(1, Text.blue(Text.translatable('item.kubejs.uev_tier_circuit')))})
+    tooltip.addAdvanced(`kubejs:monic_processor`, (item, adv, text) => {text.add(1, Text.blue(Text.translatable('item.kubejs.uhv_tier_circuit')))})
 
     // Многоблочные структуры
 
-    tooltip.add('moni_multiblocks:hypogean_infuser', Text.translatable('gtceu.sculk_reverberator.desc'))
-    tooltip.add('gtceu:hypogean_reactor', Text.translatable('gtceu.hypogean_reactor.desc'))
+    tooltip.add('gtceu:discharger', Text.translatable('gtceu.discharger.desc'))
     tooltip.add('gtceu:simulation_supercomputer', Text.translatable('gtceu.simulation_supercomputer.desc'))
     tooltip.add('gtceu:loot_superfabricator', Text.translatable('gtceu.loot_superfabricator.desc'))
     tooltip.add('gtceu:greenhouse', Text.translatable('gtceu.greenhouse.desc'))
@@ -136,8 +129,11 @@ ItemEvents.tooltip(tooltip => {
     tooltip.add('gtceu:infinity_ingot', Text.darkGray('Ярость вселенной в ваших руках.'))
     tooltip.add('gtceu:monium_ingot', Text.darkGray('Спокойствие вселенной в ваших руках.'))
     tooltip.add('extendedcrafting:the_ultimate_catalyst', Text.darkGray("Я — истинный пиковый катализатор…"))
+    tooltip.add('extendedcrafting:auto_flux_crafter',("Использует большое количество энергии для преобразования скалка в скалковые ядра."))
+    tooltip.add('extendedcrafting:flux_alternator', ("Обеспечивает энергией скалковое зарядное устройство на расстоянии до 3 блоков."))
     tooltip.add('extendedcrafting:the_ultimate_component', Text.darkGray("Нет никого лучше меня…"))
     tooltip.add('kubejs:excitationcoil', 'Исключительно компонент рецептов')
+    tooltip.add('gtceu:terminal', 'Может автоматически выстраивать многоблочные структуры при нажатии ПКМ с зажатой Shift по контроллеру')
 
     // Подсказки NuclearCraft
 
@@ -164,7 +160,7 @@ ItemEvents.tooltip(tooltip => {
     tooltip.add('nuclearcraft:californium_252', '§eCf²⁵²');
 
     tooltip.addAdvanced(['/^kubejs:.+infinity_dust_block$/', 'kubejs:infinity_dust_block'], (item, adv, text) => {
-        text.add(1, Text.gray('Не совсем твёрдый'))
+        text.add(1, Text.translatable('item.kubejs.infinity_dust_block.tooltip'))
     })
 
     if (Platform.isLoaded('tempad')) {

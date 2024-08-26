@@ -166,6 +166,18 @@
 			x: 17.0d
 			y: 22.25d
 		}
+				{
+			id: "33B08B68738FB6E3"
+			linked_quest: "49D33146A1F417E8"
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			id: "3580707E636655C2"
+			linked_quest: "11154356854B64DA"
+			x: -6.0d
+			y: 8.25d
+		}
 	]
 	quests: [
 		{
@@ -262,6 +274,8 @@
 				"* Dense Coal Ore"
 				"* Dense Emerald Ore"
 				"* Dense Redstone Ore&r"
+				""
+				"Eventually, when you unlock the &aHyperbolic Microverse Projector&r, you can also use it to gain a massive amount of &bStellar Creation Data&r at once."
 			]
 			id: "15DBB22E3DC0AFB7"
 			rewards: [{
@@ -901,6 +915,8 @@
 				"&6* Boron Dust"
 				"* Molybdenite Ore"
 				"* Beryllium Ore"
+								""
+				"This microminer will also be important much later, as the sole source of &2Stabilized Oganesson&r."
 			]
 			id: "023197AB7CDBDD6E"
 			rewards: [{
@@ -918,75 +934,6 @@
 			title: "&2Tier Five Micro Miner"
 			x: 6.0d
 			y: 6.25d
-		}
-		{
-			dependencies: [
-				"2181102841205407"
-				"77582C534A994D7C"
-				"6B23DD1121BE8174"
-				"22EE79257B57E56B"
-			]
-			description: [
-				"Now that you have &6Osmium&r and &6Iridium&r from the &6Tier Four Micro Miner&r or &6Platinum Group Processing&r, you have access to something vastly better for Extended Crafting Table Automation&r: &bPackagedExCrafting."
-				""
-				"To begin, you'll need to craft one of each extended &3Package Crafter&r listed on the right. Put an &3Unpackager&r on top of each one, and then a &3Packager&r anywhere you want. These are all AE2 devices, so you'll need to connect them to an ME Network."
-				""
-				"Next, right-click the &3Package Recipe Encoder&r, and you should see a button saying \"Processing\": this button cycles through recipe types, including the various Extended Crafting tables. You'll have to choose the appropriate table for the recipe you want to encode."
-				""
-				"&6Holders&r must be encoded in pairs: one for the Packager, and one for the Unpackager. Select the appropriate table for the recipe, look up the recipe you want to encode, and press &6[+]&r in &bREI&r to fill it in. Put two Holders in the top-left slot and press Save to encode the recipe to both of them. Finally, put each Holder into the respective machines."
-				""
-				"If you've done everything correctly, you should see the item appear as craftable in a Terminal."
-				""
-				"While it might seem that the crafting process is slow, &ePackagedAuto is excellent at parallelizing&r. You can surround an Unpackager with Crafters and it will use all of them. It's also possible to add more Unpackagers with Crafters to keep up with the Packager, as long as the Holders are all the same."
-			]
-			icon: "packagedexcrafting:ultimate_crafter"
-			id: "53C09541792FACF4"
-			rewards: [{
-				count: 5
-				id: "00B0BC45DB6CDAB9"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			size: 1.5d
-			tasks: [
-				{
-					id: "382E3A0B54F89BB7"
-					item: "packagedexcrafting:advanced_crafter"
-					type: "item"
-				}
-				{
-					id: "6BD4F2D62F3F873A"
-					item: "packagedexcrafting:elite_crafter"
-					type: "item"
-				}
-				{
-					id: "6A4BDAA83790136E"
-					item: "packagedexcrafting:ultimate_crafter"
-					type: "item"
-				}
-				{
-					count: 3L
-					id: "495A048EF23847CA"
-					item: "packagedauto:unpackager"
-					type: "item"
-				}
-				{
-					count: 3L
-					id: "23DE5E055525B95E"
-					item: "packagedauto:packager"
-					type: "item"
-				}
-				{
-					count: 6L
-					id: "28D5C937C2070CE4"
-					item: "packagedauto:recipe_holder"
-					type: "item"
-				}
-			]
-			title: "Automating Extended Crafting"
-			x: 6.0d
-			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -1067,6 +1014,8 @@
 				"A complex material from &bThermal Expansion&r cooked in an &3Electric Blast Furnace&r, or a &2Alloy Blast Smelter&r."
 				""
 				"&6Enderium&r doesn't require much power (running on as little as MV) but it does need a lot of heat and is incredibly slow without overclocking. &2You can use small amounts of Krypton from Liquid Ender Air distillation to significantly decrease the smelting time.&r"
+								""
+				"&9Enderium also requires Tantalum, which can be renewably created by macerating and processing dragon scales."
 				""
 				"As with all later blast furnace materials, dedicate a furnace to keeping these in stock and have it running constantly to ensure a stable supply (turning it off when you have an acceptably vast stockpile)."
 				""
@@ -1140,6 +1089,12 @@
 				"&2* Uraninite Ore"
 				"* Iridosmine 80/20 Ore"
 				"* Osmiridium 80/20 Ore"
+								""
+				"Once you reach the &aHyperbolic Microverse Projector&r, this microminer can also get the following:"
+				""
+				"&6* Perfect Diamonds"
+				"&6* Perfect Rubies"
+				"&6* Perfect Cinnabar"
 			]
 			id: "49B872B193268554"
 			rewards: [{
@@ -1913,69 +1868,22 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "5A46206776E20233"
-				item: "kubejs:echo_core"
+								item: "kubejs:bathyal_energy_core"
 				type: "item"
 			}]
-			title: "&9Echo Cores"
-			x: 27.25d
-			y: 10.25d
-		}
-		{
-			dependencies: ["6F5579E1646634C7"]
-			description: [
-				"&6Resonant Reaction Casing&r are the penultimate tier of injectors for fusion crafting."
-				""
-				"You'll need a fusion crafting setup with ten of these for the next tier of injector, and the next tier you'll also need ten injectors, so consider making 20 of these."
-			]
-			id: "2358A5CF22FF5495"
-			rewards: [{
-				id: "0022ECDC55B22DC3"
-				item: "kubejs:moni_dollar"
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [{
-				id: "09CD18933F28FA28"
-				item: "kubejs:resonant_reaction_casing"
-				type: "item"
-			}]
-			title: "&9Resonant Reaction Casings"
+						title: "&9Bathyal Energy Core"
 			x: 25.25d
 			y: 12.25d
 		}
 		{
-			dependencies: ["20CB8F878CADA235"]
-			description: [
-				"&6Sculk Reactions Casings&r can be upgraded to Echo Tier via fusion crafting."
-				""
-				"Technically you only need six of these to start making the next tier of injectors, but some recipes will need more than that. Plan on making at least twenty-six of these."
-			]
-			id: "6F5579E1646634C7"
-			rewards: [{
-				count: 2
-				id: "049628C1CAA8417E"
-				item: "kubejs:moni_quarter"
-				type: "item"
-			}]
-			shape: "hexagon"
-			tasks: [{
-				id: "581D806823B709C3"
-				item: "kubejs:echo_reaction_casing"
-				type: "item"
-			}]
-			title: "&9Echo Reaction Casings"
-			x: 27.25d
-			y: 12.25d
-		}
-		{
 			dependencies: [
-				"2358A5CF22FF5495"
 				"7E3A179376673590"
 				"56EFA6A07C7291F7"
 				"6391447F1A411281"
+				"20CB8F878CADA235"
 			]
 			description: [
-				"The main source of &9Abyss Shards&r."
+				"The main source of &9Hadal Shards&r."
 				""
 				"&9This microminer is also to bring back Ender dragon eggs and Ender dragon scales, as well as neutronium, depending on the mission&r."
 			]
@@ -2495,49 +2403,8 @@
 				item: "minecraft:tnt"
 				type: "item"
 			}]
-			x: 19.25d
-			y: -0.5d
-		}
-		{
-			dependencies: ["49D33146A1F417E8"]
-			description: [
-				"&9Radon&r will be needed in large quantities."
-				""
-				"For now, you'll need to obtain it from Tier Two Micro Miner missions, in the form of &6Radium Salt&r. Electrolyze it for Radon and &6Rock Salt&r. &2You can also get it from distilling liquid Ender Air.&r"
-				""
-				"Later it will be possible to make Radon using a &bGregTech &3Fusion Reactor&r."
-			]
-			disable_toast: true
-			icon: "gtceu:radon_bucket"
-			id: "6B0A547EA42CD35A"
-			shape: "hexagon"
-			tasks: [{
-				amount: 1000L
-				fluid: "gtceu:radon"
-				id: "613824353565F9CF"
-				type: "fluid"
-			}]
-			title: "&2Radon"
-			x: -6.0d
-			y: 6.25d
-		}
-		{
-			dependencies: [
-				"11154356854B64DA"
-				"6B0A547EA42CD35A"
-			]
-			description: ["You'll need an HV or better &3Chemical Bath&r to make these. The recipe is quite slow, so invest in the highest tier Chemical Baths you can and consider parallelizing the recipe."]
-			disable_toast: true
-			id: "71602D44E1D0013E"
-			shape: "hexagon"
-			subtitle: "When &6Ender Eyes&r just aren't creepy enough."
-			tasks: [{
-				id: "52E1C27170D352B7"
-				item: "gtceu:quantum_eye"
-				type: "item"
-			}]
-			x: -6.0d
-			y: 8.25d
+			x: 3.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["53EC3831D66769CA"]
@@ -2675,75 +2542,6 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["74469710D910C19D"]
-			description: [
-				"&bPackagedAuto&r is an addon for &bApplied Energistics 2&r. Its main purpose in &5Monifactory&r is to allow you to eventually automate &bExtended Crafting&r recipes, but you may come up with other fun uses for it as well."
-				""
-				"&bApplied Energistics 2&r stores recipes in &aPatterns&r, but so far they have been limited to at most 9 stacks of items as input (a standard 3x3 crafting grid). PackagedAuto stores recipes in &aPackage Recipe Holders&r, which don't have this limitation. Additionally, each Holder can store up to &e20 different recipes&r. Holders must be encoded in the &3Package Recipe Encoder&r."
-				""
-				"In the vast majority of situations you'll need two identically-encoded Holders, as the following machines work together."
-				""
-				"The &3Packager&r is a machine that compresses ingredients for a specific recipe into a set of &6Recipe Packages&r. Each package in a set can hold up to 9 stacks of ingredient items. A simple recipe might consist of one package, but a complex recipe can have up to 9 packages in its set (for 81 total item stacks)."
-				""
-				"The &3Unpackager&r is a machine that extracts ingredient items from complete sets of Recipe Packages made in a Packager, ejecting the items into an adjacent inventory. It will only extract the items if &eall packages in a set are present&r."
-				""
-				"When both a Packager and Unpackager are connected to an ME Network and have the same recipe, the resulting item will appear as craftable in your &aTerminal&r."
-				""
-				"&3Packager Extensions&r will act like a clone of an adjacent Packager — including access to patterns in its Package Recipe Holder — allowing you to craft recipe packages faster. Simply place the Packager Extensions around the Packager. Up to 26 extensions in a 3x3x3 cube around the Packager are supported."
-			]
-			disable_toast: true
-			icon: "packagedauto:package"
-			id: "6B23DD1121BE8174"
-			shape: "hexagon"
-			tasks: [
-				{
-					id: "48748A565C341DF1"
-					item: "packagedauto:packager"
-					type: "item"
-				}
-				{
-					id: "09C32235E81EE845"
-					item: "packagedauto:unpackager"
-					type: "item"
-				}
-				{
-					id: "78ACB6BDC43791BE"
-					item: "packagedauto:recipe_holder"
-					type: "item"
-				}
-				{
-					id: "0DF55C8EB1DA9019"
-					item: "packagedauto:encoder"
-					type: "item"
-				}
-			]
-			title: "PackagedAuto"
-			x: 9.0d
-			y: 3.0d
-		}
-		{
-			dependencies: [
-				"15DBB22E3DC0AFB7"
-				"555BEBF7FD6012B7"
-			]
-			description: [
-				"This is the largest Extended Crafting Table, capable of handling 9x9 recipes."
-				""
-				"&9PackagedAuto is now available, so just use that to automate these recipes."
-			]
-			id: "22EE79257B57E56B"
-			shape: "hexagon"
-			size: 2.0d
-			tasks: [{
-				id: "381FFA3284E21350"
-				item: "extendedcrafting:ultimate_table"
-				type: "item"
-			}]
-			title: "&9Ultimate Crafting Table"
-			x: 6.0d
-			y: 1.0d
-		}
-		{
 			dependencies: ["7A7FFE9E89D19A2F"]
 			description: [
 				"The &3Naquadah Reactor&r is a structure used to generate considerable amounts of EU power from decaying &6Enriched Naquadah&r or &6Naquadria&r into &6Lead&r."
@@ -2846,7 +2644,7 @@
 					type: "item"
 				}
 			]
-			title: "Naquadah Reactor Mk2"
+			title: "Реактор на накваде модели 2"
 			x: 13.0d
 			y: 24.0d
 		}
@@ -2868,7 +2666,7 @@
 				item: "gtceu:advanced_soc_wafer"
 				type: "item"
 			}]
-			title: "Advanced System-on-Chip"
+			title: "Продвинутая система на кристалле"
 			x: 13.0d
 			y: 4.5d
 		}
@@ -2902,9 +2700,9 @@
 		{
 			dependencies: ["595F205B551A53C9"]
 			description: [
-				"&2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals — Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum — as well as Gold. All of these elements will be used in IV-tier and above materials."
+				"&2A rudimentary version of Platinum Group Sludge (PGS) processing existed in the base pack. Here, it is a strong source of the Platinum Group Metals - Ruthenium, Rhodium, Palladium, Osmium, Iridium, and Platinum - as well as Gold. All of these elements will be used in IV-tier and above materials."
 				""
-				"&rYou will need to treat certain ores with &9Nitric Acid&r to yield &6PGS&r — &6Sheldonite&r is the best. Then, using an &3HV+ Centrifuge&r and &9Aqua Regia&r, break it down into the PGS salts, and reduce those salts to the metals."
+				"&rYou will need to treat certain ores with &9Nitric Acid&r to yield &6PGS&r - &6Sheldonite&r is the best. Then, using an &3HV+ Centrifuge&r and &9Aqua Regia&r, break it down into the PGS salts, and reduce those salts to the metals."
 				""
 				"This is still optional, and you can get &6Ruthenium&r and &6Rhodium&r from &6Osmiridium 80/20 Ore&r and &6Iridosmine 80/20 Ore&r from Microverse adventures instead."
 			]
@@ -2928,6 +2726,62 @@
 			title: "&2Platinum Group Processing"
 			x: -6.0d
 			y: 16.25d
+		}
+				{
+			dependencies: [
+				"0B6196692F9E176D"
+				"5199E6FAA4B699CD"
+			]
+			description: [
+				"Interestingly enough, sculk itself functions great as a &9biobattery&r, being able to store and quickly release mass amounts of energy, perfect for some upcoming items. The &9sculk charger&r should be able to get started in tacking advantage of it."
+				""
+				"To use it, set the recipe &ein the same way you would for an autocrafting table&r, then place an inventory (such as a barrel on top), and connect power to the charger and a pylon. Items can be extacted from the charger in any manner."
+				""
+				"The charger and pylon themselves &ehave extreme throughput&r, so don't worry about having to wait for it to craft items."
+			]
+			icon: "extendedcrafting:auto_flux_crafter"
+			id: "7F75D961B102A72D"
+			rewards: [{
+				id: "4CF3CFEF57B863A3"
+				item: "kubejs:moni_quarter"
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "338DCAE7D9D78C51"
+					item: "extendedcrafting:auto_flux_crafter"
+					type: "item"
+				}
+				{
+					id: "00EF32A94D627A37"
+					item: "extendedcrafting:flux_alternator"
+					type: "item"
+				}
+			]
+			title: "&9Sculk Charging"
+			x: 25.25d
+			y: 8.25d
+		}
+		{
+			dependencies: ["7F75D961B102A72D"]
+			description: ["[\"While the charger itself has extreme throughput, it is recommended to either create a \",{ \"text\": \"power substation\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"36B1B083B4FA439F\" }},\", or keep the cores themselves in stock, as a single core requires 200 Million RF to craft.\"]"]
+			id: "22144A6785524FDF"
+			rewards: [{
+				id: "5B1FA1A9ACBC0EB7"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "295338231C995AE7"
+				item: "kubejs:sculk_core"
+				type: "item"
+			}]
+			title: "&9Sculk Core"
+			x: 27.25d
+			y: 8.25d
 		}
 	]
 	title: "Поздние этапы игры"

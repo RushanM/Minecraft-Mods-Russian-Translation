@@ -3,11 +3,11 @@
 <p align="center"><img src="https://github.com/ThePansmith/Monifactory/assets/70342772/4ac1d5e7-0610-4f44-bfed-b3b2022eecc0" height="250" alt="Логотип"></p>
 <h1 align="center">Monifactory</h1>
 <h3 align="center"><b>Автор сборки: <a href="https://github.com/ThePansmith">Pansmith</a></b></h3>
-<p align="center"><b><i>Ремастер и порт <a href="https://github.com/Nomi-CEu/Nomi-CEu">Nomifactory Community Edition Unofficial</a> на основе <a href="https://github.com/GregTechCEu/GregTech-Modern">GregTech CEu Modern</a> и связанных с ним модов.</i></b></p>
+<p align="center"><b><i>Ремастер и порт <a href="https://github.com/Nomi-CEu/Nomi-CEu">Nomifactory Community Edition Unofficial</a> на основе <a href="https://github.com/GregTechCEu/GregTech-Modern">GregTech CEU Modern</a> и связанных с ним модов.</i></b></p>
 
 ## Особенности
 
-* [Масса изменений во всей сборке, от новых многоблочных структур до новых модов и процесса прохождения. Полная переработка процесса прохождения после стадии резервуаров, а также множество других изменений.](https://gist.github.com/ThePansmith/f2637bcbcb37b6d7f07cddb8a3385f14)
+* [Масса изменений во всей сборке, от новых многоблочных структур до новых модов и процесса прохождения. Полная переработка продолжения игры после стадии резервуара, а также множество других изменений.](https://gist.github.com/ThePansmith/f2637bcbcb37b6d7f07cddb8a3385f14)
 * Удаление Draconic Evolution и Avaritia в угоду новым механикам-заменителям
 * Перерисовка всего контента Nomi для лучшего соответствия современным реалиям
 * Новый режим сложности для бывалых игроков сложного режима Nomi CEu
