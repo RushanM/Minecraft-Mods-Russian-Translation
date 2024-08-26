@@ -686,7 +686,7 @@
 				""
 				"As well as the &6Stellar Creation Data&r, which will be useful much, much later."
 				""
-				"&2A new mission is available in CEu. This mission costs HV Electric Pumps and Cryotheum Dust. This nets you Solidified Neon, Xenon and Krypton, although it is better to get those from distilling Liquid Nether and Ender Air, as of the useful byproducts you get, and the tiny amount of each element you get in this mission."
+				"&2A new mission is available in CEU. This mission costs HV Electric Pumps and Cryotheum Dust. This nets you Solidified Neon, Xenon and Krypton, although it is better to get those from distilling Liquid Nether and Ender Air, as of the useful byproducts you get, and the tiny amount of each element you get in this mission."
 			]
 			disable_toast: true
 			id: "472AEEB068D18244"
@@ -956,7 +956,7 @@
 				""
 				"&6Kanthal Coils&r are required primarily for producing &6Silicon&r, required for Circuit parts, and &6Titanium&r, used for &5EV&r machines. An &bMV &3Assembler&r is required to produce them, and they require &62x Kanthal Wire&r, &6Aluminium Foil&r, and &9Copper fluid&r."
 				""
-				"&2In CEu, using higher-tier coils provides some bonuses to their multiblocks.&r For the &3Electric Blast Furnace&r, running recipes hotter than required can reduce the energy cost and time taken. The &9temperature&r of the EBF depends on the coil used and the voltage it is running at. For Kanthal Coils, this means that recipes you could run with &6Cupronickel Coils&r will save &95%%&r energy."
+				"&2In CEU, using higher-tier coils provides some bonuses to their multiblocks.&r For the &3Electric Blast Furnace&r, running recipes hotter than required can reduce the energy cost and time taken. The &9temperature&r of the EBF depends on the coil used and the voltage it is running at. For Kanthal Coils, this means that recipes you could run with &6Cupronickel Coils&r will save &95%%&r energy."
 				""
 				"Refer to the coil tooltip and EBF controller tooltip for the other bonuses provided."
 			]
@@ -1874,7 +1874,7 @@
 				""
 				"&2The LV Circuit Assembler allows you to make Electronic Circuits far more easily."
 				""
-				"The circuit progression has been largely replaced with the progression native to CEu, with a few minor changes to reflect the progression of this pack better.&r Check out the &9Progression quest book tab&r to see the flow of circuit progression."
+				"The circuit progression has been largely replaced with the progression native to CEU, with a few minor changes to reflect the progression of this pack better.&r Check out the &9Progression quest book tab&r to see the flow of circuit progression."
 			]
 			id: "73F8EA8E7DCC94E9"
 			rewards: [{

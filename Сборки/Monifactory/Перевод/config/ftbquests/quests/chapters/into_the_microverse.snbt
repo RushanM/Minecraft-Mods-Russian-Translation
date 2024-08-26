@@ -385,7 +385,7 @@
 		{
 			dependencies: ["56FB624B384FFAF5"]
 			description: [
-				"&2This is new to CEu! Before, you could only distil Liquid Air."
+				"&2This is new to CEU! Before, you could only distil Liquid Air."
 				""
 				"&9Ender Air&r, collected from a &3Gas Collector&r, can be sent into the &3Vacuum Freezer&r to turn it into &9Liquid Ender Air&r."
 				""

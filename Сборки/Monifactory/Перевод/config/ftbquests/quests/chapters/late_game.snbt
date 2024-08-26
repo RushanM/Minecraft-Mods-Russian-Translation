@@ -1354,7 +1354,7 @@
 				""
 				"Second is by combining &6Naquadah Dust&r with certain heavy elements and EnderIO crystal grains. This can provide &6Enriched Naquadah&r and &6Naquadria&r."
 				""
-				"Finally, you can do the full CEu processing of &6Naquadah Dust&r with &9Fluoroantimonic Acid&r, the strongest acid known to man. This is a decently involved process, but not only does it yield all 2 other Nq materials, it also grants byproducts of &6Titanium, Sulfur, Indium, Phosphorus, Barium, and Gallium&r. "
+				"Finally, you can do the full CEU processing of &6Naquadah Dust&r with &9Fluoroantimonic Acid&r, the strongest acid known to man. This is a decently involved process, but not only does it yield all 2 other Nq materials, it also grants byproducts of &6Titanium, Sulfur, Indium, Phosphorus, Barium, and Gallium&r. "
 				""
 				"This quest accepts either &6Fluoroantimonic Acid&r, for those doing the recommended full processing, or &6Trinium Dust, Enriched Naquadah Dust&r and &6Naquadria Dust&r, for those doing the mixer recipes."
 			]
@@ -1395,7 +1395,7 @@
 			description: [
 				"&2A heavy Naquadah isotope with more nuclear capability."
 				""
-				"&6Enriched Naquadah&r is meant to be used in as-of-yet-unimplemented CEu-native reactors. It's used in small amounts for &3Trinium Coil blocks&r, or in Moni reactors, though Naquadria is better for that purpose."
+				"&6Enriched Naquadah&r is meant to be used in as-of-yet-unimplemented CEU-native reactors. It's used in small amounts for &3Trinium Coil blocks&r, or in Moni reactors, though Naquadria is better for that purpose."
 				""
 				"At least it's the easiest to obtain, and you can get it by mixing, the full Naquadah chain, or by passing Purified Naquadah Dust through an Electromagnetic Separator."
 			]
@@ -1469,7 +1469,7 @@
 		}
 		{
 			dependencies: ["15FAEE3F625265F4"]
-			description: ["&2Naquadah Alloy is different in CEu. It requires Naquadah, Osmiridium and Trinium."]
+			description: ["&2Naquadah Alloy is different in CEU. It requires Naquadah, Osmiridium and Trinium."]
 			id: "1B07DB4D58D43B7C"
 			rewards: [
 				{
@@ -2490,7 +2490,7 @@
 				"38791476E970C57D"
 			]
 			description: [
-				"&2Advanced SMD Components&r are new to CEu and are required for &6Crystal and Wetware circuits&r. They can also be substituted for the equivalent of 4 normal SMD components in Nano and Quantum circuits."
+				"&2Advanced SMD Components&r are new to CEU and are required for &6Crystal and Wetware circuits&r. They can also be substituted for the equivalent of 4 normal SMD components in Nano and Quantum circuits."
 				""
 				"All of these components require &1IV&r power and liquid PBI."
 				""
