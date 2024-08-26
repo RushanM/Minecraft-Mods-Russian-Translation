@@ -275,7 +275,8 @@ gui.tropicraft:maxDepth=Макс
 gui.tropicraft:timeRemaining=Осталось
 gui.tropicraft:amtRefined=Очищено на
 
-#Tooltip localizations
+# Tooltip localizations
+
 dart.tropicraft:prefix.name=Дротик
 dart.tropicraft:paralyze.name=Паралича
 dart.tropicraft:poison.name=Яда
@@ -287,7 +288,8 @@ dart.tropicraft:weakness.name=Слабости
 curare.tropicraft:mix.name=Смешанные ингридиенты
 curare.tropicraft:nomix.name=Без ингридиентов
 
-#Record localizations
+# Record localizations
+
 item.tropicraft:record_buriedtreasure.name=Клад
 item.tropicraft:record_easternisles.name=Восточные острова
 item.tropicraft:record_lowtide.name=Приливы и отливы
@@ -295,9 +297,10 @@ item.tropicraft:record_summering.name=Летнее
 item.tropicraft:record_thetribe.name=Племя
 item.tropicraft:record_tradewinds.name=Тропические ветра
 
-#Other localizations
+# Other localizations
+
 death.attack.dart.item=Дротик
 tropicraft.coconutBombWarning=У вас нет разрешения использовать кокосовые бомбы :) Проверьте список разрешенных в настройках мода!
 itemGroup.music=Музыка
-portalenchanter.type_0=Mode: Режим: стройка портала
-portalenchanter.type_1=Mode: Режим: мгновенный телепорт
+portalenchanter.type_0=Режим: стройка портала
+portalenchanter.type_1=Режим: мгновенная телепортация

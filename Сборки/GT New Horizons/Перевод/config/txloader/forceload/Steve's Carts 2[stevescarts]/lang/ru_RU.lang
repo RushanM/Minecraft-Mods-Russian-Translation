@@ -191,11 +191,11 @@ gui.SC2:stateMooshroom=Пассажир: Грибная корова
 gui.SC2:stateChicken=Пассажир: Курица
 gui.SC2:stateWolf=Пассажир: Волк
 gui.SC2:stateSnowGolem=Пассажир: Снеговик
-gui.SC2:stateOcelot=Пассажир: Оцелот
-gui.SC2:stateVillager=Пассажир: Деревенский житель
+gui.SC2:stateOcelot=Пассажир: оцелот
+gui.SC2:stateVillager=Пассажир: крестьянин
 gui.SC2:statePlayer=Пассажир: Игрок
-gui.SC2:stateZombieVillager=Пассажир: Зомби-житель
-gui.SC2:stateChild=Пассажир: Ребенок
+gui.SC2:stateZombieVillager=Пассажир: крестьянин-зомби
+gui.SC2:stateChild=Пассажир: ребёнок
 gui.SC2:stateTamed=Прирученный пассажир
 gui.SC2:statePowerRed=Красный сигнал датчика энергии
 gui.SC2:statePowerBlue=Синий сигнал датчика энергии
@@ -206,14 +206,14 @@ gui.SC2:stateTanksEmpty=Все баки пусты
 gui.SC2:stateTankEmpty=Есть полностью пустой бак
 
 
-# ======================================
-				ITEMS
-# ======================================
+# ITEMS
 
 # Carts
+
 item.SC2:ModularCart.name=Модульная вагонетка
 
 # Modules
+
 item.SC2:unknownmodule.name=Неизвестный модуль SC2
 item.SC2:coal_engine.name=Угольный двигатель
 item.SC2:solar_engine.name=Солнечный двигатель
