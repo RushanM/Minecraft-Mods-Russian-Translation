@@ -133,7 +133,7 @@ ItemEvents.tooltip(tooltip => {
     tooltip.add('extendedcrafting:flux_alternator', ("Обеспечивает энергией скалковое зарядное устройство на расстоянии до 3 блоков."))
     tooltip.add('extendedcrafting:the_ultimate_component', Text.darkGray("Нет никого лучше меня…"))
     tooltip.add('kubejs:excitationcoil', 'Исключительно компонент рецептов')
-    tooltip.add('gtceu:terminal', 'Может автоматически выстраивать многоблочные структуры при нажатии ПКМ с зажатой Shift по контроллеру.')
+    tooltip.add('gtceu:terminal', 'Может автоматически выстраивать многоблочные структуры при нажатии ПКМ с зажатой Shift по контроллеру')
 
     // Подсказки NuclearCraft
 

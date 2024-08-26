@@ -2685,7 +2685,7 @@
 			id: "739F7BF2A90B278A"
 			shape: "hexagon"
 			size: 3.0d
-			subtitle: "Как же МНОГО квестов привязано к этому."
+			subtitle: "Как же МНОГО квестов привязано к этому"
 			tasks: [{
 				count: 64L
 				id: "6E908CE0BA9547C5"

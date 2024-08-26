@@ -2767,7 +2767,7 @@
     "gtceu.machine.hpca.computation_component.tooltip": "Первые маленькие вычисления",
     "gtceu.machine.hpca.empty_component.tooltip": "Просто заполнить место",
     "gtceu.machine.hpca.heat_sink_component.tooltip": "Бесплатное охлаждение! Что-нибудь бесплатно?",
-    "gtceu.machine.hull.tooltip": "§7Чтобы использовать его, вам понадобится всего лишь немного §5в§dо§4о§cб§eр§aа§bж§3е§7н§1и§5я",
+    "gtceu.machine.hull.tooltip": "§7Чтобы его использовать, понадобится немножко §5в§dо§4о§cб§eр§aа§bж§3е§7н§1и§5я",
     "gtceu.machine.hv_alloy_smelter.tooltip": "§7Высокотехнологичная комбинирующая плавильня",
     "gtceu.machine.hv_arc_furnace.tooltip": "§7Кому нужна доменная печь?",
     "gtceu.machine.hv_assembler.tooltip": "§7Мстители, общий сбор!",
