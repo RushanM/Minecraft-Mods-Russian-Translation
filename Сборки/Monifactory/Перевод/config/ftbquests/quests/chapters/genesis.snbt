@@ -199,8 +199,8 @@
 				}
 			]
 			title: "Перемещение между измерениями на тортах"
-			x: -3.0d
-			y: -2.0d
+			x: -2.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
@@ -228,8 +228,8 @@
 				type: "item"
 			}]
 			title: "&9Ящики"
-			x: -3.0d
-			y: -1.0d
+			x: -2.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["66FCC26399376B55"]
@@ -465,55 +465,172 @@
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
 			description: [
-				"&aСерповидный молоток&r используется для работы с машинами из &bThermal Expansion&f, но также может быть использован для базовых операций с блоками из почти любого мода. &9Теперь он также может регулировать трубы из GregTech."
+				"&6Пояс для инструментов&r — это предмет, в котором можно хранить инструменты и легко меняться между ними! В настоящее время у него 2 слота, но позже, как только вы разблокируете &6сталь&r, вы сможете улучшить его до 9 слотов с помощью &6поясных сумок&r, используя &3наковальню&r и немного &aопыта&r!"
 				""
-				"&aЙета-ключ&r используется с машинами и проводами из &bEnder IO&f и имеет несколько специальных режимов отображения (&6прокручивайте колёсико мыши, пока крадётесь&f, чтобы переключаться между ними)."
+				"Создайте пояс для инструментов, и вы сможете использовать клавишу (по умолчанию «R»), когда пояс находится в вашем инвентаре или в слотах для аксессуаров, &cи вы держите что-то в руках, или пояс не пустой&r, чтобы открыть его интерфейс. "
 				""
-				"&aКлюч GregTech&r используется для вращения машин из GregTech и перенастройки их выходных сторон. &2Теперь он также обладает некоторыми функциями других ключей.&r"
+				"Вы также можете нажать ПКМ, держа пояс, чтобы открыть его инвентарь."
+				"{@pagebreak}"
+				"&bПояс для инструментов&r можно использовать как &bаксессуар&r. Откройте свой инвентарь и найдите кнопку аксессуаров, затем нажмите её, чтобы открыть меню дополнительных слотов для аксессуаров, и поместите его в слот для пояса. Или просто водите по каждому слоту инвентаря аксессуаров, пока не найдёте слот для пояса."
 				""
-				"Вы можете увидеть, к какому моду относится машина, по &9синему тексту&f в нижней части её подсказки."
+				"Пояс для инструментов может хранить любые предметы с размером стака 1, такие как мечи, кирки, инструменты из &bGregTech&r, и &6терминал&r. В сборке он немного поднастроен: теперь позволяет хранить любые ключи от &bящиков для хранения&r, но &cне допускает рюкзак из Thermal&r."
+				""
+				"Теперь вы можете вешать и снимать предметы с пояса! Также можно использовать горячие клавиши «&eПрокрутить выбор инструмента налево&r» и «&eПрокрутить выбор инструмента направо&r», пока вы в интерфейсе мода."
 			]
-			icon: "enderio:yeta_wrench"
-			id: "04A0863937695AC4"
+			id: "1B86EF5A24286787"
 			rewards: [{
-				id: "247FC44B6E456222"
+				id: "637891A6BC00C62D"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			subtitle: "Уже запутались во всех этих гаечных ключах?"
-			tasks: [
+			subtitle: "&2Совершенно новый и очень востребованный мод для Community Edition Unofficial, чтобы помочь вам управлять инструментами!"
+			tasks: [{
+				id: "2BFE87C449C8D8F3"
+				item: "toolbelt:belt"
+				type: "item"
+			}]
+			title: "&2Пояс для инструментов"
+			x: 2.5d
+			y: 4.0d
+		}
 				{
-					id: "70251EAC64217000"
-					item: "enderio:yeta_wrench"
-					type: "item"
-				}
+			dependencies: ["2E8BFA2E719B1C47"]
+			description: ["Здесь не требуется делать ничего лишнего. Переплавьте &6брёвна&f в &6древесный уголь&f. Он станет отличным топливом, пока вы не найдёте жилу &6угля&f."]
+			id: "5D97206C8135872B"
+			tasks: [{
+				id: "36D486BE19669899"
+				item: "minecraft:charcoal"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
 				{
-					id: "1F3EDCBF5EB70229"
-					item: {
-						Count: 1b
-						id: "gtceu:wrought_iron_wrench"
-						tag: {
-							Damage: 0
-							GT.Tool: {
-								Damage: 0
-							}
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "20854F1345AB6B1E"
-					item: {
-						Count: 1b
-						id: "thermal:wrench"
-						tag: { }
-					}
-					type: "item"
-				}
-			]
-			title: "&9Многообразие ключей"
-			x: 1.5d
+			dependencies: ["2E8BFA2E719B1C47"]
+			description: ["&3Железные печи&f могут переплавить предмет за &a160 тактов&f, что немного быстрее стандартной &6печи&f, которой требуется &a200 тактов&f. Эффективность использования топлива остаётся одинаковой у всех печей."]
+			id: "7865CDE5CFE005DC"
+			rewards: [{
+				id: "55F7CA98F66953A1"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A2879717EF57D8A"
+				item: "ironfurnaces:iron_furnace"
+				type: "item"
+			}]
+			title: "Печь 2.0"
+			x: 5.5d
 			y: 2.5d
+		}
+		{
+			dependencies: ["7865CDE5CFE005DC"]
+			description: ["&3Медные печи&f — другой уровень скорости, они переплавляют предмет за &a100 тактов&f."]
+			id: "0591171F13A45283"
+			rewards: [{
+				id: "20FC1982A662B6C6"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14CDC80A449BD388"
+				item: "ironfurnaces:copper_furnace"
+				type: "item"
+			}]
+			title: "Печь 3.0"
+			x: 5.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["0591171F13A45283"]
+			description: ["&3Серебряные печи&f — другой уровень скорости, они переплавляют предмет всего за &a80 тактов&f"]
+			id: "3F77EDE69BB649DA"
+			rewards: [{
+				id: "77EC0D08F5C99E37"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "266C775298CDC137"
+				item: "ironfurnaces:silver_furnace"
+				type: "item"
+			}]
+			title: "Печь 4.0"
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3F77EDE69BB649DA"]
+			description: ["&3Золотые печи&f — очередной большой шаг в скорости, ведь они уже переплавляют предмет всего за &a40 тактов&f."]
+			id: "6B121BEFD852BC2D"
+			rewards: [{
+				id: "045094D4927E2AB5"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FD61CD4D237D131"
+				item: "ironfurnaces:gold_furnace"
+				type: "item"
+			}]
+			title: "Печь 5.0"
+			x: 5.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["6B121BEFD852BC2D"]
+			description: ["&3Алмазные печи&f ещё быстрее, переплавляют предмет всего за &a25 тактов&f."]
+			id: "1AE46C1970378083"
+			rewards: [{
+				id: "4F7C761D3657868A"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67B5E4F996C454C8"
+				item: "ironfurnaces:diamond_furnace"
+				type: "item"
+			}]
+			title: "Печь 6.0"
+			x: 5.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1AE46C1970378083"]
+			description: ["&3Обсидиановые печи&f немного быстрее &3алмазных печей&f, переплавляя предмет всего за &a20 тактов&r, и также взрывоустойчивы."]
+			id: "3969150B59EA38A2"
+			rewards: [{
+				id: "7BADB8C39CADB5FF"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "223332FE4EEB31B0"
+				item: "ironfurnaces:obsidian_furnace"
+				type: "item"
+			}]
+			title: "Печь 7.0"
+			x: 5.5d
+			y: 8.75d
+		}
+		{
+			dependencies: ["3969150B59EA38A2"]
+			description: ["На этом этапе вам уже просто следует сделать &3мультиплавильню&r. Она переплавляет предметы с невероятной скоростью — всего за 5 тактов."]
+			id: "69E77BD01CFF65EB"
+			invisible: true
+			rewards: [{
+				id: "2BBD659B19ED9807"
+				item: "kubejs:moni_nickel"
+				type: "item"
+			}]
+			tasks: [{
+				id: "015B7C7A82AE67C5"
+				item: "ironfurnaces:netherite_furnace"
+				type: "item"
+			}]
+			title: "Печь 8.0"
+			x: 5.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["58566C7BF4C22D86"]
@@ -649,8 +766,8 @@
 				}
 			]
 			title: "Парочка стартовых инструментов"
-			x: -1.0d
-			y: 4.0d
+			x: 0.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
@@ -693,8 +810,8 @@
 				type: "item"
 			}]
 			title: "Рудные молоты"
-			x: 0.5d
-			y: 3.5d
+			x: 1.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
@@ -841,132 +958,58 @@
 			x: 4.5d
 			y: 4.0d
 		}
-		{
+				{
 			dependencies: ["2E8BFA2E719B1C47"]
-			description: ["&3Железные печи&f могут переплавить предмет за &a160 тактов&f, что немного быстрее стандартной &6печи&f, которой требуется &a200 тактов&f. Эффективность использования топлива остаётся одинаковой у всех печей."]
-			id: "7865CDE5CFE005DC"
+			description: [
+				"&aСерповидный молоток&r используется для работы с машинами из &bThermal Expansion&f, но также может быть использован для базовых операций с блоками из почти любого мода. &9Теперь он также может регулировать трубы из GregTech."
+				""
+				"&aЙета-ключ&r используется с машинами и проводами из &bEnder IO&f и имеет несколько специальных режимов отображения (&6прокручивайте колёсико мыши, пока крадётесь&f, чтобы переключаться между ними)."
+				""
+				"&aКлюч GregTech&r используется для вращения машин из GregTech и перенастройки их выходных сторон. &2Теперь он также обладает некоторыми функциями других ключей.&r"
+				""
+				"Вы можете увидеть, к какому моду относится машина, по &9синему тексту&f в нижней части её подсказки."
+			]
+			icon: "enderio:yeta_wrench"
+			id: "04A0863937695AC4"
 			rewards: [{
-				id: "55F7CA98F66953A1"
+				id: "247FC44B6E456222"
 				item: "kubejs:moni_nickel"
 				type: "item"
 			}]
-			tasks: [{
-				id: "6A2879717EF57D8A"
-				item: "ironfurnaces:iron_furnace"
-				type: "item"
-			}]
-			title: "Печь v2.0"
-			x: 6.5d
-			y: 1.0d
-		}
-		{
-			dependencies: ["7865CDE5CFE005DC"]
-			description: ["&3Медные печи&f — другой уровень скорости, они переплавляют предмет за &a100 тактов&f."]
-			id: "0591171F13A45283"
-			rewards: [{
-				id: "20FC1982A662B6C6"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "14CDC80A449BD388"
-				item: "ironfurnaces:copper_furnace"
-				type: "item"
-			}]
-			title: "Печь v3.0"
-			x: 6.5d
-			y: 4.0d
-		}
-		{
-			dependencies: ["0591171F13A45283"]
-			description: ["&3Серебряные печи&f — другой уровень скорости, они переплавляют предмет всего за &a80 тактов&f"]
-			id: "3F77EDE69BB649DA"
-			rewards: [{
-				id: "77EC0D08F5C99E37"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "266C775298CDC137"
-				item: "ironfurnaces:silver_furnace"
-				type: "item"
-			}]
-			title: "Печь v4.0"
-			x: 6.5d
-			y: 5.5d
-		}
-		{
-			dependencies: ["6B121BEFD852BC2D"]
-			description: ["&3Алмазные печи&f ещё быстрее, переплавляют предмет всего за &a25 тактов&f."]
-			id: "1AE46C1970378083"
-			rewards: [{
-				id: "4F7C761D3657868A"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "67B5E4F996C454C8"
-				item: "ironfurnaces:diamond_furnace"
-				type: "item"
-			}]
-			title: "Печь v6.0"
-			x: 6.5d
-			y: 8.5d
-		}
-		{
-			dependencies: ["3F77EDE69BB649DA"]
-			description: ["&3Золотые печи&f — очередной большой шаг в скорости, ведь они уже переплавляют предмет всего за &a40 тактов&f."]
-			id: "6B121BEFD852BC2D"
-			rewards: [{
-				id: "045094D4927E2AB5"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0FD61CD4D237D131"
-				item: "ironfurnaces:gold_furnace"
-				type: "item"
-			}]
-			title: "Печь v5.0"
-			x: 6.5d
-			y: 7.0d
-		}
-		{
-			dependencies: ["1AE46C1970378083"]
-			description: ["&3Обсидиановые печи&f немного быстрее &3алмазных печей&f, переплавляя предмет всего за &a20 тактов&r, и также взрывоустойчивы."]
-			id: "3969150B59EA38A2"
-			rewards: [{
-				id: "7BADB8C39CADB5FF"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "223332FE4EEB31B0"
-				item: "ironfurnaces:obsidian_furnace"
-				type: "item"
-			}]
-			title: "Печь v7.0"
-			x: 6.5d
-			y: 10.0d
-		}
-		{
-			dependencies: ["3969150B59EA38A2"]
-			description: ["На этом этапе вам уже просто следует сделать &3мультиплавильню&r. Она переплавляет предметы с невероятной скоростью — всего за 5 тактов."]
-			id: "69E77BD01CFF65EB"
-			invisible: true
-			rewards: [{
-				id: "2BBD659B19ED9807"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			tasks: [{
-				id: "015B7C7A82AE67C5"
-				item: "ironfurnaces:netherite_furnace"
-				type: "item"
-			}]
-			title: "Печь v8.0"
-			x: 6.5d
-			y: 11.5d
+			subtitle: "Уже запутались во всех этих гаечных ключах?"
+			tasks: [
+				{
+					id: "70251EAC64217000"
+					item: "enderio:yeta_wrench"
+					type: "item"
+				}
+				{
+					id: "1F3EDCBF5EB70229"
+					item: {
+						Count: 1b
+						id: "gtceu:wrought_iron_wrench"
+						tag: {
+							Damage: 0
+							GT.Tool: {
+								Damage: 0
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "20854F1345AB6B1E"
+					item: {
+						Count: 1b
+						id: "thermal:wrench"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "&9Многообразие ключей"
+			x: 1.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4FE53F31E68F4C1C"]
@@ -1024,49 +1067,6 @@
 			title: "&2Предметные трубы GregTech"
 			x: 2.5d
 			y: 5.5d
-		}
-		{
-			dependencies: ["2E8BFA2E719B1C47"]
-			description: [
-				"&6Пояс для инструментов&r — это предмет, в котором можно хранить инструменты и легко меняться между ними! В настоящее время у него 2 слота, но позже, как только вы разблокируете &6сталь&r, вы сможете улучшить его до 9 слотов с помощью &6поясных сумок&r, используя &3наковальню&r и немного &aопыта&r!"
-				""
-				"Создайте пояс для инструментов, и вы сможете использовать клавишу (по умолчанию «R»), когда пояс находится в вашем инвентаре или в слотах для аксессуаров, &cи вы держите что-то в руках, или пояс не пустой&r, чтобы открыть его интерфейс. "
-				""
-				"Вы также можете нажать ПКМ, держа пояс, чтобы открыть его инвентарь."
-				"{@pagebreak}"
-				"&bПояс для инструментов&r можно использовать как &bаксессуар&r. Откройте свой инвентарь и найдите кнопку аксессуаров, затем нажмите её, чтобы открыть меню дополнительных слотов для аксессуаров, и поместите его в слот для пояса. Или просто водите по каждому слоту инвентаря аксессуаров, пока не найдёте слот для пояса."
-				""
-				"Пояс для инструментов может хранить любые предметы с размером стака 1, такие как мечи, кирки, инструменты из &bGregTech&r, и &6терминал&r. В сборке он немного поднастроен: теперь позволяет хранить любые ключи от &bящиков для хранения&r, но &cне допускает рюкзак из Thermal&r."
-				""
-				"Теперь вы можете вешать и снимать предметы с пояса! Также можно использовать горячие клавиши «&eПрокрутить выбор инструмента налево&r» и «&eПрокрутить выбор инструмента направо&r», пока вы в интерфейсе мода."
-			]
-			id: "1B86EF5A24286787"
-			rewards: [{
-				id: "637891A6BC00C62D"
-				item: "kubejs:moni_nickel"
-				type: "item"
-			}]
-			subtitle: "&2Совершенно новый и очень востребованный мод для Community Edition Unofficial, чтобы помочь вам управлять инструментами!"
-			tasks: [{
-				id: "2BFE87C449C8D8F3"
-				item: "toolbelt:belt"
-				type: "item"
-			}]
-			title: "&2Пояс для инструментов"
-			x: 3.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["2E8BFA2E719B1C47"]
-			description: ["Здесь не требуется делать ничего лишнего. Переплавьте &6брёвна&f в &6древесный уголь&f. Он станет отличным топливом, пока вы не найдёте жилу &6угля&f."]
-			id: "5D97206C8135872B"
-			tasks: [{
-				id: "36D486BE19669899"
-				item: "minecraft:charcoal"
-				type: "item"
-			}]
-			x: 4.5d
-			y: 1.5d
 		}
 		{
 			dependencies: ["2E8BFA2E719B1C47"]
@@ -1942,53 +1942,6 @@
 			y: 4.0d
 		}
 		{
-			can_repeat: true
-			dependencies: ["66FCC26399376B55"]
-			description: [
-				"Если у вас &oкаким-то образом&r разрядился искатель, то просто сдайте его обратно и мы вам выдадим новенький!"
-				""
-				"Доступно раз в час."
-			]
-			disable_toast: true
-			hide_dependency_lines: true
-			icon: "gtceu:prospector.hv"
-			id: "726528BE5A1A6AC2"
-			optional: true
-			rewards: [{
-				id: "21CED765A341AC89"
-				item: {
-					Count: 1b
-					id: "gtceu:prospector.hv"
-					tag: {
-						Charge: 1600000L
-					}
-				}
-				type: "item"
-			}]
-			tasks: [
-				{
-					consume_items: true
-					id: "652A1DDFD9E1626F"
-					item: "gtceu:prospector.hv"
-					match_nbt: false
-					type: "item"
-				}
-				{
-					icon: "minecraft:clock"
-					id: "028124026E3BCE59"
-					tags: [
-						"moni_timer"
-						"moni_timer_60"
-					]
-					title: "Timer"
-					type: "custom"
-				}
-			]
-			title: "Зарядим ваш искатель!"
-			x: -11.5d
-			y: 5.5d
-		}
-		{
 			dependencies: ["66FCC26399376B55"]
 			description: [
 				"[\"Вкладка \",{\"text\":\"«Прогресс»\",\"color\":\"yellow\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"395B849AC6294153\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"Нажмите, что бы перейти к главе\"}},\" добавлена для визуализации важных частей сборки.\"]"
@@ -2244,6 +2197,53 @@
 			title: "&2Электронные составляющие"
 			x: 2.5d
 			y: 8.5d
+		}
+				{
+			can_repeat: true
+			dependencies: ["66FCC26399376B55"]
+			description: [
+				"Если у вас &oкаким-то образом&r разрядился искатель, то просто сдайте его обратно и мы вам выдадим новенький!"
+				""
+				"Доступно раз в час."
+			]
+			disable_toast: true
+			hide_dependency_lines: true
+			icon: "gtceu:prospector.hv"
+			id: "726528BE5A1A6AC2"
+			optional: true
+			rewards: [{
+				id: "21CED765A341AC89"
+				item: {
+					Count: 1b
+					id: "gtceu:prospector.hv"
+					tag: {
+						Charge: 1600000L
+					}
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "652A1DDFD9E1626F"
+					item: "gtceu:prospector.hv"
+					match_nbt: false
+					type: "item"
+				}
+				{
+					icon: "minecraft:clock"
+					id: "028124026E3BCE59"
+					tags: [
+						"moni_timer"
+						"moni_timer_60"
+					]
+					title: "Timer"
+					type: "custom"
+				}
+			]
+			title: "Зарядим ваш искатель!"
+			x: -10.5d
+			y: 10.0d
 		}
 	]
 	title: "Генезис"
