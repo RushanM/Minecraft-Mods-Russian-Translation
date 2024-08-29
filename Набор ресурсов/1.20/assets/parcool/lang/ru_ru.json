@@ -1,7 +1,17 @@
 {
-    "parcool.patchouli.guide.category.about": "Сведения",
-    "parcool.patchouli.guide.entry.aboutParCool": "Сведения",
+    "item.minecraft.potion.effect.energy_drink": "Энергетический напиток",
+    "item.parcool.parcool_guide": "§bУчебник по ParCool",
+    "itemGroup.ParCool": "ParCool!",
+    "key.parcool.Enable": "Включить ParCool",
+    "key.parcool.FastRun": "Быстрый забег",
+    "key.parcool.openSetting": "Открыть настройки",
+    "parcool.gui.text.config": "Настройки",
+    "parcool.gui.title.setting": "Настройки ParCool",
+    "parcool.message.disabled": "ParCool: отключён",
+    "parcool.message.enabled": "ParCool: включён",
+    "parcool.patchouli.guide.category.about": "О моде",
+    "parcool.patchouli.guide.entry.aboutParCool": "О моде",
     "parcool.patchouli.guide.entry.credit": "Благодарности",
-    "parcool.patchouli.guide.landingText": "Это учебник $(9)ParCool$()! Вам стоит прочесть его перед тем, как начать самому разбираться с модом.",
-    "parcool.patchouli.guide.name": "Учебник ParCool"
+    "parcool.patchouli.guide.landingText": "Это учебник по $(9)ParCool$()! Вам стоит прочесть его перед тем, как начать самому разбираться с модом.",
+    "parcool.patchouli.guide.name": "Учебник по ParCool"
 }

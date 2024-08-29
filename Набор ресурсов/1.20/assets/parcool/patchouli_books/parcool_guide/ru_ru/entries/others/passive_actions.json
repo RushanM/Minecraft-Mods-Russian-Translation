@@ -1,16 +1,16 @@
 {
-  "name": "Passive Actions",
+  "name": "Пассивные действия",
   "icon": "minecraft:brick",
   "category": "parcool:category_support_features",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "ParCool adds some passive abilities and animations."
+      "text": "ParCool добавляет некоторые пассивные способности и анимации."
     },
     {
       "type": "patchouli:text",
-      "title": "Falling Animation",
-      "text": "New animation for long-time falling is added. If you think this is annoying, you can turn it off by config."
+      "title": "Анимация падения",
+      "text": "Добавлена новая анимация для длительного падения. Если она покажется вам раздражающей, вы можете отключить её в настройках."
     }
   ]
 }
