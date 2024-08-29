@@ -1,16 +1,16 @@
 {
-  "name": "Flipping",
-  "icon": "minecraft:blaze_powder",
   "category": "parcool:category_actions",
+  "icon": "minecraft:blaze_powder",
+  "name": "Сальто",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "ParCool adds a special animation of jump: Flipping. You can do front-flip and back-flip."
+      "text": "ParCool добавляет специальную анимацию прыжка: сальто. Вы можете выполнять как переднее сальто, так и заднее.",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list)Press left and right movement key simultaneously$(list)Press Flipping key($(k:parcool.Flipping))"
+      "text": "$(list)Нажмите одновременно клавиши движения влево и вправо$(list)или нажмите клавишу сальто.($(k:parcool.Flipping))",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }

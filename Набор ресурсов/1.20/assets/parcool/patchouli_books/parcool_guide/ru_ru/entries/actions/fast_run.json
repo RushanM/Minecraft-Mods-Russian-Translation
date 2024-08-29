@@ -1,16 +1,16 @@
 {
-  "name": "Fast Run",
-  "icon": "minecraft:diamond_boots",
   "category": "parcool:category_actions",
+  "icon": "minecraft:diamond_boots",
+  "name": "Быстрый забег",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "Now you are an parkour player! so you can run faster than before. Some other actions need using this.$(br)If you think this feature is annoying, modifying configs can help you."
+      "text": "Теперь вы — паркур-мастер! Вы можете бегать быстрее, чем раньше. Некоторые другие действия требуют использования этой способности.$(br)Если вам вас раздражает эта функция, попробуйте изменить настройки.",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list) Continue to press Fast Run key($(k:parcool.FastRun)) during sprinting"
+      "text": "$(list) Держите нажатой клавишу быстрого забега($(k:parcool.FastRun)) во время бега",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }

@@ -1,23 +1,23 @@
 {
-  "name": "Hang Down",
-  "icon": "minecraft:stone",
   "category": "parcool:category_actions",
+  "icon": "minecraft:stone",
+  "name": "Свисание",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "You can hang down with some blocks like chains or end rods.$(br)You can also move and jump forward by pressing jump key."
+      "text": "Вы можете свисать, держась за некоторые блоки, такие как цепи или стержни Энда.$(br)Также вы можете двигаться и прыгать вперёд, нажав клавишу прыжка.",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:image",
       "border": "true",
       "images": [
         "parcool:textures/gui/entries/image_hang_down.png"
-      ]
+      ],
+      "type": "patchouli:image"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list) Press Hang Down Key($(k:parcool.HangDown)) below horizontal thin blocks$(br)"
+      "text": "$(list) Нажмите клавишу свисания($(k:parcool.HangDown)), находясь под горизонтальными тонкими блоками$(br)",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }

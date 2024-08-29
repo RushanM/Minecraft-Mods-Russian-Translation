@@ -1,16 +1,16 @@
 {
-  "name": "Dodge",
-  "icon": "minecraft:arrow",
   "category": "parcool:category_actions",
+  "icon": "minecraft:arrow",
+  "name": "Уклонение",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "$(bold)Dodge$() is action for avoiding bullets or arrows. You can quickly move short distance. $(br)However be careful with cool time!"
+      "text": "$(bold)Уклонение$() — это действие, позволяющее уклоняться от пуль или стрел. С помощью него вы можете быстро перемещаться на короткие расстояния. $(br)Однако не забывайте про время на восстановление!",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list)Press movement keys twice(impossible with forward key)$(list)Press movement key and Dodge key($(k:parcool.Dodge))"
+      "text": "$(list)Дважды нажмите клавиши перемещения (не получится использовать с клавишей движения вперёд)$(list)или нажмите клавишу перемещения вместе с клавишей уклонения($(k:parcool.Dodge))",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }
