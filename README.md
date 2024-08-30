@@ -42,7 +42,9 @@
 | 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
 | 1.17 | Переведён | alexsdelight | Alex's Delights | 1.1 |
 | 1.17 | ... | ... | ... | ... |
+| 1.18 | Не готов | chipped | Chipped | 2.0.1 |
 | 1.18 | Не готов | horror_element_mod | Horror Elements mod | 1.5.5 |
+| 1.18 | Не готов | malum | Malum | 1.5.0.1 |
 | 1.18 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 3.1 |
 | 1.18 | Переведён | advancementframes | Advancement Frames | 1.1.1 |
 | 1.18 | Переведён | alexsdelight | Alex's Delight | 1.3.3 |
@@ -55,8 +57,8 @@
 | 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
 | 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
 | 1.19 | ... | ... | ... | ... |
-| 1.20 | Не готов | сataclysm | L_Ender's Cataclysm | 1.99.5 |
 | 1.20 | Не готов | aether | The Aether | 1.4.2 |
+| 1.20 | Не готов | cataclysm | L_Ender's Cataclysm | 1.99.5 |
 | 1.20 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.20 | Не готов | horror_element_mod | Horror Elements mod | 1.6 |
 | 1.20 | Не готов | iceandfire | Ice and Fire | 2.1.13-beta-5 |
