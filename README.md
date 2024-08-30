@@ -359,6 +359,7 @@
 * [**ySh**](https://github.com/INe6dy): предложил свои переводы модов
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
+* [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил перевод мода [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
