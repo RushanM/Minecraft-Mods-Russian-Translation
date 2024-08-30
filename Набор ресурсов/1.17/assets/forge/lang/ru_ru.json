@@ -172,7 +172,7 @@
     "forge.configgui.indexVanillaPackCachesOnThread.tooltip": "После включения, ванильные наборы ресурсов и данных в потоке будут индексироваться",
     "forge.configgui.logCascadingWorldGeneration": "Журналировать каскадное создание мира",
     "forge.configgui.logCascadingWorldGeneration.tooltip": "После включения, проблемы с каскадным созданием чанков при заселении местности будут журналироваться",
-    "forge.configgui.removeErroringBlockEntities": "Удалять блочные сущности, которые выдают ошибки",
+    "forge.configgui.removeErroringBlockEntities": "Удалять блоки-сущности, которые выдают ошибки",
     "forge.configgui.removeErroringBlockEntities.tooltip": "После включения, BlockEntity, которые выдают ошибку при обновлении, будут удаляться. В противном случае сервер бы закрылся и отправился журнал падения. ИСПОЛЬЗУЙТЕ ОСТОРОЖНО, МЫ НЕ ОТВЕТСТВЕННЫ ЗА УЩЕРБ.",
     "forge.configgui.removeErroringEntities": "Удалять сущности, которые выдают ошибки",
     "forge.configgui.removeErroringEntities.tooltip": "После включения, сущности, которые выдают ошибку при обновлении, будут удаляться. В противном случае сервер бы закрылся и отправился журнал падения. ИСПОЛЬЗУЙТЕ ОСТОРОЖНО, МЫ НЕ ОТВЕТСТВЕННЫ ЗА УЩЕРБ.",

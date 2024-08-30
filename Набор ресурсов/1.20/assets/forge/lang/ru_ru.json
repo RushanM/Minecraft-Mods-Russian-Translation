@@ -171,7 +171,7 @@
     "forge.configgui.logCascadingWorldGeneration": "Регистрировать журнал каскадированной генерации мира",
     "forge.configgui.logCascadingWorldGeneration.tooltip": "Регистрировать ошибки каскадной генерации чанков во время населения местности.",
     "forge.configgui.removeErroringBlockEntities": "Удалить ошибочные блоки-сущности",
-    "forge.configgui.removeErroringBlockEntities.tooltip": "Поставьте значние true, чтобы убрать любую BlockEntity, вызывающую ошибку, в методе обновления вместо закрытия сервера и отправления журнала сбоя. БУДЬТЕ ОСТОРОЖНЫ, ЭТО МОЖЕТ СЛОМАТЬ ВСЁ! ИСПОЛЬЗУЙТЕ С УМОМ, МЫ НЕ НЕСЁМ ОТВЕТСТВЕННОСТИ ЗА УЩЕРБ.",
+    "forge.configgui.removeErroringBlockEntities.tooltip": "Поставьте значение true, чтобы убрать любой BlockEntity, вызывающую ошибку, в методе обновления вместо закрытия сервера и отправления журнала сбоя. БУДЬТЕ ОСТОРОЖНЫ, ЭТО МОЖЕТ СЛОМАТЬ ВСЁ! ИСПОЛЬЗУЙТЕ С УМОМ, МЫ НЕ НЕСЁМ ОТВЕТСТВЕННОСТИ ЗА УЩЕРБ.",
     "forge.configgui.removeErroringEntities": "Удалять ошибочные сущности",
     "forge.configgui.removeErroringEntities.tooltip": "Поставьте значение true, чтобы удалять любую сущность, вызывающую ошибку, из мира вместо полной остановки сервера и сообщения журнала сбоя. БУДЬТЕ ОСТОРОЖНЫ, ЭТО МОЖЕТ СЛОМАТЬ ВСЕ! ИСПОЛЬЗУЙТЕ С УМОМ. МЫ НЕ НЕСЕМ ОТВЕТСТВЕННОСТИ ЗА УЩЕРБ.",
     "forge.configgui.selectiveResourceReloadEnabled": "Включить выборочную загрузку ресурсов",
