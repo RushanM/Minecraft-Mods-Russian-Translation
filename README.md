@@ -356,7 +356,7 @@
 * * [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 * * [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 * * [SecurityCraft](https://modrinth.com/mod/security-craft)
-* [ySh](https://github.com/INe6dy): предложил свои переводы модов
+* [**ySh**](https://github.com/INe6dy): предложил свои переводы модов
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
