@@ -264,11 +264,11 @@ options.fullscreen=Fullscreen
 options.vsync=Use VSync
 options.touchscreen=Touchscreen Mode
 
-performance.max=Max FPS
-performance.balanced=Balanced
-performance.powersaver=Power saver
+performance.max=Максимальное количество FPS
+performance.balanced=Сбалансированная
+performance.powersaver=Энергосберегающая
 
-controls.title=Controls
+controls.title=Управление
 
 key.forward=Forward
 key.left=Left

@@ -123,7 +123,7 @@
   "neoforge.configgui.advertiseDedicatedServerToLan": "Advertise Dedicated Server To LAN",
   "neoforge.configgui.advertiseDedicatedServerToLan.tooltip": "Set this to true to enable advertising the dedicated server to local LAN clients so that it shows up in the Multiplayer screen automatically.",
   "neoforge.configgui.forgeLightPipelineEnabled": "NeoForge Light Pipeline",
-  "neoforge.configgui.forgeLightPipelineEnabled.tooltip": "Активирует конвейер NeoForge для рендеринга блоков - исправляет освещение кастомных моделей.",
+  "neoforge.configgui.forgeLightPipelineEnabled.tooltip": "Активирует конвейер NeoForge для отрисовки блоков — исправляет освещение кастомных моделей.",
   "neoforge.configgui.fullBoundingBoxLadders": "Полная область коллизии для лестниц",
   "neoforge.configgui.fullBoundingBoxLadders.tooltip": "Установите значение true, чтобы проверять всю коробку столкновений сущности на соприкосновение с лестницами, а не только блоками, в котором они находятся. Это вызывает заметные изменения в механике, поэтому по умолчанию используется ванильное поведение. По умолчанию: false.",
   "neoforge.configgui.logLegacyTagWarnings": "Log Legacy Tags",
