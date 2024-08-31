@@ -208,10 +208,10 @@ item.skyrootRing.name=Небокорневое кольцо
 
 # Блоки
 
-tile.aetherPortal.name=Портал в Эфир
-tile.aetherDirt.name=Земля Эфира
-tile.aetherGrass0.name=Трава Эфира
-tile.aetherGrass1.name=Зачарованная трава Эфира
+tile.aetherPortal.name=Эфирный портал
+tile.aetherDirt.name=Эфирная земля
+tile.aetherGrass0.name=Эфирная трава
+tile.aetherGrass1.name=Зачарованная эфирная трава
 tile.aetherGrass2.name=Зачарованная трава
 tile.quicksoil.name=Быстропесок
 tile.holystone0.name=Священный камень

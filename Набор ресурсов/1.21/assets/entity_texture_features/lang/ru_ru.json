@@ -9,7 +9,7 @@
     "config.entity_features.hide_button.tooltip": "Скрывает эту кнопку настроек из меню наборов ресурсов",
     "config.entity_features.models_main": "Модели",
     "config.entity_features.per_entity_settings": "Посущностные настройки",
-    "config.entity_features.per_entity_settings.blocks": "Не факт, что эти блочные сущности",
+    "config.entity_features.per_entity_settings.blocks": "Не факт, что эти блоки-сущности",
     "config.entity_features.per_entity_settings.blocks2": " в действительности будут использовать эти возможности",
     "config.entity_features.per_entity_settings.layer": "Перезапись RenderLayer",
     "config.entity_features.per_entity_settings.layer.tooltip": "Делает так, чтобы ETF пытался перезаписывать слои отрисовки на сущностях.\nПозволяет добиться прозрачных скинов, к примеру.\nНе обещаем, что эта функция будет всегда работать...",

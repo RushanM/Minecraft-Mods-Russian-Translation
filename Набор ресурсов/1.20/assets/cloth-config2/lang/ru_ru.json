@@ -32,7 +32,7 @@
     "text.cloth-config.error_cannot_save": "Ошибка!",
     "text.cloth-config.exit_minecraft": "Выйти из Minecraft",
     "text.cloth-config.ignore_restart": "Потом перезапущу",
-    "text.cloth-config.list.add": "Вставить новый",
+    "text.cloth-config.list.add": "Добавить новый пункт",
     "text.cloth-config.list.remove": "Удалить выбранное",
     "text.cloth-config.multi_error": "Несколько проблем!",
     "text.cloth-config.not_editable": "Нельзя редактировать!",
@@ -44,7 +44,7 @@
     "text.cloth-config.restart_required_sub": "Одна из ваших изменённых настроек требует перезапуска Minecraft. Хотите продолжить?",
     "text.cloth-config.save_and_done": "Сохранить и выйти",
     "text.cloth-config.testing.1": "Вы разработчик модов и хотите использовать %1$s? Перейдите на %2$s, чтобы начать. Вы также можете %3$s.",
-    "text.cloth-config.testing.2": "Вики по Cloth Config",
+    "text.cloth-config.testing.2": "вики по Cloth Config",
     "text.cloth-config.testing.3": "нажмите здесь, чтобы открыть файл настроек Minecraft без особой на то причины",
     "text.cloth.reset_value": "Сброс",
     "title.cloth-config.config": "Настройки Cloth Mod Config"

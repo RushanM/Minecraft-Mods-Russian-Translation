@@ -359,7 +359,11 @@
 * [**ySh**](https://github.com/INe6dy): предложил свои переводы модов
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
-* [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил перевод мода [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
+* [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил переводы модов
+* * [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod)
+* * [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
+* * [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
+* * [Luna](https://www.curseforge.com/minecraft/mc-mods/luna)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 

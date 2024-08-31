@@ -2,7 +2,7 @@
     "mica.category.border": "Рамка окна",
     "mica.category.border.border_color": "Изменить цвет рамки",
     "mica.category.border.border_color.description": "Позволяет изменить цвет рамки окна",
-    "mica.category.border.hide_border": "Использовать окно без рамки",
+    "mica.category.border.hide_border": "Окно без рамки",
     "mica.category.border.hide_border.description": "Включает настройку для удаления рамки окна",
     "mica.category.border.use_default_border": "Рамка окна по умолчанию",
     "mica.category.border.use_default_border.description": "Позволяет настроить рамку окна, если отключено",

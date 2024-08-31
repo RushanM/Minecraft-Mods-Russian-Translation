@@ -3,7 +3,7 @@
     "key.modmenu.open_menu": "Открыть список модов",
     "modmenu.authorPrefix": "Автор(ы): %s",
     "modmenu.badge.clientsideOnly": "Клиентский",
-    "modmenu.badge.deprecated": "Устаревший",
+    "modmenu.badge.deprecated": "Устарел",
     "modmenu.badge.forge": "Forge",
     "modmenu.badge.library": "Библиотека",
     "modmenu.badge.minecraft": "Minecraft",
@@ -33,7 +33,7 @@
     "modmenu.downloadLink": "Скачать",
     "modmenu.dropConfirm": "Скопировать эти моды в папку модов?",
     "modmenu.dropInfo.line1": "Перетащите файлы в это окно,",
-    "modmenu.dropInfo.line2": "чтобы добавить модов",
+    "modmenu.dropInfo.line2": "чтобы добавить моды",
     "modmenu.dropSuccessful.line1": "Моды успешно скопированы.",
     "modmenu.dropSuccessful.line2": "Чтобы моды заработали, перезапустите игру.",
     "modmenu.experimental": "(Проверщик обновлений Mod Menu — пока лишь эксперимент!)",
@@ -142,8 +142,8 @@
     "option.modmenu.mods_button_style.replace_realms": "вместо Realms",
     "option.modmenu.mods_button_style.shrink": "у Realms",
     "option.modmenu.quick_configure": "Быстрая настройка",
-    "option.modmenu.quick_configure.false": "выкл.",
-    "option.modmenu.quick_configure.true": "вкл.",
+    "option.modmenu.quick_configure.false": "Выкл.",
+    "option.modmenu.quick_configure.true": "Вкл.",
     "option.modmenu.random_java_colors": "Цвет Java",
     "option.modmenu.random_java_colors.false": "красный",
     "option.modmenu.random_java_colors.true": "от поставщика",
@@ -164,6 +164,6 @@
     "option.modmenu.update_channel.beta": "релиз и бета",
     "option.modmenu.update_channel.release": "релиз",
     "option.modmenu.update_checker": "Проверка обновлений",
-    "option.modmenu.update_checker.false": "выкл.",
-    "option.modmenu.update_checker.true": "вкл."
+    "option.modmenu.update_checker.false": "Выкл.",
+    "option.modmenu.update_checker.true": "Вкл."
 }
