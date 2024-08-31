@@ -158,7 +158,7 @@
     "forge.configgui.fixVanillaCascading.tooltip": "Исправить проблемы оригинальной игры, приводящие к каскадированию генерации мира. Это МЕНЯЕТ оригинальную генерацию мира, поэтому НЕ СООБЩАЙТЕ о проблемах, связанных с отличиям в генерации мира, если это настройка включена.",
     "forge.configgui.forceSystemNanoTime": "Принудительно использовать System.nanoTime",
     "forge.configgui.forceSystemNanoTime.tooltip": "Принудительно использовать System.nanoTime вместо glfwGetTime для определения времени.",
-    "forge.configgui.forgeCloudsEnabled": "Использовать отрисовку облаков Forge",
+    "forge.configgui.forgeCloudsEnabled": "Отрисовка облаков Forge",
     "forge.configgui.forgeCloudsEnabled.tooltip": "Включить загрузку геометрии облаков в видеокарте для ускорения отрисовки.",
     "forge.configgui.forgeLightPipelineEnabled": "Включен канал обработки света Forge",
     "forge.configgui.forgeLightPipelineEnabled.tooltip": "Включите конвейер отрисовки блоков Forge, это исправит освещение пользовательских моделей.",

@@ -84,7 +84,7 @@
   "config.emi.ui.top_sidebar_size": "Размер",
   "config.emi.ui.top_sidebar_subpanels": "Подстраницы",
   "config.emi.ui.top_sidebar_theme": "Тема",
-  "config.emi.ui.use_batched_renderer": "Использовать пакетную отрисовку",
+  "config.emi.ui.use_batched_renderer": "Пакетная отрисовка",
   "config.emi.ui.vertical_margin": "Вертикальный отступ",
   "config.emi.ui.workstation_location": "Расположение рабочих станций",
   "emi.align.horizontal.center": "По центру",
