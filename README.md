@@ -62,6 +62,7 @@
 | 1.20 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.20 | Не готов | horror_element_mod | Horror Elements mod | 1.6 |
 | 1.20 | Не готов | iceandfire | Ice and Fire | 2.1.13-beta-5 |
+| 1.20 | Не готов | sodium | Sodium | 0.5.11 |
 | 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
 | 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
