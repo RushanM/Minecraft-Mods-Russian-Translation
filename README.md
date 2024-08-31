@@ -320,7 +320,7 @@
 <br>
 
 * [**Дефлекта**](https://github.com/RushanM): большая часть переводов
-* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): перевёл на русский моды 
+* [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): предложил переводы модов
 * * [Simple Corinthium](https://www.curseforge.com/minecraft/mc-mods/simple-corinthium)
 * * [Simple Weapons for Better Combat](https://www.curseforge.com/minecraft/mc-mods/simple-weapons-for-better-combat)
 * * [Rotten Creatures](https://modrinth.com/mod/rottencreatures)
@@ -333,14 +333,14 @@
 * * [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere)
 * [**ggleb2**](https://github.com/ggleb2) и [**Western01**](https://github.com/marisathewitch): сделали полезные указания
 * [**SillyAsriel**](https://github.com/SillyAsriel): участвовал в принятии решений, перевёл некоторые квесты Monifactory
-* [**TheAnaxMan**](https://github.com/TheAnaxMan): предложил свои переводы
+* [**TheAnaxMan**](https://github.com/TheAnaxMan): предложил переводы
 * * [All the Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206)
 * * [All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)
 * * [Allthemodium](https://www.curseforge.com/minecraft/mc-mods/allthemodium)
 * * [Artifacts](https://modrinth.com/mod/artifacts)
 * * [ATO - All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)
 * * [Auto Workstations](https://modrinth.com/mod/auto-workstations)
-* [**cutiegin**](https://github.com/cutiegin): предложила свои переводы модов
+* [**cutiegin**](https://github.com/cutiegin): предложила переводы модов
 * * [Decocraft](https://modrinth.com/mod/decocraft)
 * * [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges)
 * * [Macaw's Doors](https://modrinth.com/mod/macaws-doors)
@@ -356,7 +356,7 @@
 * * [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 * * [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 * * [SecurityCraft](https://modrinth.com/mod/security-craft)
-* [**ySh**](https://github.com/INe6dy): предложил свои переводы модов
+* [**ySh**](https://github.com/INe6dy): предложил переводы модов
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
 * [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил переводы модов
