@@ -283,5 +283,6 @@
     "rpo.modsru.specific.modMenuEasterEggsFormalStyle.tooltip": "Включить более грамматически правильное написание текстов пасхалок §dMod Menu§r",
     "rpo.modsru.specific.shortResetAllForControlling": "«§aСброс всего§r» (§dControlling§r)",
     "rpo.modsru.specific.shortResetAllForControlling.tooltip": "Уместить «§dСбросить всё§r» в кнопку §aControlling§r сокращением до «§dСброс всего§r»",
-    "rpo.modsru.specific.tooltip": "Настройки, касающиеся определённых модов"
+    "rpo.modsru.specific.tooltip": "Настройки, касающиеся определённых модов",
+    "soundCategory.weather": "Погодные эффекты"
 }
