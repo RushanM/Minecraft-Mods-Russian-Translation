@@ -204,6 +204,7 @@ jobs:
 
             * [Adventure Backpack](https://www.curseforge.com/minecraft/mc-mods/adventure-backpack)
             * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
+            * [Aroma1997Core](https://curseforge.com/minecraft/mc-mods/aroma1997core)
             * [AromaBackup](https://www.curseforge.com/minecraft/mc-mods/aromabackup)
             * [Better Loading Screen GTNH](https://github.com/GTNewHorizons/BetterLoadingScreen)
             * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
@@ -211,7 +212,7 @@ jobs:
             * [Tails](https://www.curseforge.com/minecraft/mc-mods/tails)
             * [The Aether II](https://modrinth.com/mod/aether-ii)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
@@ -239,9 +240,10 @@ jobs:
 
             * [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
             * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
+            * [Aroma1997Core](https://curseforge.com/minecraft/mc-mods/aroma1997core)
             * [SCP Lockdown Extras](https://www.curseforge.com/minecraft/mc-mods/scp-lockdown-extras)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.12 <1.13
@@ -281,7 +283,7 @@ jobs:
             * [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
             * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.16 <1.17
@@ -312,7 +314,7 @@ jobs:
             * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
             * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.17 <1.18
@@ -346,7 +348,7 @@ jobs:
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
             * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.18 <1.19
@@ -379,7 +381,7 @@ jobs:
             * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.19 <1.20
@@ -412,8 +414,12 @@ jobs:
             * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
             * [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight)
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+            * [Patchouli](https://modrinth.com/mod/patchouli)
+            * [Sodium](https://modrinth.com/mod/sodium)
+            * [Trofers](https://modrinth.com/mod/trofers)
+            * [Xenon](https://modrinth.com/mod/xenon-forge)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.20 <1.21
@@ -441,7 +447,24 @@ jobs:
 
             Если вы обнаружите ошибки в этой версии, пожалуйста, сообщите об этом!
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b3...b4
+            Эта бета-версия включает переводы следующих модов:
+
+            * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
+            * [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight)
+            * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+            * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+            * [Fabric Registry Sync](https://fabricmc.net/)
+            * [Fabric Resource Loader](https://fabricmc.net/)
+            * [Fabric](https://fabricmc.net/)
+            * [Iris Shaders](https://modrinth.com/mod/iris)
+            * [Patchouli](https://modrinth.com/mod/patchouli)
+            * [Sodium](https://modrinth.com/mod/sodium)
+            * [Sodium](https://modrinth.com/mod/sodium)
+            * [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+            * [Trofers](https://modrinth.com/mod/trofers)
+            * [Xenon](https://modrinth.com/mod/xenon-forge)
+
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
           loaders: minecraft
           game-versions: |
             >=1.21 <1.22
