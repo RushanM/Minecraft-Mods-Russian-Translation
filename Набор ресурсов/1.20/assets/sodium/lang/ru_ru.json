@@ -43,7 +43,7 @@
     "sodium.options.leaves_quality.name": "Листья",
     "sodium.options.leaves_quality.tooltip": "Определяет, будут ли листья отображаться прозрачными (детально) или непрозрачными (быстро).",
     "sodium.options.mipmap_levels.tooltip": "Определяет количество уровней детализации, которые будут использоваться для текстур моделей блоков. Более высокие значения обеспечивают лучшее отображение блоков на расстоянии, но могут отрицательно сказаться на производительности с наборами ресурсов, использующими множество анимированных текстур.",
-    "sodium.options.pages.advanced": "Расширенные",
+    "sodium.options.pages.advanced": "Для продвинутых",
     "sodium.options.pages.performance": "Производительность",
     "sodium.options.pages.quality": "Качество",
     "sodium.options.performance_impact_string": "Влияние на производительность: %s",
