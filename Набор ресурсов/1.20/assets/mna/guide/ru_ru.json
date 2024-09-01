@@ -33,72 +33,70 @@
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Призыв продвинутых созданий"
+                "value": "Призыв продвинутых конструкций"
             },
             {
                 "json": [
                     {
-                        "text": "Для модификации и призыва продвинутых/более мощных созданий мне потребуется установить"
+                        "text": "Чтобы модифицировать и призывать более мощные конструкции, мне нужно установить "
                     },
                     {
                         "color": "blue",
-                        "text": " портал созданий"
+                        "text": "стойку для конструкции"
                     },
                     {
-                        "text": " и несколько"
-                    },
-                    {
-                        "color": "blue",
-                        "text": " химеритовых кристаллов"
-                    },
-                    {
-                        "text": ". Эта установка позволит мне внедрить в создание различные "
+                        "text": " и использовать "
                     },
                     {
                         "color": "blue",
-                        "text": "стихии"
+                        "text": "химеритовые кристаллы"
                     },
                     {
-                        "text": ", что "
+                        "text": " . Такая установка позволит влить "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "аффинитеты"
+                    },
+                    {
+                        "text": " в конструкцию, что даст ей "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "дополнительно усилит его характеристики"
+                        "text": "дополнительные улучшения характеристик"
                     },
                     {
                         "text": "."
                     }
                 ],
-                "type": "text",
-                "value": "Для модификации и призыва продвинутых/более мощных созданий вам потребуется установить портал созданий и несколько химеритовых кристаллов. Эта установка позволит вам внедрить в создание различные аффиннитеты, что дополнительно усилит его характеристики."
+                "type": "text"
             },
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Установка портала созданий"
+                "value": "Установка стойки для конструкции"
             },
             {
                 "json": [
                     {
-                        "text": "Требования к "
+                        "text": "Требования для "
                     },
                     {
                         "color": "blue",
-                        "text": "порталу созданий"
+                        "text": "стойки конструкции"
                     },
                     {
-                        "text": " достаточно гибкие. Мне понадобится сам портал и в общей сложности "
+                        "text": " довольно гибкие. Мне понадобится сама стойка и в общей сложности "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "8 химеритовых кристаллов в пределах 5 блоков"
+                        "text": "8 химеритовых кристаллов любого цвета в радиусе 5 блоков"
                     },
                     {
-                        "text": " от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это неважно."
+                        "text": " от верстака в любом направлении. Они могут быть на стенах, потолке, полу, их видимость не имеет значения."
                     }
                 ],
-                "type": "text",
-                "value": "Требования для портала созданий достатоточно гибкие. Вам понадобится сам портал и в общей сложности 8 химеритовых кристаллов в радиусе 5 блоков от верстака в любом направлении. Они могут быть на стенах, потолке, полу, вне прямой видимости — это неважно."
+                "type": "text"
             },
             {
                 "height": 54,
@@ -109,65 +107,63 @@
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Призыв создания"
+                "value": "Призыв конструкции"
             },
             {
                 "json": [
                     {
-                        "text": "После того, как я поставлю верстак и подготовлю все детали, мне нужно будет выбрать, какие "
+                        "text": "Когда верстак установлен и части конструкции готовы, мне нужно выбрать, какие "
                     },
                     {
                         "color": "blue",
-                        "text": "стихии "
+                        "text": "аффинитеты"
                     },
                     {
-                        "text": "я хочу внедрить в создание. \n\nКаждый "
+                        "text": " я хочу влить в конструкцию.\n\nКаждый "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "афинитет изменяет его характеристики"
+                        "text": "аффинитет изменяет характеристики конструкции"
                     },
                     {
-                        "text": ". Я могу установить афинитет, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. \n\nКогда всё получится, над кристаллом появится сигил, указывающий на афинитет. \n\nКогда все пять частей создания будут на верстаке и 8 афинитетов будут установлены, мне нужно будет активировать верстак пустой рукой, чтобы начать процесс создания. \n\nПосле завершения внедрения я смогу начать командовать своим созданием."
+                        "text": ". Я могу установить аффинитет, накладывая заклинания данного аффинитета на каждый из 8 находящихся рядом химеритовых кристаллов. Заклинания должны напрямую попадать на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут.\n\nЕсли всё сделано правильно, над кристаллом появится символ, указывающий на аффинитет.\n\nКогда все пять частей конструкции на верстаке и 8 аффинитетов установлены, мне нужно активировать верстак пустой рукой, чтобы начать процесс создания.\n\nПосле завершения процесса вливания я могу начать командовать своей конструкцией."
                     }
                 ],
-                "type": "text",
-                "value": "После того, как вы установите верстак и подготовите все детали, вам нужно будет выбрать, какие стихии вы хотите внедрить в создание. Каждая стихия изменяет его характеристики. Вы можете установить стихии, накладывая соответствующие заклинания на каждый из 8 ближайших химеритовых кристаллов. Заклинания должны напрямую нацеливаться на кристаллы, поэтому направленные заклинания, заклинания области действия и заклинания на себя не подойдут. Когда всё получится, над кристаллом появится сигил, указывающий на стихию. Поместите все пять частей создания на верстак и активируйте его пустой рукой, чтобы начать процесс создания. После завершения внедрения вы сможете начать командовать своим созданием."
+                "type": "text"
             },
             {
                 "newPage": true,
                 "type": "title",
-                "value": "Эффекты стихии"
+                "value": "Эффекты аффинитетов"
             },
             {
                 "json": [
                     {
-                        "text": "Создание может иметь всего "
+                        "text": "Конструкция может иметь в сумме "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "8 очков стихии"
+                        "text": "8 очков аффинитета"
                     },
                     {
-                        "text": ". Ниже приведены"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": " эффекты на каждое очко"
-                    },
-                    {
-                        "text": " стихии. "
+                        "text": ". Ниже приведены "
                     },
                     {
                         "color": "dark_purple",
-                        "text": "Я могу свободно комбинировать"
+                        "text": "эффекты на каждое очко"
                     },
                     {
-                        "text": " их, чтобы компенсировать слабости материала или усилить его сильные стороны. \n\nКонфликтующие стихии внутри создания не имеют значения.\n\nТакже каждое очко стихии даёт созданию ограниченный иммунитет к соответствующим типам повреждений, позволяя ему поглощать от 1 до 2 сердец урона за каждое очко при атаке."
+                        "text": " аффинитета. "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Я могу свободно комбинировать их"
+                    },
+                    {
+                        "text": ", поэтому стоит выбрать что-то, что устранит слабые стороны материала, или усилит его сильные стороны.\n\nКонфликтующие аффинитеты внутри конструкции не имеют значения.\n\nКаждое очко аффинитета также даёт конструкции ограниченный иммунитет к типам урона, связанным с этим аффинитетом, позволяя ей поглощать 1—2 сердца урона за каждое очко при атаке."
                     }
                 ],
                 "type": "text",
-                "value": "Как уже упоминалось, создания призываются со стихией. Это влияет на их способности. Создание может иметь всего 8 очков стихии. Ниже приведены эффекты на каждое очко стихии. Вы можете свободно комбинировать их, чтобы компенсировать слабости материала или усилить его сильные стороны. Конфликтующие стихии внутри создания не имеют значения."
             },
             {
                 "json": [
@@ -1118,45 +1114,6 @@
             }
         ]
     },
-    "Aura of the Bulwark": {
-        "category": "enchantments",
-        "related_recipes": [
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_i",
-                "type": "manaweaving_altar"
-            },
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_ii",
-                "type": "manaweaving_altar"
-            },
-            {
-                "location": "mna:manaweaving/enchanting/aura/bulwark_iii",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Aura of the Bulwark"
-            },
-            {
-                "json": [
-                    {
-                        "text": "This aura will periodically drain a small amount of my mana in order to "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "apply an armor boosting effect to me and to those in close proximity to me"
-                    },
-                    {
-                        "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
-                    }
-                ],
-                "type": "text",
-                "value": ""
-            }
-        ]
-    },
     "Aura Pilgrim": {
         "category": "enchantments",
         "related_recipes": [
@@ -1223,6 +1180,45 @@
                 ],
                 "type": "text",
                 "value": "This aura will periodically drain my mana in order to apply a movement speed increase to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            }
+        ]
+    },
+    "Aura of the Bulwark": {
+        "category": "enchantments",
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_i",
+                "type": "manaweaving_altar"
+            },
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_ii",
+                "type": "manaweaving_altar"
+            },
+            {
+                "location": "mna:manaweaving/enchanting/aura/bulwark_iii",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Aura of the Bulwark"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This aura will periodically drain a small amount of my mana in order to "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "apply an armor boosting effect to me and to those in close proximity to me"
+                    },
+                    {
+                        "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+                    }
+                ],
+                "type": "text",
+                "value": ""
             }
         ]
     },
@@ -15490,6 +15486,114 @@
             }
         ]
     },
+    "HUD": {
+        "category": "basics",
+        "index": 1,
+        "related_recipes": [],
+        "sections": [
+            {
+                "type": "title",
+                "value": "HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "The main hud is the mana bar. In this you will see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "badge with your level"
+                    },
+                    {
+                        "text": " in it, a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "main bar representing your mana"
+                    },
+                    {
+                        "text": ", and a"
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": " smaller bar below representing your magic XP"
+                    },
+                    {
+                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+                    }
+                ],
+                "type": "text",
+                "value": "The main hud is the mana bar. In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+            },
+            {
+                "type": "title",
+                "value": "Параметры отображения HUD"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "If you can't see your HUD, you've likely changed this option!"
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_options.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "newPage": true,
+                "type": "title",
+                "value": "HUD Position Option"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
+                    }
+                ],
+                "type": "text",
+                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
+            },
+            {
+                "height": 28,
+                "location": "mna:textures/guide/hud_position.png",
+                "type": "image",
+                "width": 18
+            },
+            {
+                "json": [
+                    {
+                        "text": "If you see a "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "red drop with a lightning bolt"
+                    },
+                    {
+                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
+                    }
+                ],
+                "newPage": true,
+                "type": "text",
+                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
+            },
+            {
+                "height": 26,
+                "location": "mna:textures/guide/low_charge.png",
+                "newPage": true,
+                "type": "image",
+                "width": 22
+            }
+        ]
+    },
     "Healing Poultice": {
         "category": "artifice",
         "index": 1,
@@ -15683,114 +15787,6 @@
                 ],
                 "type": "text",
                 "value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
-            }
-        ]
-    },
-    "HUD": {
-        "category": "basics",
-        "index": 1,
-        "related_recipes": [],
-        "sections": [
-            {
-                "type": "title",
-                "value": "HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "The main hud is the mana bar. In this you will see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "badge with your level"
-                    },
-                    {
-                        "text": " in it, a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "main bar representing your mana"
-                    },
-                    {
-                        "text": ", and a"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": " smaller bar below representing your magic XP"
-                    },
-                    {
-                        "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-                    }
-                ],
-                "type": "text",
-                "value": "The main hud is the mana bar. In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
-            },
-            {
-                "type": "title",
-                "value": "Параметры отображения HUD"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "If you can't see your HUD, you've likely changed this option!"
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!"
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_options.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "HUD Position Option"
-            },
-            {
-                "json": [
-                    {
-                        "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
-                    }
-                ],
-                "type": "text",
-                "value": "Click the hud position tab at the bottom of this UI to change the HUD position."
-            },
-            {
-                "height": 28,
-                "location": "mna:textures/guide/hud_position.png",
-                "type": "image",
-                "width": 18
-            },
-            {
-                "json": [
-                    {
-                        "text": "If you see a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "red drop with a lightning bolt"
-                    },
-                    {
-                        "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
-                    }
-                ],
-                "newPage": true,
-                "type": "text",
-                "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge."
-            },
-            {
-                "height": 26,
-                "location": "mna:textures/guide/low_charge.png",
-                "newPage": true,
-                "type": "image",
-                "width": 22
             }
         ]
     },
@@ -16934,113 +16930,6 @@
             }
         ]
     },
-    "Mana and Regeneration": {
-        "category": "basics",
-        "index": 2,
-        "related_recipes": [
-            {
-                "location": "mna:clay_mug",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:manaweaving/food/mana_coffee",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Мана, восстановление и ресурсы для заклинаний"
-            },
-            {
-                "json": [
-                    {
-                        "text": "When you perform several actions in the realms of magic, you will consume your "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "casting resource"
-                    },
-                    {
-                        "text": ".\n\nYou start with "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "mana"
-                    },
-                    {
-                        "text": ", but depending on faction choices your casting resource may change to something else such as "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "souls"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "brimstone"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "summer fire"
-                    },
-                    {
-                        "text": ", or "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "winter ice"
-                    },
-                    {
-                        "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "mana"
-                    },
-                    {
-                        "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
-                    }
-                ],
-                "type": "text",
-                "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
-            },
-            {
-                "json": [
-                    {
-                        "text": "There are items, such as Mana Tea or Potions, that can help "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "restore mana more quickly"
-                    },
-                    {
-                        "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
-                    }
-                ],
-                "type": "text",
-                "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly."
-            },
-            {
-                "json": [
-                    {
-                        "color": "blue",
-                        "text": "Mana potions"
-                    },
-                    {
-                        "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
-                    }
-                ],
-                "type": "text",
-                "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
-            }
-        ]
-    },
     "Mana Crystal": {
         "category": "artifice",
         "index": 1,
@@ -17162,6 +17051,113 @@
                 ],
                 "type": "text",
                 "value": "I've been considering the basic armor that mages make and how it can use the magic of its wearer to stitch itself back together.  I think I can enchant some magical thread to allow it to stitch alternate gear back together."
+            }
+        ]
+    },
+    "Mana and Regeneration": {
+        "category": "basics",
+        "index": 2,
+        "related_recipes": [
+            {
+                "location": "mna:clay_mug",
+                "type": "crafting"
+            },
+            {
+                "location": "mna:manaweaving/food/mana_coffee",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Мана, восстановление и ресурсы для заклинаний"
+            },
+            {
+                "json": [
+                    {
+                        "text": "When you perform several actions in the realms of magic, you will consume your "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "casting resource"
+                    },
+                    {
+                        "text": ".\n\nYou start with "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "mana"
+                    },
+                    {
+                        "text": ", but depending on faction choices your casting resource may change to something else such as "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "souls"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "brimstone"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "summer fire"
+                    },
+                    {
+                        "text": ", or "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "winter ice"
+                    },
+                    {
+                        "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "mana"
+                    },
+                    {
+                        "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+                    }
+                ],
+                "type": "text",
+                "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+            },
+            {
+                "json": [
+                    {
+                        "text": "There are items, such as Mana Tea or Potions, that can help "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "restore mana more quickly"
+                    },
+                    {
+                        "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
+                    }
+                ],
+                "type": "text",
+                "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly."
+            },
+            {
+                "json": [
+                    {
+                        "color": "blue",
+                        "text": "Mana potions"
+                    },
+                    {
+                        "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+                    }
+                ],
+                "type": "text",
+                "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
             }
         ]
     },
@@ -19389,8 +19385,1114 @@
                         "text": "Constructs."
                     }
                 ],
-                "type": "text",
-                "value": "If I can coat iron with vinteum dust and smelt it to get bars, I should be able to do something similar with purified vinteum dust.  I just need to remember to smelt the purified vinteum coated iron in a furnace or blast furnace too."
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Bind Wounds": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/bind_wounds",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Bind Wounds"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume moderate amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Water and Earth Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that closes wounds while standing still"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Camouflage": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/camouflage",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Camouflage"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Water Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that conceals target from detection while not moving or moving very slowly"
+                    },
+                    {
+                        "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Flight": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/creative_flight",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Flight"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume vast amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Wind and Earth Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that allows fast controlled flight"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Freeze": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/freeze",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Freeze"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Air and Water Eldrin Power"
+                    },
+                    {
+                        "text": " to "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "slowly freeze standing water to ice and flowing water to snow"
+                    },
+                    {
+                        "text": " in a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Grow": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/grow",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Grow"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume large amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Ender Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that causes targets to grow in size"
+                    },
+                    {
+                        "text": " within a configurable range.  Affected targets health, reach, step height, move speed, and jump height are all increased by this effect.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Haste": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/haste",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Haste"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume trace amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Fire and Wind Eldrin Power"
+                    },
+                    {
+                        "text": " to apply a "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "movement speed boost effect"
+                    },
+                    {
+                        "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Insight": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/insight",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Insight"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume trace amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Arcane Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect showing damage numbers"
+                    },
+                    {
+                        "text": " on targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Interdiction (Inbound)": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/interdiction_in",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Interdiction (Inbound)"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Ender Eldrin Power"
+                    },
+                    {
+                        "text": " to "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "prevent inbound teleportation"
+                    },
+                    {
+                        "text": " within a configurable range. Inbound means that the teleportation destination is inside of the configured bounds.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Interdiction (Outbound)": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/interdiction_out",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Interdiction (Outbound)"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Ender Eldrin Power"
+                    },
+                    {
+                        "text": " to "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "prevent outbound teleportation"
+                    },
+                    {
+                        "text": " within a configurable range. Outbound means that the teleportation destination is outside of the configured bounds.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Leap": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/leap",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Leap"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume trace amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Wind Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect increasing jump height"
+                    },
+                    {
+                        "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Levitate": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/levitate",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Levitate"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Wind Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect allowing slow flight"
+                    },
+                    {
+                        "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Light": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/light",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Light"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Arcane Eldrin Power"
+                    },
+                    {
+                        "text": " to "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "slowly light up its affected area"
+                    },
+                    {
+                        "text": ", a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Night Vision": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/night_vision",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Night Vision"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Ender Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect allowing targets to see in the dark"
+                    },
+                    {
+                        "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Pilgrim's Path": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/pilgrim",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Pilgrim's Path"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Arcane, Fire, and Wind Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect granting targets increased speed, step height, swim speed and jump height"
+                    },
+                    {
+                        "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Recharging": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/recharge",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Recharging"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume large amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Arcane Eldrin Power"
+                    },
+                    {
+                        "text": " to "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "recharge items similar to pedestal charging"
+                    },
+                    {
+                        "text": " in the inventory or equipped on targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Repair": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/repair",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Repair"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume large amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Arcane, Earth, and Fire Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that repairs items"
+                    },
+                    {
+                        "text": " in targets' inventories within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Shrink": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/shrink",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Shrink"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume large amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Ender Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that causes targets to shrink in size"
+                    },
+                    {
+                        "text": " within a configurable range.  Affected targets maximum health is reduced significantly along with the size.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Slowfall": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/slowfall",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Slowfall"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Wind Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that slows descent and prevents fall damage"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Soar": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/soar",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Soar"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume moderate amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Wind Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that allows elytra-style flight"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Spider Climbing": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/spider_climb",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Spider Climbing"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Ender Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that lets targets climb walls like spiders"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Swift Swim": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/swift_swim",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Swift Swim"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Water Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that increases swim speed"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Water Breathing": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:eldrin_altar/pylon/water_breathing",
+                "type": "eldrin_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Water Breathing"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume moderate amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Water Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that allows breathing underwater"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylon: Water Walking": {
+        "category": "artifice",
+        "index": 0,
+        "related_recipes": [
+            {
+                "location": "mna:manaweaving/pylon/water_walking",
+                "type": "manaweaving_altar"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylon: Water Walking"
+            },
+            {
+                "json": [
+                    {
+                        "text": "This pylon will consume small amounts of "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Water Eldrin Power"
+                    },
+                    {
+                        "text": " to apply an "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "effect that allows walking on water"
+                    },
+                    {
+                        "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ". It can also be toggled to only affect factions that are allied with my own."
+                    }
+                ],
+                "type": "text"
+            }
+        ]
+    },
+    "Pylons": {
+        "category": "artifice",
+        "index": "-1",
+        "related_recipes": [
+            {
+                "location": "mna:inert_pylon",
+                "type": "crafting"
+            }
+        ],
+        "sections": [
+            {
+                "type": "title",
+                "value": "Pylons"
+            },
+            {
+                "json": [
+                    {
+                        "text": "Pylons are standing stones carved with runes that "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "project an effect within a configurable radius"
+                    },
+                    {
+                        "text": ".  They "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "constantly consume Eldrin Power"
+                    },
+                    {
+                        "text": " of varying affinities and amounts to do so, and can be "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "toggled off by providing a redstone signal"
+                    },
+                    {
+                        "text": ".\n\nPylons require adequate and sufficient power supply for a couple of seconds in order to charge up and begin applying their effect.\n\nA pylon's radius can be configured in one of two ways.  By default, they use a "
+                    },
+                    {
+                        "text": "radius",
+                        "underlined": true
+                    },
+                    {
+                        "text": " of 32 blocks.  This can be increased or decreased, and will always be centred on the pylon itself.  The other option is to provide 2 "
+                    },
+                    {
+                        "color": "blue",
+                        "text": "Runes of Marking"
+                    },
+                    {
+                        "text": ", "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "whose bounding box must overlap the pylon's bottom block"
+                    },
+                    {
+                        "text": ".\n\nPylons consume more or less "
+                    },
+                    {
+                        "color": "dark_purple",
+                        "text": "Eldrin Power"
+                    },
+                    {
+                        "text": " the larger or smaller their radius is, respectively.  The minimum radius is 1, and the maximum is 128.\n\n"
+                    },
+                    {
+                        "color": "dark_gray",
+                        "italic": true,
+                        "text": "Each pylon's GUI will show you what it needs.  It is well explained with tooltips."
+                    }
+                ],
+                "type": "text"
             }
         ]
     },
@@ -24820,8 +25922,7 @@
                         "text": ". This recipe will show even when the codex is closed. Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory next to your player representation when you have a recipe pinned."
                     }
                 ],
-                "type": "text",
-                "value": "When viewing a recipe, in the top left you will see a pin icon.  Click this to pin a recipe to the HUD.  This recipe will show even when the codex is closed.  Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory when you have a recipe pinned."
+                "type": "text"
             }
         ]
     },
@@ -24851,8 +25952,7 @@
                         "text": "."
                     }
                 ],
-                "type": "text",
-                "value": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the cursed item will disappear when the wearer dies instead of being dropped."
+                "type": "text"
             }
         ]
     },
@@ -24896,8 +25996,7 @@
                         "text": "."
                     }
                 ],
-                "type": "text",
-                "value": "Basic paper seems unable to take spells.  Vellum seems to be a better candidate.  I can make vellum by working leather in water (right click)."
+                "type": "text"
             },
             {
                 "locations": [
@@ -24922,12 +26021,10 @@
                         "text": "."
                     }
                 ],
-                "type": "text",
-                "value": "Any source of standing water will do, but I am able to get better results if the water is in a cauldron."
+                "type": "text"
             }
         ]
     },
-    "version": "2.0.0.1",
     "Visiting": {
         "category": "rituals",
         "index": 0,
@@ -24957,17 +26054,17 @@
                     },
                     {
                         "color": "blue",
-                        "text": "Player Charm"
+                        "text": "Player Charm or Rune of Marking"
                     },
                     {
-                        "text": " to open a portal at the center of the ritual.\n\nThe portal will teleport any who step through to the location the player was at "
+                        "text": " to open a portal at the center of the ritual.\n\nThe portal will teleport any who step through to the location indicated by the player charm or the Rune of Marking "
                     },
                     {
                         "color": "dark_purple",
                         "text": "when the ritual was completed.  "
                     },
                     {
-                        "text": "If the target player is in a different dimension, a "
+                        "text": "If the target position is in a different dimension, a "
                     },
                     {
                         "color": "blue",
@@ -24988,8 +26085,7 @@
                         "text": "target of the player's last death."
                     }
                 ],
-                "type": "text",
-                "value": "This ritual will use a player charm to open a portal at the center of the ritual.  Stepping through the portal will teleport you to the location the player was at when the ritual was completed."
+                "type": "text"
             }
         ]
     },
@@ -25031,8 +26127,7 @@
                         "text": "The Wandering Wizard will only remain for a minute before continuing on his journey."
                     }
                 ],
-                "type": "text",
-                "value": ""
+                "type": "text"
             }
         ]
     },
@@ -25067,8 +26162,7 @@
                         "text": "bound shield cost no mana to maintain."
                     }
                 ],
-                "type": "text",
-                "value": ""
+                "type": "text"
             }
         ]
     },
@@ -25110,8 +26204,7 @@
                         "text": " with flint and steel, a fire spell, or a flame cantrip to function. They can be extinguished by activating them. When extinguished, they will not prevent monsters from spawning."
                     }
                 ],
-                "type": "text",
-                "value": "Warding candles can be used to prevent hostile creatures from spawning in a 32 block radius in all directions around the candle.  They must be lit with flint and steel, a fire spell, or a flame cantrip to function.  They can be extinguished by right clicking.  When extinguished, they will not prevent monsters from spawning."
+                "type": "text"
             }
         ]
     },
@@ -25169,8 +26262,7 @@
                         "text": " and their upgrades that are in my pack in order to extend its charge."
                     }
                 ],
-                "type": "text",
-                "value": "This amulet, when worn, will protect me from the nefarious effects caused by the aptly named Wither and its skeletal minions as long as it has charge."
+                "type": "text"
             }
         ]
     },
@@ -25229,8 +26321,7 @@
                         "text": "."
                     }
                 ],
-                "type": "text",
-                "value": "This ritual summons a conclave from the Ancient Council of Wizards.  By doing so, you are offering to align yourself with the council in exchange for access to their knowledge of higher magics.\n\nOnce you have summoned the council, stand in the center of them to receive their blessing, if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others."
+                "type": "text"
             }
         ]
     },
@@ -25265,314 +26356,9 @@
                         "text": " It will not drop any blocks during this process, consuming them to continue to fuel itself."
                     }
                 ],
-                "type": "text",
-                "value": "This ritual will summon a powerful destructive force that will burrow straight down until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself."
+                "type": "text"
             }
         ]
     },
-    "Как продвигаться": {
-        "category": "basics",
-        "index": 3,
-        "related_recipes": [
-            {
-                "location": "mna:occulus",
-                "type": "crafting"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Как продвигаться"
-            },
-            {
-                "json": [
-                    {
-                        "text": "The "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "occulus"
-                    },
-                    {
-                        "text": " is a block that will help guide you through this mod along with this book. \n\nIt will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked. \n\nTo see what you need to do in order to progress, click the progress tab. \n\nConsider the occulus a list of *"
-                    },
-                    {
-                        "color": "blue",
-                        "text": "what"
-                    },
-                    {
-                        "text": "* you need do to in order to progress, and this book instructions on *"
-                    },
-                    {
-                        "color": "blue",
-                        "text": "how"
-                    },
-                    {
-                        "text": "*. \n\n"
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Remember this book has a search feature"
-                    },
-                    {
-                        "text": " to easily find things within it that you're looking for."
-                    }
-                ],
-                "type": "text",
-                "value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, click the progress tab.\n\nConsider the occulus a list of *what* you need do to in order to progress, and this book instructions on *how*.\n\nRemember this book has a search feature to easily find things within it that you're looking for."
-            }
-        ]
-    },
-    "Новые крестьяне": {
-        "category": "basics",
-        "index": 4,
-        "related_recipes": [
-            {
-                "locations": [
-                    "mna:runeforge",
-                    "mna:runeforge_alt"
-                ],
-                "type": "crafting"
-            },
-            {
-                "location": "mna:runescribing/runescribing_table",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:manaweaving_altar",
-                "type": "crafting"
-            },
-            {
-                "location": "mna:runeforge_alt",
-                "type": "crafting"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Новые крестьяне"
-            },
-            {
-                "json": [
-                    {
-                        "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Transmuted Silver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
-                    }
-                ],
-                "type": "text",
-                "value": "Mana and Artifice adds three new villager types to help you with resources and trade throughout your playthrough.  Each one specializes in a different area of the mod, and can be used to help progress or simply trade for fun and useful items.  They are not required to start nor progress through the mod, if villagers aren't your thing.  M&A villagers trade in both emeralds and Transmuted Silver, so be sure to stock up on both.\n\nAll villager types can spawn naturally in villages, or can be created per vanilla rules by using their specific job block."
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "Spellmongers"
-            },
-            {
-                "json": [
-                    {
-                        "color": "dark_purple",
-                        "text": "Spellmongers"
-                    },
-                    {
-                        "text": " sell useful "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "herbalist pouches"
-                    },
-                    {
-                        "text": " which contain random magical flowers, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "inks"
-                    },
-                    {
-                        "text": ", and "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "other common ingredients"
-                    },
-                    {
-                        "text": " I frequently need for spell crafting.  The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Spellmongers seem to require a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Runeforge"
-                    },
-                    {
-                        "text": " to do their job."
-                    }
-                ],
-                "type": "text",
-                "value": "Spellmongers sell useful herbalist pouches, inks, and other common ingredients you'll frequently need throughout the mod.  The Spellmonger's job block is the Runeforge."
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "Manaweavers"
-            },
-            {
-                "json": [
-                    {
-                        "color": "dark_purple",
-                        "text": "Manaweavers"
-                    },
-                    {
-                        "text": " sell useful "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "manaweaver pouches"
-                    },
-                    {
-                        "text": " which contain bottled manaweaves for quick use, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "foci"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "magical silks"
-                    },
-                    {
-                        "text": " and "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "teas "
-                    },
-                    {
-                        "text": "that help my mana regenerate faster. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Manaweavers seem to require a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Manaweaving Altar"
-                    },
-                    {
-                        "text": " to do their job."
-                    }
-                ],
-                "type": "text",
-                "value": "Manaweavers sell useful manaweaver pouches, foci, silks and tea.  The Manaweaver's job block is the Manaweaving Altar."
-            },
-            {
-                "newPage": true,
-                "type": "title",
-                "value": "Runesmiths"
-            },
-            {
-                "json": [
-                    {
-                        "color": "dark_purple",
-                        "text": "Runesmiths"
-                    },
-                    {
-                        "text": " sell useful "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "inscription pouches"
-                    },
-                    {
-                        "text": " which contain various runes, "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "runes of marking"
-                    },
-                    {
-                        "text": ", "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "other useful items for runesmithing and construct crafting."
-                    },
-                    {
-                        "text": " The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Runesmiths"
-                    },
-                    {
-                        "text": " seem to require a "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "Runescribing Table"
-                    },
-                    {
-                        "text": " to do their job."
-                    }
-                ],
-                "type": "text",
-                "value": "Runesmiths sell useful inscription pouches, runes of marking, and other useful items for runescribing and construct crafting.  The Runesmiths's job block is the Runescribing Table."
-            }
-        ]
-    },
-    "Пыль души": {
-        "category": "artifice",
-        "index": 1,
-        "related_recipes": [
-            {
-                "location": "mna:manaweaving/animus_dust",
-                "type": "manaweaving_altar"
-            }
-        ],
-        "sections": [
-            {
-                "type": "title",
-                "value": "Пыль души"
-            },
-            {
-                "json": [
-                    {
-                        "text": "This joyful, bouncing dust has been imbued with the very essence of life. \n\nSimply sprinkling it on basic "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "blocks will cause them to begin to move"
-                    },
-                    {
-                        "text": " and jump around for a short time before reverting back to their inanimate state. They even seem to "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "attack the monsters that come out in the night"
-                    },
-                    {
-                        "text": "! \n\nI wonder if I hang "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "Construct Parts"
-                    },
-                    {
-                        "text": " on an "
-                    },
-                    {
-                        "color": "blue",
-                        "text": "Armor Stand"
-                    },
-                    {
-                        "text": " if it would "
-                    },
-                    {
-                        "color": "dark_purple",
-                        "text": "animate the construct"
-                    },
-                    {
-                        "text": "?  I bet it would."
-                    }
-                ],
-                "type": "text",
-                "value": "This joyful, bouncing dust has been imbued with the very essence of life.  Simply sprinkling it on basic blocks will cause them to begin to move and jump around for a short time before reverting back to their inanimate state.\n\nThey even seem to attack the monsters that come out in the night!\n\nI wonder if I could animate other things with it?"
-            }
-        ]
-    }
+    "version": "3.0.0.0"
 }

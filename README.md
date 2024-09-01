@@ -64,6 +64,7 @@
 | 1.20 | Не готов | horror_element_mod | Horror Elements mod | 1.6 |
 | 1.20 | Не готов | iceandfire | Ice and Fire | 2.1.13-beta-5 |
 | 1.20 | Не готов | luna | Luna | Beta Fabric 1.19-1.20 1.0.1 |
+| 1.20 | Не готов | mna | Mana and Artifice | 3.0.0.24 |
 | 1.20 | Не готов | sodium | Xenon | 0.3.19 |
 | 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
