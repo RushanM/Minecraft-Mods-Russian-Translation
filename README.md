@@ -56,6 +56,7 @@
 | 1.19 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 4.1.1 |
 | 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
 | 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
+| 1.19 | Переведён | parcool | ParCool | 3.2.1.2-R |
 | 1.19 | ... | ... | ... | ... |
 | 1.20 | Не готов | aether | The Aether | 1.4.2 |
 | 1.20 | Не готов | cataclysm | L_Ender's Cataclysm | 1.99.5 |

@@ -3060,7 +3060,7 @@
     "gtceu.machine.primitive_water_pump.tooltip": "Эндервуар дома",
     "gtceu.machine.processing_array.tooltip": "Когда несколько машин просто не работают",
     "gtceu.machine.pump.tooltip": "§7Лучший способ опустошить океаны!",
-    "gtceu.machine.pump.tooltip_buckets": "§f%d §7тактов на Ведро",
+    "gtceu.machine.pump.tooltip_buckets": "§f%d §7тактов на ведро",
     "gtceu.machine.pump_hatch.tooltip": "Примитивный жидкостный выход для водяного насоса",
     "gtceu.machine.pyrolyse_oven.tooltip": "Электрическая коксовая печь",
     "gtceu.machine.pyrolyse_oven.tooltip.1": "§aКупроникелевые катушки§7 работают на §a25%%§7 медленнее. Каждая катушка после §aканталовой§7 увеличивает скорость на §a50%%§7.",

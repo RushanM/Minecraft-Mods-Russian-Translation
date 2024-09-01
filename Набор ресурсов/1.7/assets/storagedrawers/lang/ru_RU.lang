@@ -1,23 +1,24 @@
 itemGroup.storageDrawers=Storage Drawers
-itemGroup.storageDrawersSorting=Storage Drawers - Сортировка
+itemGroup.storageDrawersSorting=Storage Drawers: сортировка
 
-# Items
+# Предметы
+
 item.storagedrawers.upgradeTemplate.name=Шаблон улучшения
 item.storagedrawers.upgrade.iron.name=Улучшение хранилища (II)
 item.storagedrawers.upgrade.gold.name=Улучшение хранилища (III)
 item.storagedrawers.upgrade.obsidian.name=Улучшение хранилища (IV)
 item.storagedrawers.upgrade.diamond.name=Улучшение хранилища (V)
 item.storagedrawers.upgrade.emerald.name=Улучшение хранилища (VI)
-item.storagedrawers.upgradeStatus.level1.name=Улучшение "Индикатор" (I)
+item.storagedrawers.upgradeStatus.level1.name=Улучшение «индикатор» (I)
 item.storagedrawers.upgradeStatus.level1.description=Показывает, когда ящик заполнен
-item.storagedrawers.upgradeStatus.level2.name=Улучшение "Индикатор" (II)
+item.storagedrawers.upgradeStatus.level2.name=Улучшение «индикатор» (II)
 item.storagedrawers.upgradeStatus.level2.description=Показывает уровень заполнения
 item.storagedrawers.upgradeLock.name=Ключ от ящика
 item.storagedrawers.upgradeLock.description=Закрывает и открывает ящики
 item.storagedrawers.upgradeVoid.name=Пустотное улучшение
 item.storagedrawers.upgradeVoid.description=Уничтожает лишние предметы
 item.storagedrawers.upgradeSorting.name=Сортирующее улучшение
-item.storagedrawers.upgradeSorting.description=Для модификации Refined Relocation
+item.storagedrawers.upgradeSorting.description=Для мода Refined Relocation
 item.storagedrawers.shroudKey.name=Ключ сокрытия
 item.storagedrawers.shroudKey.description=Показать или скрыть ярлыки элементов
 item.storagedrawers.personalKey.default.name=Персональный ключ
@@ -25,38 +26,39 @@ item.storagedrawers.personalKey.cofh.description=Защита доступа о�
 item.storagedrawers.tape.name=Упаковочная лента
 item.storagedrawers.tape.description=Опечатывает ящик для перемещения
 
-# Blocks
-tile.fullDrawers1.oak.name=Ящик из дуба
-tile.fullDrawers1.spruce.name=Ящик из ели
-tile.fullDrawers1.birch.name=Ящик из берёзы
-tile.fullDrawers1.jungle.name=Ящик из тропического дерева
-tile.fullDrawers1.acacia.name=Ящик из акации
+# Блоки
+
+tile.fullDrawers1.oak.name=Дубовый ящик
+tile.fullDrawers1.spruce.name=Еловый ящик
+tile.fullDrawers1.birch.name=Берёзовый ящик
+tile.fullDrawers1.jungle.name=Тропический ящик
+tile.fullDrawers1.acacia.name=Акациевый ящик
 tile.fullDrawers1.big_oak.name=Ящик из тёмного дуба
 
-tile.fullDrawers2.oak.name=Ящик из дуба 1x2
-tile.fullDrawers2.spruce.name=Ящик из ели 1x2
-tile.fullDrawers2.birch.name=Ящик из берёзы 1x2
+tile.fullDrawers2.oak.name=Дубовый ящик 1x2
+tile.fullDrawers2.spruce.name=Еловый ящик 1x2
+tile.fullDrawers2.birch.name=Берёзовый ящик 1x2
 tile.fullDrawers2.jungle.name=Ящик из тропического дерева 1x2
 tile.fullDrawers2.acacia.name=Ящик из акации 1x2
 tile.fullDrawers2.big_oak.name=Ящик из тёмного дуба 1x2
 
-tile.fullDrawers4.oak.name=Ящик из дуба 2x2
-tile.fullDrawers4.spruce.name=Ящик из ели 2x2
-tile.fullDrawers4.birch.name=Ящик из берёзы 2x2
+tile.fullDrawers4.oak.name=Дубовый ящик 2x2
+tile.fullDrawers4.spruce.name=Еловый ящик 2x2
+tile.fullDrawers4.birch.name=Берёзовый ящик 2x2
 tile.fullDrawers4.jungle.name=Ящик из тропического дерева 2x2
 tile.fullDrawers4.acacia.name=Ящик из акации 2x2
 tile.fullDrawers4.big_oak.name=Ящик из тёмного дуба 2x2
 
-tile.halfDrawers2.oak.name=Компактный ящик из дуба 1x2
-tile.halfDrawers2.spruce.name=Компактный ящик из ели 1x2
-tile.halfDrawers2.birch.name=Компактный ящик из берёзы 1x2
+tile.halfDrawers2.oak.name=Компактный дубовый ящик 1x2
+tile.halfDrawers2.spruce.name=Компактный еловый ящик 1x2
+tile.halfDrawers2.birch.name=Компактный берёзовый ящик 1x2
 tile.halfDrawers2.jungle.name=Компактный ящик из тропического дерева 1x2
 tile.halfDrawers2.acacia.name=Компактный ящик из акации 1x2
 tile.halfDrawers2.big_oak.name=Компактный ящик из тёмного дуба 1x2
 
-tile.halfDrawers4.oak.name=Компактный ящик из дуба 2x2
-tile.halfDrawers4.spruce.name=Компактный ящик из ели 2x2
-tile.halfDrawers4.birch.name=Компактный ящик из берёзы 2x2
+tile.halfDrawers4.oak.name=Компактный дубовый ящик 2x2
+tile.halfDrawers4.spruce.name=Компактный еловый ящик 2x2
+tile.halfDrawers4.birch.name=Компактный берёзовый ящик 2x2
 tile.halfDrawers4.jungle.name=Компактный ящик из тропического дерева 2x2
 tile.halfDrawers4.acacia.name=Компактный ящик из акации 2x2
 tile.halfDrawers4.big_oak.name=Компактный ящик из тёмного дуба 2x2

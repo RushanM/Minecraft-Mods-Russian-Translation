@@ -9,7 +9,9 @@
     },
     {
       "border": "true",
-      "images": ["parcool:textures/gui/entries/image_cling_cliff.png"],
+      "images": [
+        "parcool:textures/gui/entries/image_cling_cliff.png"
+      ],
       "type": "patchouli:image"
     },
     {
