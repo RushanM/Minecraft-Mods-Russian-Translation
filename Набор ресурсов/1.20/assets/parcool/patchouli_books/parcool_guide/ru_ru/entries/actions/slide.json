@@ -1,16 +1,16 @@
 {
-  "name": "Slide",
-  "icon": "minecraft:yellow_dye",
   "category": "parcool:category_actions",
+  "icon": "minecraft:yellow_dye",
+  "name": "Скольжение",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "$(bold)Slide$() is an action derived from $(l:parcool:actions/crawl)Crawl$(). You can go through narrow space quickly."
+      "text": "$(bold)Скольжение$() — это действий, основанное на $(l:parcool:actions/crawl)ползании$(). С помощью него вы можете быстро проходить через узкие пространства.",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list)do Crawl while doing Fast Running"
+      "text": "$(list)Совмещайте ползание с быстрым бегом.",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }

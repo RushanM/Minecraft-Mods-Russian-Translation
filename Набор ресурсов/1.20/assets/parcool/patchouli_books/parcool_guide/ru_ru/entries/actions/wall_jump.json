@@ -1,16 +1,16 @@
 {
-  "name": "Wall Jump",
-  "icon": "minecraft:leather_boots",
   "category": "parcool:category_actions",
+  "icon": "minecraft:leather_boots",
+  "name": "Прыжок от стены",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "You can kick walls to more jump. But be careful, you cannot gain height if want to kick icy blocks!"
+      "text": "Вы можете отталкиваться от стен для выполнения дополнительных прыжков. Но будьте осторожны: вы не сможете набрать высоту, если будете отталкиваться от ледяных блоков!",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(list)Press Wall Jump key($(k:parcool.WallJump)) by walls in air"
+      "text": "$(list)Нажмите клавишу прыжка от стены ($(k:parcool.WallJump)) в воздухе возле стены.",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }

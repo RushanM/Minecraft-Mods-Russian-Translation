@@ -1,24 +1,24 @@
 {
-  "name": "Vault",
-  "icon": "minecraft:oak_fence",
   "category": "parcool:category_actions",
+  "icon": "minecraft:oak_fence",
+  "name": "Преодоление препятствий",
   "pages": [
     {
-      "type": "patchouli:text",
-      "text": "$(bold)Vault$() is skills used to get over obstacles like fences.$(br)There are numerous variations. In this game, you can use $(italic)Speed Vault$() and $(italic)Kong Vault$()"
+      "text": "$(bold)Этот навык$() позволяет преодолевать преграды, такие как заборы.$(br)Существует множество его вариаций. В этой игре можно использовать $(italic)скоростное$() и $(italic)конг-преодоление.$()",
+      "type": "patchouli:text"
     },
     {
-      "type": "patchouli:image",
       "border": "true",
       "images": [
         "parcool:textures/gui/entries/image_vault.png"
       ],
-      "title": "$(italic)Speed Vault$()"
+      "title": "$(italic)Скоростное преодоление$()",
+      "type": "patchouli:image"
     },
     {
-      "type": "patchouli:text",
-      "title": "How to Use",
-      "text": "$(bold)1.$() Do $(l:parcool:actions/fast-run)Fast Run$()$(br)$(bold)2.$() Collide with blocks"
+      "text": "$(bold)1.$() Выполните $(l:parcool:actions/fast-run)быстрый забег$();$(br)$(bold)2.$() Столкнитесь с преградой.",
+      "title": "Как использовать",
+      "type": "patchouli:text"
     }
   ]
 }
