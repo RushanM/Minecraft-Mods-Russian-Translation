@@ -8,7 +8,7 @@
       "type": "patchouli:text"
     },
     {
-      "text": "$(list) Нажмите клавишу ползания ($(k:parcool.Crawl))",
+      "text": "$(list) Нажмите клавишу ползания ($(k:parcool.Crawl)).",
       "title": "Как провернуть",
       "type": "patchouli:text"
     }
