@@ -16,7 +16,7 @@
     },
     {
       "text": "$(list) Нажмите клавишу зацепления за выступ ($(k:parcool.ClingToCliff)) у стены$(br)",
-      "title": "Как использовать",
+      "title": "Как провернуть",
       "type": "patchouli:text"
     }
   ]

@@ -69,6 +69,7 @@
 | 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
 | 1.20 | Переведён | embeddium | Xenon | 0.3.19 |
 | 1.20 | Переведён | minecraft | Xenon | 0.3.19 |
+| 1.20 | Переведён | parcool | ParCool | 3.2.1.2-R |
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | Переведён | sodium | Sodium | 0.5.11 |
 | 1.20 | Переведён | trofers | Trofers | 5.0.2 |

@@ -8,8 +8,8 @@
       "type": "patchouli:text"
     },
     {
-      "text": "$(list)Нажмите клавишу быстрого разворота ($(k:parcool.QuickTurn))",
-      "title": "Как использовать",
+      "text": "$(list)Нажмите клавишу быстрого разворота ($(k:parcool.QuickTurn)).",
+      "title": "Как провернуть",
       "type": "patchouli:text"
     }
   ]

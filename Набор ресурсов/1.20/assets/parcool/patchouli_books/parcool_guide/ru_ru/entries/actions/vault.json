@@ -16,8 +16,8 @@
       "type": "patchouli:image"
     },
     {
-      "text": "$(bold)1.$() Выполните $(l:parcool:actions/fast-run)быстрый забег$();$(br)$(bold)2.$() Столкнитесь с преградой.",
-      "title": "Как использовать",
+      "text": "$(bold)1.$() $(l:parcool:actions/fast-run)Быстро побегите$();$(br)$(bold)2.$() Столкнитесь с преградой.",
+      "title": "Как провернуть",
       "type": "patchouli:text"
     }
   ]
