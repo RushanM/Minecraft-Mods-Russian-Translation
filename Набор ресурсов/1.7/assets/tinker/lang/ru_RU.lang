@@ -968,13 +968,13 @@ tool.core.broken=Сломан.
 
 armor.core.broken=Сломан.
 armor.core.protection=Защита: 
-armor.travelbelt.ability=Функция: Смена панели быстр. доступа
+armor.travelbelt.ability=Функция: смена панели быстр. доступа
 armor.travelbelt.control=Применить: 
 armor.travelgoggles.ability=Функция: Приближение 
 armor.travelgoggles.toggleabilities=Переключить функции: 
-armor.travelvest.ability=Функция: Быстрое плавание
-armor.travelwings.ability=Функция: Высокий прыжок
-armor.travelboots.ability=Функция: Высокий шаг
+armor.travelvest.ability=Функция: быстрое плавание
+armor.travelwings.ability=Функция: высокий прыжок
+armor.travelboots.ability=Функция: высокий шаг
 
 tool.reinforced=Укрепление
 tool.unbreakable=Неразрушимость
