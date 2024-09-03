@@ -14,7 +14,7 @@
 	"moreculling.config.option.entityModelCulling.tooltip": "Будет полезным только в случае ограниченности ГП и при наличии свободных мощностей у ЦП.",
 	"moreculling.config.option.blockStateCulling": "Отсечение состояний блоков",
 	"moreculling.config.option.blockStateCulling.tooltip": "Активирует агрессивную отсечение граней блоков.",
-	"moreculling.config.option.customItemFrameRenderer": "Настраиваемый рендер рамок",
+	"moreculling.config.option.customItemFrameRenderer": "Настраиваемая отрисовка рамок",
 	"moreculling.config.option.customItemFrameRenderer.tooltip": "Активирует настраиваемый способ визуализации рамок.",
 	"moreculling.config.option.itemFrameMapCulling": "Отсечение карты в рамке",
 	"moreculling.config.option.itemFrameMapCulling.tooltip": "Активирует отсечение карты в рамках.",

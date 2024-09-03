@@ -62,6 +62,7 @@
 | 1.20 | Не готов | aether | The Aether | 1.4.2 |
 | 1.20 | Не готов | cataclysm | L_Ender's Cataclysm | 1.99.5 |
 | 1.20 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
+| 1.20 | Не готов | create | Create | 0.5.1.h |
 | 1.20 | Не готов | horror_element_mod | Horror Elements mod | 1.6 |
 | 1.20 | Не готов | iceandfire | Ice and Fire | 2.1.13-beta-5 |
 | 1.20 | Не готов | luna | Luna | Beta Fabric 1.19-1.20 1.0.1 |
@@ -81,6 +82,7 @@
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.21 | Не готов | fabric-convention-tags-v2 | Fabric Convention Tags | 08.06.2024 |
 | 1.21 | Не готов | luna | Luna | Release Fabric 1.19-1.20 1.0.1 |
+| 1.21 | Переведён | accessories | Accessories | 1.0.0 Beta 31 |
 | 1.21 | Переведён | ae2wtlib | Applied Energistics 2 Wireless Terminals | 19.1.3-beta |
 | 1.21 | Переведён | fabric | Fabric | 08.06.2024 |
 | 1.21 | Переведён | fabric-gamerule-test | Fabric | 08.06.2024 |
