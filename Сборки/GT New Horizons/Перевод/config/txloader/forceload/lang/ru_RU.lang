@@ -2,14 +2,14 @@ nei.load=Загрузить
 nei.save=Сохранить
 
 # PC/Linux Control Key
+
 nei.key.ctrl=CTRL
+
 # Mac Command Key
+
 nei.key.ctrl.mac=CMD
 
-nei.bookmark.toggle=Bookmarks
-nei.bookmark.toggle.tip=Toggle visibility of the Bookmark Panel
-nei.bookmark.viewmode.toggle.tip=Toggle Bookmark View Mode
-nei.bookmark.pullBookmarkedItems.tip=Pull all bookmarked items from storage to inventory
+nei.bookmark.toggle=Закладки
 
 nei.itempanel.quantity.default=One stack
 nei.itempanel.loading=Загрузка списка преметов...
@@ -23,16 +23,12 @@ nei.potion.favourite=Любимые зелья
 nei.potion.duration=Длительность
 nei.potion.level=Уровень
 
-nei.inventory.options=Опции
-nei.inventory.options.tip=NEI Config
-nei.inventory.options.tip.cheatmode.0=Recipe Mode
-nei.inventory.options.tip.cheatmode.1=Utility Mode
-nei.inventory.options.tip.cheatmode.2=Cheat Mode
-nei.inventory.options.tip.cheatmode.disable=%s-click here to cycle between Recipe, Utility, and Cheat Mode.
+nei.inventory.options=Настройки
+nei.inventory.options.tip=Настройки NEI
+nei.inventory.options.tip.cheatmode.2=Чит-режим
 nei.inventory.prev=Предыдущая
 nei.inventory.next=Следующая
 nei.inventory.item_subsets=Подмножества предметов
-nei.inventory.delete.inv=DELETE ALL ITEMS from current inventory screen
 nei.inventory.delete.one=Удалить %s
 nei.inventory.delete.all=Удалить ВСЕ %s
 nei.inventory.delete.enable=Режим удаления
@@ -45,16 +41,12 @@ nei.inventory.magnet.enable=Режим магнита
 nei.inventory.magnet.1=Включить режим магнита
 nei.inventory.magnet.0=Выключить режим магнита
 nei.inventory.dawn.enable=Включить рассвет-полдень
-nei.inventory.dawn.disable=Right-click: Disable dawn-noon phase
 nei.inventory.dawn.set=Установить время на рассвет
 nei.inventory.noon.enable=Включить полдень-сумерки
-nei.inventory.noon.disable=Right-click: Disable noon-dusk phase
 nei.inventory.noon.set=Установить время на полдень
 nei.inventory.dusk.enable=Включить сумерки-полночь
-nei.inventory.dusk.disable=Right-click: Disable dusk-midnight phase
 nei.inventory.dusk.set=Установить время на сумерки
 nei.inventory.midnight.enable=Включить полночь-рассвет
-nei.inventory.midnight.disable=Right-click: Disable midnight-dawn phase
 nei.inventory.midnight.set=Установить время на полночь
 nei.inventory.heal=Исцелить игрока
 nei.inventory.current.gamemode.0=Текущий режим игры: выживание
@@ -68,20 +60,14 @@ nei.inventory.gamemode.1=Установить игровой режим на т�
 nei.inventory.gamemode.2=Установить игровой режим на творческий+
 nei.inventory.gamemode.3=Установить игровой режим на приключение
 
-nei.chat.gamemode.0=Теперь Вы играете в режиме выживание
-nei.chat.gamemode.1=Теперь Вы играете в режиме творчество
-nei.chat.gamemode.2=Теперь Вы играете в режиме творчество+
-nei.chat.gamemode.3=Теперь Вы играете в режиме приключение
+nei.chat.gamemode.0=Теперь вы играете в режиме выживания
+nei.chat.gamemode.1=Теперь вы играете в творческом режиме
+nei.chat.gamemode.2=Теперь вы играете в творческом режиме+
+nei.chat.gamemode.3=Теперь вы играете в режиме приключения
 nei.chat.rain.on=Дождь включён
 nei.chat.rain.off=Дождь выключен
 nei.chat.time=День %d. %d:00
 nei.chat.give.noitem=Нет такого предмета.
-nei.chat.recipe.error=There was error during loading recipe. Please check log for details.
-nei.chat.render.error=There was error during rendering item. Please check log for details.
-nei.chat.chunkoverlay.0=Chunk Overlay: Off
-nei.chat.chunkoverlay.1=Chunk Overlay: Chunk Corners
-nei.chat.chunkoverlay.2=Chunk Overlay: Chunks
-nei.chat.chunkoverlay.3=Chunk Overlay: GT Ore Veins
 
 nei.options=Опции NEI
 nei.options.back=Назад
@@ -103,26 +89,12 @@ nei.options.keys.gui.back=Предыдущий рецепт
 nei.options.keys.gui.prev=Предыдущая страница
 nei.options.keys.gui.next=Следующая страница
 nei.options.keys.gui.hide=Переключить видимость NEI
-nei.options.keys.gui.next_recipe=Next Recipe
-nei.options.keys.gui.prev_recipe=Prev Recipe
-nei.options.keys.gui.next_machine=Next Machine
-nei.options.keys.gui.prev_machine=Prev Machine
 nei.options.keys.gui.search=Сфокусироваться на панели поиска
-nei.options.keys.gui.bookmark=Add Bookmark
-nei.options.keys.gui.bookmark_recipe=Add Bookmark with Recipe
-nei.options.keys.gui.bookmark_count=Add Bookmark with Count
-nei.options.keys.gui.bookmark_pull_items=Pull all Bookmarked Items
-nei.options.keys.gui.bookmark_pull_items_ingredients=Pull all Bookmarked Ingredients
-nei.options.keys.gui.bookmark_recipe_count=Add Bookmark with Recipe & Count
-nei.options.keys.gui.hide_bookmarks=Toggle Bookmark Panel Visibility
-nei.options.keys.gui.overlay=Overlay Recipe
-nei.options.keys.gui.overlay_hide=Hide Overlay Recipe
-nei.options.keys.gui.overlay_use=Use Overlay Recipe
-nei.options.keys.gui.getprevioussearch=Предыдущий Поиск
-nei.options.keys.gui.getnextsearch=Следующий Поиск
-nei.options.keys.gui.next_tooltip=Next Tooltip
-nei.options.keys.gui.copy_name=Copy Item Name
-nei.options.keys.gui.copy_oredict=Copy Item OreDictionary
+nei.options.keys.gui.bookmark=Добавить в закладки
+nei.options.keys.gui.getprevioussearch=Предыдущий результат поиска
+nei.options.keys.gui.getnextsearch=Следующий результат поиска
+nei.options.keys.gui.next_tooltip=Следующая подсказка
+nei.options.keys.gui.copy_name=Скопировать название предмета
 nei.options.keys.world=Мир
 nei.options.keys.world.chunkoverlay=Наложение границ чанков
 nei.options.keys.world.moboverlay=Наложение появления мобов
@@ -173,54 +145,39 @@ nei.options.inventory.gamemodes.tip=Выберете игровые режимы
 nei.options.inventory.gamemodes.creative=Творческий
 nei.options.inventory.gamemodes.creative+=Творческий+
 nei.options.inventory.gamemodes.adventure=Приключение
-nei.options.inventory.disableMouseScrollTransfer=Disable Mouse Wheel Transfer
-nei.options.inventory.disableMouseScrollTransfer.true=True
-nei.options.inventory.disableMouseScrollTransfer.false=False
-nei.options.inventory.invertMouseScrollTransfer=Invert Mouse Wheel Transfer Direction
-nei.options.inventory.invertMouseScrollTransfer.true=True
-nei.options.inventory.invertMouseScrollTransfer.false=False
-nei.options.inventory.cacheItemRendering=Cache Item Rendering
-nei.options.inventory.cacheItemRendering.true=True
-nei.options.inventory.cacheItemRendering.false=False
-nei.options.inventory.history=History Panel
-nei.options.inventory.history.enabled=History Panel Visibility
+nei.options.inventory.disableMouseScrollTransfer.true=Вкл.
+nei.options.inventory.disableMouseScrollTransfer.false=Выкл.
+nei.options.inventory.invertMouseScrollTransfer.true=Вкл.
+nei.options.inventory.invertMouseScrollTransfer.false=Выкл.
+nei.options.inventory.cacheItemRendering.true=Вкл.
+nei.options.inventory.cacheItemRendering.false=Выкл.
 nei.options.inventory.history.enabled.true=Включено
 nei.options.inventory.history.enabled.false=Выключено
-nei.options.inventory.history.historyColor=Color
-nei.options.inventory.history.useRows=Rows
-nei.options.inventory.history.splittingMode=Splitting Mode
-nei.options.inventory.history.splittingMode.0=Background
-nei.options.inventory.history.splittingMode.1=Dotted Line
+nei.options.inventory.history.historyColor=Цвет
+nei.options.inventory.history.splittingMode.0=Фон
 
 nei.options.command=Команды
 nei.options.command.creative=Игровой режим
-nei.options.command.creative.tip={0} = 1 for creative, 0 for survival, {1} = player
 nei.options.command.item=Предмет
-nei.options.command.item.tip={0} = player, {1} = id, {2} = amount, {3} = damage, {4} = nbt, {5} = name
 nei.options.command.time=Время
-nei.options.command.time.tip={0} = worldtime
+nei.options.command.time.tip={0} = мировое время
 nei.options.command.rain=Дождь
-nei.options.command.rain.tip={0} = 1 for on, 0 for off
 nei.options.command.heal=Исцеление
-nei.options.command.heal.tip={0} = player
+nei.options.command.heal.tip={0} = игрок
 
 nei.options.world.highlight_tips=Всплывающие подсказки
 nei.options.world.highlight_tips.hide=Спрятаны
 nei.options.world.highlight_tips.show=Показаны
 nei.options.world.highlight_tips.sample=Пример
 
-nei.options.world.panels=Panels Settings
-
 nei.options.tools=Инструменты
-nei.options.tools.handler_load_from_config=Load handlers from Config
-nei.options.tools.handler_load_from_config.true=Config
+nei.options.tools.handler_load_from_config.true=Настройки
 nei.options.tools.handler_load_from_config.false=JAR
-nei.options.tools.catalyst_load_from_config=Load catalysts from Config
-nei.options.tools.catalyst_load_from_config.true=Config
+nei.options.tools.catalyst_load_from_config.true=Настройки
 nei.options.tools.catalyst_load_from_config.false=JAR
 nei.options.tools.dump=Дампы памяти
 nei.options.tools.dump.dump=Дамп
-nei.options.tools.dump.dumped=ID %s сохранены в %s
+nei.options.tools.dump.dumped=Идентификаторы %s сохранены в %s
 nei.options.tools.dump.mode.0=Используемые
 nei.options.tools.dump.mode.1=Свободные
 nei.options.tools.dump.mode.2=Все
@@ -238,14 +195,12 @@ nei.options.tools.dump.itempanel=Панель предметов
 nei.options.tools.dump.itempanel.dumped=Содержимое панели предметов сохранено в %s
 nei.options.tools.dump.itempanel.mode.0=CSV
 nei.options.tools.dump.itempanel.mode.1=NBT
-nei.options.tools.dump.itempanel.mode.2=Json
+nei.options.tools.dump.itempanel.mode.2=JSON
 nei.options.tools.dump.itempanel.mode.3=PNG
-nei.options.tools.dump.itempanel.icon.dumped=Иконки панели предметов сохранены в %s
+nei.options.tools.dump.itempanel.icon.dumped=Значки панели предметов сохранены в %s
 nei.options.tools.dump.itempanel.icon.cancelled=Дамп отменён
-nei.options.tools.dump.handlers=NEI Handlers
-nei.options.tools.dump.handlers.dumped=handlers were dumped to %s
 nei.options.tools.dump.handlers.mode.0=CSV
-nei.options.tools.dump.handlers.mode.1=Json
+nei.options.tools.dump.handlers.mode.1=JSON
 
 nei.recipe.page=Страница %s/%s
 nei.recipe.tooltip=Рецепты
@@ -253,12 +208,17 @@ nei.recipe.shaped=Форменное создание
 nei.recipe.shapeless=Бесформенное создание
 nei.recipe.furnace=Выплавка
 nei.recipe.fuel=Топливо
-nei.recipe.fuel.smeltCount=Smelts %s items
+
 # Deprecated
+
 nei.recipe.fuel.required=Требуется: %s
+
 # Deprecated
+
 nei.recipe.fuel.processed=Обработано: %s
+
 # Deprecated
+
 nei.recipe.fuel.produced=Произведено: %s
 nei.recipe.firework=Фейерверки
 nei.recipe.firework.tooltip0=Красители добавляют цвета на звёздочку
@@ -267,8 +227,6 @@ nei.recipe.firework.tooltip2=Одна ракета может выпустить
 nei.recipe.brewing=Зельеварение
 nei.recipe.profiler.crafting=Профилирование создания
 nei.recipe.profiler.usage=Использование профилирования
-nei.recipe.concurrent.usage=Concurrent Usage - Total
-nei.recipe.concurrent.crafting=Concurrent Crafting - Total
 
 nei.itemsort.minecraft=Minecraft
 nei.itemsort.minecraft.tip=Сортирует предметы сначала из оригинального Minecraft
@@ -305,15 +263,11 @@ nei.subsets.Items.Tools.Shovels=Лопаты
 nei.subsets.Items.Weapons=Оружие
 nei.subsets.Items.Weapons.Ranged=Дальнего боя
 nei.subsets.Items.Weapons.Swords=Мечи
-nei.subsets.Mod=Модификации
+nei.subsets.Mod=Моды
 
-nei.presets.blacklist.label=B
 nei.presets.blacklist.tooltip=Черный список
-nei.presets.whitelist.label=W
 nei.presets.whitelist.tooltip=Белый список
-nei.presets.blacklistPlus.label=B+
-nei.presets.blacklistPlus.tooltip=Blacklist Plus
-nei.presets.textfield.tooltip.1=Enter - save
-nei.presets.textfield.tooltip.2=Escape - cancel
-nei.presets.label.tooltip=Double click to edit
-nei.presets.label.selected=%s Presets
+nei.presets.textfield.tooltip.1=Ввод — сохранить
+nei.presets.textfield.tooltip.2=Escape — отменить
+nei.presets.label.tooltip=Нажмите дважды, чтобы отредактировать
+nei.presets.label.selected=Шаблоны %s

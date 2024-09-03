@@ -486,7 +486,7 @@ fancymenu.config.loadinganimationcolor.desc = Установит цвет инд
 fancymenu.config.preloadanimations.desc = Будет предварительно загружены текстуры%n%анимации при запуске игры.%n%Это приводит к зависанию%n%экрана загрузки в конце, но%n%предотвращает задержку анимации%n%при первой отрисовке.
 
 fancymenu.config.customwindowtitle.desc = Укажит пользовательский заголовок окна minecraft.
-fancymenu.config.customwindowicon.desc = Включит пользовательские иконки окон Minecraft.%n%Для получения дополнительной информации,%n%загляните в Wiki:%n%§lfm.keksuccino.com
+fancymenu.config.customwindowicon.desc = Включит пользовательские значки окон Minecraft.%n%Для получения дополнительной информации,%n%загляните в Wiki:%n%§lfm.keksuccino.com
 
 fancymenu.config.showvanillamovewarning.desc = Включит уведомление с предупреждением%n%при попытке переместить элемент%n%vanilla/mod без ориентации%n%в редакторе макетов.
 fancymenu.config.editordeleteconfirmation.desc = Если при удалении элемента должно%n%отображаться всплывающее окно подтверждения.
@@ -853,7 +853,7 @@ fancymenu.config.categories.singleplayer_screen = МЕНЮ ОДИНОЧНОЙ И
 
 fancymenu.config.show_server_icons = Показ. значки сервера
 fancymenu.config.show_server_icons.desc = Если значки сервера должны быть видны.
-fancymenu.config.show_world_icons = Показывать иконки Мира
+fancymenu.config.show_world_icons = Показывать значки мира
 fancymenu.config.show_world_icons.desc = Если значки Мира должны быть видны.
 
 fancymenu.helper.ui.tools.buttoninfo.enablecustomizations = §cВам необходимо включить настройки%n%§cдля текущего меню, чтобы использовать этот инструмент!
