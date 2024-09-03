@@ -1081,7 +1081,7 @@
     "messages.securitycraft:keycardReader.noUses": "У этой ключ-карты не осталось использований!",
     "messages.securitycraft:keycardReader.wrongLevel": "Этот Считыватель Ключ-карт не принимает ключ-карты уровня %s!",
     "messages.securitycraft:keycardReader.wrongSignature": "Подпись, сохраненная на этой карте, не соответствует подписи Считывателя Ключ-карт!",
-    "messages.securitycraft:laser.sync_failed": "Синхронизация с Лазерным Блоком на %s не удалась, потому что \"%s\" не совпадает. Удалите модуль из любого блока и попробуйте снова.",
+    "messages.securitycraft:laser.sync_failed": "Синхронизация с Лазерным Блоком на %s не удалась, потому что «%s» не совпадает. Удалите модуль из любого блока и попробуйте снова.",
     "messages.securitycraft:module.added": "Добавлен # в удерживаемый модуль.",
     "messages.securitycraft:module.alreadyContained": "Модуль, который вы держите, уже содержит игрока #.",
     "messages.securitycraft:module.manager": "Менеджер Модулей",

@@ -80,7 +80,7 @@
   "zoomify.gui.preset.ok_zoomer": "OK Zoomer",
   "yacl3.config.zoomify.category.misc.group.presets.presetBtn.button": "Применить профиль",
   "zoomify.gui.preset.toast.title": "Профиль применён",
-  "zoomify.gui.preset.toast.description": "Для Zoomify был назначен профиль \"%s\".",
+  "zoomify.gui.preset.toast.description": "Для Zoomify был назначен профиль «%s».",
   "yacl3.config.zoomify.category.misc.group.presets.presetBtn.description": "Zoomify будет имитировать поведение %s.",
   "yacl3.config.zoomify.category.misc.group.presets.label.applyWarning": "Применение профиля перезаписывает все внесённые ранее изменения.",
 
@@ -123,9 +123,9 @@
   "zoomify.sound_behaviour.with_overlay": "Только с контуром",
 
   "zoomify.toast.conflictingKeybind.title": "Zoomify не может работать!",
-  "zoomify.toast.conflictingKeybind.description": "Обнаружено конфликтующее назначение клавиш, мешающее использовать клавишу приближения. Вы можете устранить конфликт в категории \"%s\" настроек Zoomify.",
+  "zoomify.toast.conflictingKeybind.description": "Обнаружено конфликтующее назначение клавиш, мешающее использовать клавишу приближения. Вы можете устранить конфликт в категории «%s» настроек Zoomify.",
   "zoomify.toast.unbindConflicting.name": "Конфликт клавиш устранён",
-  "zoomify.toast.unbindConflicting.description": "Zoomify отключил горячую клавишу для действия \"%s\" из-за имеющегося конфликта с клавишей приближения.",
+  "zoomify.toast.unbindConflicting.description": "Zoomify отключил горячую клавишу для действия «%s» из-за имеющегося конфликта с клавишей приближения.",
 
 
   "zoomify.migrate.no_migrations": "Миграция недоступна",

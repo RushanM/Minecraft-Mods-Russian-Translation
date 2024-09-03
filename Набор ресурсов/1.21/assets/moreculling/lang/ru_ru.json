@@ -30,7 +30,7 @@
 	"moreculling.config.option.leavesCulling.tooltip": "Способ отбраковки, применяемый к блокам листьев.",
 	"moreculling.config.option.leavesCullingAmount": "Видимые слои листьев",
 	"moreculling.config.option.leavesCullingAmount.tooltip": "Изменить количество слоёв листьев, которые следует проверять для отбраковки по глубине. Чем ниже, тем быстрее.",
-	"moreculling.config.option.mangroveOnly": "При использовании \"%s\" отсечение будет работать только на блоках мангровых корней.",
+	"moreculling.config.option.mangroveOnly": "При использовании «%s» отсечение будет работать только на блоках мангровых корней.",
 	"moreculling.config.option.includeMangroveRoots": "Применять к мангровым корням",
 	"moreculling.config.option.includeMangroveRoots.tooltip": "Применять к блокам мангровых корней те же способы отбраковки, что и к листьям. Не работает для отбраковки по состоянию блока.",
 	"moreculling.config.option.powderSnowCulling": "Отсечение рыхлого снега",
@@ -44,5 +44,5 @@
 	"moreculling.config.options.random": "Случайно",
 	"moreculling.config.options.vertical": "По вертикали",
 	"moreculling.config.resetCache": "Очистить кэш",
-	"moreculling.config.optionDisabled": "Эта настройка отключена во время работы \"%s\"."
+	"moreculling.config.optionDisabled": "Эта настройка отключена во время работы «%s»."
 }
