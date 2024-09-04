@@ -76,6 +76,7 @@
 | 1.20 | Переведён | parcool | ParCool | 3.2.1.2-R |
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | Переведён | sodium | Sodium | 0.5.11 |
+| 1.20 | Переведён | spawnersplus | Spawners+ | 4.0 |
 | 1.20 | Переведён | trofers | Trofers | 5.0.2 |
 | 1.20 | Переведён | xenon | Xenon | 0.3.19 |
 | 1.20 | ... | ... | ... | ... |
