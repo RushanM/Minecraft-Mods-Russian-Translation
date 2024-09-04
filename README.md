@@ -364,6 +364,7 @@
 * * [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 * * [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
 * * [Luna](https://www.curseforge.com/minecraft/mc-mods/luna)
+* * [Spawners+](https://modrinth.com/mod/spawners_plus)
 * * [Stalwart Dungeons](https://modrinth.com/mod/stalwart-dungeons)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
