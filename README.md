@@ -33,18 +33,21 @@
 | 1.12 | Переведён | aroma1997core | Aroma1997Core | 2.0.0.2 b167 |
 | 1.12 | Переведён | scple | SCP Lockdown Extras | 1.0 |
 | 1.12 | ... | ... | ... | ... |
+| 1.16 | Не готов | sodium | Sodium | 0.2 |
 | 1.16 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 1.1 |
 | 1.16 | Переведён | advancementframes | Advancement Frames | 1.0.5 |
 | 1.16 | Переведён | alexsdelight | Alex's Delights | 1.0 |
 | 1.16 | Переведён | amfd | Alex's Delight | 1.1.3 |
 | 1.16 | Переведён | ancient_war | Ancient Warfare Legacy | 1.1 |
 | 1.16 | ... | ... | ... | ... |
+| 1.17 | Не готов | sodium | Sodium | 0.3.4 |
 | 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
 | 1.17 | Переведён | alexsdelight | Alex's Delights | 1.1 |
 | 1.17 | ... | ... | ... | ... |
 | 1.18 | Не готов | chipped | Chipped | 2.0.1 |
 | 1.18 | Не готов | horror_element_mod | Horror Elements mod | 1.5.5 |
 | 1.18 | Не готов | malum | Malum | 1.5.0.1 |
+| 1.18 | Не готов | sodium | Sodium | 0.4.1 |
 | 1.18 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 3.1 |
 | 1.18 | Переведён | advancementframes | Advancement Frames | 1.1.1 |
 | 1.18 | Переведён | alexsdelight | Alex's Delight | 1.3.3 |
@@ -53,6 +56,7 @@
 | 1.19 | Не готов | сataclysm | L_Ender's Cataclysm | 1.99.2 |
 | 1.19 | Не готов | aether | The Aether | 1.4.2 |
 | 1.19 | Не готов | horror_element_mod | Horror Elements mod | 1.5.9 |
+| 1.19 | Не готов | sodium | Sodium | 0.4.10 |
 | 1.19 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 4.1.1 |
 | 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
 | 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
