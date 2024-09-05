@@ -782,7 +782,7 @@ item.itemYetaWrench.tooltip.detailed.line2=Shift-ПКМ, чтобы момент
 item.itemYetaWrench.tooltip.detailed.line3=механизм или трубы
 item.itemYetaWrench.tooltip.detailed.line4=Нажмите ЛКМ c зажатой Shift по трубе, чтобы
 item.itemYetaWrench.tooltip.detailed.line5=открыть интерфейс настроек
-item.itemYetaWrench.tooltip.detailed.line6=Используйте Shift-колёсико мыши или '%s', чтобы
+item.itemYetaWrench.tooltip.detailed.line6=Используйте Shift-колёсико мыши или «%s», чтобы
 item.itemYetaWrench.tooltip.detailed.line7=отображать только один вид труб
 
 item.itemMagnet.name=Электромагнит

@@ -1,9 +1,9 @@
 {
     "block.air": "Воздух",
-    "chat.cyclopscore.command.ignitedPlayer": "Игрок '%s' горел %s секунд",
+    "chat.cyclopscore.command.ignitedPlayer": "Игрок «%s» горел %s секунд",
     "chat.cyclopscore.command.invalidArguments": "Недопустимый аргумент",
     "chat.cyclopscore.command.invalidNewValue": "Недопустимое новое значение",
-    "chat.cyclopscore.command.invalidPlayer": "Игрок '%s' не найден",
+    "chat.cyclopscore.command.invalidPlayer": "Игрок «%s» не найден",
     "chat.cyclopscore.command.invalidSubcommand": "Недопустимая суб-команда",
     "chat.cyclopscore.command.noConfigsFound": "Не найдены значения конфигурации, которые могут быть установлены",
     "chat.cyclopscore.command.onlyOneValue": "Укажите одно новое значение",

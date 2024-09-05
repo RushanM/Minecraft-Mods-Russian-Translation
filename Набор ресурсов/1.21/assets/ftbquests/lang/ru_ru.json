@@ -368,6 +368,6 @@
 	"commands.ftbquests.weigh_from_emc.invalid_id": "Неверный ID таблицы вознаграждений!",
 	"commands.ftbquests.weigh_from_emc.text": "Изменен вес награды за предмет на основе EMC в %s",
 	"commands.ftbquests.export_rewards_to_chest.usage": "/ftbquests export_rewards_to_chest <таблица_вознаграждений>",
-	"commands.ftbquests.export_rewards_to_chest.text": "Экспортировано %s / %s предметов из '%s'",
+	"commands.ftbquests.export_rewards_to_chest.text": "Экспортировано %s / %s предметов из «%s»",
 	"commands.ftbquests.auto_pin.usage": "/ftbquests auto_pin"
 }

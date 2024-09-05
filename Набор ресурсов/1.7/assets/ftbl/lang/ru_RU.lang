@@ -1,4 +1,4 @@
-ftbl.gamemode.loaded=Режим игры установлен на '%s'!
+ftbl.gamemode.loaded=Режим игры установлен на «%s»!
 ftbl.gamemode.not_found=Такого режима игры не существует!
 ftbl.gamemode.already_set=Этот режим и так уже установлен!
 ftbl.gamemode.current=Установленный режим игры: %s
@@ -8,10 +8,10 @@ ftbl.reloaded_server=FTBLib: Сервер перезагружен за %s
 ftbl.reloaded_client=FTBLib: Клиент перезагружен за %s
 ftbl.missing_args=Неверные аргументы!
 ftbl.feature_disabled=Эта опция отключена!
-ftbl.invalid_subcmd=Неверная субкоманда: '%s'!
+ftbl.invalid_subcmd=Неверная субкоманда: «%s»!
 ftbl.owner=Владелец: %s
-ftbl.delete_item=Вы хотите удалить '%s'?
-ftbl.label.server_forced=Server overrides to '%s'
+ftbl.delete_item=Вы хотите удалить «%s»?
+ftbl.label.server_forced=Server overrides to «%s»
 ftbl.reload_client_config=Server Reloaded. You can
 
 ftbl.button.shortcut.action=Action

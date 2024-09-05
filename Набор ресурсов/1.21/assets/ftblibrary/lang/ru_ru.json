@@ -33,7 +33,7 @@
 	"gui.color": "Цвет",
 	"gui.downloading": "Скачивание...",
 	"gui.infinite": "Безгранично",
-	"delete_item": "Вы хотите удалить '%s'?",
+	"delete_item": "Вы хотите удалить «%s»?",
 	"lat_support": "Нравится этот мод? Нажмите, чтобы поддержать мой проект!",
 	"ftblibrary.select_fluid.gui": "Выбрать жидкость",
 	"ftblibrary.select_item.list_mode": "Список режимом",

@@ -45,14 +45,14 @@ ftbu.server_restart=Сервер перезапустится через %s
 ftbu.commands=Команды
 ftbu.my_permissions=Мои права
 
-ftbu.cmd.warp_set=Варп '%s' поставлен!
-ftbu.cmd.warp_del=Варп '%s' Удалён!
-ftbu.cmd.warp_not_set=Неизвестный варп: '%s'!
-ftbu.cmd.warp_tp=Вы телепортировались на варп '%s'!
+ftbu.cmd.warp_set=Варп «%s» поставлен!
+ftbu.cmd.warp_del=Варп «%s» Удалён!
+ftbu.cmd.warp_not_set=Неизвестный варп: «%s»!
+ftbu.cmd.warp_tp=Вы телепортировались на варп «%s»!
 
-ftbu.cmd.home_set=Точка дома '%s' установлена!
-ftbu.cmd.home_del=Точка дома '%s' Удалена!
-ftbu.cmd.home_not_set=Неизвестная точка дома: '%s'!
+ftbu.cmd.home_set=Точка дома «%s» установлена!
+ftbu.cmd.home_del=Точка дома «%s» Удалена!
+ftbu.cmd.home_not_set=Неизвестная точка дома: «%s»!
 ftbu.cmd.home_cross_dim=Вы не можете телопртироваться в другое измерение!
 ftbu.cmd.home_limit=Вы не можете больше ставить точки дома!
 
