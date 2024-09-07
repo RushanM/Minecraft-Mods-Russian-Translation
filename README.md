@@ -23,7 +23,7 @@
 | 1.7 | ... | ... | ... | ... |
 | 1.12 | Не готов | aether_legacy | The Aether | 1.5.4 |
 | 1.12 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.7.0.1038 |
-| 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod (Legacy) | 6.3.2 |
+| 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod | 6.3.2 |
 | 1.12 | Не готов | ic2 | Industrial Craft | 2-2.8.222-ex112 |
 | 1.12 | Не готов | minecraft | Industrial Craft | 2-2.8.222-ex112 |
 | 1.12 | Не готов | mod_lavacow | Fish's Undead Rising | 1.4.2 |
@@ -89,6 +89,7 @@
 | 1.21 | Не готов | luna | Luna | Release Fabric 1.19-1.20 1.0.1 |
 | 1.21 | Переведён | accessories | Accessories | 1.0.0 Beta 31 |
 | 1.21 | Переведён | ae2wtlib | Applied Energistics 2 Wireless Terminals | 19.1.3-beta |
+| 1.21 | Переведён | alltheores | All the Ores | 2.3.4-alpha |
 | 1.21 | Переведён | fabric | Fabric | 08.06.2024 |
 | 1.21 | Переведён | fabric-gamerule-test | Fabric | 08.06.2024 |
 | 1.21 | Переведён | fabric-keybindings-v1-testmod | Fabric | 08.06.2024 |

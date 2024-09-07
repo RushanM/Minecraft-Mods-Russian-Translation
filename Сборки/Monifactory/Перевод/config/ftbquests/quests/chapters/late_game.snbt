@@ -894,7 +894,7 @@
 				item: "gtceu:double_signalum_plate"
 				type: "item"
 			}]
-			title: "&2Signalum Double Plates"
+			title: "&2Двойные пластины из сигналума"
 			x: 6.0d
 			y: -2.0d
 		}
