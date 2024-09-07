@@ -52,6 +52,7 @@
 | [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [All the Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
+| [All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Ancient Warfare 2](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Ancient Warfare Legacy](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-legacy) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Animatica](https://modrinth.com/mod/animatica) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
