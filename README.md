@@ -39,10 +39,12 @@
 | 1.16 | Переведён | alexsdelight | Alex's Delights | 1.0 |
 | 1.16 | Переведён | amfd | Alex's Delight | 1.1.3 |
 | 1.16 | Переведён | ancient_war | Ancient Warfare Legacy | 1.1 |
+| 1.16 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.5 |
 | 1.16 | ... | ... | ... | ... |
 | 1.17 | Не готов | sodium | Sodium | 0.3.4 |
 | 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
 | 1.17 | Переведён | alexsdelight | Alex's Delights | 1.1 |
+| 1.17 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.5 |
 | 1.17 | ... | ... | ... | ... |
 | 1.18 | Не готов | chipped | Chipped | 2.0.1 |
 | 1.18 | Не готов | horror_element_mod | Horror Elements mod | 1.5.5 |
@@ -52,6 +54,7 @@
 | 1.18 | Переведён | advancementframes | Advancement Frames | 1.1.1 |
 | 1.18 | Переведён | alexsdelight | Alex's Delight | 1.3.3 |
 | 1.18 | Переведён | alexsdelight | Alex's Delights | 1.2 |
+| 1.18 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.6 |
 | 1.18 | ... | ... | ... | ... |
 | 1.19 | Не готов | сataclysm | L_Ender's Cataclysm | 1.99.2 |
 | 1.19 | Не готов | aether | The Aether | 1.4.2 |
@@ -60,6 +63,7 @@
 | 1.19 | Переведён | advancementframes | Advancement Frames | 2.0 |
 | 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
 | 1.19 | Переведён | parcool | ParCool! | 3.2.1.2-R |
+| 1.19 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.8 |
 | 1.19 | Переведён | sodium | Sodium | 0.4.10 |
 | 1.19 | Переведён | twilightforest | The Twilight Forest | 4.2.1696 |
 | 1.19 | ... | ... | ... | ... |
@@ -79,6 +83,7 @@
 | 1.20 | Переведён | minecraft | Xenon | 0.3.19 |
 | 1.20 | Переведён | parcool | ParCool | 3.2.1.2-R |
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
+| 1.20 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.8 |
 | 1.20 | Переведён | sodium | Sodium | 0.5.11 |
 | 1.20 | Переведён | spawnersplus | Spawners+ | 4.0 |
 | 1.20 | Переведён | trofers | Trofers | 5.0.2 |
