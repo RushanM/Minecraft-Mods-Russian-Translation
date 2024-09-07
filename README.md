@@ -47,8 +47,6 @@
 | [AgriCraft](https://modrinth.com/mod/agricraft) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| ⬛ | ✅ Рус. | ✅ Рус. | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
 | [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
-| [Concrete Extras](https://modrinth.com/mod/concrete-extras) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 |
-| [Controlify](https://modrinth.com/mod/controlify) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) | 🟥 | 🟥 | ✅ Рус. | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 |
 | [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 |
@@ -62,6 +60,7 @@
 | [AppleSkin](https://modrinth.com/mod/appleskin) | ⬛ | 🟥 | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | ✅ Рус.<br>✅ Бел. | 🟥 |
 | [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Applied Energistics 2](https://modrinth.com/mod/ae2) | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers) | ✅ Рус. | ✅ Рус. | ⬛ | ⬛ | ✅ Рус. | ⬛ | ✅ Рус. | ⬛ |
 | [ArmorStatusHUD](https://www.curseforge.com/minecraft/mc-mods/armorstatushud) | ✅ Рус. | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Aroma1997Core](https://www.curseforge.com/minecraft/mc-mods/aroma1997core) | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
@@ -78,6 +77,7 @@
 | [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/better-dungeons) | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Better Loading Screen GTNH](https://github.com/GTNewHorizons/BetterLoadingScreen) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥
+| [BetterEnd](https://modrinth.com/mod/betterend) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 |
 | [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ✅ Рус. | ⬛ |
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Botania](https://modrinth.com/mod/botania) | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ⬛ |
@@ -95,8 +95,10 @@
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Combat Maids](https://modrinth.com/mod/combat-maids) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [ComputerCraft](https://modrinth.com/mod/computercraft)  | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
+| [Concrete Extras](https://modrinth.com/mod/concrete-extras) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 |
 | [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 |
 | [Continuity](https://modrinth.com/mod/continuity) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Controlify](https://modrinth.com/mod/controlify) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 |
 | [Controlling](https://modrinth.com/mod/controlling) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 |
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
@@ -151,15 +153,15 @@
 | [Iris Shaders](https://modrinth.com/mod/iris) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Jade](https://modrinth.com/mod/jade) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Kit Tunes](https://modrinth.com/mod/kit-tunes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [JAOPCAGT (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/jaopcagt) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Just Enough Items](https://modrinth.com/mod/jei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Legacy4J](https://modrinth.com/mod/legacy4j) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Kit Tunes](https://modrinth.com/mod/kit-tunes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Language Reload](https://modrinth.com/mod/language-reload) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Legacy4J](https://modrinth.com/mod/legacy4j) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [LibJF](https://modrinth.com/mod/libjf) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Litematica](https://litematica.org) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Look](https://modrinth.com/mod/look) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
@@ -191,7 +193,6 @@
 | [Mod Menu](https://modrinth.com/mod/modmenu) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [ModernFix](https://modrinth.com/mod/modernfix) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Monazite (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/monazite) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 |
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
@@ -385,6 +386,7 @@
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
 * [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил переводы модов
+* * [BetterEnd](https://modrinth.com/mod/betterend)
 * * [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod)
 * * [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
 * * [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
