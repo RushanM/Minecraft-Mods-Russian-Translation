@@ -67,6 +67,7 @@
 | 1.19 | Переведён | sodium | Sodium | 0.4.10 |
 | 1.19 | Переведён | twilightforest | The Twilight Forest | 4.2.1696 |
 | 1.19 | ... | ... | ... | ... |
+| 1.20 | Не готов | adorn | Adorn | 5.3 |
 | 1.20 | Не готов | aether | The Aether | 1.4.2 |
 | 1.20 | Не готов | cataclysm | L_Ender's Cataclysm | 1.99.5 |
 | 1.20 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
@@ -76,12 +77,13 @@
 | 1.20 | Не готов | luna | Luna | Beta Fabric 1.19-1.20 1.0.1 |
 | 1.20 | Не готов | mna | Mana and Artifice | 3.0.0.24 |
 | 1.20 | Не готов | sodium | Xenon | 0.3.19 |
+| 1.20 | Переведён | absentbydesign | Absent by Design | 1.8 |
 | 1.20 | Переведён | advancementframes | Advancement Frames | 2.2.7 |
 | 1.20 | Переведён | alexscavesdelight | Alex's Caves Delight | 1.0.12 |
 | 1.20 | Переведён | alexsdelight | Alex's Delight | 1.5 |
 | 1.20 | Переведён | embeddium | Xenon | 0.3.19 |
 | 1.20 | Переведён | minecraft | Xenon | 0.3.19 |
-| 1.20 | Переведён | parcool | ParCool | 3.2.1.2-R |
+| 1.20 | Переведён | parcool | ParCool! | 3.2.1.2-R |
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.8 |
 | 1.20 | Переведён | sodium | Sodium | 0.5.11 |
