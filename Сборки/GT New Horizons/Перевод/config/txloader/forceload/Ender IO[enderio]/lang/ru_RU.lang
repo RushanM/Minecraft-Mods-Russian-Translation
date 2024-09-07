@@ -1113,8 +1113,8 @@ enderio.gui.mjReader.receiveItem1=Может получать
 enderio.gui.mjReader.receiveItem2=от:
 
 #CapactorBank
-enderio.gui.capBank.inputRs=Режим красного камня на входе
-enderio.gui.capBank.outputRs=Режим красного камня на выходе
+enderio.gui.capBank.inputRs=Режим редстоуна на входе
+enderio.gui.capBank.outputRs=Режим редстоуна на выходе
 enderio.gui.capBank.maxIo=Макс. вход/выход
 enderio.gui.capBank.maxInput=Макс. вход
 enderio.gui.capBank.maxOutput=Макс выход
@@ -1323,7 +1323,7 @@ enderio.gui.conduit.item.functionupgrade.line1=Возможные функцио
 enderio.gui.conduit.redstone.signalColor=Цвет сигнала
 enderio.gui.conduit.redstone.color=Цвет
 enderio.gui.conduit.redstone.signalStrengh=Сильный сигнал
-enderio.gui.conduit.redstone.signalStrengh.tooltip=Испускает сильный сигнал красного камня
+enderio.gui.conduit.redstone.signalStrengh.tooltip=Испускает сильный сигнал редстоуна
 
 enderio.gui.conduit.fluid.autoExtract=Авто-извлечение
 enderio.gui.conduit.fluid.filter=Фильтр

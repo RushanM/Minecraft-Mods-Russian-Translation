@@ -46,7 +46,7 @@ tile.thinCrystalGlass.name=Тонкое кристальное стекло
 tile.thinFramedGlass.name=Тонкое обрамленное стекло
 tile.burningTrap.name=Сжигающая ловушка
 tile.pharaohChest.name=Сундук Фараона
-tile.redstoneOre.name=Руда красного камня
+tile.redstoneOre.name=Руда редстоуна
 tile.coalOre.name=Угольная руда
 tile.ironOre.name=Железная руда
 tile.goldOre.name=Золотая руда
@@ -56,6 +56,7 @@ tile.furnaceIdle.name=Известняковая печь
 tile.furnaceBurning.name=Известняковая печь
 
 # Stained Glass
+
 tile.crystalStainedGlassBlack.name=Чёрное кристальное стекло
 tile.crystalStainedGlassRed.name=Красное кристальное стекло
 tile.crystalStainedGlassGreen.name=Зелёное кристальное стекло

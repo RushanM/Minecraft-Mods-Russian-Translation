@@ -109,7 +109,7 @@
     "config.bigreactors.general": "Общие",
     "config.bigreactors.general.fuelusagemultiplier": "Множитель расхода топлива",
     "config.bigreactors.general.powerproductionmultiplier": "Множитель производства энергии",
-    "config.bigreactors.general.ticksperredstoneupdate": "Тики между обновлениями портов красного камня",
+    "config.bigreactors.general.ticksperredstoneupdate": "Такты между обновлениями портов красного камня",
     "config.bigreactors.reactor": "Реактор",
     "config.bigreactors.reactor.maxreactorheight": "Максимальная высота реактора (Y)",
     "config.bigreactors.reactor.maxreactorsize": "Максимальный размер реактора (X/Z)",
