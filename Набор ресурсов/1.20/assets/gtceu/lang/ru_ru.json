@@ -2357,7 +2357,7 @@
     "gtceu.creative_tooltip.2": " быть в творческом режиме",
     "gtceu.creative_tooltip.3": "§7, чтобы использовать это",
     "gtceu.cutter": "Резочная машина",
-    "gtceu.debug.f3_h.enabled": "GregTech изменил отладочную информацию! Для Разработчиков: включите параметр конфигурации misc:debug в файле конфигурации GregTech, чтобы увидеть больше",
+    "gtceu.debug.f3_h.enabled": "GregTech изменил отладочную информацию! Для разработчиков: включите параметр конфигурации misc:debug в файле настроек GregTech, чтобы увидеть больше",
     "gtceu.distillation_tower": "Ректификационная колонна",
     "gtceu.distillery": "Дистиллятор",
     "gtceu.duct_pipe.transfer_rate": "§bСкорость передачи воздуха: %s",

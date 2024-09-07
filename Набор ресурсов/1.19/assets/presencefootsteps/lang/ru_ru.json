@@ -4,7 +4,7 @@
     "menu.pf.multiplayer.false": "Игроки: только я",
     "menu.pf.global.true": "Сущности: все",
     "menu.pf.global.false": "Сущности: только игроки",
-    "menu.pf.volume.min": "Глобальная громкость: выключена",
+    "menu.pf.volume.min": "Глобальная громкость: Выключена",
     "menu.pf.volume": "Глобальная громкость: %d%%",
     "menu.pf.volume.tooltip": "Глобальная громкость всех звуков Presence Footsteps. Установите значение 0, если вы хотите полностью отключить этот мод.",
     "menu.pf.volume.player": "Клиентский игрок: %d%%",
