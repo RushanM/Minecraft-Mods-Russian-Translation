@@ -248,15 +248,17 @@
 | [Title Fixer](https://modrinth.com/mod/title-fixer) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
-| [Tool Stats](https://modrinth.com/mod/tool-stats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
-| [ToroHealth Damage Indicators](https://modrinth.com/mod/torohealth-damage-indicators-updated) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Trofers](https://modrinth.com/mod/trofers) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
-| [VoxelMap](https://modrinth.com/mod/voxelmap-updated) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [WATERFrAMES](https://modrinth.com/mod/waterframes)| 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Tool Stats](https://modrinth.com/mod/tool-stats) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
+| [ToroHealth Damage Indicators (Updated)](https://modrinth.com/mod/torohealth-damage-indicators-updated) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛ |
+| [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ |
+| [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ⬛ | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
+| [Trofers](https://modrinth.com/mod/trofers) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 |
+| [VoxelMap-Updated](https://modrinth.com/mod/voxelmap-updated) | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ |
+| [WATERFrAMES](https://modrinth.com/mod/waterframes)| ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Xenon](https://modrinth.com/mod/xenon-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
+| [Xenon](https://modrinth.com/mod/xenon-forge) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 
 Список будет пополняться.
 
