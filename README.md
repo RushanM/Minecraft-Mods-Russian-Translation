@@ -31,7 +31,7 @@
 * 🟥 — полного перевода пока нет, но возможно есть частичный
 * ✅ — перевод готов
 
-| Мод | [1.7](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.12](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.16](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.17](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.18](/1.18/assets/README.md) | [1.19](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.20](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) | [1.21](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfiihGL9hkkDtyA-xB1AsUwC3zkX4lFZNX2xeFFPfUN9pBN91Za1n6sEeFdhycYi2eODovCZ2unhHO/pubhtml) |
+| Мод | [1.7](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.12](https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.16]( https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.17]( https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.18](/1.18/assets/README.md) | [1.19]( https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.20]( https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) | [1.21]( https://docs.google.com/spreadsheets/d/1RvozWJU5MYusAiJiMfODWA1t-bj2jhIj0FZCY5UU28k/edit?usp=sharing) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [[TFB] Anthro Origins](https://modrinth.com/mod/tfb_anthro_origins) | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ |
@@ -47,6 +47,8 @@
 | [AgriCraft](https://modrinth.com/mod/agricraft) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)| ⬛ | ✅ Рус. | ✅ Рус. | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
 | [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
+| [Concrete Extras](https://modrinth.com/mod/concrete-extras) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 |
+| [Controlify](https://modrinth.com/mod/controlify) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight) | 🟥 | 🟥 | ✅ Рус. | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 |
 | [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 |
@@ -76,19 +78,19 @@
 | [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/better-dungeons) | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Better Loading Screen GTNH](https://github.com/GTNewHorizons/BetterLoadingScreen) | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥
-| [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ✅ Рус. | ⬛
+| [Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium) | ⬛ | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ✅ Рус. | ⬛ |
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Botania](https://modrinth.com/mod/botania) | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | 🟥 | 🟥 | ⬛ |
-| [Burnt](https://modrinth.com/mod/burnt) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
+| [Burnt](https://modrinth.com/mod/burnt) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 | [Canvas Renderer](https://modrinth.com/mod/canvas) | 🟥 | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) | ⬛ | 🟥 | ✅ Рус. | ✅ Рус. | 🟥 | 🟥 | 🟥 | 🟥
-| [Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | ✅ Рус. | ✅ Рус. | ⬛
+| [Cave Dweller Evolved](https://modrinth.com/mod/cave-dweller-evolved) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | ✅ Рус. | ✅ Рус. | ⬛ |
 | [Cave Dweller Fabric](https://modrinth.com/mod/cave-dweller-fabric) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ✅ Рус. | ✅ Рус. | ⬛
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | ⬛ | 🟥 | ✅ Рус.<br>✅ Бел.<br>✅ Тат. | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥
-| [Chrysalis](https://modrinth.com/mod/chrysalis) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛
-| [Classic Steam Dynamo](https://www.curseforge.com/minecraft/mc-mods/steam-dynamo) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
-| [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | ⬛ | 🟥 | ✅ Рус.<br>✅ Бел.<br>✅ Тат. | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
+| [Chrysalis](https://modrinth.com/mod/chrysalis) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛ |
+| [Classic Steam Dynamo](https://www.curseforge.com/minecraft/mc-mods/steam-dynamo) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
+| [Clear Despawn](https://modrinth.com/mod/cleardespawn) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛ |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Cobblemon](https://modrinth.com/mod/cobblemon) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Combat Maids](https://modrinth.com/mod/combat-maids) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
@@ -98,7 +100,7 @@
 | [Controlling](https://modrinth.com/mod/controlling) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | 🟥 |
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
-| [CraftPresence](https://modrinth.com/mod/craftpresence) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [CraftPresence](https://modrinth.com/mod/craftpresence) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [CreRaces](https://modrinth.com/mod/creraces) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Curios API](https://modrinth.com/mod/curios) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.<br>✅ Бел. |
@@ -107,7 +109,7 @@
 | [Ding](https://modrinth.com/mod/ding) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 |
 | [Duckling](https://modrinth.com/mod/duckling) | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
-| [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. |
 | [e4mc](https://modrinth.com/mod/e4mc) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. | ✅ Рус.<br>✅ Укр. |
 | [Embeddium++](https://modrinth.com/mod/embeddiumplus) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
@@ -148,14 +150,16 @@
 | [InWitched](https://modrinth.com/mod/inwitched) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Iris Shaders](https://modrinth.com/mod/iris) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Jade 🔍](https://modrinth.com/mod/jade) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Jade](https://modrinth.com/mod/jade) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Kit Tunes](https://modrinth.com/mod/kit-tunes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [JAOPCAGT (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/jaopcagt) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Just Enough Advancements](https://www.curseforge.com/minecraft/mc-mods/jea) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Just Enough Items](https://modrinth.com/mod/jei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Legacy4J](https://modrinth.com/mod/legacy4j) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Kawaii Dishes](https://modrinth.com/mod/kawaii-dishes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Language Reload](https://modrinth.com/mod/language-reload) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Language Reload](https://modrinth.com/mod/language-reload) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [LibJF](https://modrinth.com/mod/libjf) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Litematica](https://litematica.org) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Look](https://modrinth.com/mod/look) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
@@ -186,7 +190,8 @@
 | [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [ModernFix](https://modrinth.com/mod/modernfix) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Monazite (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/monazite) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Monazite (дополнение к GregTechCEu Modern)](https://modrinth.com/mod/monazite) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 |
 | [More Music Discs](https://modrinth.com/mod/more-music-discs) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [MrCrayfish's Furniture Mod (Legacy)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
@@ -197,20 +202,20 @@
 | [Nevermore!](https://modrinth.com/datapack/nevermore) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [ParCool!](https://modrinth.com/mod/parcool) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 |
 | [Patchouli](https://modrinth.com/mod/patchouli) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
-| [Pigsteel](https://modrinth.com/mod/pigsteel-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
-| [Pokeblocks](https://modrinth.com/mod/pokeblocks) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Powah!](https://modrinth.com/mod/powah) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Raised](https://modrinth.com/mod/raised) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Rats](https://modrinth.com/mod/rats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Pigsteel](https://modrinth.com/mod/pigsteel-fabric) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
+| [Pokeblocks](https://modrinth.com/mod/pokeblocks) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Powah!](https://modrinth.com/mod/powah) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Raised](https://modrinth.com/mod/raised) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
+| [Rats](https://modrinth.com/mod/rats) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Recrafted Creatures](https://www.curseforge.com/minecraft/mc-mods/recrafted-creatures)| 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [Red Pandas!](https://modrinth.com/mod/red-pandas-wueffi) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛
+| [Red Pandas!](https://modrinth.com/mod/red-pandas-wueffi) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | ⬛ |
 | [Redstone Clock](https://www.curseforge.com/minecraft/mc-mods/redstone-clock) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
-| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
+| [Regions Unexplored](https://modrinth.com/mod/regions-unexplored) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Respackopts](https://modrinth.com/mod/respackopts) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
-| [Ribbits](https://modrinth.com/mod/ribbits) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
-| [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
+| [Ribbits](https://modrinth.com/mod/ribbits) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
+| [Right Proper Lighting Engine](https://modrinth.com/mod/rple) | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Ryoamium](https://modrinth.com/mod/ryoamium) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥
