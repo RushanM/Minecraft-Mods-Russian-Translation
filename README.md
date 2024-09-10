@@ -277,11 +277,11 @@
 
 | Сборка | Русское название | Для версии сборки | Статус перевода |
 | - | - | - | - |
-| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Альфа 0.6.2 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведён интерфейс и несколько квестов |
-| [GregTech: New Horizons](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/GT%20New%20Horizons) | *GregTech: новые горизонты* | 2.6.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов |
+| [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Бета 0.8.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведён интерфейс и несколько квестов |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено главное меню и голос |
-| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | **ПЕРЕВОД В ПРОЦЕСС**Е: переведено несколько квестов |
-| [All the Mods 9](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20the%20Mods%209) | *Все моды 9* | ? | **ПЕРЕВОДА НЕТ** |
+| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов |
+| [GregTech: New Horizons](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/GT%20New%20Horizons) | *GregTech: новые горизонты* | 2.6.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов и кнопки главного меню |
+| [Better MC 4](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Better%20MC%204) | *Улучшенный Minecraft 4* | 32.5 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено все квесты, требуется вычитка и перевод оставшегося |
 
 Они всё ещё в рааанней разработке, но вы уже можете их опробовать.
 
@@ -385,7 +385,8 @@
 * [**ySh**](https://github.com/INe6dy): предложил переводы модов
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
-* [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил переводы модов
+* [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил переводы
+* * [Better MC 4](https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc4)
 * * [BetterEnd](https://modrinth.com/mod/betterend)
 * * [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod)
 * * [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
