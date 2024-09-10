@@ -27,7 +27,7 @@
     "block.create.haunted_bell.tooltip.summary": "A _Cursed Bell_ haunted by lost souls of the Nether.",
     "block.create.metal_bracket.tooltip.summary": "_Decorate_ your _Shafts, Cogwheels_ and _Pipes_ with an industrial and sturdy bit of reinforcement.",
     "block.create.nozzle.tooltip.summary": "Attach to the front of an _Encased Fan_ to distribute its effect on Entities in _all directions_.",
-    "block.create.peculiar_bell.tooltip.summary": "A decorative _Brass Bell_. Placing it right above open _Soul Fire_ may have side-effects...",
+    "block.create.peculiar_bell.tooltip.summary": "A decorative _Brass Bell_. Placing it right above open _Soul Fire_ may have side-effects…",
     "block.create.placard.tooltip.behaviour1": "_Adds_ the held _item_ to the Placard. _Emits_ a brief _Redstone_ signal if a matching item was present already.",
     "block.create.placard.tooltip.behaviour2": "_Removes_ the current _item_ in the frame.",
     "block.create.placard.tooltip.condition1": "When R-Clicked with Item",

@@ -12,8 +12,8 @@ nei.key.ctrl.mac=CMD
 nei.bookmark.toggle=Закладки
 nei.bookmark.toggle.tip=Переключить видимость панели закладок
 
-nei.itempanel.quantity.default=Один стак
-nei.itempanel.loading=Загрузка списка преметов...
+nei.itempanel.quantity.default=Одна стопка
+nei.itempanel.loading=Загрузка списка преметов…
 
 nei.enchant=Зачаровывание
 nei.enchant.level=Уровень

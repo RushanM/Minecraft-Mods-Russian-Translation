@@ -13,7 +13,7 @@
 
 
 
-    Добро пожаловать в магнитные пещеры...
+    Добро пожаловать в магнитные пещеры…
 
     • {Вступление|magnetic_caves/general.json}
     • {Ресурсы|magnetic_caves/resources.json}

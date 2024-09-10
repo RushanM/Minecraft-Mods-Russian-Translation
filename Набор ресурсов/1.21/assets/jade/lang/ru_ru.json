@@ -341,7 +341,7 @@
     "narration.jade.distance": "Д%s",
     "narration.jade.health": "Здоровье: %s",
     "narration.jade.negative": "вредный %s",
-    "toast.jade.please_wait.1": "Пожалуйста, подождите...",
+    "toast.jade.please_wait.1": "Пожалуйста, подождите…",
     "toast.jade.please_wait.2": "Это может занять несколько секунд.",
     "toast.jade.toggle_hint.1": "Jade теперь закрыт",
     "toast.jade.toggle_hint.2": "Для повторного открытия нажмите %s.",

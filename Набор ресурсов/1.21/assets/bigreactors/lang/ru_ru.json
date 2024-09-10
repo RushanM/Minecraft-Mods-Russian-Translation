@@ -214,7 +214,7 @@
     "gui.bigreactors.reactor.controller.fuelusage.tooltip.title": "Скорость сжигания топлива",
     "gui.bigreactors.reactor.controller.off.title": "Выключить реактор",
     "gui.bigreactors.reactor.controller.on.title": "Включить реактор",
-    "gui.bigreactors.reactor.controller.scram.tooltip.body": "Выключите реактор и полностью вставьте управляющие стержни внутрь топливных стержней (и надейтесь на лучшее...)",
+    "gui.bigreactors.reactor.controller.scram.tooltip.body": "Выключите реактор и полностью вставьте управляющие стержни внутрь топливных стержней (и надейтесь на лучшее…)",
     "gui.bigreactors.reactor.controller.scram.tooltip.title": "Аварийное выключение",
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.body": "Перегретая охлаждающая жидкость будет помещаться в бак с паром и должна извлекаться через порты охлаждения.",
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.title": "Бак с паром",

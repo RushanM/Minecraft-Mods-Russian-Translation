@@ -553,7 +553,7 @@ tile.chisel.marble_stairs.5.name=Мраморные ступеньки
 tile.chisel.marble_stairs.6.name=Мраморные ступеньки
 tile.chisel.marble_stairs.7.name=Мраморные ступеньки
 
-#These are bugged.... so sad :,(
+#These are bugged.… so sad :,(
 tile.marbleStairs.0.desc=Ступеньки из необработанного мрамора
 tile.marbleStairs.1.desc=Ступеньки из мраморного кирпича
 tile.marbleStairs.2.desc=Ступеньки из классической мраморной панели
@@ -621,7 +621,7 @@ tile.chisel.limestone_stairs.5.name=Известняковые ступеньк�
 tile.chisel.limestone_stairs.6.name=Известняковые ступеньки
 tile.chisel.limestone_stairs.7.name=Известняковые ступеньки
 
-#These are bugged.... so sad :,(
+#These are bugged.… so sad :,(
 tile.limestoneStairs.0.desc=Известняковые ступеньки
 tile.limestoneStairs.1.desc=Маленькие известняковые плиточные ступеньки
 tile.limestoneStairs.2.desc=Французские известняковые плиточные ступеньки

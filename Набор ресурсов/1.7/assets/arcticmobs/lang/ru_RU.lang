@@ -55,7 +55,7 @@ achievement.serpix.tame.desc=Приручите Серпикса.
 # Items
 item.arcticspawn.name=Призвать существо - 
 item.yetimeatraw.name=Сырое мясо йети
-item.yetimeatraw.description=Это выглядит весьма холодным...
+item.yetimeatraw.description=Это выглядит весьма холодным…
 item.yetimeatcooked.name=Приготовленное мясо йети
 item.yetimeatcooked.description=Чем-то похоже на свинину.
 item.palesoup.name=Бледный суп

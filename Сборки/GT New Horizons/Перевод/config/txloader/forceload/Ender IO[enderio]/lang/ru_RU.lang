@@ -1062,10 +1062,10 @@ enderio.gui.machine.poweredspawner.capture=Захватить
 enderio.gui.machine.poweredspawner.spawn=Призывать
 enderio.gui.machine.receivefilter=Фильтр приёма
 enderio.gui.machine.sendfilter=Фильтр отправки
-enderio.gui.machine.sendReceivebuffer=Буфер отправки/приёма
+enderio.gui.machine.sendReceivebuffer=Буфер отправки-приёма
 enderio.gui.machine.localbuffer=Местный буфер
 enderio.gui.machine.upkeep=Upkeep:
-enderio.gui.machine.bufferingstacks=Буферизация стаков
+enderio.gui.machine.bufferingstacks=Буферизация стопок
 enderio.gui.machine.bufferingsingle=Буферизация одиночных предметов
 enderio.gui.machine.percraft=за создание
 enderio.gui.machine.side=Сторона: %s
@@ -1347,7 +1347,7 @@ description.enchantment.enderio.soulBound=Предотвращает потер�
 enderio.config.title=Конфигурация Ender IO
 
 enderio.config.power=Настройки энергии
-enderio.config.power.tooltip=Так много значений для изменения...
+enderio.config.power.tooltip=Так много значений для изменения…
 
 enderio.config.recipe=Настройки рецептов
 enderio.config.recipe.tooltip=Конфигурирует ВСЕ вещи!

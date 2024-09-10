@@ -7,7 +7,7 @@ strings.on_hit=При ударе
 strings.on_block=При блоке
 strings.tier=Уровень
 strings.size=Размер
-strings.generate_structure=Создание структуры... Пожалуйста, подождите.
+strings.generate_structure=Создание структуры… Пожалуйста, подождите.
 strings.slots=Слоты
 
 key.categories.chocolatequest=Better Dungeons

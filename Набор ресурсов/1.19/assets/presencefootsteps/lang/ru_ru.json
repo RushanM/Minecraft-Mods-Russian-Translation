@@ -30,7 +30,7 @@
     "pf.report.error": "Не удалось создать отчёт: %s",
     "pf.update.title": "Доступно обновление",
     "pf.update.text": "Presence Footsteps %s",
-    "pf.update.checking": "Проверка обновлений...",
+    "pf.update.checking": "Проверка обновлений…",
     "pf.update.updates_available": "Доступно обновление!\n Presence Footsteps %s для Minecraft %s",
     "pf.update.up_to_date": "У вас последняя версия",
     "subtitles.pf.footsteps": "Шаги",

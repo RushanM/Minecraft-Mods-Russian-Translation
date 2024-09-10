@@ -95,11 +95,11 @@ item.witchery:chalkritual.name=Ритуальный мел
 item.witchery:chalkotherwhere.name=Мел потустороннего мира
 item.witchery:chalkinfernal.name=Адский мел
 item.witchery:polynesiacharm.name=Амулет понимания животных
-item.witchery:polynesiacharm.tip=Смотри! Он разговаривает с ними...
+item.witchery:polynesiacharm.tip=Смотри! Он разговаривает с ними…
 item.witchery:devilstonguecharm.name=Амулет дьявольского обаяния
-item.witchery:devilstonguecharm.tip=Даже демоны не смогут устоять перед|вами... Ну, на какое-то время.
+item.witchery:devilstonguecharm.tip=Даже демоны не смогут устоять перед|вами… Ну, на какое-то время.
 item.witchery:witchhat.name=Шляпа ведьмы
-item.witchery:witchhat.tip=Как оригинально... остроконечная шляпа.|Улучшает ваши зелья.||{9+35% шанса получения второго зелья{0
+item.witchery:witchhat.tip=Как оригинально… остроконечная шляпа.|Улучшает ваши зелья.||{9+35% шанса получения второго зелья{0
 item.witchery:seedsbelladonna.name=Семена белладонны
 item.witchery:seedsmandrake.name=Семена мандрагоры
 item.witchery:seedsartichoke.name=Семена водного артишока
@@ -372,7 +372,7 @@ entity.witchery.illusionZombie.name=Зомби
 
 
 witchery.book.herbology.enderbramble="Это странное растенье держит всех в узде, подойдёшь к нему вплотную и окажешься в воде!" Получается путём мутации тростника и лишайника.
-witchery.book.herbology.grassper=Любопытное растение, которое возьмёт всё, что ему протянули... Любой предмет! Получается путём мутации высокой травы и пустого сундука.
+witchery.book.herbology.grassper=Любопытное растение, которое возьмёт всё, что ему протянули… Любой предмет! Получается путём мутации высокой травы и пустого сундука.
 witchery.book.herbology.crittersnare="Мелкие звери вокруг мельтешат - растение 'хрум', нет дороги назад." Получается путём мутации ростка ольхи, паутины и зомби.
 
 entity.witchery.owl.name=Сова
@@ -470,7 +470,7 @@ witchery.witch.say.begone=Прочь!
 witchery.witch.say.notinterested1=Ты меня не интересуешь!
 witchery.witch.say.notinterested2=Зачем ты тратишь моё время?!
 witchery.witch.say.notinterested3=Ты ничего не знаешь про наше искусство!
-witchery.witch.say.tricked=Ууу, как раз то, что нужно... доверчивый дурак! Теперь ты умрёшь!
+witchery.witch.say.tricked=Ууу, как раз то, что нужно… доверчивый дурак! Теперь ты умрёшь!
 
 witchery.witch.quest.fightspider=Победи моего питомца и принеси мне его глаз. Если ты согласен, поговори со мной снова!
 witchery.witch.quest.fightzombie=Победи моего питомца и принеси мне его плоть. Если ты согласен, поговори со мной снова!
@@ -507,13 +507,13 @@ item.witchery:ingredient.brewFlowingSpirit.name=Настой преследую�
 item.witchery:ingredient.weaveIntensity.name=Навеватель снов: "Сила"
 item.witchery:bucketspirit.name=Ведро духов
 item.witchery:bitingbelt.name=Кусающийся ремень
-item.witchery:bitingbelt.tip=Осторожнее... он кусается.||{5Крафтится с двумя зельями, которые{0|{5по особенному влияют на удар врага.{0
+item.witchery:bitingbelt.tip=Осторожнее… он кусается.||{5Крафтится с двумя зельями, которые{0|{5по особенному влияют на удар врага.{0
 
 witchery.brew.flowingspirit=Варить только в Мире Духов
 
 witchery.rite.manifest=Ритуал манифестации{r||Явиться призраком из Мира Духов.
 
-witchery.book.herbology.somniancotton=Волшебное растение которое растёт лишь... в глубоких снах... или в мечтах.
+witchery.book.herbology.somniancotton=Волшебное растение которое растёт лишь… в глубоких снах… или в мечтах.
 
 
 tile.witchery:demonheart.name=Сердце Демона
@@ -775,7 +775,7 @@ entity.witchery.imp.contract.deal=<%s> Договорились!
 entity.witchery.imp.gift.like=<%s> Блестяшки!
 entity.witchery.imp.gift.hate=<%s> Моя это не нравится! Хотеть блестящие вещи!
 entity.witchery.imp.gift.reciprocate=<%s> Моя хранить секрееет!
-entity.witchery.imp.gift.toomany=<%s> Блестяшки... Скучища...
+entity.witchery.imp.gift.toomany=<%s> Блестяшки… Скучища…
 entity.witchery.imp.gift.power=<%s> МОЩЬ ПЕРЕПОЛНЯЕТ МЕНЯ!
 entity.witchery.imp.gift.powerloss=<%s> Зачем ты это делать?
 entity.witchery.imp.spell.feelthefire=<%s> %s ощутит жар моего пламени!
@@ -1096,7 +1096,7 @@ tile.witchery:cwoodendoor.name=Деревянная дверь
 item.witchery:leonardsurn.name=Урна Леонарда
 item.witchery:leonardsurn.tip=Поместите зелье внутрь, чтобы сфокусировать урну на нём.|Чтобы усилить его, используйте мистическую ветвь.
 item.witchery:earmuffs.name=Наушники
-item.witchery:earmuffs.tip=Защита от мандрагор, майндрейка и не только...
+item.witchery:earmuffs.tip=Защита от мандрагор, майндрейка и не только…
 item.witchery:playercompass.name=Компас игрока
 item.witchery:ingredient.subduedSpiritVillage.name=Приглушенный деревенский дух
 
@@ -1179,7 +1179,7 @@ witchery:cauldronbook.infernalchalk=[h1 Изготовление: Адский �
 witchery:cauldronbook.goldenchalk=[h1 Изготовление: Золотой мел]Сердцевина большинства ритуальных кругов.[br][br][template
 witchery:cauldronbook.netherwart=[h1 Изготовление: Адский нарост]Когда найти Адскую Крепость довольно тяжело.[br][br][template
 witchery:cauldronbook.endstone=[h1 Изготовление: Эндерняк] Что случится, когда парящий остров иссякнет?[br][br][template
-witchery:cauldronbook.rottenflesh=[h1 Изготовление: Гнилая плоть] Когда рук слишком много...[br][br][template
+witchery:cauldronbook.rottenflesh=[h1 Изготовление: Гнилая плоть] Когда рук слишком много…[br][br][template
 witchery:cauldronbook.pittraps=[h1 Изготовление: Ловушки]Нетвёрдые блоки![br][template
 witchery:cauldronbook.compass=[h1 Изготовление: Компас игрока]Соедините с ДНК существа для его поиска![br][br][template
 
@@ -1202,7 +1202,7 @@ witchery:cauldronbook.rituals7=[next=rituals8][h1 Rituals: Risks & Power]Inferna
 witchery:cauldronbook.rituals8=[next=rituals9][h1 Rituals: Risks & Power]Red and white circles may be mixed as desired to get the appropriate balance of power costs and risks.
 witchery:cauldronbook.rituals9=[next=rituals10][h1 Rituals: Failed rituals] When a ritual fails, it will emit colored smoke:[br][br][darkgreen Green] Target too far[br][darkblue Blue] Coven needed[br][darkred Red] Invalid circles[br][darkyellow Yellow] Underpowered[br][darkpurple Purple] Other failure[br][br]Rituals will not start if there is too little power.
 witchery:cauldronbook.rituals10=[next=rituals11][h1 Rituals: Ritual of Raise Land]The further from the cauldron the waystone points, the larger the coven must be.[br][br][template=tritual stack|0=nether_wart,witchery:ingredient|37,quartz,witchery:ingredient|13,witchery:ingredient|25]
-witchery:cauldronbook.rituals11=[h1 Ритуалы: Расширенное проклятие слепоты]Чем дальше жертва, тем больше нужно ведьм...[br][br][template
+witchery:cauldronbook.rituals11=[h1 Ритуалы: Расширенное проклятие слепоты]Чем дальше жертва, тем больше нужно ведьм…[br][br][template
 
 witchery:cauldronbook.otherrituals=[h1 Другие ритуалы]Новые ритуалы, которым не нужен алтарь:[br][br]> [url
 witchery:cauldronbook.ritualwaystone=[h1 Ритуал: Привязка путеводного камня к месту]Чтобы привязать до восьми путеводных камней к месту, нарисуйте фиолетовым мелом круг 3х3:[br][img
@@ -1336,7 +1336,7 @@ witchery:cauldronbook.extinguish=[h1 Эффект: Тушение огня]Ту�
 witchery:cauldronbook.dissipategas=[h1 Эффект: Рассеивание газа]Удаляет блоки, созданные зельем с газовым методом рассредоточения. При усилении, удаляет блоки других видов газа. Наносит вред призрачным существам.
 witchery:cauldronbook.growflowers=[h1 Эффект: Посадка цветов]Заставляет цветы расти на соответствующих блоках.
 witchery:cauldronbook.fertilize=[h1 Эффект: Удобрение]Удобряет культуры, подобно костной муке.
-witchery:cauldronbook.harvest=[h1 Эффект: Сбор урожая]Срывает выросшие растения, вызывая соответствующий результат. Но этого мало...
+witchery:cauldronbook.harvest=[h1 Эффект: Сбор урожая]Срывает выросшие растения, вызывая соответствующий результат. Но этого мало…
 witchery:cauldronbook.tilling=[h1 Эффект: Вспахивание]Вспахивает соответствующие блоки, подготавливая их для выращивания культур.
 witchery:cauldronbook.pruning=[h1 Эффект: Гниение листвы]Удаляет листву на соответствующей территории, вызывая соответствующий результат.
 witchery:cauldronbook.felling=[h1 Эффект: Срубка дерева]Разрушает древесину, вызывая соответствующий результат.
@@ -1418,7 +1418,7 @@ tile.witchery:wolftrap.name=Волчий капкан
 witchery.nosleep.wolf=Вы не можете спать в обличии волка!
 witchery.nosleep.resized=Вы не можете спать! Ваш рост мешает!
 
-witchery.werewolf.infection=Кажется, Ваше чувство обоняния стало сильнее...
+witchery.werewolf.infection=Кажется, Ваше чувство обоняния стало сильнее…
 witchery.rite.wolfcurse.alreadyactive=Эта цель уже находится под проклятием!
 witchery.rite.wolfcurse.nothuman=Ваша цель - не простой житель или игрок!
 witchery.rite.wolfcurse.notactive=Цель не находится под проклятием.
@@ -1540,16 +1540,16 @@ item.witchery:glassgoblet.nothinghappens=Ничего не случилось.
 item.witchery:glassgoblet.seemswrong=Кажется, Вы что-то сделали не совсем правильно!
 item.witchery:glassgoblet.lilithquest=Голос поёт: "Отведи мою дочь к озёрам лавы в Нижнем мире!"
 item.witchery:glassgoblet.lilithquestsummon=Вы достойны моей любимицы?
-item.witchery:glassgoblet.lilithquestsummon2=Моя любимица здесь...
-item.witchery:glassgoblet.lilithquestcomplete=Ууф... Ты достоен... на этот раз. Что же ты выберешь: магию или смерть?
+item.witchery:glassgoblet.lilithquestsummon2=Моя любимица здесь…
+item.witchery:glassgoblet.lilithquestcomplete=Ууф… Ты достоен… на этот раз. Что же ты выберешь: магию или смерть?
 item.witchery:glassgoblet.lilithquestcomplete2=Если ты выбрал магию, дай мне предмет и я зачарую его!
-item.witchery:glassgoblet.lilithquestcompletelife=Я возьму твою кровь и подарю свою... Пей быстрее…
-item.witchery:glassgoblet.lilithquestcompletemagic=Прими это в качестве подарка...
+item.witchery:glassgoblet.lilithquestcompletelife=Я возьму твою кровь и подарю свою… Пей быстрее…
+item.witchery:glassgoblet.lilithquestcompletemagic=Прими это в качестве подарка…
 item.witchery:glassgoblet.lilithquestcompletelifefail=Моё дитя, тебе больше не нужна моя кровь!
-item.witchery:glassgoblet.lilithquestcompletecure=Что ж, если ты так хочешь... То ты снова смертен...
+item.witchery:glassgoblet.lilithquestcompletecure=Что ж, если ты так хочешь… То ты снова смертен…
 item.witchery:glassgoblet.lilithquestcompletecurefail=Но это же не имеет смысла!
 item.witchery:glassgoblet.lilithquestcompletebatflight=Моё дитя, я дарую тебе свободу!
-item.witchery:glassgoblet.lilithquestcompletebatflightfail=Вы мне льстите. Но нет...
+item.witchery:glassgoblet.lilithquestcompletebatflightfail=Вы мне льстите. Но нет…
 
 item.witchery:sungrenade.name=Солнечная граната
 item.witchery:stew.name=Мясное рагу
@@ -1595,26 +1595,26 @@ witchery.vampirepower.uteleport=Телепорт(%)
 witchery.vampirepower.ustorm=Вызов дождя(%)
 
 witchery:vampirebook.toc=[next=ritual1][h1 Observations of an Immortal][br][br][br][darkred A doomed scholar's account of discourse with the undead]
-witchery:vampirebook.ritual1=[next=ritual2]It is with some reluctance I commit these observations to paper, for what I have witnessed is not for the weak of mind. Instead, take my words as a warning...
-witchery:vampirebook.ritual2=[next=ritual3][br]...he was reminiscing over dinner this evening about his "birth", a demonic pact of sorts...[br][br]...butchering a chicken over a skull with a boline and holding a glass goblet to collect the blood is barbaric," I told him...
-witchery:vampirebook.ritual3=[next=ritual4][br]...apparently start of a long forgotten rite (I made a sketch...[br][img=witchery:textures/gui/vritual.png|center|middle|64|64][br]...night, open to the moon, string, red dust, torches and skull...
-witchery:vampirebook.ritual4=[next=ritual5][br][br]...pouring the blood onto the skull...[br][br]...mumbling about taking her to the lakes of lava...   ...underworld...
-witchery:vampirebook.ritual5=[next=transfix|1][br]...proving his worth to Her...[br][br][br]...that glass goblet again, could someone really drink such a thing? ...
-witchery:vampirebook.transfix=[next=knockback|2][br]...Today, or should I say this evening, he told me of his first kill...[br][br][br]...the thirst that first night, he said, was overwhelming, he had to fully sait his hunger...
-witchery:vampirebook.knockback=[next=speed|3]...he found he was able to transfix his victims...[br][br]...was now able to drink as he needed without others realizing, so long as he did not drain more than half...[br][br]...did so, from five oblivious souls...
-witchery:vampirebook.speed=[next=resistsun|4][br]...strength was flowing into him, the more he drank, as the nights progressed, the stronger he became...[br][br]...it was on the forth night after his mastery of drinking, that the world slowed down...
-witchery:vampirebook.resistsun=[next=smashstone|5]...his greatest foe, the sun, was ever present, tormenting and instantly deadly to him...[br][br]...became his obsession... ...found a way to collect sunlight and burnt himself with it ten times during the night...
-witchery:vampirebook.smashstone=[next=bats|6]...first walk in the sun after his rebirth brought him to bloody tears, he felt his blood burning, but no longer instantly...[br][br]...he needed more strength, and extingishing creatures of pure fire was his solution...[br]...twenty died.
-witchery:vampirebook.bats=[next=mesmerize|7]...he could smash solid stone, but bound to the earth, however fast, he was still limited...[br][br]...he called on Her once more, repeating the rite of his rebirth...[br][br]...gifted Her a flower, the color of the blood She so craves...
-witchery:vampirebook.mesmerize=[next=maker|8]...he smiled, a rare event, when he told me of his first flight...[br][br]...he flew from village to village, untill he knew the full extent of his domain, there was now nowhere he could not go... 
-witchery:vampirebook.maker=[next=maker2|8]...the weak minded would now not only let him drink his fill, but would also follow like faithful hounds...[br][br]...horror of all horrors, he lured five of them to specially prepared iron cages, topped with wood and with a gap at the front. He sealed them inside...
-witchery:vampirebook.maker2=[next=finalpowers|9][img=witchery:textures/gui/vcage.png|center|middle|64|64][br][br]...he began feeding from each of them; mezmerising them first, then carefully he drank all he could, without damaging any...
-witchery:vampirebook.finalpowers=Наконец, он понял, что его кровь достаточно сильна, чтобы обратить любого... Он ослабил меня. В состоянии, близком к забвению, я увидел, как он заполнил стеклянный бокал и протянул его мне... Мы оба сидели рядом с гробом... Вдали от солнца... и тогда он сказал мне: "Пей!"...
+witchery:vampirebook.ritual1=[next=ritual2]It is with some reluctance I commit these observations to paper, for what I have witnessed is not for the weak of mind. Instead, take my words as a warning…
+witchery:vampirebook.ritual2=[next=ritual3][br]…he was reminiscing over dinner this evening about his "birth", a demonic pact of sorts…[br][br]…butchering a chicken over a skull with a boline and holding a glass goblet to collect the blood is barbaric," I told him…
+witchery:vampirebook.ritual3=[next=ritual4][br]…apparently start of a long forgotten rite (I made a sketch…[br][img=witchery:textures/gui/vritual.png|center|middle|64|64][br]…night, open to the moon, string, red dust, torches and skull…
+witchery:vampirebook.ritual4=[next=ritual5][br][br]…pouring the blood onto the skull…[br][br]…mumbling about taking her to the lakes of lava…   …underworld…
+witchery:vampirebook.ritual5=[next=transfix|1][br]…proving his worth to Her…[br][br][br]…that glass goblet again, could someone really drink such a thing? …
+witchery:vampirebook.transfix=[next=knockback|2][br]…Today, or should I say this evening, he told me of his first kill…[br][br][br]…the thirst that first night, he said, was overwhelming, he had to fully sait his hunger…
+witchery:vampirebook.knockback=[next=speed|3]…he found he was able to transfix his victims…[br][br]…was now able to drink as he needed without others realizing, so long as he did not drain more than half…[br][br]…did so, from five oblivious souls…
+witchery:vampirebook.speed=[next=resistsun|4][br]…strength was flowing into him, the more he drank, as the nights progressed, the stronger he became…[br][br]…it was on the forth night after his mastery of drinking, that the world slowed down…
+witchery:vampirebook.resistsun=[next=smashstone|5]…his greatest foe, the sun, was ever present, tormenting and instantly deadly to him…[br][br]…became his obsession… …found a way to collect sunlight and burnt himself with it ten times during the night…
+witchery:vampirebook.smashstone=[next=bats|6]…first walk in the sun after his rebirth brought him to bloody tears, he felt his blood burning, but no longer instantly…[br][br]…he needed more strength, and extingishing creatures of pure fire was his solution…[br]…twenty died.
+witchery:vampirebook.bats=[next=mesmerize|7]…he could smash solid stone, but bound to the earth, however fast, he was still limited…[br][br]…he called on Her once more, repeating the rite of his rebirth…[br][br]…gifted Her a flower, the color of the blood She so craves…
+witchery:vampirebook.mesmerize=[next=maker|8]…he smiled, a rare event, when he told me of his first flight…[br][br]…he flew from village to village, untill he knew the full extent of his domain, there was now nowhere he could not go… 
+witchery:vampirebook.maker=[next=maker2|8]…the weak minded would now not only let him drink his fill, but would also follow like faithful hounds…[br][br]…horror of all horrors, he lured five of them to specially prepared iron cages, topped with wood and with a gap at the front. He sealed them inside…
+witchery:vampirebook.maker2=[next=finalpowers|9][img=witchery:textures/gui/vcage.png|center|middle|64|64][br][br]…he began feeding from each of them; mezmerising them first, then carefully he drank all he could, without damaging any…
+witchery:vampirebook.finalpowers=Наконец, он понял, что его кровь достаточно сильна, чтобы обратить любого… Он ослабил меня. В состоянии, близком к забвению, я увидел, как он заполнил стеклянный бокал и протянул его мне… Мы оба сидели рядом с гробом… Вдали от солнца… и тогда он сказал мне: "Пей!"…
 
 witchery.vampire.setlevel=Текущий уровень вампира: %s.
-witchery:death.attack.sun=%1$s сгорел до тла на солнце...
+witchery:death.attack.sun=%1$s сгорел до тла на солнце…
 witchery:death.attack.sun.player=%1$s сгорел до тла на солнце, отбиваясь от %2$s
-death.attack.sun=%1$s сгорел до тла на солнце...
+death.attack.sun=%1$s сгорел до тла на солнце…
 death.attack.sun.player=%1$s сгорел до тла на солнце, отбиваясь от %2$s
 item.witchery:vampirehat.name=Цилиндр вампира
 item.witchery:vampirehat.tip=Бонусы комплекта:|2 элемента - Ускоренное утоление голода|3 элемента - Устойчивость к огню|3 элемента - Увеличение длительности гипноза|4 элемента - Усиленная устойчивость к огню

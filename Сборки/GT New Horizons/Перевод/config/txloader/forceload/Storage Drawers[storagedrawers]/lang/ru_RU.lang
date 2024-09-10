@@ -106,7 +106,7 @@ tile.trim.jungle.name=Отделка из тропического дерева
 tile.trim.acacia.name=Отделка из акации
 tile.trim.big_oak.name=Отделка из тёмного дуба
 
-storageDrawers.drawers.description=Хранит %d стака(-ов) в ящике
+storageDrawers.drawers.description=Хранит %d стоп. в ящике
 storageDrawers.drawers.sealed=Contents sealed within
 storageDrawers.upgrade.description=Увеличивает хранилище в %d раз по сравнению с обычным
 storageDrawers.controller.description=Взаимодействует с несколькими соединёнными ящиками
@@ -169,7 +169,7 @@ storageDrawers.config.prop.creativeTabVanillaWoods.tooltip=Добавляет в
 storageDrawers.config.prop.enabled=Включено
 storageDrawers.config.prop.enabled.tooltip=Включает блок в игре
 storageDrawers.config.prop.baseStorage=Основное хранилище
-storageDrawers.config.prop.baseStorage.tooltip=Количество стаков предметов, хранимое ящиком.
+storageDrawers.config.prop.baseStorage.tooltip=Количество стопок предметов, хранимое ящиком.
 storageDrawers.config.prop.recipeOutput=Результат рецепта
 storageDrawers.config.prop.recipeOutput.tooltip=Количество предметов, получаемых при единичном создании.
 storageDrawers.config.prop.enableDrawerUI=Enable Drawer UI

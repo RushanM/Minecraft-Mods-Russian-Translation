@@ -23,13 +23,13 @@
 
 ## Файлы русификации сборки
 
-Monifactory переводится на русский язык силами [**Дефлекты**](https://github.com/RushanM)! В данный момент переведены только главное меню и английский голос заменён на русскую озвучку из [**видео Steamlynx**](https://www.youtube.com/watch?v=qq4r3cCpWaI).
+The Ferret Business переводится на русский язык силами [**Дефлекты**](https://github.com/RushanM)! В данный момент переведены только главное меню и английский голос заменён на русскую озвучку из [**видео Steamlynx**](https://www.youtube.com/watch?v=qq4r3cCpWaI).
 
 ### Установка сборки на русском
 
 - Установите сборку со [страницы в CurseForge](https://www.curseforge.com/minecraft/modpacks/the-ferret-business).
 * Скачайте архив с русским переводом The Ferret Business с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
-* Распакуйте архив в папку вашей установки Monifactory с заменой файлов
+* Распакуйте архив в папку вашей установки The Ferret Business с заменой файлов
 * Скачайте архив с русским переводом модов с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
 * Разместите архив в папку resourcepacks и включите в игре в меню наборов ресурсов
 * Готово!

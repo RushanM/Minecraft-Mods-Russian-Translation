@@ -1,7 +1,7 @@
-achievement.junglefound=Добро пожаловать...
+achievement.junglefound=Добро пожаловать…
 achievement.junglefound.desc=Найдите джунгли.
 
-achievement.gorrbat=Здесь... что-то... мистическое...
+achievement.gorrbat=Здесь… что-то… мистическое…
 achievement.gorrbat.desc=???
 
 achievement.bookScaleI=Omnibusaurus Codex, книга первая
@@ -16,17 +16,17 @@ achievement.villageFound.desc=Найдите руины большого пос�
 achievement.bookScaleII=Omnibusaurus Codex, книга вторая
 achievement.bookScaleII.desc=Прочтите вторую часть книги. The Westscale: Lord of the Damned.
 
-achievement.slainWall=Просто еще один кирпич...
+achievement.slainWall=Просто еще один кирпич…
 achievement.slainWall.desc=Победите гигантского голема, защищающего Эль д'Дору.
 
 achievement.harvestSapphire=Оох, блестит! И пугает!
 achievement.harvestSapphire.desc=Добудьте так называемую "душу сапфира".
 
-achievement.craftInfObs=Это не очень хорошая идея...
+achievement.craftInfObs=Это не очень хорошая идея…
 achievement.craftInfObs.desc=Используя лед заставьте душу из сапфира переместиться в блок обсидиана.
 
 
-achievement.foundTemple=Храм...
+achievement.foundTemple=Храм…
 achievement.foundTemple.desc=Найдите один из Потерянных Храмов Махкина.
 
 achievement.bookScaleIII=Omnibusaurus Codex, книга третья
@@ -35,14 +35,14 @@ achievement.bookScaleIII.desc=Прочтите третью часть книг�
 achievement.takePortalLW=Потерянный мир
 achievement.takePortalLW.desc=Don the aegis armor и войдите в родовое измерение Саур-Охнов.
 
-achievement.slainTyrant=Король это...
-achievement.slainTyrant.desc=Осторожно, он любит грызть...
+achievement.slainTyrant=Король это…
+achievement.slainTyrant.desc=Осторожно, он любит грызть…
 
 achievement.bookScaleIV=Omnibusaurus Codex, книга четвертая
 achievement.bookScaleIV.desc=Прочтите чётвертую, финальную часть книги. The Southscale: Scales of Power.
 
 achievement.jungleBook=Книга Джунглей
-achievement.jungleBook.desc=Мистер Киплинг пишет очень хорошие книги...
+achievement.jungleBook.desc=Мистер Киплинг пишет очень хорошие книги…
 
 
 enchantment.saurclout=Влияние Саура

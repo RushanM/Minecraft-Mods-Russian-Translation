@@ -20,7 +20,7 @@
 | 1.7 | Переведён | aromabackup | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | aromabackuprecovery | AromaBackup | 0.1.0 |
 | 1.7 | Переведён | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 |
-| 1.7 | ... | ... | ... | ... |
+| 1.7 | … | … | … | … |
 | 1.12 | Не готов | aether_legacy | The Aether | 1.5.4 |
 | 1.12 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.7.0.1038 |
 | 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod | 6.3.2 |
@@ -32,30 +32,30 @@
 | 1.12 | Переведён | aqua_creepers | Aqua Creepers! | 1.2.3 |
 | 1.12 | Переведён | aroma1997core | Aroma1997Core | 2.0.0.2 b167 |
 | 1.12 | Переведён | scple | SCP Lockdown Extras | 1.0 |
-| 1.12 | ... | ... | ... | ... |
-| 1.16 | Не готов | sodium | Sodium | 0.2 |
+| 1.12 | … | … | … | …
+| 1.16 | Не готов | sodium | Sodium | 0.2 build.4 |
 | 1.16 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 1.1 |
 | 1.16 | Переведён | advancementframes | Advancement Frames | 1.0.5 |
 | 1.16 | Переведён | alexsdelight | Alex's Delights | 1.0 |
 | 1.16 | Переведён | amfd | Alex's Delight | 1.1.3 |
 | 1.16 | Переведён | ancient_war | Ancient Warfare Legacy | 1.1 |
 | 1.16 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.5 |
-| 1.16 | ... | ... | ... | ... |
-| 1.17 | Не готов | sodium | Sodium | 0.3.4 |
+| 1.16 | … | … | … | … |
+| 1.17 | Не готов | sodium | Sodium | 0.3.4 build.13 |
 | 1.17 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 2.1 |
 | 1.17 | Переведён | alexsdelight | Alex's Delights | 1.1 |
 | 1.17 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.5 |
-| 1.17 | ... | ... | ... | ... |
+| 1.17 | … | … | … | … |
 | 1.18 | Не готов | chipped | Chipped | 2.0.1 |
 | 1.18 | Не готов | horror_element_mod | Horror Elements mod | 1.5.5 |
 | 1.18 | Не готов | malum | Malum | 1.5.0.1 |
-| 1.18 | Не готов | sodium | Sodium | 0.4.1 |
+| 1.18 | Не готов | sodium | Sodium | 0.4.1 build.15 |
 | 1.18 | Переведён | actuallyusefulsmithingtable | Actually Useful Smithing Table | 3.1 |
 | 1.18 | Переведён | advancementframes | Advancement Frames | 1.1.1 |
 | 1.18 | Переведён | alexsdelight | Alex's Delight | 1.3.3 |
 | 1.18 | Переведён | alexsdelight | Alex's Delights | 1.2 |
 | 1.18 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.6 |
-| 1.18 | ... | ... | ... | ... |
+| 1.18 | … | … | … | … |
 | 1.19 | Не готов | сataclysm | L_Ender's Cataclysm | 1.99.2 |
 | 1.19 | Не готов | aether | The Aether | 1.4.2 |
 | 1.19 | Не готов | horror_element_mod | Horror Elements mod | 1.5.9 |
@@ -64,9 +64,9 @@
 | 1.19 | Переведён | alexsdelight | Alex's Delight | 1.4.1 |
 | 1.19 | Переведён | parcool | ParCool! | 3.2.1.2-R |
 | 1.19 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.8 |
-| 1.19 | Переведён | sodium | Sodium | 0.4.10 |
+| 1.19 | Переведён | sodium | Sodium | 0.4.10 build.24 |
 | 1.19 | Переведён | twilightforest | The Twilight Forest | 4.2.1696 |
-| 1.19 | ... | ... | ... | ... |
+| 1.19 | … | … | … | … |
 | 1.20 | Не готов | adorn | Adorn | 5.3 |
 | 1.20 | Не готов | aether | The Aether | 1.4.2 |
 | 1.20 | Не готов | betterend | BetterEnd | 4.30.1 |
@@ -91,7 +91,7 @@
 | 1.20 | Переведён | spawnersplus | Spawners+ | 4.0 |
 | 1.20 | Переведён | trofers | Trofers | 5.0.2 |
 | 1.20 | Переведён | xenon | Xenon | 0.3.19 |
-| 1.20 | ... | ... | ... | ... |
+| 1.20 | … | … | … | … |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.21 | Не готов | fabric-convention-tags-v2 | Fabric Convention Tags | 08.06.2024 |
 | 1.21 | Не готов | luna | Luna | Release Fabric 1.19-1.20 1.0.1 |
@@ -114,7 +114,7 @@
 | 1.21 | Переведён | placeholder-api | Placeholder API | 2.4.1 |
 | 1.21 | Переведён | sodium | Sodium | 0.6.0-beta.1 |
 | 1.21 | Переведён | testmod | Fabric | 08.06.2024 |
-| 1.21 | ... | ... | ... | ... |
+| 1.21 | … | … | … | … |
 
 </details>
 
@@ -123,9 +123,10 @@
 | Сборка | Русское название | Для версии сборки | Статус перевода |
 | - | - | - | - |
 | [Monifactory](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/Monifactory) | *Монифактори*, *Всезавод* | Бета 0.8.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведён интерфейс и несколько квестов |
-| [GregTech: New Horizons](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/GT%20New%20Horizons) | *GregTech: новые горизонты* | 2.6.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов и кнопки главного меню |
 | [The Ferret Business](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/The%20Ferret%20Business) | *Хорьковый бизнес* | Альфа 0.4.2 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено главное меню и голос |
-| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | **ПЕРЕВОД В ПРОЦЕСС**Е: переведено несколько квестов |
+| [All of Fabric 6](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20of%20Fabric%206) | *Всё для Fabric 6* | ? | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов |
+| [GregTech: New Horizons](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/GT%20New%20Horizons) | *GregTech: новые горизонты* | 2.6.1 | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов и кнопки главного меню |
+| [Better MC 4](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20the%20Mods%209) | *Улучшенный Minecraft 4* | ? | **ПЕРЕВОД В ПРОЦЕССЕ**: переведено несколько квестов |
 | [All the Mods 9](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/tree/alpha/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B8/All%20the%20Mods%209) | *Все моды 9* | ? | **ПЕРЕВОДА НЕТ** |
 
 ## Внешние ссылки

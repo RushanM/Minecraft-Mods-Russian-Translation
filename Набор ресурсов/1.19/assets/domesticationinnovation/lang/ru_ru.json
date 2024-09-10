@@ -33,7 +33,7 @@
   "message.domesticationinnovation.drum_command_2": "%s назначен следовать",
   "message.domesticationinnovation.respawn": "%s возродился на своей лежанке",
   "message.domesticationinnovation.remove_respawn": "Лежанка возрождения %s удалена",
-  "message.domesticationinnovation.goodbye": "%s не возродится. Прощай...",
+  "message.domesticationinnovation.goodbye": "%s не возродится. Прощай…",
   "message.domesticationinnovation.enchantments": "Зачарования:",
   "message.domesticationinnovation.set_owner": "%s теперь владелец %s",
   "entity.minecraft.villager.domesticationinnovation.animal_tamer": "Приручитель",

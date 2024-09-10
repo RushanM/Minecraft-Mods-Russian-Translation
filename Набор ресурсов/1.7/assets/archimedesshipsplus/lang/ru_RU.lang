@@ -68,7 +68,7 @@ gui.shipstatus.result.okwarn=Изменения обнаружены
 gui.shipstatus.result.missingmarker=Отсутствует штурвал
 gui.shipstatus.result.overflow=Переполнение
 gui.shipstatus.result.error=Ошибка
-gui.shipstatus.result.busy=Создание...
+gui.shipstatus.result.busy=Создание…
 gui.shipstatus.result.inconsistent=Неустойчивый
 
 gui.shipinv.title=Инвентарь корабля

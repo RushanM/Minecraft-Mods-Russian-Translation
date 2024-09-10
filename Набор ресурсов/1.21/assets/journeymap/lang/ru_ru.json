@@ -78,7 +78,7 @@
   "jm.common.client_options": "Client Options",
   "jm.common.close": "Закрыть",
   "jm.common.colorreset_complete": "Цветовая палитра пересчитана.",
-  "jm.common.colorreset_start": "Перерасчет цветовой палитры...",
+  "jm.common.colorreset_start": "Перерасчет цветовой палитры…",
   "jm.common.colorreset_text": "Пересчитать цвет для каждого блока",
   "jm.common.colorreset_title": "Сбросить цветовую палитру",
   "jm.common.copy_config.fullscreen": "Copy to Fullscreen",

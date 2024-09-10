@@ -4,7 +4,7 @@ replaymod.title=Replay Mod
 replaymod.chat.recordingstarted=Запись началась
 replaymod.chat.recordingfailed=Не удалось начать запись
 
-replaymod.chat.savingthumb=Сохранение миниатюры...
+replaymod.chat.savingthumb=Сохранение миниатюры…
 replaymod.chat.savedthumb=Миниатюра сохранена
 replaymod.chat.failedthumb=Не удалось сохранить миниатюру
 
@@ -97,7 +97,7 @@ replaymod.gui.minimalmode.supportedversion=(текущая версия Replay M
 replaymod.gui.replayviewer=Плеер
 
 replaymod.gui.viewer.rename.name=Название записи игры
-replaymod.gui.viewer.replayfolder=Открыть папку записей игры...
+replaymod.gui.viewer.replayfolder=Открыть папку записей игры…
 replaymod.gui.viewer.bulkrender=Отрисовать %1$d видео
 
 replaymod.gui.viewer.delete.linea=Вы уверены, что хотите удалить эту запись?
@@ -115,13 +115,13 @@ replaymod.gui.edit.cut.tooltip=Вырезать (убрать) фрагмент 
 replaymod.gui.cancelrender.title=Отменить отрисовку
 replaymod.gui.cancelrender.message=Вы уверены, что хотите прекратить текущий процесс отрисовки?
 #Saving Replay GUI
-replaymod.gui.replaysaving.title=Сохранение файла записи игры...
+replaymod.gui.replaysaving.title=Сохранение файла записи игры…
 
 #Player Overview GUI
 replaymod.gui.playeroverview.visible=Видимость
 replaymod.gui.playeroverview.hideall=Скрыть всех
 replaymod.gui.playeroverview.showall=Показать всех
-replaymod.gui.playeroverview.spectate=Наблюдать за...
+replaymod.gui.playeroverview.spectate=Наблюдать за…
 replaymod.gui.playeroverview.remembersettings=Запомнить скрытых игроков
 replaymod.gui.playeroverview.remembersettings.description=Сохраняет информацию о видимости игроков в файле повтора
 

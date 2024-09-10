@@ -4,7 +4,7 @@
     "oreexcavation.key.shape_edit": "Изменить форму копания",
     "oreexcavation.key.shape_msg": "Форма копания: %s",
     "oreexcavation.key.shape_disabled": "Формовое копание отключено!",
-    "oreexcavation.undo.success": "Отмена последнего копания...",
+    "oreexcavation.undo.success": "Отмена последнего копания…",
     "oreexcavation.undo.failed.xp": "Отмена не удалась: Невозможно возвратить опыт",
     "oreexcavation.undo.failed.items": "Отмена не удалась: Невозможно возвратить предметы",
     "oreexcavation.undo.failed.obstructed": "Отмена не удалась: Область чем-то заграждена",

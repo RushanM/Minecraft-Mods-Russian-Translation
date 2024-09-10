@@ -8,8 +8,9 @@ on:
       - 'Набор ресурсов/**'
       - 'Сборки/Monifactory/Перевод/**'
       - 'Сборки/The Ferret Business/Перевод/**'
-      - 'Сборки/GT New Horizons/Перевод/**'
       - 'Сборки/All of Fabric 6/Перевод/**'
+      - 'Сборки/GT New Horizons/Перевод/**'
+      - 'Сборки/Better MC 4/Перевод/**'
   pull_request:
     branches:
       - beta
@@ -17,8 +18,9 @@ on:
       - 'Набор ресурсов/**'
       - 'Сборки/Monifactory/Перевод/**'
       - 'Сборки/The Ferret Business/Перевод/**'
-      - 'Сборки/GT New Horizons/Перевод/**'
       - 'Сборки/All of Fabric 6/Перевод/**'
+      - 'Сборки/GT New Horizons/Перевод/**'
+      - 'Сборки/Better MC 4/Перевод/**'
   workflow_dispatch:
 
 jobs:
@@ -91,6 +93,9 @@ jobs:
           cd ../../../
           cd "Сборки/All of Fabric 6/Перевод/"
           zip -r ../../../All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+          cd ../../../
+          cd "Сборки/Better MC 4/Перевод/"
+          zip -r ../../../BMC-4-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
           cd ../../../
 
       - name: Создание тега для выпуска
@@ -235,4 +240,14 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_name: All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Загрузка архива перевода Better MC 4 в выпуск
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./BMC-4-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
+          asset_name: BMC-4-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip
           asset_content_type: application/zip

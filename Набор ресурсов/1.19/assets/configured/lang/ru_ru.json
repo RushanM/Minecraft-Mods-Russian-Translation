@@ -1,9 +1,9 @@
 {
-    "configured.gui.search": "Искать...",
+    "configured.gui.search": "Искать…",
     "configured.gui.reset_all": "Сбросить всё",
     "configured.gui.edit": "Править",
     "configured.gui.edit_value": "Править значение",
-    "configured.gui.add_value": "Добавить...",
+    "configured.gui.add_value": "Добавить…",
     "configured.gui.reset": "Сбросить",
     "configured.gui.remove": "Убрать",
     "configured.gui.modify": "Изменить",

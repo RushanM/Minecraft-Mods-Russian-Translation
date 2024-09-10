@@ -13,7 +13,7 @@
 
 
 
-    Добро пожаловать в забвенные пустоты...
+    Добро пожаловать в забвенные пустоты…
 
     • {Вступление|forlorn_hollows/general.json}
     • {Ресурсы|forlorn_hollows/resources.json}

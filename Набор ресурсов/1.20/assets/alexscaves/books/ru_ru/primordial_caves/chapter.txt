@@ -13,7 +13,7 @@
 
 
 
-    Добро пожаловать в первобытые пещеры...
+    Добро пожаловать в первобытые пещеры…
 
     • {Вступление|primordial_caves/general.json}
     • {Ресурсы|primordial_caves/resources.json}
