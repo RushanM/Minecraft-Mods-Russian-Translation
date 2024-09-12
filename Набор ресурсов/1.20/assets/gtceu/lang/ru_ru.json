@@ -2617,7 +2617,7 @@
     "gtceu.machine.block_breaker.speed_bonus": "§eБонус скорости: §f%d%%",
     "gtceu.machine.block_breaker.tooltip": "§7Разрушает блок перед собой и подбирает то, что выпало",
     "gtceu.machine.buffer.tooltip": "Небольшой буфер для хранения предметов и жидкостей",
-    "gtceu.machine.canner.jei_description": "Вы можете заполнять и опустошать любые жидкостные контейнеры с помощью Жидкостного наполнителя (Например Вёдра или Капсулы с жидкостями)",
+    "gtceu.machine.canner.jei_description": "Вы можете заполнять и опустошать любые гидроконтейнеры с помощью Жидкостного наполнителя (Например вёдра или капсулы с жидкостями)",
     "gtceu.machine.central_monitor.tooltip": "Но сможет ли он запустить Doom?",
     "gtceu.machine.charcoal_pile.tooltip": "Подземная топливная пекарня",
     "gtceu.machine.charcoal_pile.tooltip.0": "§cПережигает§7 древесину в §aДревеный уголь§7.",

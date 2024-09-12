@@ -293,12 +293,13 @@ advancement.aether_legacy.gravitite_tools.desc=Создайте инструме
 advancement.aether_legacy.incubator.desc=Вырастите в инкубаторе Моа
 advancement.aether_legacy.enchanter.desc=Создайте алтарь
 advancement.aether_legacy.mount_phyg.desc=Полетайте на поросягасе
-advancement.aether_legacy.bronze_dungeon.desc=Одолейте бронзового босса в подземелье
-advancement.aether_legacy.silver_dungeon.desc=Одолейте серебряного босса в подземелье
-advancement.aether_legacy.gold_dungeon.desc=Одолейте золотого босса в подземелье
+advancement.aether_legacy.bronze_dungeon.desc=Одолейте бронзового босса в сокровищнице
+advancement.aether_legacy.silver_dungeon.desc=Одолейте серебряного босса в сокровищнице
+advancement.aether_legacy.gold_dungeon.desc=Одолейте золотого босса в сокровищнице
 advancement.aether_legacy.loreception.desc=Положите книгу рая в книгу рая
 
 # Creative Tabs Names
+
 tab.aether_blocks=Aether Блоки
 tab.aether_tools=Aether Инструменты
 tab.aether_weapons=Aether Оружие

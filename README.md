@@ -110,6 +110,7 @@
 | 1.21 | Переведён | fabric-resource-loader-v0-testmod | Fabric Resource Loader | 08.06.2024 |
 | 1.21 | Переведён | fabric-resource-loader-v0-testmod-test1 | Fabric Resource Loader | 08.06.2024 |
 | 1.21 | Переведён | fabric-screen-handler-api-v1-testmod | Fabric | 08.06.2024 |
+| 1.21 | Переведён | ftblibrary | FTB Library | 2101.1.2 |
 | 1.21 | Переведён | iris | Iris Shaders | 1.7.3 |
 | 1.21 | Переведён | placeholder-api | Placeholder API | 2.4.1 |
 | 1.21 | Переведён | sodium | Sodium | 0.6.0-beta.1 |

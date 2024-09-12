@@ -146,7 +146,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Используйте TNT, чтобы победить босса"
+			subtitle: "Используйте динамит, чтобы победить босса"
 			tasks: [{
 				id: "7B37F3A22D97E75F"
 				item: "stalwart_dungeons:void_crystal"
