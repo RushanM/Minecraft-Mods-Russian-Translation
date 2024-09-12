@@ -95,6 +95,7 @@
 | 1.20 | Переведён | patchouli | Patchouli | 86 |
 | 1.20 | Переведён | sawmill | Sawmill | 1.4.3 |
 | 1.20 | Переведён | sereneseasonsfix | Serene Seasons Fix | 1.0.8 |
+| 1.20 | Переведён | silentgear | Silent Gear | 3.6.6 |
 | 1.20 | Переведён | sodium | Sodium | 0.5.11 |
 | 1.20 | Переведён | spawnersplus | Spawners+ | 4.0 |
 | 1.20 | Переведён | tradingpost | Trading Post | 20.4.2 |
