@@ -72,6 +72,7 @@
 | [Back Up Beds](https://modrinth.com/mod/back-up-beds) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛
 | [Backported Wolves](https://modrinth.com/mod/backported-wolves) | ⬛ | 🟥 | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | ⬛
 | [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ⬛
+| [Bartering Station](https://modrinth.com/mod/bartering-station) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Baubles 2](https://modrinth.com/mod/baubles-2) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. |
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 | 🟥 | ⬛ | ⬛
 | [Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/better-dungeons) | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
@@ -130,6 +131,7 @@
 | [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус.<br>✅ Тат. |
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Fish's Undead Rising](https://www.curseforge.com/minecraft/mc-mods/fishs-undead-rising) | ⬛ | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ⬛
+| [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Full Brightness Toggle](https://modrinth.com/mod/full-brightness-toggle) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
 | [Functional Thermal Drawers](https://www.curseforge.com/minecraft/mc-mods/functional-thermal-drawers) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. |
@@ -220,6 +222,7 @@
 | [Rotten Creatures](https://modrinth.com/mod/rottencreatures) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | 🟥
 | [Roughly Enough Items](https://modrinth.com/mod/rei) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥
 | [Ryoamium](https://modrinth.com/mod/ryoamium) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥
+| [Sawmill](https://modrinth.com/mod/universal-sawmill) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [SCP Lockdown Extras](https://www.curseforge.com/minecraft/mc-mods/scp-lockdown-extras) | ⬛ | ✅ Рус. | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ |
 | [SecurityCraft](https://modrinth.com/mod/security-craft) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix) | ⬛ | ⬛ | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ⬛ |
@@ -259,6 +262,7 @@
 | [ToroHealth Damage Indicators (Updated)](https://modrinth.com/mod/torohealth-damage-indicators-updated) | ⬛ | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ⬛ |
 | [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators) | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ |
 | [Touhou Little Maid](https://modrinth.com/mod/touhou-little-maid) | ⬛ | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | ⬛ |
+| [Trading Post](https://modrinth.com/mod/trading-post) | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Trofers](https://modrinth.com/mod/trofers) | ⬛ | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [VoxelMap-Updated](https://modrinth.com/mod/voxelmap-updated) | ⬛ | ⬛ | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ |
@@ -386,21 +390,25 @@
 * * [Chipped](https://modrinth.com/mod/chipped)
 * * [Malum](https://modrinth.com/mod/malum)
 * [**xaxilin**](https://steamcommunity.com/id/xaxilin/): предложил переводы
+* * [Bartering Station](https://modrinth.com/mod/bartering-station)
 * * [Better MC 4](https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc4)
 * * [BetterEnd](https://modrinth.com/mod/betterend)
 * * [BisectHosting Server Integration Menu](https://modrinth.com/mod/bisect-mod)
 * * [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
 * * [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 * * [Curios API](https://modrinth.com/mod/curios)
+* * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 * * [Geckolib](https://modrinth.com/mod/geckolib)
 * * [Jade](https://modrinth.com/mod/jade)
 * * [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)
 * * [Luna](https://www.curseforge.com/minecraft/mc-mods/luna)
+* * [Sawmill](https://modrinth.com/mod/universal-sawmill)
 * * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
 * * [Serene Seasons](https://modrinth.com/mod/serene-seasons)
 * * [Spawners+](https://modrinth.com/mod/spawners_plus)
 * * [Stalwart Dungeons](https://modrinth.com/mod/stalwart-dungeons)
 * * [Tips](https://modrinth.com/mod/tips)
+* * [Trading Post](https://modrinth.com/mod/trading-post)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
