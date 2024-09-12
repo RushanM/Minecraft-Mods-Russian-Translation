@@ -92,6 +92,7 @@
 | 1.20 | Переведён | trofers | Trofers | 5.0.2 |
 | 1.20 | Переведён | xenon | Xenon | 0.3.19 |
 | 1.20 | … | … | … | … |
+| 1.21 | Не готов | betterend | BetterEnd | 21.0.11 |
 | 1.21 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.21 | Не готов | fabric-convention-tags-v2 | Fabric Convention Tags | 08.06.2024 |
 | 1.21 | Не готов | luna | Luna | Release Fabric 1.19-1.20 1.0.1 |
