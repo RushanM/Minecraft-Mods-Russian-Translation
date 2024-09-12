@@ -9,14 +9,12 @@
     },
     {
       "border": "true",
-      "images": [
-        "parcool:textures/gui/entries/image_cling_cliff.png"
-      ],
+      "images": ["parcool:textures/gui/entries/image_cling_cliff.png"],
       "type": "patchouli:image"
     },
     {
-      "text": "$(list) Нажмите клавишу зацепления за выступ ($(k:parcool.ClingToCliff)) у стены$(br)",
-      "title": "Как использовать",
+      "text": "$(list) Нажмите клавишу зацепления за выступ ($(k:parcool.ClingToCliff)) у стены.$(br)",
+      "title": "Как провернуть",
       "type": "patchouli:text"
     }
   ]

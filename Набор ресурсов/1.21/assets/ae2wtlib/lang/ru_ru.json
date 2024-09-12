@@ -1,4 +1,5 @@
 {
+    "gui.ae2wtlib.Magnet": "Фильтр магнита",
     "gui.ae2wtlib.allow": "Разрешить",
     "gui.ae2wtlib.copy_insert": "Скопировать для вставки",
     "gui.ae2wtlib.copy_pickup": "Скопировать для подбора",
@@ -7,7 +8,6 @@
     "gui.ae2wtlib.cycle_terminal.desc1": "Нажмите ПКМ, чтобы открыть %s",
     "gui.ae2wtlib.deny": "Запретить",
     "gui.ae2wtlib.insert_filter": "Фильтр вставки: %s",
-    "gui.ae2wtlib.Magnet": "Фильтр магнита",
     "gui.ae2wtlib.magnet.text": "Магнит",
     "gui.ae2wtlib.magnet_settings_title": "Настройки магнита",
     "gui.ae2wtlib.magnetcard": "Карта магнита",

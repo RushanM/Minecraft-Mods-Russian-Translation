@@ -212,7 +212,7 @@ jobs:
             * [Tails](https://www.curseforge.com/minecraft/mc-mods/tails)
             * [The Aether II](https://modrinth.com/mod/aether-ii)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
@@ -243,7 +243,7 @@ jobs:
             * [Aroma1997Core](https://curseforge.com/minecraft/mc-mods/aroma1997core)
             * [SCP Lockdown Extras](https://www.curseforge.com/minecraft/mc-mods/scp-lockdown-extras)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.12 <1.13
@@ -282,8 +282,10 @@ jobs:
             * [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
             * [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
             * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
+            * [Trading Post](https://modrinth.com/mod/trading-post)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.16 <1.17
@@ -313,8 +315,10 @@ jobs:
 
             * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
             * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
+            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
+            * [Trading Post](https://modrinth.com/mod/trading-post)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.17 <1.18
@@ -347,8 +351,10 @@ jobs:
             * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
             * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
+            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
+            * [Trading Post](https://modrinth.com/mod/trading-post)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.18 <1.19
@@ -380,8 +386,15 @@ jobs:
             * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
             * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+            * [Bartering Station](https://modrinth.com/mod/bartering-station)
+            * [ParCool!](https://modrinth.com/mod/parcool)
+            * [Sawmill](https://modrinth.com/mod/universal-sawmill)
+            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
+            * [Sodium](https://modrinth.com/mod/sodium)
+            * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+            * [Trading Post](https://modrinth.com/mod/trading-post)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.19 <1.20
@@ -411,15 +424,22 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
+            * [Absent by Design]()
             * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
             * [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight)
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+            * [Bartering Station](https://modrinth.com/mod/bartering-station)
+            * [ParCool!](https://modrinth.com/mod/parcool)
             * [Patchouli](https://modrinth.com/mod/patchouli)
+            * [Sawmill](https://modrinth.com/mod/universal-sawmill)
+            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
             * [Sodium](https://modrinth.com/mod/sodium)
+            * [Spawners+](https://modrinth.com/mod/spawners_plus)
+            * [Trading Post](https://modrinth.com/mod/trading-post)
             * [Trofers](https://modrinth.com/mod/trofers)
             * [Xenon](https://modrinth.com/mod/xenon-forge)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.20 <1.21
@@ -449,22 +469,27 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
+            * [Accessories](https://modrinth.com/mod/accessories)
             * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
             * [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight)
             * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+            * [All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)
             * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
+            * [Bartering Station](https://modrinth.com/mod/bartering-station)
             * [Fabric Registry Sync](https://fabricmc.net/)
             * [Fabric Resource Loader](https://fabricmc.net/)
             * [Fabric](https://fabricmc.net/)
+            * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
             * [Iris Shaders](https://modrinth.com/mod/iris)
             * [Patchouli](https://modrinth.com/mod/patchouli)
-            * [Sodium](https://modrinth.com/mod/sodium)
+            * [Sawmill](https://modrinth.com/mod/universal-sawmill)
             * [Sodium](https://modrinth.com/mod/sodium)
             * [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+            * [Trading Post](https://modrinth.com/mod/trading-post)
             * [Trofers](https://modrinth.com/mod/trofers)
             * [Xenon](https://modrinth.com/mod/xenon-forge)
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b4...b5
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
           loaders: minecraft
           game-versions: |
             >=1.21 <1.22
