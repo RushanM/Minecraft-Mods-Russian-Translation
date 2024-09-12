@@ -237,7 +237,7 @@
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
 | [Sodium](https://modrinth.com/mod/sodium) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | ✅ Рус. | ✅ Рус. |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
-| [SpaceworldMons [Cobblemon]](hhttps://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
+| [SpaceworldMons [Cobblemon]](https://modrinth.com/datapack/spaceworldmons-cobblemon) | ⬛ | 🟥 | ⬛ | ⬛ | ⬛ | ⬛ | ✅ Рус. | ⬛ |
 | [Spawners+](https://modrinth.com/mod/spawners_plus) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | ✅ Рус. | 🟥 |
 | [StaffDerpsMod](https://modrinth.com/mod/staffderpsmod) | ⬛ | 🟥 | ⬛ | 🟥 | 🟥 | 🟥 | 🟥 | ⬛ |
 | [Subnautica Flow](https://modrinth.com/mod/subnautica-flow) | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 | 🟥 |
