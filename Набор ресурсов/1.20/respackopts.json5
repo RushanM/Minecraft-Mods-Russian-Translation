@@ -1,6 +1,6 @@
 {
     id: "modsru",
-    version: 12,
+    version: 13,
     capabilities: ["FileFilter","DirFilter"],
     conf: {
         general: {
@@ -9,6 +9,8 @@
               "modification",
               "hybrid"
             ],
+            removeEllipsis: false,
+            fixAftercolonWordsCase: false,
             translateModNames: false,
             translateModNamesOnAdvancements: false,
             translateJokes: true,

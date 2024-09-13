@@ -85,7 +85,7 @@
     "gui.removed": "Удалено",
     "gui.rename": "Переименовать",
     "gui.saved": "Сохранено",
-    "gui.search_box": "Поиск…",
+    "gui.search_box": "Поиск",
     "gui.server_forced": "Сервер форсирован: %s",
     "gui.settings": "Настройки",
     "gui.update": "Обновить",

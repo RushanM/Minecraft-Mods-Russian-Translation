@@ -1,0 +1,18 @@
+{
+    condition: modsru.removeEllipsis,
+    "fallbacks": [
+        "assets/minecraft/lang/ru_ru_alt/without_ellipsis.json"
+    ]
+}
+{
+    condition: modsru.removeEllipsis & modsru.fixAftercolonWordsCase,
+    "fallbacks": [
+        "assets/minecraft/lang/ru_ru_alt/correct_case_without_ellipsis.json"
+    ]
+}
+{
+    condition: !modsru.removeEllipsis | !modsru.fixAftercolonWordsCase,
+    "fallbacks": [
+        "assets/minecraft/lang/ru_ru.json"
+    ]
+}
