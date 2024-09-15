@@ -1,18 +1,7 @@
 {
-    condition: modsru.removeEllipsis,
+    "condition": "!modsru.general.removeEllipsis & !modsru.general.fixAftercolonWordsCase",
     "fallbacks": [
-        "assets/minecraft/lang/ru_ru_alt/without_ellipsis.json"
-    ]
-}
-{
-    condition: modsru.removeEllipsis & modsru.fixAftercolonWordsCase,
-    "fallbacks": [
-        "assets/minecraft/lang/ru_ru_alt/correct_case_without_ellipsis.json"
-    ]
-}
-{
-    condition: !modsru.removeEllipsis | !modsru.fixAftercolonWordsCase,
-    "fallbacks": [
-        "assets/minecraft/lang/ru_ru.json"
+        "assets/all_the_fan_made_discs/lang/ru_ru_alt/ru_ru_correct_case_no_ellipsis.json",
+        "assets/all_the_fan_made_discs/lang/ru_ru_alt/ru_ru_no_ellipsis.json"
     ]
 }
