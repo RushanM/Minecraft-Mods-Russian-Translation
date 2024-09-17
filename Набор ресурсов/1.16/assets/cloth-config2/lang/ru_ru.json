@@ -43,9 +43,9 @@
     "text.cloth-config.restart_required": "Требуется перезапуск",
     "text.cloth-config.restart_required_sub": "Одна из изменённых вами настроек требует перезапуска Minecraft. Продолжить?",
     "text.cloth-config.save_and_done": "Сохранить и выйти",
-    "text.cloth-config.testing.1": "Вы разработчик модов и хотите использовать %1$s? Перейдите на %2$s, чтобы начать. Вы также можете %3$s.",
-    "text.cloth-config.testing.2": "Вики Cloth Config",
-    "text.cloth-config.testing.3": "нажмите здесь, чтобы открыть файл настроек Minecraft без особой на то причины",
+    "text.cloth-config.testing.1": "Вы разработчик модов и хотите использовать %1$s? Перейдите на %2$s, чтобы начать. Также вы можете %3$s.",
+    "text.cloth-config.testing.2": "вики по Cloth Config",
+    "text.cloth-config.testing.3": "нажать здесь, чтобы открыть файл настроек Minecraft без особой на то причины",
     "text.cloth.reset_value": "Сбросить",
     "title.cloth-config.config": "Настройки Cloth Mod Config"
 }
