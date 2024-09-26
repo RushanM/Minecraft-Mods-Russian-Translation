@@ -13,7 +13,7 @@ on:
       - 'Сборки/Better MC 4/Перевод/**'
   pull_request:
     branches:
-      - beta
+      - alpha
     paths:
       - 'Набор ресурсов/**'
       - 'Сборки/Monifactory/Перевод/**'
