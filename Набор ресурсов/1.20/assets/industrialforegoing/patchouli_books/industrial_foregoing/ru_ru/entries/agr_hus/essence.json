@@ -1,0 +1,13 @@
+{
+  "name": "Эссенция (ведро)",
+  "icon": "industrialforegoing:essence_bucket",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Жидкая форма опыта, производимая $(l:agr_hus/mob_crusher) "Дробилка мобов" $()."
+    }
+  ]
+}
