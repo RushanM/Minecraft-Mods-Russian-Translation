@@ -76,6 +76,7 @@
 | 1.20 | Не готов | adorn | Adorn | 5.3 |
 | 1.20 | Не готов | aether | The Aether | 1.4.2 |
 | 1.20 | Не готов | betterend | BetterEnd | 4.30.1 |
+| 1.20 | Не готов | biomesoplenty | Biomes O' Plenty | 18.3.0.11 |
 | 1.20 | Не готов | cataclysm | L_Ender's Cataclysm | 1.99.5 |
 | 1.20 | Не готов | combat_maid | Combat Maids | 1.0 Alpha |
 | 1.20 | Не готов | create | Create | 0.5.1.h |
