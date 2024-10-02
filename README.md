@@ -409,6 +409,7 @@
 * * [Stalwart Dungeons](https://modrinth.com/mod/stalwart-dungeons)
 * * [Tips](https://modrinth.com/mod/tips)
 * * [Trading Post](https://modrinth.com/mod/trading-post)
+* [**gri3229**](https://gist.github.com/gri3229): предложил перевод мода [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
