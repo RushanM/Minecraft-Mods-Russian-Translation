@@ -85,35 +85,35 @@ jobs:
 
             # Monifactory
             cd "Сборки/Monifactory/Перевод/"
-            mkdir resourcepacks
+            mkdir -p resourcepacks
             cp ../../../Rus-For-Mods-1.20-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
             zip -r ../../../Monifactory-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
             cd ../../../
-
+        
             # The Ferret Business
             cd "Сборки/The Ferret Business/Перевод/"
-            mkdir resourcepacks
+            mkdir -p resourcepacks
             cp ../../../Rus-For-Mods-1.7-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
             zip -r ../../../The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
             cd ../../../
-
+        
             # GT New Horizons
             cd "Сборки/GT New Horizons/Перевод/"
-            mkdir resourcepacks
+            mkdir -p resourcepacks
             cp ../../../Rus-For-Mods-1.7-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
             zip -r ../../../GTNH-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
             cd ../../../
-
+        
             # All of Fabric 6
             cd "Сборки/All of Fabric 6/Перевод/"
-            mkdir resourcepacks
+            mkdir -p resourcepacks
             cp ../../../Rus-For-Mods-1.19-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
             zip -r ../../../All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
             cd ../../../
 
             # Better MC 4
             cd "Сборки/Better MC 4/Перевод/"
-            mkdir resourcepacks
+            mkdir -p resourcepacks
             cp ../../../Rus-For-Mods-1.20-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
             zip -r ../../../BMC-4-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
             cd ../../../
