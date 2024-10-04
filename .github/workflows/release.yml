@@ -81,22 +81,42 @@ jobs:
             zip -r ../../Rus-For-Mods-$version-A${{ steps.get_latest_release.outputs.next_version }}.zip assets dynamicmcpack.json pack.mcmeta respackopts.json5
             cd ../../
             zip -j -g Rus-For-Mods-$version-A${{ steps.get_latest_release.outputs.next_version }}.zip "Набор ресурсов/pack.png" "Набор ресурсов/peruse_or_bruise.txt"
-          done
-          cd "Сборки/Monifactory/Перевод/"
-          zip -r ../../../Monifactory-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
-          cd ../../../
-          cd "Сборки/The Ferret Business/Перевод/"
-          zip -r ../../../The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
-          cd ../../../
-          cd "Сборки/GT New Horizons/Перевод/"
-          zip -r ../../../GTNH-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
-          cd ../../../
-          cd "Сборки/All of Fabric 6/Перевод/"
-          zip -r ../../../All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
-          cd ../../../
-          cd "Сборки/Better MC 4/Перевод/"
-          zip -r ../../../BMC-4-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
-          cd ../../../
+            done
+
+            # Monifactory
+            cd "Сборки/Monifactory/Перевод/"
+            mkdir resourcepacks
+            cp ../../../Rus-For-Mods-1.20-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
+            zip -r ../../../Monifactory-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+            cd ../../../
+
+            # The Ferret Business
+            cd "Сборки/The Ferret Business/Перевод/"
+            mkdir resourcepacks
+            cp ../../../Rus-For-Mods-1.7-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
+            zip -r ../../../The-Ferret-Business-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+            cd ../../../
+
+            # GT New Horizons
+            cd "Сборки/GT New Horizons/Перевод/"
+            mkdir resourcepacks
+            cp ../../../Rus-For-Mods-1.7-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
+            zip -r ../../../GTNH-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+            cd ../../../
+
+            # All of Fabric 6
+            cd "Сборки/All of Fabric 6/Перевод/"
+            mkdir resourcepacks
+            cp ../../../Rus-For-Mods-1.19-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
+            zip -r ../../../All-Of-Fabric-6-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+            cd ../../../
+
+            # Better MC 4
+            cd "Сборки/Better MC 4/Перевод/"
+            mkdir resourcepacks
+            cp ../../../Rus-For-Mods-1.20-A${{ steps.get_latest_release.outputs.next_version }}.zip resourcepacks/
+            zip -r ../../../BMC-4-Russian-Translation-A${{ steps.get_latest_release.outputs.next_version }}.zip .
+            cd ../../../
 
       - name: Создание тега для выпуска
         id: create_tag
