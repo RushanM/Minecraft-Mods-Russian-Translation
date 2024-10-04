@@ -27,9 +27,7 @@ The Ferret Business переводится на русский язык сила
 
 ### Установка сборки на русском
 
-- Установите сборку со [страницы в CurseForge](https://www.curseforge.com/minecraft/modpacks/the-ferret-business).
-* Скачайте архив с русским переводом The Ferret Business с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
-* Распакуйте архив в папку вашей установки The Ferret Business с заменой файлов
-* Скачайте архив с русским переводом модов с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
-* Разместите архив в папку resourcepacks и включите в игре в меню наборов ресурсов
+* Установите сборку со [страницы в CurseForge](https://www.curseforge.com/minecraft/modpacks/the-ferret-business);
+* Скачайте архив с русским переводом The Ferret Business с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases);
+* Включите русский перевод модов в меню наборов ресурсов;
 * Готово!

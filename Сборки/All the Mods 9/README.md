@@ -6,9 +6,8 @@
 
 ### Установка сборки на русском
 
-* Установите сборку из [страницы выпусков оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/)
-* Скачайте архив с русским переводом All the Mods 9 с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
-* Распакуйте архив в папку вашей установки All the Mods 9 с заменой файлов
-* Скачайте архив с русским переводом модов с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases)
-* Разместите архив в папку resourcepacks и включите в игре в меню наборов ресурсов
+* Установите сборку из [страницы выпусков оригинального репозитория](https://github.com/ThePansmith/Monifactory/releases/);
+* Скачайте архив с русским переводом All the Mods 9 с последнего альфа-выпуска на [странице выпусков этого репозитория](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases);
+* Распакуйте архив в папку вашей установки All the Mods 9 с заменой файлов;
+* Включите русский перевод модов в меню наборов ресурсов;
 * Готово!
