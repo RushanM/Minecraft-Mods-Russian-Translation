@@ -1,6 +1,9 @@
 {
     "minecraft.resource_pack.modsru": "Русифицирует моды и улучшает их перевод",
     "minecraft.resource_pack.modsru.name": "Русский перевод модов",
+    "modmenu.descriptionTranslation.jei": "JEI — это мод для Minecraft, позволяющий просматривать предметы и рецепты. Разработан с нуля для обеспечения высокой стабильности и производительности.",
+    "modmenu.nameTranslation.jei": "Достаточно предметов",
+    "modmenu.summaryTranslation.jei": "Позволяет просматривать предметы и рецепты. Разработан с нуля для обеспечения высокой стабильности и производительности",
     "options.biomeBlendRadius.17": "17×17 (большой)",
     "options.biomeBlendRadius.19": "19×19 (очень большой)",
     "options.biomeBlendRadius.21": "21×21 (огромный)",
