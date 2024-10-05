@@ -106,9 +106,9 @@ jobs:
               proofread = str(row.get('proofread', '')).strip()
               if proofread and proofread not in ['', 'FALSE']:
                   gameVer = str(row.get('gameVer', '')).strip()
-                  mod_name = row.get('name', '').strip()
-                  modrinth_id = row.get('modrinthId', '').strip()
-                  curseforge_id = row.get('curseforgeId', '').strip()
+                  mod_name = str(row.get('name', '')).strip()
+                  modrinth_id = str(row.get('modrinthId', '')).strip()
+                  curseforge_id = str(row.get('curseforgeId', '')).strip()
                   
                   if modrinth_id and modrinth_id.upper() != 'FALSE':
                       # Получаем ссылку на Modrinth
