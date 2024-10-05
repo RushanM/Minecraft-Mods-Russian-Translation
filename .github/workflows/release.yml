@@ -78,6 +78,7 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        shell: python
         run: |
           import os
           import json
