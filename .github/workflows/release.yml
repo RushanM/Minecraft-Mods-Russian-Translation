@@ -1,16 +1,6 @@
 name: Мастер выпусков
 
 on:
-  push:
-    branches:
-      - beta
-    paths:
-      - 'Набор ресурсов/**'
-  pull_request:
-    branches:
-      - beta
-    paths:
-      - 'Набор ресурсов/**'
   workflow_dispatch:
 
 jobs:
@@ -22,6 +12,14 @@ jobs:
       - name: Клонирование репозитория
         uses: actions/checkout@v2
 
+      - name: Установка Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' 
+
+      - name: Установка зависимостей
+        run: pip install gspread oauth2client requests
+
       - name: Установка утилиты ZIP
         run: sudo apt-get install -y zip
 
@@ -31,6 +29,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const fs = require('fs');
             const token = core.getInput("github-token");
             const headers = {
               "Authorization": `token ${token}`,
@@ -46,28 +45,105 @@ jobs:
             console.log('Выпуски:', releases);
 
             let next_version;
+            let prev_version;
             if (releases.length === 0) {
               next_version = 1;
+              prev_version = 0;
             } else {
-              const latestRelease = releases
+              const betaReleases = releases
                 .filter(release => release.tag_name.startsWith('b'))
                 .map(release => parseInt(release.tag_name.replace('b', ''), 10))
                 .filter(version => !isNaN(version))
-                .sort((a, b) => b - a)[0];
+                .sort((a, b) => b - a);
 
-            console.log('Отфильтрованные выпуски:', releases.filter(release => release.tag_name.startsWith('b')));
-            console.log('Последняя выпущенная версия:', latestRelease);
+              console.log('Отфильтрованные бета-выпуски:', betaReleases);
 
-              if (latestRelease) {
-                next_version = latestRelease + 1;
+              if (betaReleases.length > 0) {
+                prev_version = betaReleases[0];
+                next_version = prev_version + 1;
               } else {
+                prev_version = 0;
                 next_version = 1;
               }
             }
 
+            console.log('Предыдущая версия:', prev_version);
             console.log('Следующая версия:', next_version);
 
-            core.setOutput('next_version', next_version);
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `next_version=${next_version}\n`);
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `prev_version=${prev_version}\n`);
+
+      - name: Генерация списка модов для каждого выпуска
+        id: generate_mod_list
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        run: |
+          import os
+          import json
+          import re
+          import gspread
+          from oauth2client.service_account import ServiceAccountCredentials
+          import requests
+
+          service_account_info = json.loads(os.environ['GOOGLE_SERVICE_ACCOUNT_KEY'])
+          
+          scopes = ['https://www.googleapis.com/auth/spreadsheets.readonly']
+          creds = ServiceAccountCredentials.from_json_keyfile_dict(service_account_info, scopes)
+          client = gspread.authorize(creds)
+          
+          sheet_id = '1kGGT2GGdG_Ed13gQfn01tDq2MZlVOC9AoiD1s3SDlZE'
+          sheet = client.open_by_key(sheet_id)
+          worksheet = sheet.sheet1
+          
+          data = worksheet.get_all_records()
+          
+          from collections import defaultdict
+
+          mod_lists = defaultdict(list)
+          for row in data:
+              proofread = str(row.get('proofread', '')).strip()
+              if proofread and proofread not in ['', 'FALSE']:
+                  gameVer = str(row.get('gameVer', '')).strip()
+                  mod_name = row.get('name', '').strip()
+                  modrinth_id = row.get('modrinthId', '').strip()
+                  curseforge_id = row.get('curseforgeId', '').strip()
+                  
+                  if modrinth_id and modrinth_id.upper() != 'FALSE':
+                      # Получаем ссылку на Modrinth
+                      response = requests.get(f'https://api.modrinth.com/v2/project/{modrinth_id}')
+                      if response.status_code == 200:
+                          mod_data = response.json()
+                          mod_url = mod_data.get('url', f'https://modrinth.com/mod/{modrinth_id}')
+                      else:
+                          mod_url = f'https://modrinth.com/mod/{modrinth_id}'
+                  elif curseforge_id and curseforge_id.upper() != 'FALSE':
+                      # Получаем ссылку на CurseForge
+                      API_KEY = os.environ.get('CF_API_KEY')
+                      headers = {
+                          'Accept': 'application/json',
+                          'x-api-key': API_KEY
+                      }
+                      response = requests.get(f'https://api.curseforge.com/v1/mods/{curseforge_id}', headers=headers)
+                      if response.status_code == 200:
+                          mod_data = response.json().get('data', {})
+                          mod_url = mod_data.get('links', {}).get('websiteUrl', f'https://www.curseforge.com/minecraft/mc-mods/{curseforge_id}')
+                      else:
+                          mod_url = f'https://www.curseforge.com/minecraft/mc-mods/{curseforge_id}'
+                  else:
+                      mod_url = '' # Надлежащего идентификатора нет, получить ссылку невозможно
+                  
+                  mod_entry = f'* [{mod_name}]({mod_url})' if mod_url else f'* {mod_name}'
+                  mod_lists[gameVer].append(mod_entry)
+
+          # Устанавливаем выводы
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as gh_out:
+              for gameVer, mods in mod_lists.items():
+                  mod_list_str = '\n'.join(mods)
+                  output_name = f'mod_list_{gameVer.replace(".", "_").replace("-", "_")}'
+                  gh_out.write(f'{output_name}<<EOF\n')
+                  gh_out.write(f'{mod_list_str}\n')
+                  gh_out.write('EOF\n')
 
       - name: Создание архивов выпусков для каждой из версий игр
         run: |
@@ -91,7 +167,7 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v2
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           body: |
             Это автоматический бета-выпуск всех переводов проекта. В отличие от альфа-выпуска, качество переводов здесь значительно выше, поскольку включены только те переводы, чьё качество достигло достаточно высокого уровня. Однако из-за этого охваченный спектр модов, сборок модов и наборов шейдеров значительно уже.
@@ -102,85 +178,16 @@ jobs:
           draft: false
           prerelease: true
 
-      - name: Загрузка архива ветки 1.7 в выпуск
-        uses: actions/upload-release-asset@v1
+      - name: Загрузка архивов в выпуск
+        run: |
+          for version in 1.7 1.12 1.16 1.17 1.18 1.19 1.20 1.21; do
+            asset_path="./Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip"
+            asset_name="Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip"
+            echo "Uploading $asset_name"
+            gh release upload b${{ steps.get_latest_release.outputs.next_version }} "$asset_path" --clobber
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.7-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.7-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.12 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.12-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.12-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.16 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.16-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.17 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.17-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.17-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.18 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.18-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.18-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.19 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.19-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.19-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.20 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.20-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.20-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
-
-      - name: Загрузка архива ветки 1.21 в выпуск
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_name: Rus-For-Mods-1.21-B${{ steps.get_latest_release.outputs.next_version }}.zip
-          asset_content_type: application/zip
 
       - name: Публикация 1.7 на CurseForge и Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
@@ -202,17 +209,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Adventure Backpack](https://www.curseforge.com/minecraft/mc-mods/adventure-backpack)
-            * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
-            * [Aroma1997Core](https://curseforge.com/minecraft/mc-mods/aroma1997core)
-            * [AromaBackup](https://www.curseforge.com/minecraft/mc-mods/aromabackup)
-            * [Better Loading Screen GTNH](https://github.com/GTNewHorizons/BetterLoadingScreen)
-            * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
-            * [Right Proper Lighting Engine](https://modrinth.com/mod/rple)
-            * [Tails](https://www.curseforge.com/minecraft/mc-mods/tails)
-            * [The Aether II](https://modrinth.com/mod/aether-ii)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_7 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.7 <1.8
@@ -238,12 +237,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
-            * [Aqua Creepers!](https://www.curseforge.com/minecraft/mc-mods/aqua-creepers)
-            * [Aroma1997Core](https://curseforge.com/minecraft/mc-mods/aroma1997core)
-            * [SCP Lockdown Extras](https://www.curseforge.com/minecraft/mc-mods/scp-lockdown-extras)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_12 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.12 <1.13
@@ -269,23 +265,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
-            * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
-            * [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
-            * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
-            * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
-            * [Ancient Warfare Legacy](https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-legacy)
-            * [AppleSkin](https://modrinth.com/mod/appleskin)
-            * [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
-            * [Chat Heads](https://modrinth.com/mod/chat-heads)
-            * [Fabric](https://fabricmc.net/)
-            * [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
-            * [Lucky Block](https://www.curseforge.com/minecraft/mc-mods/lucky-block)
-            * [Minecraft Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
-            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
-            * [Trading Post](https://modrinth.com/mod/trading-post)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_16 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.16 <1.17
@@ -313,12 +295,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
-            * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
-            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
-            * [Trading Post](https://modrinth.com/mod/trading-post)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_17 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.17 <1.18
@@ -347,14 +326,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
-            * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
-            * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
-            * [Alex's Delights](https://www.curseforge.com/minecraft/mc-mods/alexs-delights)
-            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
-            * [Trading Post](https://modrinth.com/mod/trading-post)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_18 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.18 <1.19
@@ -383,18 +357,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Actually Useful Smithing Table](https://modrinth.com/mod/actually-useful-smithing-table)
-            * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
-            * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
-            * [Bartering Station](https://modrinth.com/mod/bartering-station)
-            * [ParCool!](https://modrinth.com/mod/parcool)
-            * [Sawmill](https://modrinth.com/mod/universal-sawmill)
-            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
-            * [Sodium](https://modrinth.com/mod/sodium)
-            * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-            * [Trading Post](https://modrinth.com/mod/trading-post)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_19 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.19 <1.20
@@ -424,22 +389,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Absent by Design]()
-            * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
-            * [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight)
-            * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
-            * [Bartering Station](https://modrinth.com/mod/bartering-station)
-            * [ParCool!](https://modrinth.com/mod/parcool)
-            * [Patchouli](https://modrinth.com/mod/patchouli)
-            * [Sawmill](https://modrinth.com/mod/universal-sawmill)
-            * [Serene Seasons Fix](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix)
-            * [Sodium](https://modrinth.com/mod/sodium)
-            * [Spawners+](https://modrinth.com/mod/spawners_plus)
-            * [Trading Post](https://modrinth.com/mod/trading-post)
-            * [Trofers](https://modrinth.com/mod/trofers)
-            * [Xenon](https://modrinth.com/mod/xenon-forge)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_20 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.20 <1.21
@@ -469,27 +421,9 @@ jobs:
 
             Эта бета-версия включает переводы следующих модов:
 
-            * [Accessories](https://modrinth.com/mod/accessories)
-            * [Advancement Frames](https://modrinth.com/mod/advancement-frames)
-            * [Alex's Caves Delight](https://modrinth.com/mod/alexs-caves-delight)
-            * [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
-            * [All the Ores](https://www.curseforge.com/minecraft/mc-mods/ato)
-            * [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals)
-            * [Bartering Station](https://modrinth.com/mod/bartering-station)
-            * [Fabric Registry Sync](https://fabricmc.net/)
-            * [Fabric Resource Loader](https://fabricmc.net/)
-            * [Fabric](https://fabricmc.net/)
-            * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
-            * [Iris Shaders](https://modrinth.com/mod/iris)
-            * [Patchouli](https://modrinth.com/mod/patchouli)
-            * [Sawmill](https://modrinth.com/mod/universal-sawmill)
-            * [Sodium](https://modrinth.com/mod/sodium)
-            * [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
-            * [Trading Post](https://modrinth.com/mod/trading-post)
-            * [Trofers](https://modrinth.com/mod/trofers)
-            * [Xenon](https://modrinth.com/mod/xenon-forge)
+            ${{ steps.generate_mod_list.outputs.mod_list_1_21 }}
 
-            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b5...b6
+            Список изменений: https://github.com/RushanM/Minecraft-Mods-Russian-Translation/compare/b${{ steps.get_latest_release.outputs.prev_version }}...b${{ steps.get_latest_release.outputs.next_version }}
           loaders: minecraft
           game-versions: |
             >=1.21 <1.22
