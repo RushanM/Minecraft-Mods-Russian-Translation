@@ -1,6 +1,8 @@
 name: Обновление README
 
 on:
+  schedule:
+    - cron: '0 0 * * *' # Ежедневно в 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -11,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Установки Python 3.12
+      - name: Установка Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -25,7 +27,7 @@ jobs:
       - name: Запуск сценария обновления
         env:
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
-          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+          CFCORE_API_TOKEN: ${{ secrets.CFCORE_API_TOKEN }}
         run: |
           python '.github/py/update_readme.py'
 
@@ -37,7 +39,7 @@ jobs:
           git commit -m "Обновление таблицы востребованных модов" || echo "Изменений нет"
 
       - name: Отправка изменений
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
