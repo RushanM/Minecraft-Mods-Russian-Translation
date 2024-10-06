@@ -1,8 +1,6 @@
 name: Обновление README
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Ежедневно в 00:00 UTC
   workflow_dispatch:
 
 jobs:
