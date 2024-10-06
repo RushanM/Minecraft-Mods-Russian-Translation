@@ -82,9 +82,9 @@ def fetch_mod_icon_and_link(mod_entry):
     elif curseforge_id and curseforge_id.lower() != 'false':
         # Используем CurseForge API
         print(f"Смотрим мод {name}, идентификатор у него: {curseforge_id}")
-        api_key = os.environ.get('CF_API_KEY')
+        api_key = os.environ.get('CFCORE_API_TOKEN')
         if not api_key:
-            print('CF_API_KEY не установлен.')
+            print('CFCORE_API_TOKEN не установлен.')
         else:
             headers = {'x-api-key': api_key}
             curseforge_api_url = f'https://api.curseforge.com/v1/mods/{curseforge_id}'
