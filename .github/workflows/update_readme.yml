@@ -1,0 +1,44 @@
+name: Обновление README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Ежедневно в 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+- name: Установки Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Установка зависимостей
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+          pip install requests
+
+- name: Запуск сценария обновления
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+        run: |
+          python '.github/py/update_readme.py'
+
+      - name: Произведение изменений
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Обновление таблицы востребованных модов" || echo "Изменений нет"
+
+      - name: Отправка изменений
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

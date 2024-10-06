@@ -2,26 +2,28 @@
 
 Добро пожаловать на ветку **`alpha`**. Эта среда предназначена для внесения изменений в проект. Все сторонние pull requests должны направляться сюда. Как переводы достигают определённого качества и завершённости, они попадают на ветку **`beta`**.
 
-## Моды
+## Моды востребованные для перевода
+
+Люди больше всего просят перевести эти моды, но они до сих пор не переведены из-за размеров перевода. Если вы нашли в себе силы и имеете достаточно опыта, можете взяться за них.
+
+<div align=center>
+
+| Значок | Описание |
+| :-: | :-: |
+| <img width=80 height=80  src="https://cdn.modrinth.com/data/zaRGNexp/035ba5c471850838ead4165e608eaa3c8cc23cbf_96.webp"> | <big>**[Mana and Artifice](https://modrinth.com/mod/mana-and-artifice)**</big><br>1.20.1<br>*4 просьбы* |
+| <img width=80 height=80  src="https://media.forgecdn.net/avatars/thumbnails/402/542/256/256/637610431428972029.png"> | <big>**[The Abyss II - The Other Side](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)**</big><br>1.20.1<br>*3 просьбы* |
+| <img width=80 height=80  src="https://media.forgecdn.net/avatars/thumbnails/828/829/256/256/638216770970287112.png"> | <big>**[Feywild](https://www.curseforge.com/minecraft/mc-mods/feywild)**</big><br>1.20.1<br>*2 просьбы* |
+| <img width=80 height=80  src="https://cdn.modrinth.com/data/KInV2LZC/8449574f083e1f06616b8dce6c2930f4feef82cf_96.webp"> | <big>**[Epic Stats Remastered](https://www.curseforge.com/minecraft/mc-mods/feywild)**</big><br>1.20.1<br>*2 просьбы* |
+
+</div>
+
+## Переводимые моды
 
 <details>
 <summary>Раскрыть список</summary>
 <br>
 
 | Версия игры | Статус перевода | Идентификатор | Мод | Версия мода |
-| - | - | - | - | - |
-| 1.7 | Не готов | aether_legacy | The Aether | 1.1.2.3 |
-| 1.7 | Не готов | agricraft | AgriCraft | 1.5 |
-| 1.7 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.4.115 Full |
-| 1.7 | Не готов | minecraft | Industrial Craft | 2-2.2.827-experimental |
-| 1.7 | Переведён | adventurebackpack | Adventure Backpack | Beta-0.8c |
-| 1.7 | Переведён | aether | The Aether II | Festive Update - 1.6 |
-| 1.7 | Переведён | aroma1997core | Aroma1997Core | 1.0.2.16 |
-| 1.7 | Переведён | aromabackup | AromaBackup | 0.1.0 |
-| 1.7 | Переведён | aromabackuprecovery | AromaBackup | 0.1.0 |
-| 1.7 | Переведён | betterloadingscreen | Better Loading Screen GTNH | 1.6.1 |
-| 1.7 | … | … | … | … |
-| 1.12 | Не готов | aether_legacy | The Aether | 1.5.4 |
 | 1.12 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.7.0.1038 |
 | 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod | 6.3.2 |
 | 1.12 | Не готов | ic2 | Industrial Craft | 2-2.8.222-ex112 |
