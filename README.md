@@ -10,10 +10,10 @@
 
 | Значок | Описание |
 | :-: | :-: |
-| <img width=80 height=80 src="https://cdn.modrinth.com/data/zaRGNexp/035ba5c471850838ead4165e608eaa3c8cc23cbf_96.webp"> | <big>**[Mana and Artifice](https://modrinth.com/mod/zaRGNexp)**</big><br>1.20.1<br>*4 просьбы* |
+| <img width=80 height=80 src="https://cdn.modrinth.com/data/zaRGNexp/035ba5c471850838ead4165e608eaa3c8cc23cbf_96.webp"> | <big>**[Mana and Artifice](https://modrinth.com/mod/zaRGNexp)**</big><br>1.20.1<br>*8 просьбы* |
+|  | <big>**Apotheosis**</big><br>1.12.2<br>*3 просьбы* |
+| <img width=80 height=80 src="https://cdn.modrinth.com/data/PbNc6qBY/4662cc0de2f217742fe0b257ed9398244d9e298a_96.webp"> | <big>**[Blood Magic](https://modrinth.com/mod/PbNc6qBY)**</big><br>1.20.1<br>*3 просьбы* |
 |  | <big>**The Abyss II - The Other Side**</big><br>1.16.5<br>*3 просьбы* |
-| <img width=80 height=80 src="https://cdn.modrinth.com/data/KInV2LZC/8449574f083e1f06616b8dce6c2930f4feef82cf_96.webp"> | <big>**[Epic Stats Remastered](https://modrinth.com/mod/KInV2LZC)**</big><br>1.20.1<br>*2 просьбы* |
-| <img width=80 height=80 src="https://cdn.modrinth.com/data/PbNc6qBY/4662cc0de2f217742fe0b257ed9398244d9e298a_96.webp"> | <big>**[Blood Magic](https://modrinth.com/mod/PbNc6qBY)**</big><br>1.20.1<br>*2 просьбы* |
 
 </div>
 
