@@ -91,7 +91,7 @@ def fetch_mod_icon_and_link(mod_entry):
             response = requests.get(curseforge_api_url, headers=headers)
             if response.status_code == 200:
                 mod_data = response.json()['data']
-                icon_url = mod_data.get('logo', {}).get('thumbnailUrl', '')
+                icon_url = mod_data.get('logo', {}).get('url', '')
                 mod_link = mod_data.get('links', {}).get('websiteUrl', '')
             else:
                 print(f'Не удалось получить данные {name} с CurseForge')
@@ -118,7 +118,12 @@ def generate_mods_table(top_mods, data):
         icon_url, mod_link = fetch_mod_icon_and_link(mod_entry)
         game_ver = mod_entry.get('gameVer', '')
         # Подготовка строки таблицы
-        icon_html = f'<img width=80 height=80 src="{icon_url}">' if icon_url else ''
+        # Проверяем, используется ли значок с Modrinth
+        if icon_url and 'modrinth' in icon_url:
+            icon_html = f'<img width=80 height=80 src="{icon_url}">'
+        else:
+            # Используем запасной значок
+            icon_html = f'<img width=80 height=80 src="Ассеты\curseforge_mod_vector.svg">'
         mod_link_html = f'**[{mod_name}]({mod_link})**' if mod_link else f'**{mod_name}**'
         prosba_form = decline_prosba(request_count)
         table_cell = f'<big>{mod_link_html}</big><br>{game_ver}<br>*{request_count} {prosba_form}*'
