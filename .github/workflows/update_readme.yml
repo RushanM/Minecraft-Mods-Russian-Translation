@@ -24,8 +24,8 @@ jobs:
 
       - name: Запуск сценария обновления
         env:
-        GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
-        CF_API_KEY: ${{ secrets.CF_API_KEY }}
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
         run: |
           python '.github/py/update_readme.py'
 
