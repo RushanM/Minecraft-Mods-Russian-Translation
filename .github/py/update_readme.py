@@ -91,6 +91,17 @@ def fetch_mod_icon_and_link(mod_entry):
         print(f'У {name} нет ни верного modrinthId ни верного curseforgeId')
     return icon_url, mod_link
 
+def decline_prosba(n):
+    n = abs(int(n))
+    n_mod_10 = n % 10
+    n_mod_100 = n % 100
+    if n_mod_10 == 1 and n_mod_100 != 11:
+        return "просьба"
+    elif n_mod_10 in [2, 3, 4] and n_mod_100 not in [12, 13, 14]:
+        return "просьбы"
+    else:
+        return "просьб"
+
 def generate_mods_table(top_mods, data):
     table_rows = []
     for mod_name, request_count in top_mods:
@@ -100,7 +111,8 @@ def generate_mods_table(top_mods, data):
         # Подготовка строки таблицы
         icon_html = f'<img width=80 height=80 src="{icon_url}">' if icon_url else ''
         mod_link_html = f'**[{mod_name}]({mod_link})**' if mod_link else f'**{mod_name}**'
-        table_cell = f'<big>{mod_link_html}</big><br>{game_ver}<br>*{request_count} просьбы*'
+        prosba_form = decline_prosba(request_count)
+        table_cell = f'<big>{mod_link_html}</big><br>{game_ver}<br>*{request_count} {prosba_form}*'
         table_rows.append(f'| {icon_html} | {table_cell} |')
     return table_rows
 
