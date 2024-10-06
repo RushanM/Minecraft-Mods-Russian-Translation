@@ -12,23 +12,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-- name: Установки Python 3.12
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Установки Python 3.12
+              uses: actions/setup-python@v5
+              with:
+                python-version: '3.12'
 
-      - name: Установка зависимостей
-        run: |
-          python -m pip install --upgrade pip
-          pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-          pip install requests
+            - name: Установка зависимостей
+              run: |
+                python -m pip install --upgrade pip
+                pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+                pip install requests
 
-- name: Запуск сценария обновления
-        env:
-          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
-          CF_API_KEY: ${{ secrets.CF_API_KEY }}
-        run: |
-          python '.github/py/update_readme.py'
+      - name: Запуск сценария обновления
+              env:
+                GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+                CF_API_KEY: ${{ secrets.CF_API_KEY }}
+              run: |
+                python '.github/py/update_readme.py'
 
       - name: Произведение изменений
         run: |
