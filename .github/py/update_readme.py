@@ -52,8 +52,15 @@ def get_top_mods(counter):
 
 def get_mod_info(mod_name, data):
     mod_entries = [row for row in data if row['name'] == mod_name]
-    # Берём первое вхождение для получения modrinthId, curseforgeId, gameVer
-    mod_entry = mod_entries[0]
+    # Собираем все версии игры
+    game_versions = [row.get('gameVer', '') for row in mod_entries]
+    # Определяем наиболее частую версию игры
+    game_ver_counter = Counter(game_versions)
+    most_common_game_ver = game_ver_counter.most_common(1)[0][0] if game_ver_counter else ''
+    # Берём первую запись для получения modrinthId, curseforgeId
+    mod_entry = mod_entries[0].copy()
+    # Обновляем `gameVer` на наиболее частую
+    mod_entry['gameVer'] = most_common_game_ver
     return mod_entry
 
 def fetch_mod_icon_and_link(mod_entry):
@@ -74,6 +81,7 @@ def fetch_mod_icon_and_link(mod_entry):
             print(f'Не удалось получить данные {name} с Modrinth')
     elif curseforge_id and curseforge_id.lower() != 'false':
         # Используем CurseForge API
+        print(f"Смотрим мод {name}, идентификатор у него: {curseforge_id}")
         api_key = os.environ.get('CF_API_KEY')
         if not api_key:
             print('CF_API_KEY не установлен.')
@@ -87,6 +95,7 @@ def fetch_mod_icon_and_link(mod_entry):
                 mod_link = mod_data.get('links', {}).get('websiteUrl', '')
             else:
                 print(f'Не удалось получить данные {name} с CurseForge')
+                print(f"Состояние HTTP: {response.status_code}, ответ получен такой: {response.text}")
     else:
         print(f'У {name} нет ни верного modrinthId ни верного curseforgeId')
     return icon_url, mod_link
