@@ -10,10 +10,10 @@
 
 | Значок | Описание |
 | :-: | :-: |
-| <img width=80 height=80  src="https://cdn.modrinth.com/data/zaRGNexp/035ba5c471850838ead4165e608eaa3c8cc23cbf_96.webp"> | <big>**[Mana and Artifice](https://modrinth.com/mod/mana-and-artifice)**</big><br>1.20.1<br>*4 просьбы* |
-| <img width=80 height=80  src="https://media.forgecdn.net/avatars/thumbnails/402/542/256/256/637610431428972029.png"> | <big>**[The Abyss II - The Other Side](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)**</big><br>1.20.1<br>*3 просьбы* |
-| <img width=80 height=80  src="https://media.forgecdn.net/avatars/thumbnails/828/829/256/256/638216770970287112.png"> | <big>**[Feywild](https://www.curseforge.com/minecraft/mc-mods/feywild)**</big><br>1.20.1<br>*2 просьбы* |
-| <img width=80 height=80  src="https://cdn.modrinth.com/data/KInV2LZC/8449574f083e1f06616b8dce6c2930f4feef82cf_96.webp"> | <big>**[Epic Stats Remastered](https://www.curseforge.com/minecraft/mc-mods/feywild)**</big><br>1.20.1<br>*2 просьбы* |
+|  | <big>**Mana and Artifice**</big><br>1.20.1<br>*4 просьбы* |
+|  | <big>**The Abyss II - The Other Side**</big><br>1.16.5<br>*3 просьбы* |
+|  | <big>**Epic Stats Remastered**</big><br>1.20.1<br>*2 просьбы* |
+|  | <big>**Blood Magic**</big><br>1.20.1<br>*2 просьбы* |
 
 </div>
 
