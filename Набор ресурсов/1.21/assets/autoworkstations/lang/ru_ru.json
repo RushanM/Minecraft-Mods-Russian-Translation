@@ -31,7 +31,7 @@
   "block.autoworkstations.iron_auto_furnace": "Железная автопечь",
   "block.autoworkstations.iron_auto_furnace.tooltip": "Может накапливать опыт, полученный при плавке предметов.",
   "block.autoworkstations.netherite_auto_crafting_table": "Незеритовый автоматический верстак",
-  "block.autoworkstations.netherite_auto_crafting_table.tooltip": "Может автоматически создавать до стака предметов за раз.",
+  "block.autoworkstations.netherite_auto_crafting_table.tooltip": "Может автоматически создавать до стопки предметов за раз.",
   "block.autoworkstations.redstone_to_enable.tooltip": "Мощность с красным камнем для активации",
   "gui.autoworkstations.auto_anvil.mode.rename": "Переименовать",
   "gui.autoworkstations.auto_anvil.mode.rename.tooltip_1": "Примените имя предмета во втором слоте к предмету в первом.",

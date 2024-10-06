@@ -9,6 +9,8 @@
               "modification",
               "hybrid"
             ],
+            removeEllipsis: false,
+            fixAftercolonWordsCase: false,
             translateModNames: false,
             translateModNamesOnAdvancements: false,
             translateJokes: true,
