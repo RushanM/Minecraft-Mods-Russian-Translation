@@ -52,8 +52,15 @@ def get_top_mods(counter):
 
 def get_mod_info(mod_name, data):
     mod_entries = [row for row in data if row['name'] == mod_name]
-    # Берём первое вхождение для получения modrinthId, curseforgeId, gameVer
-    mod_entry = mod_entries[0]
+    # Собираем все версии игры
+    game_versions = [row.get('gameVer', '') for row in mod_entries]
+    # Определяем наиболее частую версию игры
+    game_ver_counter = Counter(game_versions)
+    most_common_game_ver = game_ver_counter.most_common(1)[0][0] if game_ver_counter else ''
+    # Берём первую запись для получения modrinthId, curseforgeId
+    mod_entry = mod_entries[0].copy()
+    # Обновляем `gameVer` на наиболее частую
+    mod_entry['gameVer'] = most_common_game_ver
     return mod_entry
 
 def fetch_mod_icon_and_link(mod_entry):
@@ -74,9 +81,10 @@ def fetch_mod_icon_and_link(mod_entry):
             print(f'Не удалось получить данные {name} с Modrinth')
     elif curseforge_id and curseforge_id.lower() != 'false':
         # Используем CurseForge API
-        api_key = os.environ.get('CF_API_KEY')
+        print(f"Смотрим мод {name}, идентификатор у него: {curseforge_id}")
+        api_key = os.environ.get('CFCORE_API_TOKEN')
         if not api_key:
-            print('CF_API_KEY не установлен.')
+            print('CFCORE_API_TOKEN не установлен.')
         else:
             headers = {'x-api-key': api_key}
             curseforge_api_url = f'https://api.curseforge.com/v1/mods/{curseforge_id}'
@@ -87,9 +95,21 @@ def fetch_mod_icon_and_link(mod_entry):
                 mod_link = mod_data.get('links', {}).get('websiteUrl', '')
             else:
                 print(f'Не удалось получить данные {name} с CurseForge')
+                print(f"Состояние HTTP: {response.status_code}, ответ получен такой: {response.text}")
     else:
         print(f'У {name} нет ни верного modrinthId ни верного curseforgeId')
     return icon_url, mod_link
+
+def decline_prosba(n):
+    n = abs(int(n))
+    n_mod_10 = n % 10
+    n_mod_100 = n % 100
+    if n_mod_10 == 1 and n_mod_100 != 11:
+        return "просьба"
+    elif n_mod_10 in [2, 3, 4] and n_mod_100 not in [12, 13, 14]:
+        return "просьбы"
+    else:
+        return "просьб"
 
 def generate_mods_table(top_mods, data):
     table_rows = []
@@ -98,9 +118,15 @@ def generate_mods_table(top_mods, data):
         icon_url, mod_link = fetch_mod_icon_and_link(mod_entry)
         game_ver = mod_entry.get('gameVer', '')
         # Подготовка строки таблицы
-        icon_html = f'<img width=80 height=80 src="{icon_url}">' if icon_url else ''
+        # Проверяем, используется ли значок с Modrinth
+        if icon_url and 'modrinth' in icon_url:
+            icon_html = f'<img width=80 height=80 src="{icon_url}">'
+        else:
+            # Используем запасной значок
+            icon_html = f'<img width=80 height=80 src="Ассеты/curseforge_mod_vector.svg">'
         mod_link_html = f'**[{mod_name}]({mod_link})**' if mod_link else f'**{mod_name}**'
-        table_cell = f'<big>{mod_link_html}</big><br>{game_ver}<br>*{request_count} просьбы*'
+        prosba_form = decline_prosba(request_count)
+        table_cell = f'<big>{mod_link_html}</big><br>{game_ver}<br>*{request_count} {prosba_form}*'
         table_rows.append(f'| {icon_html} | {table_cell} |')
     return table_rows
 
