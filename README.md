@@ -1,16 +1,16 @@
 # Русский перевод модификаций Minecraft от Дефлекты
 
 <div align="center">
-    <img title="В будущем заменю эту картинку" src="Разное/preview2.png">
+    <img title="В будущем заменю эту картинку" src="Ассеты/preview2.png">
     <br>
     <br>
-    <img title="Никак не связано с «Фаргус Мультимедия». Это просто добрая отсылка. Я работаю над переводами один с 2020 года, лишь изредка получая помощь от народа (хотелось бы, конечно, больше вклада от Интернета, но имеем, что имеем)." src="Разное/fargus_cozy_vector.svg" height="55">
-    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Разное/dynamicpack_cozy_vector.svg" height="55"></a>
-    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Разное/brps_cozy_vector.svg" height="55"></a>
+    <img title="Никак не связано с «Фаргус Мультимедия». Это просто добрая отсылка. Я работаю над переводами один с 2020 года, лишь изредка получая помощь от народа (хотелось бы, конечно, больше вклада от Интернета, но имеем, что имеем)." src="Ассеты/fargus_cozy_vector.svg" height="55">
+    <a href="https://modrinth.com/mod/dynamicpack"><img title="Хороший мод, хороший разработчик ❤️" src="Ассеты/dynamicpack_cozy_vector.svg" height="55"></a>
+    <a href="https://modrinth.com/mod/better-resource-pack-sorting"><img title="Очень удобный мод" src="Ассеты/brps_cozy_vector.svg" height="55"></a>
     <br>
     <br>
     <!--<a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D1%81-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%BE%D0%BC">
-        <img height="38" src="Разное/translate.svg">
+        <img height="38" src="Ассеты/translate.svg">
     </a>-->
 </div>
 
@@ -294,18 +294,18 @@
 Скачать набор ресурсов можно [здесь в GitHub со списка выпусков](https://github.com/RushanM/Minecraft-Mods-Russian-Translation/releases) или со следующих сайтов:
 <div align="center">
 <a href="https://modrinth.com/resourcepack/mods-ru">
-    <img height="35" src="Разное/modrinth_compact_vector.svg">
+    <img height="35" src="Ассеты/modrinth_compact_vector.svg">
 </a>
 <a href="https://www.curseforge.com/minecraft/texture-packs/mods-ru">
-    <img height="35" src="Разное/curseforge_compact_vector.svg">
+    <img height="35" src="Ассеты/curseforge_compact_vector.svg">
 <a href="https://www.planetminecraft.com/texture-pack/mods-russian-translation-6270800/">
-    <img height="35" src="Разное/planet_compact_vector.svg">
+    <img height="35" src="Ассеты/planet_compact_vector.svg">
 </a>
 <a href="https://ru-minecraft.ru/fayly-dlya-minecraft/79004-mods-ru.html">
-    <img height="35" src="Разное/rumc_compact_vector.svg">
+    <img height="35" src="Ассеты/rumc_compact_vector.svg">
 </a>
 <a href="https://vk.com/demipr">
-    <img height="35" src="Разное/vk_compact_vector.svg">
+    <img height="35" src="Ассеты/vk_compact_vector.svg">
 </a>
 </a>
 </div>
@@ -331,7 +331,7 @@
 
 Чтобы набор имел возможность изменять перевод модов, он должен стоять выше набора ресурсов модов. Например, у Fabric он называется «Моды Fabric» (Fabric Mods).
 <div align="center">
-    <img title="Хаос, хаос!? Нет, нет! Порядок, порядок!" height="250" src="Разное/order_v3.png">
+    <img title="Хаос, хаос!? Нет, нет! Порядок, порядок!" height="250" src="Ассеты/order_v3.png">
 </div>
 
 ### 🔁 Моды-расширения
