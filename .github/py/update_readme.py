@@ -91,7 +91,7 @@ def fetch_mod_icon_and_link(mod_entry):
             response = requests.get(curseforge_api_url, headers=headers)
             if response.status_code == 200:
                 mod_data = response.json()['data']
-                icon_url = mod_data.get('logo', {}).get('url', '')
+                icon_url = mod_data.get('logo', {}).get('thumbnailUrl', '')
                 mod_link = mod_data.get('links', {}).get('websiteUrl', '')
             else:
                 print(f'Не удалось получить данные {name} с CurseForge')
