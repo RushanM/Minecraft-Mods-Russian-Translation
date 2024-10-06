@@ -123,7 +123,7 @@ def generate_mods_table(top_mods, data):
             icon_html = f'<img width=80 height=80 src="{icon_url}">'
         else:
             # Используем запасной значок
-            icon_html = f'<img width=80 height=80 src="Ассеты\curseforge_mod_vector.svg">'
+            icon_html = f'<img width=80 height=80 src="Ассеты/curseforge_mod_vector.svg">'
         mod_link_html = f'**[{mod_name}]({mod_link})**' if mod_link else f'**{mod_name}**'
         prosba_form = decline_prosba(request_count)
         table_cell = f'<big>{mod_link_html}</big><br>{game_ver}<br>*{request_count} {prosba_form}*'
