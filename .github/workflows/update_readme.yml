@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Установки Python 3.12
+      - name: Установка Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -39,7 +39,7 @@ jobs:
           git commit -m "Обновление таблицы востребованных модов" || echo "Изменений нет"
 
       - name: Отправка изменений
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
