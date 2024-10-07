@@ -1,4 +1,0 @@
-{
-  "condition": "modsWordStyle == 'mod'",
-  "fallback": "assets/cloth-config2/lang/respackopts/ru_ru_hybrid.json"
-}

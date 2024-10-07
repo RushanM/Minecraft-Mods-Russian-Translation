@@ -1,4 +1,12 @@
 {
-  "condition": "modsWordStyle == 'hybrid'",
-  "fallback": "assets/cloth-config2/lang/respackopts/ru_ru_hybrid.json"
+    "expansions": {
+        "content": "
+            baseLang = fromJson(readString('assets/cloth-config2/lang/ru_ru_base.json'));
+            styleLang = fromJson(readString('assets/cloth-config2/lang/' || modsru.modsWordStyle || '.json'));
+            modNamesLang = fromJson(readString('assets/cloth-config2/lang/' || (modsru.translateModNames ? 'modNames_ru.json' : 'modNames_en.json')));
+            
+            mergedLang = baseLang + styleLang + modNamesLang;
+            toJson(mergedLang)
+        "
+    }
 }

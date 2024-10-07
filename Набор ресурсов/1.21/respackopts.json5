@@ -1,8 +1,7 @@
 {
-  capabilities: [
-    "FileFilter",
-    "DirFilter"
-  ],
+  id: "modsru",
+  version: 9,
+  capabilities: ["FileFilter"],
   conf: {
     general: {
       fixAftercolonWordsCase: false,
@@ -11,15 +10,20 @@
         "items",
         "original"
       ],
-      modsWordStyle: [
-        "mod",
-        "modification",
-        "hybrid"
-      ],
+      modsWordStyle: {
+        type: "enum",
+        default: "mod",
+        values: ["mod", "modification", "hybrid"],
+        reloadType: "Resource"
+      },
       removeEllipsis: false,
       removeModInTatar: true,
       translateJokes: true,
-      translateModNames: false,
+      translateModNames: {
+        type: "boolean",
+        default: false,
+        reloadType: "Resource"
+      },
       translateModNamesOnAdvancements: false,
       yourModloader: [
         "any",
@@ -41,7 +45,5 @@
       modMenuEasterEggsFormalStyle: true,
       shortResetAllForControlling: true
     }
-  },
-  id: "modsru",
-  version: 13
+  }
 }
