@@ -1,49 +1,97 @@
 {
-  id: "modsru",
-  version: 9,
-  capabilities: ["FileFilter"],
-  conf: {
-    general: {
-      fixAftercolonWordsCase: false,
-      modsCreativeTabsStyle: [
-        "modItems",
-        "items",
-        "original"
-      ],
-      modsWordStyle: {
-        type: "enum",
-        default: "mod",
-        values: ["mod", "modification", "hybrid"],
-        reloadType: "Resource"
+  "id": "modsru",
+  "version": 13,
+  "capabilities": ["FileFilter"],
+  "conf": {
+    "general": {
+      "fixAftercolonWordsCase": {
+        "type": "boolean",
+        "default": false,
+        "reloadType": "Resource"
       },
-      removeEllipsis: false,
-      removeModInTatar: true,
-      translateJokes: true,
-      translateModNames: {
-        type: "boolean",
-        default: false,
-        reloadType: "Resource"
+      "modsCreativeTabsStyle": {
+        "type": "enum",
+        "default": "modItems",
+        "values": ["modItems", "items", "original"],
+        "reloadType": "Resource"
       },
-      translateModNamesOnAdvancements: false,
-      yourModloader: [
-        "any",
-        "neoforgeOrForge",
-        "fabricOrQuilt"
-      ]
+      "modsWordStyle": {
+        "type": "enum",
+        "default": "mod",
+        "values": ["mod", "modification", "hybrid"],
+        "reloadType": "Resource"
+      },
+      "removeEllipsis": {
+        "type": "boolean",
+        "default": false,
+        "reloadType": "Resource"
+      },
+      "removeModInTatar": {
+        "type": "boolean",
+        "default": true,
+        "reloadType": "Resource"
+      },
+      "translateJokes": {
+        "type": "boolean",
+        "default": true,
+        "reloadType": "Resource"
+      },
+      "translateModNames": {
+        "type": "boolean",
+        "default": false,
+        "reloadType": "Resource"
+      },
+      "translateModNamesOnAdvancements": {
+        "type": "boolean",
+        "default": false,
+        "reloadType": "Resource"
+      },
+      "yourModloader": {
+        "type": "enum",
+        "default": "any",
+        "values": ["any", "neoforgeOrForge", "fabricOrQuilt"],
+        "reloadType": "Resource"
+      }
     },
-    specific: {
-      cobblemon: {
-        apricornInsteadOfAbrizholud: false,
-        naturaInsteadOfKharakter: false,
-        pokemonNamesTranslationStyle: [
-          "translit",
-          "sienduk"
-        ]
+    "specific": {
+      "cobblemon": {
+        "apricornInsteadOfAbrizholud": {
+          "type": "boolean",
+          "default": false,
+          "reloadType": "Resource"
+        },
+        "naturaInsteadOfKharakter": {
+          "type": "boolean",
+          "default": false,
+          "reloadType": "Resource"
+        },
+        "pokemonNamesTranslationStyle": {
+          "type": "enum",
+          "default": "translit",
+          "values": ["translit", "sienduk"],
+          "reloadType": "Resource"
+        }
       },
-      enigmaticLegacyColoredTabs: true,
-      materialEnergyInsteadOfMatterEnergy: false,
-      modMenuEasterEggsFormalStyle: true,
-      shortResetAllForControlling: true
+      "enigmaticLegacyColoredTabs": {
+        "type": "boolean",
+        "default": true,
+        "reloadType": "Resource"
+      },
+      "materialEnergyInsteadOfMatterEnergy": {
+        "type": "boolean",
+        "default": false,
+        "reloadType": "Resource"
+      },
+      "modMenuEasterEggsFormalStyle": {
+        "type": "boolean",
+        "default": true,
+        "reloadType": "Resource"
+      },
+      "shortResetAllForControlling": {
+        "type": "boolean",
+        "default": true,
+        "reloadType": "Resource"
+      }
     }
   }
 }
