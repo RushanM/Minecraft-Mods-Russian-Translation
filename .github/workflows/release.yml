@@ -1,4 +1,4 @@
-name: Мастер выпусков
+name: Выпуск
 
 on:
   workflow_dispatch:
