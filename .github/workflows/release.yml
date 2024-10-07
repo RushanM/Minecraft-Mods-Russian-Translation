@@ -2,6 +2,15 @@ name: Мастер выпусков
 
 on:
   workflow_dispatch:
+    inputs:
+      publish_to_modrinth_and_curseforge:
+        description: 'Публиковать на Modrinth и CurseForge?'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
 
 jobs:
   build:
@@ -157,7 +166,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Публикация на Modrinth и CurseForge
       - name: Публикация 1.7 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -186,6 +197,7 @@ jobs:
           game-version-filter: releases
 
       - name: Публикация 1.12 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -214,6 +226,7 @@ jobs:
           game-version-filter: releases
 
       - name: Публикация 1.16 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -244,6 +257,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.17 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -275,6 +289,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.18 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -306,6 +321,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.19 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -338,6 +354,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.20 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
@@ -370,6 +387,7 @@ jobs:
             respackopts(optional){modrinth:TiF5QWZY}{curseforge:430090}#(ignore:github)
 
       - name: Публикация 1.21 на CurseForge и Modrinth
+        if: github.event.inputs.publish_to_modrinth_and_curseforge == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           curseforge-id: 374772
