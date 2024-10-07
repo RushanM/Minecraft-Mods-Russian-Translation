@@ -75,6 +75,21 @@ jobs:
             fs.appendFileSync(process.env.GITHUB_OUTPUT, `next_version=${next_version}\n`);
             fs.appendFileSync(process.env.GITHUB_OUTPUT, `prev_version=${prev_version}\n`);
 
+      - name: Загрузка предыдущих данных
+        if: steps.get_latest_release.outputs.prev_version != '0'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Загрузка previous_proofread_dates.json из выпуска b${{ steps.get_latest_release.outputs.prev_version }}"
+          release_url="https://api.github.com/repos/${{ github.repository }}/releases/tags/b${{ steps.get_latest_release.outputs.prev_version }}"
+          asset_url=$(curl -s -H "Authorization: token $GITHUB_TOKEN" $release_url | jq -r '.assets[] | select(.name=="current_proofread_dates.json") | .url')
+          if [ -n "$asset_url" ]; then
+            echo "Найдены данные предыдущего релиза."
+            curl -L -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/octet-stream" "$asset_url" -o previous_proofread_dates.json
+          else
+            echo "Данные предыдущего релиза не найдены."
+          fi
+
       - name: Генерация списка модов для каждого выпуска
         id: generate_mod_list
         env:
@@ -100,16 +115,26 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Установка GitHub CLI
+        run: |
+          sudo apt-get install -y git
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | \
+          sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) \
+          signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] \
+          https://cli.github.com/packages stable main" | \
+          sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install gh -y
+
       - name: Создание выпуска
         id: create_release
         uses: softprops/action-gh-release@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          body: |
-            Это автоматический бета-выпуск всех переводов проекта. В отличие от альфа-выпуска, качество переводов здесь значительно выше, поскольку включены только те переводы, чьё качество достигло достаточно высокого уровня. Однако из-за этого охваченный спектр модов, сборок модов и наборов шейдеров значительно уже.
-            
-            Этот выпуск является кандидатом на релиз. Если вы заметили какие-либо ошибки в этом выпуске, пожалуйста, сообщите об этом в разделе issues или отправьте сообщение [Дефлекте](https://github.com/RushanM)!
+          body: ${{ steps.generate_mod_list.outputs.release_body }}
           tag_name: b${{ steps.get_latest_release.outputs.next_version }}
           name: Бета-выпуск №${{ steps.get_latest_release.outputs.next_version }}
           draft: false
@@ -120,9 +145,15 @@ jobs:
           for version in 1.7 1.12 1.16 1.17 1.18 1.19 1.20 1.21; do
             asset_path="./Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip"
             asset_name="Rus-For-Mods-$version-B${{ steps.get_latest_release.outputs.next_version }}.zip"
-            echo "Uploading $asset_name"
+            echo "Загрузка $asset_name"
             gh release upload b${{ steps.get_latest_release.outputs.next_version }} "$asset_path" --clobber
           done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Загрузка данных proofread_dates в выпуск
+        run: |
+          gh release upload b${{ steps.get_latest_release.outputs.next_version }} current_proofread_dates.json --clobber
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
