@@ -25,12 +25,6 @@
 
 | Версия игры | Статус перевода | Идентификатор | Мод | Версия мода |
 | --- | --- | --- | --- | --- |
-| 1.12 | Не готов | ancientwarfare | Ancient Warfare 2 | 2.7.0.1038 |
-| 1.12 | Не готов | cfm | MrCrayfish's Furniture Mod | 6.3.2 |
-| 1.12 | Не готов | ic2 | Industrial Craft | 2-2.8.222-ex112 |
-| 1.12 | Не готов | minecraft | Industrial Craft | 2-2.8.222-ex112 |
-| 1.12 | Не готов | mod_lavacow | Fish's Undead Rising | 1.4.2 |
-| 1.12 | Не готов | tconstruct | Tinkers' Construct | 1.0 |
 | 1.12 | Переведён | aiotbotania | AIOT Botania | 0.7.1 |
 | 1.12 | Переведён | aqua_creepers | Aqua Creepers! | 1.2.3 |
 | 1.12 | Переведён | aroma1997core | Aroma1997Core | 2.0.0.2 b167 |
