@@ -352,7 +352,7 @@
 <summary>Раскрыть список</summary>
 <br>
 
-<center>
+<div align=center>
 <a href="https://github.com/RushanM/Minecraft-Mods-Russian-Translation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=RushanM/Minecraft-Mods-Russian-Translation" />
 </a>
@@ -360,6 +360,7 @@
 Участники проекта на Гитхабе
 
 <small>(плашка сделана с помощью [contrib.rocks](https://contrib.rocks))</small>
+</div>
 
 * [**Дефлекта**](https://github.com/RushanM): большая часть переводов
 * [**1the_same_cat1**](https://www.curseforge.com/members/1the_same_cat1): предложил переводы модов
