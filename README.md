@@ -422,6 +422,7 @@
 * * [Tips](https://modrinth.com/mod/tips)
 * * [Trading Post](https://modrinth.com/mod/trading-post)
 * [**gri3229**](https://github.com/gri3229): предложил перевод мода [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
+* [**Quinella**](https://steamcommunity.com/id/sasaikudasai221/): предложил перевод мода [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric)
 * [**Nord_Act**](https://github.com/NordAct): помогла с API
 * [**devin**](https://github.com/intergrav): создал дизайн [кнопок](https://github.com/intergrav/devins-badges), используемых в этом readme-файле
 
