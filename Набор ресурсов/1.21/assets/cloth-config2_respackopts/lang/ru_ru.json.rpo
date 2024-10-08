@@ -1,0 +1,25 @@
+{
+"expansions": {
+        // Исходный вид
+        "modWord": "(
+            modsru.modsWordStyle == 'mod' ? '§aмод§r' :
+            modsru.modsWordStyle == 'modification' ? '§aмодификация§r' :
+            '§aМод/Модификация§r'
+        )",
+        // Во множественном числе и родительном падеже
+        "modWordMnozhestvenRoditelPadezh": "(
+            modsru.modsWordStyle == 'mod' ? '§aмодов§r' :
+            modsru.modsWordStyle == 'modification' ? '§aмодификаций§r' :
+            '§aмодов/модификаций§r'
+        )",
+        // В единственном числе и родительном падеже
+        "modWordRoditelPadezh": "(
+            modsru.modsWordStyle == 'mod' ? '§aмода§r' :
+            modsru.modsWordStyle == 'modification' ? '§aмодификации§r' :
+            '§aмода/модификации§r'
+        )",
+        "modNameTranslation": "(
+            modsru.translateModNames ? '«Настройки Клофа»' : 'Cloth Config'
+        )"
+    }
+}

@@ -1,11 +1,4 @@
 {
-  "expansions": {
-    "content": "{
-      baseLang = fromJson(readString('assets/cloth-config2/lang/ru_ru_base.json'));
-      styleLang = fromJson(readString('assets/cloth-config2/lang/' || modsru.general.modsWordStyle || '.json'));
-      modNamesLang = fromJson(readString('assets/cloth-config2/lang/' || (modsru.general.translateModNames ? 'modnames_ru.json' : 'modnames_en.json')));
-      mergedLang = assign(baseLang, styleLang, modNamesLang);
-      toJson(mergedLang);
-    }"
-  }
+  "condition": "russianTranslationPack.enableCustomTranslations",
+  "fallback": "assets/cloth-config2_respackopts/lang/ru_ru.json"
 }

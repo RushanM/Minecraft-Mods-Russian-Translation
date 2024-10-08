@@ -96,6 +96,8 @@
     "modmenu.summaryTranslation.caffeineconfig": "Предоставляет систему отключения применения миксинов",
     "modmenu.summaryTranslation.capes": "Мод, который позволяет использовать плащи различных сервисов",
     "modmenu.summaryTranslation.catalogue": "Современное меню модов, совместимое с любыми загрузчиками модов",
+    "rpo.modsru.enableCustomTranslations": "Включить настраиваемые переводы",
+    "rpo.tooltip.modsru.enableCustomTranslations": "Включите, чтобы использовать настраиваемые переводы",
     "modmenu.summaryTranslation.continuity": "Мод для Fabric, который позволяет наборам ресурсам, использующим форматы OptiFine, работать без OptiFine",
     "modmenu.summaryTranslation.controlify": "Самый продвинутый мод для добавления поддержки контроллера в Minecraft",
     "modmenu.summaryTranslation.cubes-without-borders": "Мод, который позволяет играть в Minecraft в безрамочном полноэкранном окне",
