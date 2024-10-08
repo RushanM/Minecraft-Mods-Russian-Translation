@@ -4,49 +4,16 @@
   capabilities: ["FileFilter", "DirFilter"],
   conf: {
     general: {
-      enableCustomTranslations: {
-        type: "boolean",
-        default: true
-      },
-      fixAftercolonWordsCase: {
-        type: "boolean",
-        default: false
-      },
-      modsCreativeTabsStyle: {
-        type: "enum",
-        default: "modItems",
-        values: ["modItems", "items", "original"]
-      },
-      modsWordStyle: {
-        type: "enum",
-        default: "mod",
-        values: ["mod", "modification", "hybrid"]
-      },
-      removeEllipsis: {
-        type: "boolean",
-        default: false
-      },
-      removeModInTatar: {
-        type: "boolean",
-        default: true
-      },
-      translateJokes: {
-        type: "boolean",
-        default: true
-      },
-      translateModNames: {
-        type: "boolean",
-        default: false
-      },
-      translateModNamesOnAdvancements: {
-        type: "boolean",
-        default: false
-      },
-      yourModloader: {
-        type: "enum",
-        default: "any",
-        values: ["any", "neoforgeOrForge", "fabricOrQuilt"]
-      }
+      enableCustomTranslations: true,
+      fixAftercolonWordsCase: false,
+      modsCreativeTabsStyle: ["modItems", "items", "original"],
+      modsWordStyle: ["mod", "modification", "hybrid"],
+      removeEllipsis: false,
+      removeModInTatar: true,
+      translateJokes: true,
+      translateModNames: false,
+      translateModNamesOnAdvancements: false,
+      yourModloader: ["any", "neoforgeOrForge", "fabricOrQuilt"]
     },
     specific: {
       cobblemon: {
