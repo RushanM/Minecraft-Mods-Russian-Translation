@@ -1,4 +1,4 @@
 {
-  "condition": "modsru.enableCustomTranslations",
+  "condition": "modsru.general.enableCustomTranslations",
   "fallback": "assets/cloth-config2_respackopts/lang/ru_ru.json"
 }
