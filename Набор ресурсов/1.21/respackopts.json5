@@ -6,7 +6,7 @@
     general: {
       fixAftercolonWordsCase: {
         type: "boolean",
-        default: false,
+        default: false
       },
       modsCreativeTabsStyle: {
         type: "enum",
@@ -74,10 +74,12 @@
       },
       shortResetAllForControlling: {
         type: "boolean",
-        default: true,
+        default: true
+      },
       enableCustomTranslations: {
         type: "boolean",
         default: true // Default to true to enable custom translations when Respackopts is installed
+      }
     }
   }
 }
