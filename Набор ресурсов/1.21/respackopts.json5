@@ -4,6 +4,10 @@
   capabilities: ["FileFilter"],
   conf: {
     general: {
+      enableCustomTranslations: {
+        type: "boolean",
+        default: true // По умолчанию true на случаи, когда Respackopts установлен
+      },
       fixAftercolonWordsCase: {
         type: "boolean",
         default: false
@@ -75,10 +79,6 @@
       shortResetAllForControlling: {
         type: "boolean",
         default: true
-      },
-      enableCustomTranslations: {
-        type: "boolean",
-        default: true // Default to true to enable custom translations when Respackopts is installed
       }
     }
   }
