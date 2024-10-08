@@ -1,12 +1,12 @@
 {
   id: "modsru",
   version: 13,
-  capabilities: ["FileFilter"],
+  capabilities: ["FileFilter", "DirFilter"],
   conf: {
     general: {
       enableCustomTranslations: {
         type: "boolean",
-        default: true // По умолчанию true на случаи, когда Respackopts установлен
+        default: true
       },
       fixAftercolonWordsCase: {
         type: "boolean",

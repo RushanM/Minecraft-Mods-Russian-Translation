@@ -43,9 +43,9 @@
     "text.cloth-config.restart_required": "Требуется перезапуск",
     "text.cloth-config.restart_required_sub": "Одна из изменённых вами настроек требует перезапуска Minecraft. Продолжить?",
     "text.cloth-config.save_and_done": "Сохранить и выйти",
-    "text.cloth-config.testing.1": "Вы разработчик ${modWordMnozhestvenRoditelPadezh} и хотите использовать %1$s? Перейдите на %2$s, чтобы начать. Также, если вам вдруг захотелось, вы можете %3$s.",
+    "text.cloth-config.testing.1": "Вы разработчик ${modWordPluralGenitive} и хотите использовать %1$s? Перейдите на %2$s, чтобы начать. Также, если вам вдруг захотелось, вы можете %3$s.",
     "text.cloth-config.testing.2": "вики по ${modNameTranslation}",
     "text.cloth-config.testing.3": "нажать здесь, чтобы открыть файл настроек Minecraft",
     "text.cloth.reset_value": "Сбросить",
-    "title.cloth-config.config": "Настройки ${modWordRoditelPadezh} ${modNameTranslation}"
+    "title.cloth-config.config": "Настройки ${modWordSingularGenitive} ${modNameTranslation}"
 }
